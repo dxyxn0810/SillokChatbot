@@ -21,7 +21,36 @@ SillokChatbot/
 
 ## 🔧 설치 및 환경 설정
 
-### 1. 필수 패키지 설치
+### 1. 가상환경 생성 및 활성화
+
+먼저 프로젝트 폴더에서 Python 가상환경을 생성합니다.
+
+#### Windows (PowerShell)
+
+```bash
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+```
+
+#### Windows (Command Prompt)
+
+```bash
+python -m venv venv
+venv\Scripts\activate.bat
+```
+
+#### macOS / Linux
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+가상환경이 활성화되면 프롬프트 앞에 `(venv)` 표시가 나타납니다.
+
+### 2. 필수 패키지 설치
+
+가상환경 활성화 후 다음 명령어를 실행합니다:
 
 ```bash
 pip install -r requirements.txt
