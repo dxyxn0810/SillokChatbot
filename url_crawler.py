@@ -17,7 +17,6 @@
   python sillok_crawler.py                  # 기본 실행 (output.txt에 저장)
   python sillok_crawler.py -o links.txt     # 출력 파일 지정
   python sillok_crawler.py --delay 1.0      # 요청 간 딜레이 1초
-  python sillok_crawler.py --resume         # 중간 저장 파일에서 재개
 """
 
 import urllib.request
@@ -186,27 +185,10 @@ def get_article_ids_for_month(month_id: str, delay: float) -> list[str]:
 
 
 # ===========================================================================
-# 진행 상황 저장/로드 (재시작 지원)
-# ===========================================================================
-
-PROGRESS_FILE = "sillok_progress.json"
-
-def load_progress() -> dict:
-    if os.path.exists(PROGRESS_FILE):
-        with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"completed_months": [], "articles": []}
-
-def save_progress(progress: dict):
-    with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
-        json.dump(progress, f, ensure_ascii=False, indent=2)
-
-
-# ===========================================================================
 # 메인 크롤러
 # ===========================================================================
 
-def crawl(output_file: str, delay: float, resume: bool):
+def crawl(output_file: str, delay: float):
     """
     전체 기사 URL을 수집하여 'url' 폴더 내에 왕별로 txt 파일을 생성합니다.
     """
@@ -222,14 +204,7 @@ def crawl(output_file: str, delay: float, resume: bool):
     print(f"요청 딜레이: {delay}초")
     print("-" * 40)
 
-    # 1. 진행 상황 로드 (재개 모드)
-    progress = load_progress() if (resume and os.path.exists(PROGRESS_FILE)) else {"completed_months": []}
-    completed_months = set(progress.get("completed_months", []))
-    
-    if resume:
-        print(f"[*] 재개 모드: 기존 완료된 월 {len(completed_months)}개를 제외하고 시작합니다.")
-
-    # 2. 왕 코드 목록 수집
+    # 1. 왕 코드 목록 수집
     try:
         king_codes = get_king_codes()
     except RuntimeError as e:
@@ -238,13 +213,9 @@ def crawl(output_file: str, delay: float, resume: bool):
 
     time.sleep(delay)
     total_articles_count = 0
-    
-    start_king_code = "kia"
-    start_index = king_codes.index(start_king_code)
-    target_king_codes = king_codes[start_index:]
 
-    # 3. 왕별 루프
-    for king_idx, king_code in enumerate(target_king_codes, 1):
+    # 2. 왕별 루프
+    for king_idx, king_code in enumerate(king_codes, 1):
         king_name = KING_MAP.get(king_code, king_code)
         print(f"\n[{king_idx}/{len(king_codes)}] {king_name}({king_code}) 데이터 수집 중...")
         
@@ -256,9 +227,6 @@ def crawl(output_file: str, delay: float, resume: bool):
         
         for month_idx, month_id in enumerate(month_ids, 1):
             # 이미 처리된 월이면 건너뜀
-            if month_id in completed_months:
-                # 건너뛰더라도 기존 파일에 이미 있을 것이므로 로그만 출력
-                continue
             
             # 해당 월의 모든 기사 ID 가져오기
             article_ids = get_article_ids_for_month(month_id, delay)
@@ -267,15 +235,11 @@ def crawl(output_file: str, delay: float, resume: bool):
             king_articles.extend(month_urls)
             total_articles_count += len(month_urls)
             
-            print(f"  - {month_id}: {len(month_urls)}건 수집 (현재 왕 누적: {len(king_articles)}건)")
-            
-            # 진행 상태 업데이트 및 저장
-            completed_months.add(month_id)
-            save_progress({"completed_months": list(completed_months)})
+            print(f"  - {month_id}: {len(month_urls)}건 수집 (현재 누적 기사: {len(king_articles)}건)")
             
             time.sleep(delay)
         
-        # 4. 한 왕의 수집이 끝나면 파일로 저장
+        # 3. 한 왕의 수집이 끝나면 파일로 저장
         if king_articles:
             file_path = os.path.join(target_dir, f"{king_name}_url.txt")
             # 'a' 모드를 사용하여 재개 시에도 기존 데이터 뒤에 붙여넣음
@@ -286,7 +250,7 @@ def crawl(output_file: str, delay: float, resume: bool):
             if month_ids: # 월 목록은 있는데 새로 수집된 기사가 없는 경우 (이미 다 완료된 경우 등)
                 print(f"  >> {king_name}은(는) 새로 추가된 기사가 없습니다.")
 
-    # 5. 최종 종료 처리
+    # 4. 최종 종료 처리
     end_time = datetime.now()
     elapsed = end_time - start_time
     
@@ -296,10 +260,6 @@ def crawl(output_file: str, delay: float, resume: bool):
     print(f"저장 위치: ./{target_dir}/")
     print(f"총 소요 시간: {elapsed}")
     print(f"{'='*60}")
-    
-    if os.path.exists(PROGRESS_FILE):
-        os.remove(PROGRESS_FILE)
-        print(f"[*] 임시 진행 파일({PROGRESS_FILE})을 삭제했습니다.")
 
 
 # ===========================================================================
@@ -321,15 +281,9 @@ if __name__ == "__main__":
         default=0.5,
         help="요청 사이 대기 시간(초). 기본값: 0.5. 서버 차단 우려 시 1.0 이상 권장."
     )
-    parser.add_argument(
-        "--resume",
-        action="store_true",
-        help=f"중단된 작업을 {PROGRESS_FILE}에서 재개"
-    )
     args = parser.parse_args()
     
     crawl(
         output_file=args.output,
-        delay=args.delay,
-        resume=args.resume,
+        delay=args.delay
     )
