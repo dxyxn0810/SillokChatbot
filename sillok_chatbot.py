@@ -35,7 +35,6 @@ TOP_CHUNKS      = 8        # 프롬프트에 삽입할 최대 청크 수
 MAX_CHUNK_CHARS = 600      # 청크당 최대 글자 수 (토큰 절약)
 os.environ["OPENAI_API_KEY"] = "sk-proj-..."
 
-
 # ── 프롬프트 ─────────────────────────────────────────────────────────────────
 
 def build_system_prompt(persona: dict) -> str:
@@ -142,8 +141,6 @@ class SillokChatbot:
         self.history = []
 
         print(f"\nSillokChatbot: 인터뷰 준비가 완료되었습니다!")
-        print(f"  💡 거시적 질문 예: \"{king}의 주요 업적을 알려주세요\"")
-        print(f"  💡 미시적 질문 예: \"{king} 28년 9월에 있었던 일을 알려주세요\"\n")
 
     def chat(self, user_input: str) -> str:
         if self.persona is None:
@@ -166,8 +163,7 @@ class SillokChatbot:
             f"{qinfo['day']}일"                                if qinfo["day"]   else "",
         ]
         date_info = " / ".join(p for p in date_parts if p)
-        print(f"  🔍 [{query_type}] 검색 완료: {len(chunks)}건"
-              + (f" | 날짜 필터: {date_info}" if date_info else ""))
+        # print(f"  🔍 [{query_type}] 검색 완료: {len(chunks)}건" + (f" | 날짜 필터: {date_info}" if date_info else ""))
 
         # 2. 메시지 구성
         user_msg = build_user_message(user_input, chunks, qinfo)
@@ -209,7 +205,7 @@ def main():
 
     bot = SillokChatbot()
 
-    print("\nSillokChatbot: 안녕하세요, 조선 시대 인물 중 인터뷰를 하고 싶은 사람이 있다면 입력해주세요.")
+    print("\nSillokChatbot: 안녕하세요, 조선 시대 왕 중 인터뷰를 하고 싶은 사람이 있다면 입력해주세요.")
     print("(인물 변경: '/인물 이름'  |  종료: 'q')\n")
 
     while True:
