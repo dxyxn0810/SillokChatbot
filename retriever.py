@@ -50,6 +50,21 @@ for code, name in KING_MAP.items():
     NAME_TO_CODES.setdefault(name, []).append(code)
 
 
+def _index_key(king_name: str) -> str:
+    """
+    인덱스 파일명에 쓸 ASCII 키를 반환한다.
+    한글 파일명은 Windows에서 인코딩 오류를 일으키므로
+    대표 king_code(예: 세종 → kda)를 파일명으로 사용한다.
+    코드가 없는 비왕 인물은 이름을 그대로 사용(영문/숫자만 허용).
+    """
+    codes = NAME_TO_CODES.get(king_name)
+    if codes:
+        return codes[0]                          # 예: "kda"
+    # 비왕 인물: 한글 제거 후 영숫자만 남김
+    ascii_key = re.sub(r"[^a-zA-Z0-9_]", "_", king_name)
+    return ascii_key or "unknown"
+
+
 # ── 임베딩 모델 (싱글톤) ─────────────────────────────────────────────────────
 _embed_model: Optional[SentenceTransformer] = None
 
@@ -109,6 +124,7 @@ def build_king_index(king_name: str) -> tuple[faiss.Index, list[dict]]:
     INDEX_DIR.mkdir(parents=True, exist_ok=True)
     model   = get_embed_model()
     records = _records_from_data(king_name)
+    key     = _index_key(king_name)   # ASCII 파일명 키
 
     if not records:
         print(f"  ⚠️  {king_name} 데이터 없음 → 빈 인덱스 생성")
@@ -125,18 +141,20 @@ def build_king_index(king_name: str) -> tuple[faiss.Index, list[dict]]:
     index = faiss.IndexFlatIP(dim)
     index.add(vecs)
 
-    faiss.write_index(index, str(INDEX_DIR / f"{king_name}.faiss"))
-    with open(INDEX_DIR / f"{king_name}_meta.pkl", "wb") as f:
+    # 파일명에 한글 대신 ASCII king_code 사용 (Windows 인코딩 오류 방지)
+    faiss.write_index(index, str(INDEX_DIR / f"{key}.faiss"))
+    with open(INDEX_DIR / f"{key}_meta.pkl", "wb") as f:
         pickle.dump(records, f)
 
-    print(f"  ✅ {king_name} 인덱스 저장 완료")
+    print(f"  ✅ {king_name} 인덱스 저장 완료 ({key}.faiss)")
     return index, records
 
 
 def load_king_index(king_name: str) -> tuple[faiss.Index | None, list[dict]]:
     """저장된 왕 인덱스를 로드한다. 없으면 (None, []) 반환."""
-    idx_path  = INDEX_DIR / f"{king_name}.faiss"
-    meta_path = INDEX_DIR / f"{king_name}_meta.pkl"
+    key       = _index_key(king_name)
+    idx_path  = INDEX_DIR / f"{key}.faiss"
+    meta_path = INDEX_DIR / f"{key}_meta.pkl"
     if not idx_path.exists() or not meta_path.exists():
         return None, []
     index = faiss.read_index(str(idx_path))

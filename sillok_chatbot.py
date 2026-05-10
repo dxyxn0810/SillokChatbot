@@ -33,7 +33,7 @@ MAX_TOKENS      = 1024
 MAX_HISTORY     = 10       # 대화 히스토리 최대 턴
 TOP_CHUNKS      = 8        # 프롬프트에 삽입할 최대 청크 수
 MAX_CHUNK_CHARS = 600      # 청크당 최대 글자 수 (토큰 절약)
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-proj-..."
 
 
 # ── 프롬프트 ─────────────────────────────────────────────────────────────────
