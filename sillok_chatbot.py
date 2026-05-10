@@ -33,7 +33,7 @@ MAX_TOKENS      = 1024
 MAX_HISTORY     = 10       # 대화 히스토리 최대 턴
 TOP_CHUNKS      = 8        # 프롬프트에 삽입할 최대 청크 수
 MAX_CHUNK_CHARS = 600      # 청크당 최대 글자 수 (토큰 절약)
-os.environ["OPENAI_API_KEY"] = "sk-proj-..."
+os.environ["OPENAI_API_KEY"] = "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"
 
 # ── 프롬프트 ─────────────────────────────────────────────────────────────────
 
@@ -205,7 +205,7 @@ def main():
 
     bot = SillokChatbot()
 
-    print("\nSillokChatbot: 안녕하세요, 조선 시대 왕 중 인터뷰를 하고 싶은 사람이 있다면 입력해주세요.")
+    print("\nSillokChatbot: 안녕하세요, 조선 시대 왕 중 인터뷰를 하고 싶은 분이 있다면 입력해주세요.")
     print("(인물 변경: '/인물 이름'  |  종료: 'q')\n")
 
     while True:
