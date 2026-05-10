@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wnb_112">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>宣祖修正實錄 十二年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1579" type="서기"/>
+        <dateOccured type="간지">己卯</dateOccured>
+        <dateOccured type="재위연도">선조 [수정실록] 12</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 188</dateOccured>
+        <dateOccured type="중국연호">명 만력(萬歷) 7</dateOccured>
+        <dateOccured type="단기">3912</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">명 만력(萬歷) 7</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 十二年(1579)<annotation type="원주">
+          <noteContent>【己卯, <index num="1092535_0" type="연호">萬曆</index>七年】</noteContent>
+        </annotation>
+      </paragraph>
+    </content>
+  </text>
+  <level3 id="wnb_112020">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11202001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 2月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-02-01L0" type="서기"/>
+            <dateOccured type="간지">丙子</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 2월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 2월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 2월 1일</dateOccured>
+            <dateOccured type="단기">3912년 2월 1일</dateOccured>
+            <dateOccured type="일본연호">년 2월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 2월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11202001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>영의정 홍섬이 사직하니 면직시키고 박순을 영의정으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-02-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔丙子/領議政<index num="1092536_0" ref="M_0060988" sort="K" type="이름">洪暹</index>謝病免, 以<index num="1092537_0" ref="M_0047524" sort="K" type="이름">朴淳</index>爲領議政。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11202001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>유성룡을 동부승지로, 심의겸을 함경도 관찰사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-02-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以直提學<index num="1092538_0" ref="M_0003630" sort="K" type="이름">柳成龍</index>陞拜同副承旨, <index num="1092539_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>爲<index num="1092540_0" sort="K" type="지명">咸鏡道</index>觀察使。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11202001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>병조 판서 이희검의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-02-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○兵曹判書<index num="1092541_0" ref="M_0005515" sort="K" type="이름">李希儉</index>卒。 <index num="1092542_0" ref="M_0005515" sort="K" type="이름">希儉</index>拙直無機變, 遇事不避夷險。 初不爲人知, 久在常調, 晩登臺省。 以<index num="1092543_0" ref="M_0006805" sort="K" type="이름">仁順王后</index>守陵官, 加階進用, 官至六卿。 平生不主朋黨, 不近權豪, 雖士望未洽, 而識者有取焉。 子<index num="1092544_0" ref="M_0041479" sort="K" type="이름">睟光</index>爲名卿。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11202001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>유전·박대립·이식에게 관직을 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1579-02-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1092545_0" ref="M_0039291" sort="K" type="이름">柳㙉</index>爲禮曹判書, <index num="1092546_0" ref="M_0002444" sort="K" type="이름">朴大立</index>爲刑曹判書, <index num="1092547_0" ref="M_0015506" sort="K" type="이름">李栻</index>爲司憲府大司憲, 皆以舊臣, 與新進合, 上特命加階。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11202001_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>흰 무지개가 두 번이나 태양을 가로지르다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1579-02-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>과학-천기(天氣)</subjectClass>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>변란-정변(政變)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○白虹貫日者再, 上下敎求言。 司憲府上箚, 論時弊, 分辨東西是非, 始顯斥<index num="1092548_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>爲小人, <index num="1092549_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>、<index num="1092550_0" ref="M_0001342" sort="K" type="이름">金繼輝</index>爲邪黨。 於是, 新生之論爭起。 <index num="1092551_0" ref="M_0015506" sort="K" type="이름">李栻</index>、<index num="1092552_0" ref="M_0061434" sort="K" type="이름">洪渾</index>、<index num="1092553_0" ref="M_0005976" sort="K" type="이름">鄭熙績</index>等爲臺諫, 尤主張奮發, 欲按定國是, 以防西人再入之路。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11202001_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>강관 김우옹이 경연에서 붕당을 화합시키는 일로 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1579-02-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>왕실-경연(經筵)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>변란-정변(政變)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○講官<index num="1092554_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>於經筵啓曰: "朝廷之事, 臣實踈賤, 不知首末。 但見近年以來, 頗不和平, 搢紳之中, 自分彼此。 以此, 徒爲紛囂, 不能盡心國事矣。 蓋緣<index num="1092555_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>與<index num="1092556_0" ref="M_0002063" sort="K" type="이름">金孝元</index>, 分朋排斥而然也。 此二人臣不能詳知, 但以事迹觀之, 則<index num="1092557_0" ref="M_0002063" sort="K" type="이름">孝元</index>爲人, 頗欲激濁揚淸, 別白是非, 以扶持淸論; <index num="1092558_0" ref="M_0003244" sort="K" type="이름">義謙</index>亦是勳舊, 頗有扶持士林之功。 自古外戚得志, 必貽禍邦家。 如<index num="1092559_0" ref="M_0003244" sort="K" type="이름">義謙</index>者亦鮮矣, 此亦不可棄之人也。 但以外戚干政, 頗有氣勢, 所以爲非也。 二人相斥, 朝廷不靖, 大臣乃爲兩出之策, 欲以鎭定。 而厥後引入非人, 凡不喜<index num="1092560_0" ref="M_0002063" sort="K" type="이름">孝元</index>者, 不問賢愚, 引之如恐不及, 以此, 政治濁亂。 但<index num="1092561_0" ref="M_0002063" sort="K" type="이름">孝元</index>亦有輕率之病, 處事豈能盡善? <index num="1092562_0" ref="M_0003244" sort="K" type="이름">義謙</index>實有功勞, 別無爲惡之事, 故搢紳間議論不同。 其是<index num="1092563_0" ref="M_0002063" sort="K" type="이름">孝元</index>者, 豈皆知其爲人? 只以其事言之耳。 是<index num="1092564_0" ref="M_0003244" sort="K" type="이름">義謙</index>者, 亦或以所見而言之, 豈必皆非乎? 雖其所見有是非, 不可以此, 斷其人之善惡也。 必有黨護所親, 排斥異己之心, 然後爲不善人矣。 自上須以大公至正之道, 建極於上, 坦懷待物, 不分彼此, 善者善之; 不善者不善之而已, 則群臣皆當囿於範圍之內矣。" <index num="1092565_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>初與<index num="1092566_0" ref="M_0000646" sort="K" type="이름">李珥</index>同志, 欲調劑兩間, 故此時論議猶未變。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112040">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 四月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 四月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11204001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 4月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-04-01L0" type="서기"/>
+            <dateOccured type="간지">丙子</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 4월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 4월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 4월 1일</dateOccured>
+            <dateOccured type="단기">3912년 4월 1일</dateOccured>
+            <dateOccured type="일본연호">년 4월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 4월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11204001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>성혼을 사헌부 지평으로 삼았으나 사양하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-04-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔丙子/以<index num="1092567_0" ref="M_0062151" sort="K" type="이름">成渾</index>爲司憲府持平。 特下旨召之, <index num="1092568_0" ref="M_0062151" sort="K" type="이름">渾</index>辭不至。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11204001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이수·장세량의 일로 김우굉을 파직하고, 송응개 등을 체직하라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-04-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="480면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>사법-재판(裁判)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命罷承旨<index num="1092569_0" ref="M_0015289" sort="K" type="이름">金宇宏</index>, 遞<index num="1092570_0" ref="M_0003022" sort="K" type="이름">宋應漑</index>等。 時, <index num="1092571_0" ref="M_0015649" sort="K" type="이름">李銖</index>之獄久不成。 <index num="1092572_0" ref="M_0017248" sort="K" type="이름">張世良</index>受刑二十餘次不服, 殆死而終不服。 或譬之曰: "汝罪不重, 若告以接置, 則可以免死, 何苦而忍杖乎?" <index num="1092573_0" ref="M_0017248" sort="K" type="이름">世良</index>曰: "我豈不知服則生; 不服則死乎? 但實無是事, 安忍誣人於死地乎?" 時人欲<index num="1092574_0" ref="M_0015649" sort="K" type="이름">銖</index>獄必成, 凡獄中訴冤書疏, 皆遏而不上。 士大夫少有言及獄事無實者, 皆斥爲邪黨。 <index num="1092575_0" ref="M_0002224" sort="K" type="이름">盧守愼</index>以久在<index num="1092576_0" sort="K" type="지명">珍島</index>, 故邑人多出入其門, 亦聞其冤, 私與人言, 而不敢救解。 判義禁<index num="1092577_0" ref="M_0005860" sort="K" type="이름">鄭惟吉</index>心傷其冤, 而不敢言, 言于朝廷曰: "<index num="1092578_0" ref="M_0017248" sort="K" type="이름">張世良</index>若非義俠, 必是愚人。 何苦而爲<index num="1092579_0" ref="M_0015649" sort="K" type="이름">李銖</index>死乎?" 上以<index num="1092580_0" ref="M_0017248" sort="K" type="이름">世良</index>久不服, 疑其有冤, 問于三公。 三公畏時論, 不敢對, 上特命釋之。 政院繳奏不下, 凡四啓, 而上怒, 命罷入直承旨<index num="1092581_0" ref="M_0015289" sort="K" type="이름">金宇宏</index>、<index num="1092582_0" ref="M_0003022" sort="K" type="이름">宋應漑</index>, 而盡遞都承旨<index num="1092583_0" ref="M_0004454" sort="K" type="이름">李山海</index>等, 闕中震動。 明日, 兩司、玉堂爭論不得, 大臣亦請勿罷承旨, 皆不從。 <index num="1092584_0" ref="M_0015649" sort="K" type="이름">銖</index>、<index num="1092585_0" ref="M_0017248" sort="K" type="이름">世良</index>竟得釋。 <index num="1092586_0" ref="M_0017248" sort="K" type="이름">世良</index>接置賂物, 不過爲干證, 法當三訊而止, 必也死罪, 乃以輸情爲限。 而時人必欲取服<index num="1092587_0" ref="M_0017248" sort="K" type="이름">世良</index>, 以逮三<index num="1092588_0" sort="K" type="이름">尹</index>, 而不念殺不辜之爲非義。 由是, 人情不平。 上御朝講言: "臺論持<index num="1092589_0" sort="K" type="이름">尹</index>家事已甚<index num="1092590_0" ref="M_0003630" sort="K" type="이름">柳成龍</index>曰: "<index num="1092591_0" sort="K" type="이름">尹</index>家事, 閭巷傳言, 國人所同憤。 <index num="1092592_0" ref="M_0001648" sort="K" type="이름">金誠一</index>偶發於榻前, 無一毫害<index num="1092593_0" sort="K" type="이름">尹</index>家意也。" <index num="1092594_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>曰: "<index num="1092595_0" ref="M_0015649" sort="K" type="이름">銖</index>事不過一贓獄, 雖或開釋, 有何大關? <index num="1092596_0" sort="K" type="이름">尹</index>家之罪, 自是偏執己見, 撓亂朝政爲重, 固不必執此事, 以示已甚也。 今日是非纔定, 國論歸一, 所恃聖心堅定耳。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11204001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김우옹이 경연에서 군사와 백성들의 곤궁한 정상에 대해 진언하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-04-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="481면"/>
+            </source>
+            <subjectClass>왕실-경연(經筵)</subjectClass>
+            <subjectClass>군사-군정(軍政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1092597_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>於經筵, 極言兵民困窮之狀。 <index num="1092598_0" ref="M_0002224" sort="K" type="이름">盧守愼</index>曰: "諸人但言民瘼, 不言救之之策, 爲未可。" <index num="1092599_0" ref="M_0015695" sort="K" type="이름">宇顒</index>曰: "列鎭雖不能盡擇人, 若兵、水使得人, 則列鎭庶可畏戢也。" <index num="1092600_0" ref="M_0002224" sort="K" type="이름">守愼</index>曰: "兵、水使差遣時, 其人廉鄙, 誠難知也。" 人譏其糊塗。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112050">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 五月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 五月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11205001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 5月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-05-01L0" type="서기"/>
+            <dateOccured type="간지">乙巳</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 5월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 5월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 5월 1일</dateOccured>
+            <dateOccured type="단기">3912년 5월 1일</dateOccured>
+            <dateOccured type="일본연호">년 5월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 5월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11205001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>목첨을 도승지로, 허엽을 경상 감사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="481면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔乙巳/以<index num="1092601_0" ref="M_0045915" sort="K" type="이름">睦詹</index>爲都承旨, 以舊臣特被擢用。 以<index num="1092602_0" ref="M_0060372" sort="K" type="이름">許曄</index>爲<index num="1092603_0" sort="K" type="지명">慶尙</index>監司。 時, <index num="1092604_0" sort="K" type="지명">慶尙</index>監司<index num="1092605_0" ref="M_0005914" sort="K" type="이름">鄭芝衍</index>, 以病遞。 上以嶺南爲劇地, 而有<index num="1092606_0" sort="J" type="지명">倭人</index>之虞, 命大臣擧資兼文武者。 大臣以<index num="1092607_0" ref="M_0015486" sort="K" type="이름">具鳳齡</index>、<index num="1092608_0" ref="M_0000646" sort="K" type="이름">李珥</index>、<index num="1092609_0" ref="M_0001965" sort="K" type="이름">金添慶</index>、<index num="1092610_0" ref="M_0004454" sort="K" type="이름">李山海</index>、<index num="1092611_0" ref="M_0060372" sort="K" type="이름">許曄</index>應命。 上以<index num="1092612_0" ref="M_0060372" sort="K" type="이름">曄</index>年高舊臣, 爲先用之。 <index num="1092613_0" ref="M_0060372" sort="K" type="이름">曄</index>無撫馭之才, 文簿堆積, 不能句判, 士民喧訴, 不能聽理。 惟吏輩是任, 政事乖亂, 民甚怨之。 蓋是時, 國家熙平, 專以文名取人, 才能之人無所遇以表見。 大臣不以藻鑑, 權衡自任, 其應旨特擧, 壹循時望, 如此薦, 是也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11205001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>지중추부사 백인걸이 당시의 폐단을 진달하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="481면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>과학-천기(天氣)</subjectClass>
+            <subjectClass>변란-정변(政變)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○知中樞府事<index num="1092614_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>上疏陳時弊, 首言: "載賜祿米, 聖恩殊絶, 老臣感激, 不忍默默。" 先陳祖宗以來召變之大者, 後及當今致災之由。 又言: "殿下英明才氣, 首出庶物, 而治效蔑聞, 請陳殿下受病之根。" 又言: "臣前侍經席, 老耄昏暗, 不能仰答聖問。 退而聞同時入侍之言, 聖敎有曰: ‘今時朝廷何如?’ 此正老臣所欲言者也。 臣在草野竊聞, 搢紳間有<index num="1092615_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>、<index num="1092616_0" ref="M_0002063" sort="K" type="이름">金孝元</index>分黨之說。 當時大臣與近臣, 議作鎭定之計, 啓於經席, 兩出補外。 然朝著不靖, 浮論雲興, 稍涉於<index num="1092617_0" ref="M_0003244" sort="K" type="이름">義謙</index>儕輩者, 指謂之西; 稍涉於<index num="1092618_0" ref="M_0002063" sort="K" type="이름">孝元</index>儕輩者, 指謂之東, 朝士皆入指目之中。 駁論一人, 則衆必譁然曰: ‘某是某黨, 故被駁也。’ 薦用一人, 則衆必譁然曰: ‘某是某黨, 故被薦也。’ 無不指以爲私情, 而臺諫、銓曹亦不能措手足。 爲士類者, 雖欲慷慨論劾, 而恐上疑其相攻擊也; 下疑其斥己也。 東、西二字, 是亡國之禍胎也。 士之特立者, 世不多見, 而庸碌闒茸者, 亦不可用, 則今日可用之士, 皆入東、西之目矣。 其所謂東者, 多指年少新進, 而勇於謀國; 銳於爲善, 此當扶植裁成, 而不可排抑, 以沮其志也。 所謂西者, 多指先輩舊臣,<annotation type="원주">
+                <noteContent>【此所謂舊臣, 在卽位初則爲新進者也。 年齡雖舊, 而新政選用, 以激揚建立爲務, 與<index num="1092619_0" ref="M_0003894" sort="K" type="이름">尹</index>、<index num="1092620_0" ref="M_0014563" sort="A" sort2="당" type="이름">李</index>之時, 浮沈庸碌之舊臣自別。】</noteContent>
+              </annotation>而經歷變故, 力去權奸, 功在士林, 此亦眷待刮磨, 而不可踈斥, 以失其心也。 以東攻西不可; 以西攻東亦不可。 若欲盡斥東西則是空殿下之朝廷也。 必須調和, 使之同寅協恭者, 其君子之論乎!" 又言: "<index num="1092621_0" ref="M_0005993" sort="K" type="이름">趙光祖</index>功德, 宜從祀<index num="1092622_0" sort="K" type="지명">文廟</index>。" 又言: "飭邊備、修軍政、繕器械。" 論西北<index num="1092623_0" sort="K" type="지명">山戎</index>, 南邊海寇事, 疏凡數千言。 上優答之, 令政院謄書一本入內, 備覽焉。 初, <index num="1092624_0" ref="M_0002733" sort="K" type="이름">仁傑</index>以入對, 不盡所懷, 欲具疏畢陳, 累月覃思, 不能止, 心氣勞耗, 疾益甚。 子弟諫止不聽, 逾年疏始成。 旣上, 意氣舒展, 自以爲, 畢志無憾也。 時論方指西人爲邪, 而<index num="1092625_0" ref="M_0002733" sort="K" type="이름">仁傑</index>破東西, 惟賢是用爲言。 三司、政院交章論其疏辭之失, 以老耄顚錯目之矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11205001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이이를 대사간으로 삼았으나 사직하고 동·서인의 화합에 대해 상소하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="481면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>역사-고사(故事)</subjectClass>
+            <subjectClass>변란-정변(政變)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1092626_0" ref="M_0000646" sort="K" type="이름">李珥</index>爲大司諫, <index num="1092627_0" ref="M_0000646" sort="K" type="이름">珥</index>辭不至。 其疏曰:</paragraph>
+            <paragraph align="center">
+              <quotation>今之時事可言者多矣。 姑先以最切而急者論之。 臣聞, 自古國家之所恃而維持者, 士林也。 士林者, 有國之元氣也。 士林盛而和, 則其國治; 士林激而分, 則其國亂; 士林敗而盡, 則其國亡。 已然之跡, 昭載簡策。 昔者<index num="1092628_0" ref="M_0033585" sort="A" type="이름">帝舜</index>命九官、十二牧, 而濟濟相讓; <index num="1092629_0" ref="M_0033705" sort="A" sort2="주" type="이름">周武</index>之臣三千, 同心同德。 此則士林之盛而和者也。 <index num="1092630_0" sort="K" type="지명">唐</index>之<index num="1092631_0" ref="M_0009921" sort="A" sort2="당" type="이름">李德裕</index>、<index num="1092632_0" ref="M_0033196" sort="A" type="이름">牛僧孺</index>, 分朋結黨, 相傾相軋; <index num="1092633_0" sort="K" type="지명">宋</index>之群賢, 以類相從, 論議不協, 遂有洛黨、川黨、朔黨之名。 此則士林之激而分者也。 <index num="1092634_0" sort="K" type="지명">東漢</index>黨錮之禍, 忠賢殆無孑遺; <index num="1092635_0" sort="K" type="지명">唐</index>末<index num="1092636_0" sort="K" type="지명">白馬</index>之慘, 淸流悉葬魚腹; 前<index num="1092637_0" sort="K" type="지명">宋</index>
+                <index num="1092638_0" ref="M_0013353" sort="A" type="이름">章</index>、<index num="1092639_0" ref="M_0033938" sort="A" sort2="당" type="이름">蔡</index>之徒, 悉逐<index num="1092640_0" ref="M_0033233" sort="A" sort2="송" type="이름">元祐</index>諸賢, 而至立姦黨之碑。 此則士林之敗而盡者也。 其治亂興亡莫不由之, 此, 理勢之必至者也。 今之士林, 可謂和乎? 臣未能知也。 但聞, 東西之說, 爲今大祟, 此, 臣之所深憂也。 臣請循本而言之。 <index num="1092641_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>出於戚畹之中, 稍有向善之心。 癸亥年間, <index num="1092642_0" ref="M_0014563" sort="K" type="이름">李樑</index>方禍士林, 而<index num="1092643_0" ref="M_0003244" sort="K" type="이름">義謙</index>有救護之力, 故士林許其爲人。 許<index num="1092644_0" ref="M_0003244" sort="K" type="이름">義謙</index>者, 是, 前輩士類也。 <index num="1092645_0" ref="M_0002063" sort="K" type="이름">金孝元</index>少時雖無檢束, 而後乃改行爲善。 及其從仕也, 律身淸苦, 不畏强禦, 且喜汲引名流, 故士林多推重焉。 許<index num="1092646_0" ref="M_0002063" sort="K" type="이름">孝元</index>者, 是, 後輩士類也。 前後輩, 皆是士類也。 若使不相疑阻, 同心戮力, 以奬王室, 則不亦善乎? 只緣<index num="1092647_0" ref="M_0003244" sort="K" type="이름">義謙</index>不忘<index num="1092648_0" ref="M_0002063" sort="K" type="이름">孝元</index>少時之愆, 屢遏淸選之望, 而<index num="1092649_0" ref="M_0002063" sort="K" type="이름">孝元</index>聲名日盛, 竟不得抑。 及<index num="1092650_0" ref="M_0002063" sort="K" type="이름">孝元</index>得路之後, 又<index num="1092651_0" ref="M_0017250" sort="K" type="이름">議義</index>謙之失以爲: "戇且氣粗, 不可柄用。" 夫<index num="1092652_0" ref="M_0003244" sort="K" type="이름">義謙</index>之短<index num="1092653_0" ref="M_0002063" sort="K" type="이름">孝元</index>, 初非有宿怨可銜也。 只執嫉惡之心, 而不知變通耳。 <index num="1092654_0" ref="M_0002063" sort="K" type="이름">孝元</index>之疵<index num="1092655_0" ref="M_0003244" sort="K" type="이름">義謙</index>, 亦非必欲復其私憾也, 適其所見如此耳。 於是, 傍觀者不能深究其實, 而泛說二人交惡, 加以不侫之徒, 交構兩間, 顯有分黨之漸。 乙亥年間, 臣在玉堂, 目見其然, 深知異日醞釀成禍, 乃見大臣<index num="1092656_0" ref="M_0002224" sort="K" type="이름">盧守愼</index>曰: "兩人皆士類, 非有黑白、邪正之可辨, 亦非眞成嫌隙, 必欲相害也。 只是流言交亂, 使朝著不靖, 若此不已, 恐成大患。 不若姑出兩人於外, 而消融彼此以鎭之也。" <index num="1092657_0" ref="M_0002224" sort="K" type="이름">守愼</index>之意, 適與臣合, 達于經席。 兩出之後意謂, 庶幾帖息, 而臣以病退。 時事之誤, 末如之何, 而議者始以出<index num="1092658_0" ref="M_0002063" sort="K" type="이름">孝元</index>爲臣之咎矣。 於是, 喜事造言者, 做出東西之說, 勿論公私得失, 而只以許<index num="1092659_0" ref="M_0003244" sort="K" type="이름">義謙</index>者, 謂之西人; 以許<index num="1092660_0" ref="M_0002063" sort="K" type="이름">孝元</index>者, 謂之東人, 朝紳苟非庸碌闒茸, 則皆入東西指目之中。 嗟乎! 前輩士類, 非盡趨附於<index num="1092661_0" ref="M_0003244" sort="K" type="이름">義謙也</index>, 亦多有以淸望自樹立者。 只是<index num="1092662_0" ref="M_0003244" sort="K" type="이름">義謙</index>自附士類, 而乃以前輩, 皆諉之<index num="1092663_0" ref="M_0003244" sort="K" type="이름">義謙</index>門客, 則爲前輩者, 不亦辱乎? 後輩士類, 亦非盡服<index num="1092664_0" ref="M_0002063" sort="K" type="이름">孝元</index>, 而推爲領首也, 亦多有以學問名世, 得<index num="1092665_0" ref="M_0002063" sort="K" type="이름">孝元</index>之向慕者。 而乃以後輩, 擧諉之<index num="1092666_0" ref="M_0002063" sort="K" type="이름">孝元</index>門客, 則爲後輩者, 不亦羞乎? 東西之名一出, 而朝著無全人, 其亦可謂士林之厄會歟? 乙亥之所謂西人者, 旣失人心, 而厥後所謂東人者, 漸主淸論, 不待相角, 而勝負已決矣。 去年<index num="1092667_0" ref="M_0001648" sort="K" type="이름">金誠一</index>於經席, 言及貪汚行賂, 而被殿下猝問其名, 乃不敢隱, 直啓所聞。 輾轉發露, 爰及受者, 臺諫不得已始劾三<index num="1092668_0" sort="K" type="이름">尹</index>, 當初非必有心於排擊三<index num="1092669_0" sort="K" type="이름">尹</index>也。 偶發之言, 馴至於此, 但東西立名, 爲日已久, 而受賂之家, 適指三<index num="1092670_0" sort="K" type="이름">尹</index>, 故傍觀者皆以爲, 有意於攻西, 而不主於按贓也。 其時諫長<index num="1092671_0" ref="M_0001342" sort="K" type="이름">金繼輝</index>, 受暇在鄕, 不能深察曲折, 只聽道路之言, 且以東人攻西爲不韙, 故馳來獨啓, 言甚失中, 過不知裁, 惹起士類之憤激, 遂致大擾。 臣於平日, 嘗以<index num="1092672_0" ref="M_0001342" sort="K" type="이름">繼輝</index>爲解事可仗, 而一朝踈脫至此, 眞是咄咄怪事矣。 旣然之後, 若有心公見明者, 鎭定兩間, 和平其議, 則庶或可以安靖。 而大臣僅能自守, 而力不能鎭物, 其餘卿大夫緘默容身, 苟避鋒鋩, 一任後輩之所爲。 於是, 群憾蝟起; 衆怒如火, 議論日激, 無所裁制。 譬如萬斛之船, 泛于風濤, 無一人操柁, 而人競擊楫, 罔有攸屆, 臣未知厥終之如何也。 日者憲府之疏, 始敢顯斥西人爲邪黨, 以<index num="1092673_0" ref="M_0003244" sort="K" type="이름">義謙</index>爲小人, 議論之激, 極於此矣。 <index num="1092674_0" ref="M_0002063" sort="K" type="이름">孝元</index>, 臣所知也; <index num="1092675_0" ref="M_0003244" sort="K" type="이름">義謙</index>亦臣所知也。 論其人則皆可用也, 語其失則可謂兩非也。 若必以一人爲君子; 一人爲小人, 則臣未之信也。 何謂兩非? 自古外戚之預政, 鮮有不敗者。 雖以<index num="1092676_0" ref="M_0031265" sort="A" sort2="한" type="이름">竇武</index>、<index num="1092677_0" ref="M_0013266" sort="A" sort2="당" type="이름">長孫無忌</index>之忠賢, 尙且膏身砧斧, <index num="1092678_0" ref="M_0003244" sort="K" type="이름">義謙</index>何人, 敢以外戚, 欲預政事乎? 此則<index num="1092679_0" ref="M_0003244" sort="K" type="이름">義謙</index>之非也。 自古君子, 鮮不避嫌。 苽田納履; 李下正冠, 古人所戒也。 只有聖人、大賢, 能不避嫌焉。 <index num="1092680_0" ref="M_0002063" sort="K" type="이름">孝元</index>何人, 乃不避嫌, 而直詆<index num="1092681_0" ref="M_0003244" sort="K" type="이름">義謙</index>, 自取報怨之名, 以來交構之舌乎? 此則<index num="1092682_0" ref="M_0002063" sort="K" type="이름">孝元</index>之非也。 臣爲是論, 故今之議者, 皆譏臣以爲: "含糊兩可, 是非不明。" 曰: "天下安有兩是、兩非乎?" 臣謹應之曰: "天下之爭是非者, 亦有兩是焉。 <index num="1092683_0" ref="M_0033705" sort="A" sort2="주" type="이름">武王</index>伐<index num="1092684_0" ref="M_0032356" sort="A" sort2="은" type="이름">紂</index>, <index num="1092685_0" ref="M_0020789" sort="A" sort2="은" type="이름">伯夷</index>叩馬, 此乃兩是也。 亦有兩非焉。 戰國諸侯之兵爭, 此乃兩非也。 若使<index num="1092686_0" ref="M_0003244" sort="K" type="이름">義謙</index>誤國, 東人攻之, 則是非不喩, 而自定矣。 何費辭說之有? 今則不然, 國家治亂、生民休戚, 不係於<index num="1092687_0" ref="M_0003244" sort="K" type="이름">義謙</index>之進退, 而明目張膽, 必欲置之於小人之域者, 果何見歟? 竊觀, 時輩之意不過欲防<index num="1092688_0" ref="M_0003244" sort="K" type="이름">義謙</index>再入之路, 只加以小人之名然後, 乃以和平處之。 故其言曰: "是非不可不明白; 處置不可不和平。" 此言似矣, 而實無要領。 何以言之? 夫所謂調劑者, 兩皆士類, 故可以相和矣。 若是一爲君子; 一爲小人, 則水火不同器; 薰蕕非一叢, 自古及今, 安有君子、小人, 同調共劑, 而能保其國者乎? 是故, 善善而不能用; 惡惡而不能去, <index num="1092689_0" ref="M_0030135" sort="A" sort2="춘추·郭" type="이름">郭公</index>之所以亡也。 <index num="1092690_0" type="서명">《傳》</index>曰: "見不賢而不能遠, 過也。 惟仁人, 放流之, 逬諸四裔, 不與同中國。" 古之君子待小人, 若是其嚴者, 何也? 小人在朝, 必能禍人國家故也。 今之言者, 若以<index num="1092691_0" ref="M_0003244" sort="K" type="이름">義謙</index>爲小人, 則當盡言不諱, 列數過惡, 亟加以流放竄殛之典可也。 今乃隱忍容護, 是事殿下, 不以直也。 若以<index num="1092692_0" ref="M_0003244" sort="K" type="이름">義謙</index>爲非小人, 則啓達之辭, 不可不愼, 而無故加人以惡名, 不度虛實, 惟快於意, 是事殿下, 不以誠也。 言者進退無據, 必居一於是矣。 <index num="1092693_0" ref="M_0003244" sort="K" type="이름">義謙</index>則已矣, 收司之律, 延及善士。 至如<index num="1092694_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>, 忠淸剛介, 一心憂國。 雖量狹見偏, 病於執滯, 而論其氣節, 則實是一鶚之比, 而乃加以黨邪之名, 使不能接迹於朝列焉。 <index num="1092695_0" ref="M_0001342" sort="K" type="이름">金繼輝</index>淸白自守, 明練典故。 雖不重不威, 病於輕率, 而論其才哭, 則求之列卿, 未見其比, 而亦加以簧鼓之誚, 使之退遯於荒野焉。 <index num="1092696_0" ref="M_0034177" sort="K" type="이름">韓脩</index>恬靜老成, 好善愛士。 雖才智、學識, 有所未裕, 而論其心行, 則實是一國之良士也。 而一言見忤, 毁謗沓至, 使之杜門不出焉。 不論餘事, 只此三人之退, 已爲可惜。 況其吹毛覓疵, 使受汚名者, 不止於此乎? 時輩之意, 亦非欲盡斥西人也。 只欲强定國是, 必使一時之人皆曰: "東正西邪。" 然後, 乃收而爵之, 使不抗己, 此其素計也。 雖然, 一簞食、一豆羹, 蹴爾而與, 乞人不屑也, 安有名爲士類, 而甘受惡名, 俯就羈絏者乎? 待之不以士類, 而乃以退去, 爲彼之過, 則是閉之門, 而使之入也。 乙亥西人固失於前, 而今者東人之失, 殆過於乙亥, 尤而效之, 不亦已甚乎? 噫! 朝廷者, 殿下之朝廷也; 官爵者, 國家之公器也。 當以公論, 盡用一時之人才。 <index num="1092697_0" ref="M_0003244" sort="K" type="이름">義謙</index>、<index num="1092698_0" ref="M_0002063" sort="K" type="이름">孝元</index>, 兩人是非之辨, 有何大關, 而乃以此, 定其擧錯乎? 況國是之定, 尤不可以口舌爭也。 人心之所同然者, 謂之公論; 公論之所在, 謂之國是。 國是者, 一國之人不謀, 而同是者也。 非誘以利; 非怵以威, 而三尺童子, 亦知其是者, 此乃國是也。 今之所謂國是, 則異於此, 只是主論者, 自以爲是, 而聞之者, 或從或違, 至於愚夫、愚婦, 亦皆半是半非, 終無歸一之期, 豈可家喩戶說, 而强定之乎? 不過益人之疑, 而反生厲階耳。 作此論者, 非士類之意盡然也。 其間非無深識遠慮之士, 而迫於衆議, 不能自主張焉, 士論之橫潰, 何時可定乎? 嗚呼! 才難之歎, 三代猶然。 矧今衰世, 人物眇然, 屈指無幾, 雖使一時士類, 不問前後, 同寅協恭, 共濟國事, 猶恐時危力綿, 不克有成。 況復限以東西, 甄別流品, 必欲捨彼取此者乎? 一自蚌鷸相持之後, 前瞻後顧、左牽右掣, 猶恐彼之圖我, 故更無餘力可及他務。 夫是之故, 仕路混濁、紀綱日頹, 生民日殘, 而莫之匡救。 假使東得君子之名; 西得小人之名, 其亦何補於四方之蹙蹙乎? 臣之所憂, 不止於此。 自古士類, 多敗少成。 雖使持論粹然, 一出於正, 尙被小人加以朋黨之名, 誅竄相繼。 況今士類, 處事失中, 讒間易乘, 安知後日之禍, 不兆於今日之擧乎? 若有小人, 窺伺機會, 巧生網打之計, 則臣恐激而分者, 變爲敗而盡, 而國隨而亡也。 乙巳大小尹之分黨, 初不與於士林, 而尙被小人之嫁禍。 況今士林相激, 而寧免士林之禍乎? 幸今聖明當宁, 洞燭情狀, 而且無小人可乘之機, 故雖致紛拏, 而不生大禍, 此則聖主之惠也。 雖然, 及今聖明之朝, 不施解紛之策, 而任其傾軋, 無有了期, 則後日潰廱之痛, 必甚於今日, 而非所以貽厥燕翼之謀也。 殿下其不欲朝廷安靖, 國論歸一乎? 夫朝廷之靖、國論之一, 亦有二道焉。 君子得君, 諫行言聽, 百僚奉職, 莫有異論則是, 以善歸一者也; 小人得君, 謀行計遂, 箝制人口, 道路以目則是, 以不善歸一者也。 當今聖明, 如日中天, 固無小人售奸者矣, 又不聞君子之行道者也。 小人旣不售奸; 君子又不行道, 則宜乎人各有言, 囂囂不定也。 近來國家, 無世不被小人之禍, 以不善歸一者則聞見已熟矣。 殿下何不一使君子得志, 使斯世得見以善歸一之盛事乎? 伏願殿下, 以臣此疏, 下于公卿大臣, 使之商議。 如以臣言爲是, 則下敎朝紳, 使之洗滌東西, 不復甄別。 惟賢、惟才則用之; 不賢、不才則舍之, 同朝之士擧皆一心徇國, 無復疑阻, 激濁揚淸, 整肅朝綱。 而其或偏主己見, 不從公議者, 則裁而抑之; 或有必欲交構, 造言生事者, 則斥而遠之。 夫如是則士林之幸, 可勝道哉? 如以臣言爲非, 則亦須顯加庇惡之罪, 永不收敍, 亦定國是之一助也。 臣非不知臣疏朝上, 醜詆之言夕集臣身。 而不容自已者, 伏念, 愚臣受國厚恩, 仰報無路, 假使摩頂放踵, 苟利國家, 臣亦不辭, 豈敢只欲保全虛名, 而不盡忠言, 以負殿下乎? 臣言略盡, 而又念, 國家自<index num="1092699_0" ref="M_0006441" sort="K" type="이름">韓明澮</index>以來, 外戚多執權柄, 蠧國病民, 爲世大患。 甚者至於魚肉士林, 故外戚二字, 士類視之, 有同豺虎、鬼蜮, 蹙頞相對者, 有年數矣。 如<index num="1092700_0" ref="M_0003244" sort="K" type="이름">義謙</index>者, 別無罪惡, 而一遭指玷, 年少士類, 望風排擯, 猶恐不及者, 豈盡希旨附會者乎? 良由名爲外戚, 故不復舒究, 而一槪非之耳。 由是觀之, 則雖洗滌東西, 悉加器使, 而若<index num="1092701_0" ref="M_0003244" sort="K" type="이름">義謙</index>則只當保其爵祿, 不可更居要地也。 因此垂訓後世, 使之永勿授外戚以權柄, 則亦聖明裕後之一道也。 嗚呼! 今日可言者, 豈止於此乎? 若其養兵休民, 預備不虞之策, 則臣雖在野, 爲國焦思, 或有愚見, 而決知汚踈之計, 不合時用, 故不敢瀆陳矣。</quotation>
+            </paragraph>
+            <paragraph align="center">上以疏辭不中, 命遞之。 <index num="1092702_0" ref="M_0000646" sort="K" type="이름">珥</index>疏上, 而時人見保合東西之說, 紛紜駁論矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11205001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>처사 성운의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="7장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="483면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○處士<index num="1092703_0" ref="M_0067245" sort="K" type="이름">成運</index>卒。 <index num="1092704_0" ref="M_0067245" sort="K" type="이름">運</index>字<index num="1092705_0" ref="M_0067245" sort="K" type="이름">健叔</index>, 學者稱<index num="1092706_0" ref="M_0067245" sort="K" type="이름">大谷先生</index>。 <index num="1092707_0" sort="K" type="이름">成氏</index>本京居盛族, <index num="1092708_0" ref="M_0067245" sort="K" type="이름">運</index>少有遯世之志, 纔登上庠, 卽棄擧業, 就<index num="1092709_0" sort="K" type="지명">報恩</index>妻鄕, 家焉。 距家數里, 有溪壑可玩, 築小室其中, 騎牛往來, 彈琴賦詩自娛。 樂善好義, 與物無競, 家食屢空, 晏如也。 <index num="1092710_0" ref="M_0057021" sort="K" type="이름">中廟</index>末, 用大臣薦, 再除官, 不就。 <index num="1092711_0" ref="M_0045847" sort="K" type="이름">明廟</index>末年, 擧經明行修, 驛召至京, 命引對, 辭以疾。 再遷官, 皆辭免以歸。 今上朝, 累除官, 辭不至。 超拜寺正, 特召者三, 皆辭。 上高其風節, 前後賜賚食物、衣資, 又賜鷹。 聞其病, 遣醫救藥。 及卒, 命官庀葬具。 堂姪<index num="1092712_0" ref="M_0062151" sort="K" type="이름">成渾</index>識其墓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>先生居林下四十年。 其所以杜門求志者, 必有其學; 謙退確守者, 必有其見玩, 而忘飢不知老之將至者, 必有其樂。 人但見考槃澗谷, 琴書自娛而已, 若其所存則鮮能窺測。 而平生不欲人稱述, 遺旨不可違, 故不敢請銘于立言之士云。</quotation>
+            </paragraph>
+            <paragraph align="center">
+              <index num="1092713_0" ref="M_0067245" sort="K" type="이름">運</index>不肯聚徒講學, 不與人談世故、言國事。 與<index num="1092714_0" ref="M_0055907" sort="K" type="이름">曺植</index>、成<index num="1092715_0" ref="M_0002912" sort="K" type="이름">悌元</index>相友善。 <index num="1092716_0" ref="M_0055907" sort="K" type="이름">植</index>慷慨, 累封章言時事; <index num="1092717_0" ref="M_0002912" sort="K" type="이름">悌元</index>有大才, 學識亦高, 而好放達。 當世以隱逸被徵召者, 擧不免世議, 惟<index num="1092718_0" ref="M_0067245" sort="K" type="이름">運</index>淡泊沖退, 無迹可尋, <index num="1092719_0" ref="M_0055907" sort="K" type="이름">植</index>每歎羡焉。 或言: "其兄<index num="1092720_0" ref="M_0067074" sort="K" type="이름">近</index>, 遭乙巳之禍, 蓋深有所創, 觀其詩文可見云。"<annotation type="원주">
+                <noteContent>【<index num="1092721_0" ref="M_0067245" sort="K" type="이름">運</index>無子, 養妻兄之子, 妻以兄之女, 使主後事。 <index num="1092722_0" ref="M_0000796" sort="K" type="이름">李滉</index>疑其學近於<index num="1092723_0" ref="M_0033356" sort="A" type="이름">老</index>、<index num="1092724_0" ref="M_0033453" sort="A" sort2="전국·楚" type="이름">莊</index>。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11205001_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이문형을 이조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="8장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="484면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1092725_0" ref="M_0004342" sort="K" type="이름">李文馨</index>爲吏曹判書。 <index num="1092726_0" ref="M_0004342" sort="K" type="이름">文馨</index>以舊臣俗流, 久失勢, 至是復被柄用。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11205001_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>하삼도·관북·관서에 재이가 일어나다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="8장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="484면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○是夏, 下三道大水崩山。 關北大旱, 田野枯槁。 關西大風拔木, 雨雹如匙筯。 命修<index num="1092727_0" sort="K" type="지명">熙政殿</index>, 增廣間架。 三司皆言: "災異非常, 不宜此時大興土木之役。" 上不從。 大臣入對言: "臺論不可峻拒。" 上曰: "近來臺論, 皆是不可從之事也。 余作<index num="1092728_0" sort="K" type="지명">阿房</index>、<index num="1092729_0" sort="K" type="지명">未央</index>則爭論可也。 今修一堂, 有何重費, 而紛紛若是耶?"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11205001_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김성일을 사헌부 장령으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">007</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="8장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="484면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1092730_0" ref="M_0001648" sort="K" type="이름">金誠一</index>爲司憲府掌令。 <index num="1092731_0" ref="M_0001648" sort="K" type="이름">誠一</index>在近侍, 論劾貴近, 人多畏憚, 稱爲殿上虎。 <index num="1092732_0" ref="M_0043125" sort="K" type="이름">河原君</index>
+              <index num="1092733_0" ref="M_0043125" sort="K" type="이름">珵</index>以王室至親, 淫湎縱恣, 侵害閭里。 <index num="1092734_0" ref="M_0001648" sort="K" type="이름">誠一</index>捕繫家奴重刑之, 宮家怨怒, 而不敢言。 上於筵中問: "近來廉恥道喪, 何爲而然耶?" <index num="1092735_0" ref="M_0001648" sort="K" type="이름">誠一</index>對曰: "有爲大臣而亦受人賄贈者, 廉恥之喪, 無足怪也。" 時相<index num="1092736_0" ref="M_0002224" sort="K" type="이름">盧守愼</index>在首席, 出而伏地曰: "<index num="1092737_0" ref="M_0001648" sort="K" type="이름">誠一</index>言, 是也。 臣之族人, 爲北方邊將, 以臣有老母, 寄以小貂裘, 臣受而遺母矣。" 上曰: "臺諫直言, 大臣引過, 可謂兩得之矣。 臣僚能相責勵如是, 則國事可爲也。" <index num="1092738_0" ref="M_0002224" sort="K" type="이름">守愼</index>亦厚謝<index num="1092739_0" ref="M_0001648" sort="K" type="이름">誠一</index>, 不以爲忤。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11205001_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>식년시를 보여 홍인상 등을 선발하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">008</docNo>
+            <date>
+              <dateOccured date="1579-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="8장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="484면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○式年試士, 取<index num="1092740_0" ref="M_0006650" sort="K" type="이름">洪麟祥</index>
+              <annotation type="원주">
+                <noteContent>【後改名<index num="1092741_0" ref="M_0006650" sort="K" type="이름">履祥</index>。】</noteContent>
+              </annotation>等三十四人。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 六月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 六月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11206001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 6月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-06-01L0" type="서기"/>
+            <dateOccured type="간지">乙亥</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 6월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 6월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 6월 1일</dateOccured>
+            <dateOccured type="단기">3912년 6월 1일</dateOccured>
+            <dateOccured type="일본연호">년 6월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 6월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11206001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>상이 조강에 나아가매, 집의 홍혼 등이 이이가 올린 상소에 대해 논란하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-06-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="8장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="484면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>왕실-경연(經筵)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+            <subjectClass>변란-정변(政變)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔乙亥/上御朝講。 執義<index num="1092742_0" ref="M_0061434" sort="K" type="이름">洪渾</index>、講官<index num="1092743_0" ref="M_0003630" sort="K" type="이름">柳成龍</index>。 <index num="1092744_0" ref="M_0035177" sort="K" type="이름">金瞻</index>等皆言: "<index num="1092745_0" ref="M_0000646" sort="K" type="이름">李珥</index>疏意, 大不是。" 上曰: "疏中所謂 ‘收司之律’ 何謂也?" <index num="1092746_0" ref="M_0061434" sort="K" type="이름">渾</index>、<index num="1092747_0" ref="M_0003630" sort="K" type="이름">成龍</index>曰: "此本<index num="1092748_0" ref="M_0032348" sort="A" sort2="전국·秦" type="이름">商鞅</index>法文, 今用於不當用處矣。" <index num="1092749_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>曰: "此出於朱子與<index num="1092750_0" ref="M_0033825" sort="A" sort2="송" type="이름">陳亮</index>書 ‘朋友亦且陷於收司連坐之律。’ 大槪言竝受其責耳。" <index num="1092751_0" ref="M_0003630" sort="K" type="이름">成龍</index>曰: "<index num="1092752_0" ref="M_0000646" sort="K" type="이름">珥</index>天資高, 看文亦多, 非不爲學。 但無涵養之力, 故言論處事, 多率易。 今此所論, 亦緣此病而發也。" <index num="1092753_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>曰: "<index num="1092754_0" ref="M_0000646" sort="K" type="이름">珥</index>言<index num="1092755_0" ref="M_0002063" sort="K" type="이름">金孝元</index>、<index num="1092756_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>之事及乙亥西人誤事、<index num="1092757_0" ref="M_0015649" sort="K" type="이름">李銖</index>獄事, 皆未爲不然。 且謂今日朝論有不當處, 亦或有之。 但須有是非之大分, 而<index num="1092758_0" ref="M_0000646" sort="K" type="이름">珥</index>言大無分別, 只言兩是、兩非’, 此其主意非矣。 若都不論是非, 而徒欲鎭靜, 則亦成混雜, 而不能鎭靜矣。" <index num="1092759_0" ref="M_0061434" sort="K" type="이름">渾</index>、<index num="1092760_0" ref="M_0003630" sort="K" type="이름">成龍</index>等因言: "當初西人等, 攻斥<index num="1092761_0" ref="M_0002063" sort="K" type="이름">孝元</index>之友。" 上問: "攻斥何人?" <index num="1092762_0" ref="M_0061434" sort="K" type="이름">渾</index>言: "當初擊去<index num="1092763_0" ref="M_0004529" sort="K" type="이름">李誠中</index>, 後因<index num="1092764_0" ref="M_0006284" sort="K" type="이름">崔慶昌</index>事, 逐去臺諫等事是也。" <index num="1092765_0" ref="M_0003630" sort="K" type="이름">成龍</index>曰: "<index num="1092766_0" ref="M_0006284" sort="K" type="이름">崔慶昌</index>爲人無檢束, 當國恤時, 畜娼妓爲妾, 當時臺諫論之。 西人等以其知友而庇之, 臺諫一時竝擬<index num="1092767_0" sort="K" type="지명">咸鏡</index>都事, 人心皆憤鬱矣。" <index num="1092768_0" ref="M_0006284" sort="K" type="이름">崔慶昌</index>, 詩人之有才者, 沈滯常調, 爲<index num="1092769_0" sort="K" type="지명">大同</index>察訪, 備邊司薦爲<index num="1092770_0" sort="K" type="지명">鍾城</index>府使。 <index num="1092771_0" sort="K" type="지명">鍾城</index>戍役之地, 而臺諫以陞級故, 兩司俱發, 論請改正。 上素知其才, 故論劾凡三朔, 終不允。 旣赴鎭, 又據他事論啓, 竟削資罷職。<annotation type="원주">
+                <noteContent>【<index num="1092772_0" ref="M_0006284" sort="K" type="이름">慶昌</index>本非黨目中人物, 而其時備局堂上, 多先輩, 故論駁特峻。】</noteContent>
+              </annotation>
+              <index num="1092773_0" ref="M_0015695" sort="K" type="이름">宇顒</index>曰: "<index num="1092774_0" ref="M_0000646" sort="K" type="이름">珥</index>疏所謂: ‘旣以君子小人分之, 而又欲調劑平和, 安有君子小人, 同調共劑之理?’ 此言則有理。 故臣意以爲, 但有公私是非而已, 欲以君子小人判之, 則其論未知果當也。 所謂小人者, 須是操弄濁亂, 妨賢病國, 貽害士林之事, 方可以此名歸之。 若<index num="1092775_0" ref="M_0003244" sort="K" type="이름">義謙</index>等雖其心術有不可知, 別無貽禍之事, 何可以此加之耶? 若顯是小人則萬無調劑之理, 若欲調劑則誤國之言也。 若然則如此者乃是小人, 牢籠一世之事, 豈有聖明在上, 而群臣乃敢如是? <index num="1092776_0" ref="M_0000646" sort="K" type="이름">珥</index>言大不是也。" <index num="1092777_0" ref="M_0035177" sort="K" type="이름">金瞻</index>曰: "<index num="1092778_0" ref="M_0000646" sort="K" type="이름">珥</index>之言固無他意, 其論則誤。 後人傅會幻出, 則恐成士林之禍。" <index num="1092779_0" ref="M_0003630" sort="K" type="이름">成龍</index>曰: "士林之禍, 必在人主不察之時。 今聖明在上, 洞察下情, 豈有此乎? 只是分形各立, 動懷疑慮, 不敢有爲, 而紀綱日就陵夷, 此爲可憂。" <index num="1092780_0" ref="M_0002521" sort="K" type="이름">朴素立</index>與<index num="1092781_0" ref="M_0061434" sort="K" type="이름">洪渾</index>, 皆極詆<index num="1092782_0" ref="M_0000646" sort="K" type="이름">珥</index>, 又以分君子小人之論爲是。 <index num="1092783_0" ref="M_0015695" sort="K" type="이름">宇顒</index>曰: "<index num="1092784_0" ref="M_0000646" sort="K" type="이름">珥</index>心只爲國也。 但其人全無莊重、沈密氣, 故慮事不審而然也。 以經幄腹心近臣, 身雖退處, 不敢忘憂世之心, 而傳聞不復致詳, 遂謂時論大偏; 國事大乖, 過懷憂憤, 而發其狂言爾。 自上極知其失言, 怒其狂言, 以爾論非是之意, 回諭爲佳。" 上不答。<annotation type="원주">
+                <noteContent>【是時, 附會時論者, 所論尤峻。 故<index num="1092785_0" ref="M_0002521" sort="K" type="이름">朴素立</index>、<index num="1092786_0" ref="M_0061434" sort="K" type="이름">洪渾</index>之言, 與<index num="1092787_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>微異。 <index num="1092788_0" ref="M_0004850" sort="K" type="이름">李元翼</index>末年謂人曰: "東西之初, <index num="1092789_0" ref="M_0000646" sort="K" type="이름">李珥</index>甚敗者, 以其中立兩間, 彼此受敵故也。"】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112070">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 七月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 七月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11207001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 7月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-07-01L0" type="서기"/>
+            <dateOccured type="간지">乙巳</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 7월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 7월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 7월 1일</dateOccured>
+            <dateOccured type="단기">3912년 7월 1일</dateOccured>
+            <dateOccured type="일본연호">년 7월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 7월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11207001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>양사가 백인걸의 상소로 인해 이이의 죄를 다스리라고 청하려 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-07-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="484면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>변란-정변(政變)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔乙巳/兩司將請治<index num="1092790_0" ref="M_0000646" sort="K" type="이름">李珥</index>之罪, 不果。 去年冬, <index num="1092791_0" ref="M_0000646" sort="K" type="이름">李珥</index>在<index num="1092792_0" sort="K" type="지명">坡州</index>, <index num="1092793_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>在京, 欲上疏極論時事, 兼進保合東西之策, 而恐其辭不達意, 通于<index num="1092794_0" ref="M_0000646" sort="K" type="이름">珥</index>, 使修潤之。 <index num="1092795_0" ref="M_0000646" sort="K" type="이름">珥</index>憐其憂國之誠, 乃依其言, 略爲一段文字以送。 至是, <index num="1092796_0" ref="M_0002733" sort="K" type="이름">仁傑</index>疏始上。 其論東西一款, 頗用<index num="1092797_0" ref="M_0000646" sort="K" type="이름">珥</index>文字, 而<index num="1092798_0" ref="M_0002733" sort="K" type="이름">仁傑</index>亦向人不諱。 <index num="1092799_0" ref="M_0060372" sort="K" type="이름">許曄</index>、<index num="1092800_0" ref="M_0004342" sort="K" type="이름">李文馨</index>往見<index num="1092801_0" ref="M_0002733" sort="K" type="이름">仁傑</index>曰: "論東西一款, 何以與<index num="1092802_0" ref="M_0000646" sort="K" type="이름">李珥</index>之疏, 意思相合耶?" <index num="1092803_0" ref="M_0002733" sort="K" type="이름">仁傑</index>以實對。 於是, 士類喧傳。 <index num="1092804_0" ref="M_0000646" sort="K" type="이름">珥</index>負時望, 東人意<index num="1092805_0" ref="M_0000646" sort="K" type="이름">珥</index>必扶東人之勢, 而及上疏, 譏誚東人, 東人大怒。 正言<index num="1092806_0" ref="M_0048192" sort="K" type="이름">宋應泂</index>, <index num="1092807_0" ref="M_0003022" sort="K" type="이름">應漑</index>之弟也, 輕躁無識。 雖以家門聲勢, 僅得入臺, 實無時望。 窺<index num="1092808_0" ref="M_0000646" sort="K" type="이름">珥</index>忤於士類, 欲乘機立功, 固結名流, 加於一層, 遂攘臂攻<index num="1092809_0" ref="M_0000646" sort="K" type="이름">珥</index>, 發論欲劾之。 大司諫<index num="1092810_0" ref="M_0001167" sort="K" type="이름">權德輿</index>等皆曰: "此事虛實未可知。 就令有之, 豈是罪過乎? 且休官退居之人, 亦難罪之也。" <index num="1092811_0" ref="M_0048192" sort="K" type="이름">應泂</index>固爭, <index num="1092812_0" ref="M_0001167" sort="K" type="이름">德輿</index>等終不從。 <index num="1092813_0" ref="M_0048192" sort="K" type="이름">應泂</index>避嫌啓曰: "<index num="1092814_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>上疏論時事一款, 乃<index num="1092815_0" ref="M_0000646" sort="K" type="이름">李珥</index>代述。 <index num="1092816_0" ref="M_0002733" sort="K" type="이름">仁傑</index>老耄, 不足責也。 <index num="1092817_0" ref="M_0000646" sort="K" type="이름">珥</index>以經幄之臣, 少負儒名, 退處山野, 凡有所懷, 直達無隱, 有何顧忌, 而乃敢匿迹回互, 隱然代述, 冀惑天聽? 實非直道事君之義。 故臣不勝駭怪, 欲劾其非, 以正人臣詭秘不直之失, 而爲同僚所沮抑, 臣之所見謬矣。 不可在職, 請遞斥。" <index num="1092818_0" ref="M_0001167" sort="K" type="이름">權德輿</index>等率同僚避嫌曰: "<index num="1092819_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>疏論時事一款, 果出於<index num="1092820_0" ref="M_0000646" sort="K" type="이름">李珥</index>之手, 則<index num="1092821_0" ref="M_0000646" sort="K" type="이름">珥</index>固不得辭其責。 但近來朝廷, 方以和平爲主, 若因此事, 必至於論劾, 則恐致囂囂益甚, 故與<index num="1092822_0" ref="M_0048192" sort="K" type="이름">宋應泂</index>, 論議不合。 且以匿迹詭秘責之, 臣等之意則不以爲然。 所見各異, 不可在職, 請遞斥。" 大司憲<index num="1092823_0" ref="M_0015506" sort="K" type="이름">李栻</index>等啓曰: "<index num="1092824_0" ref="M_0000646" sort="K" type="이름">李珥</index>代述事, 已發於經席, 臣等有不言之責, 請遞斥。"<annotation type="원주">
+                <noteContent>【前此, <index num="1092825_0" ref="M_0035177" sort="K" type="이름">金瞻</index>於經筵言: "<index num="1092826_0" ref="M_0000646" sort="K" type="이름">珥</index>踈脫, 乃代撰<index num="1092827_0" ref="M_0002733" sort="K" type="이름">仁傑</index>之疏, <index num="1092828_0" ref="M_0004342" sort="K" type="이름">李文馨</index>親聞<index num="1092829_0" ref="M_0002733" sort="K" type="이름">仁傑</index>之言云。"】</noteContent>
+              </annotation> 弘文館將處置兩司, 校理<index num="1092830_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>曰: "<index num="1092831_0" ref="M_0048192" sort="K" type="이름">宋應泂</index>欲乘時陷害君子, 必是小人也。 當竝與憲府而遞之。" 同僚不從。 <index num="1092832_0" ref="M_0015695" sort="K" type="이름">宇顒</index>亦極論不止曰: "此處置失宜, 則吾亦必得小人之名。 豈爲一<index num="1092833_0" ref="M_0048192" sort="K" type="이름">應泂</index>, 陷於小人之域乎?" 副提學<index num="1092834_0" ref="M_0004454" sort="K" type="이름">李山海</index>、應敎<index num="1092835_0" ref="M_0000519" sort="K" type="이름">李潑</index>依違兩間, 爲兩全之計。 <index num="1092836_0" ref="M_0004454" sort="K" type="이름">山海</index>草箚曰:</paragraph>
+            <paragraph align="center">
+              <quotation>傳播之言, 容或失實, <index num="1092837_0" ref="M_0048192" sort="K" type="이름">宋應洞</index>之所聞, 亦未知明白與否。 此, 不過自信所聞而已。 <index num="1092838_0" ref="M_0001167" sort="K" type="이름">德輿</index>等之不從, 實出於公心, <index num="1092839_0" ref="M_0048192" sort="K" type="이름">應泂</index>之欲劾, 雖有後弊, 而亦非有他意也。 <index num="1092840_0" ref="M_0015506" sort="K" type="이름">李栻</index>等之不言, 亦出於難愼, 有何所失? 請竝出仕。</quotation>
+            </paragraph>
+            <paragraph align="center">上召問<index num="1092841_0" ref="M_0004342" sort="K" type="이름">李文馨</index>曰: "果有是事否?" <index num="1092842_0" ref="M_0004342" sort="K" type="이름">文馨</index>啓曰: "頃日偶問<index num="1092843_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>以: ‘疏意與<index num="1092844_0" ref="M_0000646" sort="K" type="이름">李珥</index>相同處, 何故?’ <index num="1092845_0" ref="M_0002733" sort="K" type="이름">仁傑</index>答以: ‘<index num="1092846_0" ref="M_0000646" sort="K" type="이름">李珥</index>相通爲之矣。’ 他無所聞。" 上答玉堂曰: "敎人上疏, 此實可駭。 意雖貴於和平, 理難掩其罪失。 出仕事依啓。" <index num="1092847_0" ref="M_0001167" sort="K" type="이름">權德輿</index>等再避曰: "<index num="1092848_0" ref="M_0000646" sort="K" type="이름">李珥</index>代疏之言, 雖或云云, 其間曲折, 未得盡悉。 臣等之意, 妄以和平爲主, 且<index num="1092849_0" ref="M_0048192" sort="K" type="이름">應泂</index>之言過中, 故不敢從矣。 今者反被沮抑之誚, 今不可苟合, 請遞臣職。" <index num="1092850_0" ref="M_0048192" sort="K" type="이름">應泂</index>又避曰: "<index num="1092851_0" ref="M_0000646" sort="K" type="이름">李珥</index>之事, 實所駭怪, 臣之意欲論其所失, 以戒妄作而已。 第以小臣輕妄, 辭氣之間有過激之病。 旣與同僚相異, 又被玉堂之譏, 請遞臣職。" 答曰: "竝勿辭。" 皆退待。 憲府啓曰: "<index num="1092852_0" ref="M_0048192" sort="K" type="이름">應泂</index>之欲論<index num="1092853_0" ref="M_0000646" sort="K" type="이름">李珥</index>, 非不可, <index num="1092854_0" ref="M_0001167" sort="K" type="이름">德輿</index>等不從, 勢難相容。 請<index num="1092855_0" ref="M_0048192" sort="K" type="이름">應泂</index>出仕, <index num="1092856_0" ref="M_0001167" sort="K" type="이름">德輿</index>以下竝遞之。" 於是, 憲府將先劾<index num="1092857_0" ref="M_0000646" sort="K" type="이름">珥</index>, 持平<index num="1092858_0" ref="M_0001272" sort="K" type="이름">奇大鼎</index>尤力主自當。 <index num="1092859_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>聞之驚愧, 上疏自明曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1092860_0" ref="M_0000646" sort="K" type="이름">李珥</index>果修潤臣疏矣。 竊見, <index num="1092861_0" sort="K" type="지명">宋</index>
+                <index num="1092862_0" ref="M_0033551" sort="A" sort2="송" type="이름">程頤</index>代<index num="1092863_0" ref="M_0034073" sort="A" sort2="송" type="이름">彭思永</index>, 撰論<index num="1092864_0" ref="M_0032220" sort="A" sort2="송" type="이름">濮王</index>典禮疏; 代<index num="1092865_0" ref="M_0032241" sort="A" sort2="송" type="이름">富弼</index>, 作論<index num="1092866_0" sort="K" type="지명">永昭陵</index>疏, 代<index num="1092867_0" ref="M_0031375" sort="A" sort2="송" type="이름">呂公著</index>, 作應詔疏。 此等事, 先儒亦嘗爲之, 故臣用<index num="1092868_0" ref="M_0000646" sort="K" type="이름">珥</index>文, 不以爲嫌, 向人無隱, 故傳者皆以<index num="1092869_0" ref="M_0000646" sort="K" type="이름">珥</index>誘臣上疏。 臣雖無狀, 豈敢以非臣本意, 而徒聽人所敎, 而爲此疏乎? 老臣臨死, 不敢飾詐, 以欺罔殿下矣。</quotation>
+            </paragraph>
+            <paragraph align="center">上始得其實, 答曰: "省卿上疏, 始知首末。 卿宜安心。" 於是, 玉堂以憲府失於處置, 譁然非之, <index num="1092870_0" ref="M_0015506" sort="K" type="이름">李栻</index>等以顯被譏誚請遞, 退待。 弘文館上箚曰:</paragraph>
+            <paragraph align="center">
+              <quotation>臣等固意, 傳播之言, 容或失實。 <index num="1092871_0" ref="M_0048192" sort="K" type="이름">宋應泂</index>輕信所聞, 欲啓不靖之端; <index num="1092872_0" ref="M_0015506" sort="K" type="이름">李栻</index>等處置乖當, 大非和平之意。 請竝遞差。</quotation>
+            </paragraph>
+            <paragraph align="center">於是, 兩司皆遞, 而<index num="1092873_0" ref="M_0005914" sort="K" type="이름">鄭芝衍</index>爲大司憲, <index num="1092874_0" ref="M_0015486" sort="K" type="이름">具鳳齡</index>爲大司諫, <index num="1092875_0" ref="M_0005914" sort="K" type="이름">芝衍</index>辭遞, <index num="1092876_0" ref="M_0004454" sort="K" type="이름">李山海</index>代之。 臺中訾<index num="1092877_0" ref="M_0000646" sort="K" type="이름">珥</index>不已, <index num="1092878_0" ref="M_0061434" sort="K" type="이름">洪渾</index>欲上疏爭辨, <index num="1092879_0" ref="M_0003630" sort="K" type="이름">柳成龍</index>、<index num="1092880_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>皆止之。 <index num="1092881_0" ref="M_0015695" sort="K" type="이름">宇顒</index>欲對擧上疏, <index num="1092882_0" ref="M_0061434" sort="K" type="이름">渾</index>等乃止。 左相<index num="1092883_0" ref="M_0002224" sort="K" type="이름">盧守愼</index>倡言曰: "憲府若攻<index num="1092884_0" ref="M_0000646" sort="K" type="이름">李珥</index>, 吾輩亦當論啓憲府之失。 安可謂之公論, 以害君子乎?" <index num="1092885_0" ref="M_0002224" sort="K" type="이름">守愼</index>問童蒙訓導<index num="1092886_0" ref="M_0047633" sort="K" type="이름">朴泂</index>曰: "<index num="1092887_0" ref="M_0048192" sort="K" type="이름">宋應泂</index>攻<index num="1092888_0" ref="M_0000646" sort="K" type="이름">李珥</index>, 外議如何?" <index num="1092889_0" ref="M_0048192" sort="K" type="이름">泂</index>曰: "時論雖詆<index num="1092890_0" ref="M_0000646" sort="K" type="이름">李公</index>, <index num="1092891_0" ref="M_0000646" sort="K" type="이름">李公</index>不可毁也。 學徒游吾門者, 三四百人。 吾欲試其意, 各問曰: ‘<index num="1092892_0" ref="M_0000646" sort="K" type="이름">李公</index>何如人?’ 則無一人不以爲君子者。 此輩, 是, 後日士林也。 一時雖或妄毁, 後日公論, 其可泯絶乎?" <index num="1092893_0" ref="M_0002224" sort="K" type="이름">守愼</index>深然之。 後於經席, 與<index num="1092894_0" ref="M_0047524" sort="K" type="이름">朴淳</index>白上曰: "<index num="1092895_0" ref="M_0000646" sort="K" type="이름">李珥</index>爲人, 決是君子。 雖有踈脫之失, 出於憂國之誠, 不可訾議也。" 上曰: "人言, 敎<index num="1092896_0" ref="M_0002733" sort="K" type="이름">仁傑</index>上疏, 故予亦非之。 今聞其實, 則只是相通而已。 此有何過乎?" 是時, 東人之浮薄者, 必欲害<index num="1092897_0" ref="M_0000646" sort="K" type="이름">珥</index>, 賴大臣及<index num="1092898_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>大言折之, 竟不能恣行。 先是, 士類之名, 歸於東人, 故聲勢甚張, 附會者坌集。 主論之人, 不別善惡、材鄙, 而一切容受, 以多爲勝。 後至者爭欲以排前列, 而出其右, 論議自至苛刻暴厲。 而反以直氣自多, 緩論者反屈於其下。 及是, 以<index num="1092899_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>、<index num="1092900_0" ref="M_0000646" sort="K" type="이름">李珥</index>之德望, 不免彈劾。 自此, 公論稱東人爲偏黨, 而閭巷韋布之言, 皆以小人目之。 <index num="1092901_0" ref="M_0000519" sort="K" type="이름">李潑</index>、<index num="1092902_0" ref="M_0015695" sort="K" type="이름">金宇顒</index>等惡其言, 乃强爲調劑之論, 而朝著少靖矣。<annotation type="원주">
+                <noteContent>【<index num="1092903_0" ref="M_0000646" sort="K" type="이름">李珥</index>私議曰: "<index num="1092904_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>外戚之稍出頭角者耳。 雖得參於士類, 曷足爲有無哉? <index num="1092905_0" ref="M_0002063" sort="K" type="이름">金孝元</index>少有才, 而學未聞道, 不宜作士林領袖也。 斯二人是非之辨, 豈係於治亂哉? <index num="1092906_0" ref="M_0003244" sort="K" type="이름">沈</index>之不量力、度德, 欲爲國事者, 旣非矣; <index num="1092907_0" ref="M_0002063" sort="K" type="이름">金</index>之輕詆先輩, 以致疑阻, 使士類分爲二邊, 亦豈是乎? 論其事則兩人皆非也; 語其才則兩人皆勝於流俗, 不可棄也。 若曰: ‘<index num="1092908_0" ref="M_0002063" sort="K" type="이름">金</index>優<index num="1092909_0" ref="M_0003244" sort="K" type="이름">沈</index>劣’ 則得矣; 若曰: ‘<index num="1092910_0" ref="M_0002063" sort="K" type="이름">金</index>是<index num="1092911_0" ref="M_0003244" sort="K" type="이름">沈</index>非’ 則非事理之當然也。 假使二人明有是非, 此非關於國家, 而反以辨之之故, 二論橫潰, 壞人材、傷國脈, 爲世大禍, 而莫覺其然, 豈非命耶?"】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11207001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동부승지 허진이 병으로 면직되다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-07-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="12장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○同副承旨<index num="1092912_0" ref="M_0060462" sort="K" type="이름">許晋</index>病免。 <index num="1092913_0" ref="M_0060462" sort="K" type="이름">晋</index>與<index num="1092914_0" ref="M_0000646" sort="K" type="이름">李珥</index>爲故舊。 至是, 見<index num="1092915_0" ref="M_0000646" sort="K" type="이름">珥</index>爲時論所撼, 欲先立功, 啓於經席曰: "<index num="1092916_0" ref="M_0000646" sort="K" type="이름">李珥</index>之疏, 出於私意。 疏中論救<index num="1092917_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>、<index num="1092918_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>、<index num="1092919_0" ref="M_0034177" sort="K" type="이름">韓脩</index>, <index num="1092920_0" ref="M_0003244" sort="K" type="이름">義謙</index>、<index num="1092921_0" ref="M_0034177" sort="K" type="이름">脩</index>是其族黨; <index num="1092922_0" ref="M_0054803" sort="K" type="이름">澈</index>爲執友, 其言豈是公心? 且渠不上來, 而偃然陳疏, 非臣子分義也。" 未幾, <index num="1092923_0" ref="M_0060462" sort="K" type="이름">許晋</index>擢拜承旨。 人以爲: "<index num="1092924_0" ref="M_0060462" sort="K" type="이름">晋</index>揣上意、量時論, 爲此下石自衒也," 唾罵紛然。 憲府亦惡之, 劾以阿世醜正, 上雖不允, <index num="1092925_0" ref="M_0060462" sort="K" type="이름">晋</index>慙愧以疾免, 出爲<index num="1092926_0" sort="K" type="지명">驪州</index>牧使。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11207001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대사간 구봉령이 사양하고 나오지 않다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-07-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="12장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大司諫<index num="1092927_0" ref="M_0015486" sort="K" type="이름">具鳳齡</index>辭不至。 <index num="1092928_0" ref="M_0015486" sort="K" type="이름">鳳齡</index>聞士類相乖, 論議不靖, 欲入朝匡救, 而親友力止之, 乃辭疾。 <index num="1092929_0" ref="M_0015486" sort="K" type="이름">鳳齡</index>亦爲調劑之論, 故人目爲西人, 而以負嶺南士望, 故不甚見非於世。</paragraph>
+            <paragraph align="center">上御經筵。 左議政<index num="1092930_0" ref="M_0002224" sort="K" type="이름">盧守愼</index>啓請可典文衡之人, 仍薦<index num="1092931_0" ref="M_0015486" sort="K" type="이름">具鳳齡</index>、<index num="1092932_0" ref="M_0000646" sort="K" type="이름">李珥</index>、<index num="1092933_0" ref="M_0060561" sort="K" type="이름">許篈</index>, 且啓曰: "臣請收用<index num="1092934_0" ref="M_0000646" sort="K" type="이름">李珥</index>者數矣, 至今未有指揮何也?" 上曰: "<index num="1092935_0" ref="M_0000646" sort="K" type="이름">李珥</index>予亦知之。 予年尙少, 渠亦未老, 差晩何傷?" 時, 禮官議<index num="1092936_0" ref="M_0067245" sort="K" type="이름">成運贈</index>爵。 上問<index num="1092937_0" ref="M_0002224" sort="K" type="이름">盧守愼</index>, 對曰: "<index num="1092938_0" ref="M_0055907" sort="K" type="이름">曺植</index>、<index num="1092939_0" ref="M_0015317" sort="K" type="이름">李恒</index>、<index num="1092940_0" ref="M_0067245" sort="K" type="이름">成運</index>, 同時賢士, 而人品則不同。 <index num="1092941_0" ref="M_0055907" sort="K" type="이름">曺植</index>志氣凌厲, 識見超邁, 雖聖賢之書, 亦不屑意, 故微有病處。 <index num="1092942_0" ref="M_0067245" sort="K" type="이름">成運</index>溫雅簡默, 超然不嬰世, 故常謙讓自守, 爲一世完人。 <index num="1092943_0" ref="M_0015317" sort="K" type="이름">李恒</index>律身以聖賢爲法; 讀書以四書爲本; 導人以變化氣質爲先, 多有功於學者, 非如隱德之人或有偏處。 <index num="1092944_0" ref="M_0055907" sort="K" type="이름">曺植</index>已贈職矣, 今先<index num="1092945_0" ref="M_0015317" sort="K" type="이름">李恒</index>, 而次<index num="1092946_0" ref="M_0067245" sort="K" type="이름">成運</index>贈職當矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112080">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 八月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 八月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11208001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 8月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-08-01L0" type="서기"/>
+            <dateOccured type="간지">甲戌</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 8월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 8월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 8월 1일</dateOccured>
+            <dateOccured type="단기">3912년 8월 1일</dateOccured>
+            <dateOccured type="일본연호">년 8월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 8월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11208001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>성혼이 상소하여 출사하지 못하는 실정을 진달하고 또 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-08-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="12장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔甲戌/<index num="1092947_0" ref="M_0062151" sort="K" type="이름">成渾</index>上疏, 自陳病不能仕, 且陳君德之要, 以虛心受善爲第一義。 上褒以至論, 而無更召之命。 時, 士類旣失<index num="1092948_0" ref="M_0000646" sort="K" type="이름">李珥</index>之助, 欲援<index num="1092949_0" ref="M_0062151" sort="K" type="이름">渾</index>以爲重, 多勸上特召。 召命連下, <index num="1092950_0" ref="M_0062151" sort="K" type="이름">渾</index>不應。 <index num="1092951_0" ref="M_0062151" sort="K" type="이름">渾</index>自甲戌, 歲除持平, 承召不赴者十二度矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11208001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김명원을 의주 목사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-08-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="12장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1092952_0" ref="M_0001511" sort="K" type="이름">金命元</index>爲<index num="1092953_0" sort="K" type="지명">義州</index>牧使, 加階嘉善。 臺諫論請改正, 上曰: "將用<index num="1092954_0" ref="M_0001511" sort="K" type="이름">命元</index>爲西帥, 不可改也。" <index num="1092955_0" ref="M_0001511" sort="K" type="이름">命元</index>之出外, 由忤於<index num="1092956_0" ref="M_0004454" sort="K" type="이름">李山海</index>, 故雖外職, 亦不能保。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11208001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김응남 등을 선발하여 사가 독서하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-08-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="12장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○選<index num="1092957_0" ref="M_0062939" sort="K" type="이름">金應南</index>、<index num="1092958_0" ref="M_0035177" sort="K" type="이름">金瞻</index>、<index num="1092959_0" ref="M_0000480" sort="K" type="이름">李洁</index>等, 賜暇讀書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112090">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 九月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 九月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11209001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 9月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-09-01L0" type="서기"/>
+            <dateOccured type="간지">甲辰</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 9월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 9월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 9월 1일</dateOccured>
+            <dateOccured type="단기">3912년 9월 1일</dateOccured>
+            <dateOccured type="일본연호">년 9월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 9월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11209001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>윤두수를 서용하여 연안 부사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-09-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="12장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔甲辰/敍復<index num="1092960_0" ref="M_0003810" sort="K" type="이름">尹斗壽</index>爲<index num="1092961_0" sort="K" type="지명">延安</index>府使。 <index num="1092962_0" ref="M_0003810" sort="K" type="이름">斗壽</index>辭朝之日, 上引見慰勞問曰: "何以治郡?" 對曰: "<index num="1092963_0" sort="K" type="지명">延安</index>民好訟, 簿牒甚煩。 臣才劣望輕, 恐不堪也。" 上默然良久曰: "予之待卿, 不以內外爲間。 卿亦勿以內外爲貳, 暫煩出守, 後當復召。" <index num="1092964_0" ref="M_0003810" sort="K" type="이름">斗壽</index>退而語人: "初意, 當久別天顔, 欲一仰望, 而及聞天語丁寧, 感淚如泉, 竟不敢仰視矣。"<annotation type="원주">
+                <noteContent>【<index num="1092965_0" ref="M_0003810" sort="K" type="이름">斗壽</index>與<index num="1092966_0" ref="M_0003244" sort="K" type="이름">沈</index>家最親。 又於乙亥, 排斥<index num="1092967_0" sort="K" type="이름">金黨</index>過當, 論者指爲濁亂。 又以貪賕至於被劾, 士論視爲棄人。 而上獨待以舊臣, 終始扶植, 卒爲大用, 聖量之明, 非當時臣下所及矣。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11209001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>윤근수를 강릉 부사로 삼았다가 개성 유수로 고쳐 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-09-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1092968_0" ref="M_0003793" sort="K" type="이름">尹根壽</index>爲<index num="1092969_0" sort="K" type="지명">江陵</index>府使, 辭以親老不赴。 改授<index num="1092970_0" sort="K" type="지명">開城</index>留守, 上爲其母隨子。 <index num="1092971_0" ref="M_0003810" sort="K" type="이름">斗壽</index>在<index num="1092972_0" sort="K" type="지명">延安</index>, 有是除, 以便省親。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11209001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>지중추부사 백인걸의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-09-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○知中樞府事<index num="1092973_0" ref="M_0002733" sort="K" type="이름">白仁傑</index>卒。 <index num="1092974_0" ref="M_0002733" sort="K" type="이름">仁傑</index>字<index num="1092975_0" ref="M_0002733" sort="K" type="이름">士偉</index>, 號<index num="1092976_0" ref="M_0002733" sort="K" type="이름">休菴</index>。 <index num="1092977_0" ref="M_0002733" sort="K" type="이름">仁傑</index>老不任事, 雖在京士大夫不之重, <index num="1092978_0" ref="M_0002733" sort="K" type="이름">仁傑</index>不以掛意。 祿米、騶直, 皆歸之<index num="1092979_0" sort="K" type="지명">道峯書院</index>, 命駕往來宿留, 以寓景仰之懷。 至是疾篤, 上問, 賜醫藥。 及卒, 下敎曰: "賢宰卒逝, 予心驚動。 弔賻加厚。" <index num="1092980_0" ref="M_0002733" sort="K" type="이름">仁傑</index>高邁踈曠, 慷慨有氣節, 卓然志不在溫胞。 初師<index num="1092981_0" ref="M_0005993" sort="K" type="이름">趙光祖</index>, 景慕心服, 終身如一。 自乙巳之難, 冒萬死抗危言, 他人莫敢先。 直聲振乎一時, 姦黨亦懾憚, 不敢肆其忿。 同時得罪者, 竄死相望, 而<index num="1092982_0" ref="M_0002733" sort="K" type="이름">仁傑</index>止於中道定配, 五年而放歸田里。 雖積年困窮, 而未嘗挫志。 晩際登庸, 雖復齟齬, 而忠義之心白首不渝。 因事獻替, 必極其意。 年踰大耋, 猶講學矻矻, 晝思夜索, 非性命之書, 則不讀。 處家貧儉, 服食粗踈, 凝塵滿席, 而不屑也。 上重其風節, 終始眷顧不衰。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112100">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 十月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 十月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11210001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 10月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-10-01L0" type="서기"/>
+            <dateOccured type="간지">癸酉</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 10월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 10월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 10월 1일</dateOccured>
+            <dateOccured type="단기">3912년 10월 1일</dateOccured>
+            <dateOccured type="일본연호">년 10월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 10월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11210001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>겨울인데도 따뜻하였다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-10-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>과학-천기(天氣)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔癸酉/冬暖。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112110">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 十一月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 十一月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11211001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 11月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-11-01L0" type="서기"/>
+            <dateOccured type="간지">癸卯</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 11월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 11월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 11월 1일</dateOccured>
+            <dateOccured type="단기">3912년 11월 1일</dateOccured>
+            <dateOccured type="일본연호">년 11월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 11월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11211001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>강섬을 함경도 관찰사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-11-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔癸卯/以<index num="1092983_0" ref="M_0000014" sort="K" type="이름">姜暹</index>爲<index num="1092984_0" sort="K" type="지명">咸鏡道</index>觀察使。 <index num="1092985_0" ref="M_0000014" sort="K" type="이름">暹</index>無才能, 鄙嗇取譏, 以守陵官, 有恩眷。 兩司論北門鎖鑰非其任, 累啓, 不允。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11211001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>함경도 관찰사 소흡을 관노 두 사람을 죽인 죄로 국문하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-11-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>신분-천인(賤人)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1092986_0" sort="K" type="지명">咸鏡道</index>節度使<index num="1092987_0" ref="M_0047776" sort="K" type="이름">蘇潝</index>以私怨, 殺北道官奴二人, 拿鞫于禁府。 旣服, 議于大臣, 照以濫刑之律。 臺諫爭之以爲: "公事杖殺管下軍民, 則可照以濫刑之律, 今以私怨殺他道之人, 當論如律。" 上廣收廷議, 二品以上皆曰: "不可論以殺人。" 兩司復爭之, 終不允。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11211001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>곽재유가 국정의 폐단에 대해 논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-11-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1092988_0" ref="M_0017251" sort="K" type="이름">郭再裕</index>論我國政弊曰: "殺人者不死; 滿贓者不死; 敗軍者不死。 由此三不死, 而國將亡。" 人以爲名言。 是時, 猶有臺諫爭之, 今則雖當街殺人, 臺諫反庇之, 蓋由循私之習勝, 而報怨之風盛, 雖號爲剛直者, 不敢論矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_112120">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 十二年 十二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十二年 十二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_11212001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 12年 12月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1579-12-01L0" type="서기"/>
+            <dateOccured type="간지">壬申</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 12년 12월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 188년 12월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬歷) 7년 12월 1일</dateOccured>
+            <dateOccured type="단기">3912년 12월 1일</dateOccured>
+            <dateOccured type="일본연호">년 12월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬歷)7년 12월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_11212001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>예관이 인성 왕후의 담제일에 하례받는 일로 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1579-12-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔壬申/禮官啓: "<index num="1092989_0" ref="M_0006804" sort="K" type="이름">仁聖王后</index>禫日當受賀。" 兩司爭以: "吉凶相襲非禮, 請勿受賀。" 上曰: "舊例不可改。" 兩司爭之累日, 上曰: "異議之習, 不可長也。 吾非欲受賀也, 只惡異議耳。" 竟不允。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11212001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>좌참찬 성세장이 상에게 아뢰니, 삼사가 서로 글을 올려 논박하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1579-12-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○左參贊<index num="1092990_0" ref="M_0002890" sort="K" type="이름">成世章</index>白上曰: "今之年少士類, 名爲慕古學問, 而無其實, 爲一時之弊。" 上曰: "此言切中時病。" 三司交章論駁, 上終不允。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11212001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>세속에서 도학의 명맥이 희미해지는 것으로 평하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1579-12-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="486면"/>
+            </source>
+            <subjectClass>역사-편사(編史)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+            <subjectClass>윤리-사회기강(社會紀綱)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○自己卯士禍之後, 道學爲世大禁, 而有志爲己之士, 皆遯迹自修, 中經乙巳之禍, 而猶不絶。 <index num="1092991_0" ref="M_0045847" sort="K" type="이름">明廟</index>末、今上初年, 始有彙征之盛, 束帛之禮亦重矣。 自是, 爲士者以不談道爲恥, 而好名務外者競起, 標榜太高, 而實德未彰。 流俗部人從而詆疵不已。 此惟在循名責實而已, 何可罪之? 自上旣深惡之, 三司爭辨者多, 年少士類, 豈能取信乎? 其時相臣, 無一言捄正, 亦不得辭責矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_11212001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>최황을 사헌부 집의로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1579-12-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 3책 13권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="487면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1092992_0" ref="M_0058378" sort="K" type="이름">崔滉</index>爲司憲府執義。</paragraph>
+            <paragraph align="center"/>
+            <paragraph align="center">宣祖大王修正實錄卷之十三</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

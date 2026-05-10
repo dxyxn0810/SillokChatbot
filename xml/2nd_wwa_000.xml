@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wwa">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>純祖實錄</mainTitle>
+        <alternative> 純祖淵德顯道景仁純禧體聖凝命欽光錫慶繼天配極隆元敦休懿行昭倫凞化峻烈大中至正洪勳哲謨乾始泰亨昌運弘基高明博厚剛健粹精文安武靖英敬成孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wwa_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">純祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">純祖實錄 47책</mainTitle>
+          <page begin="325면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○大王諱<index num="1869913_0" ref="M_0062679" sort="K" type="이름">玜</index>, 字<index num="1869914_0" ref="M_0062679" sort="K" type="이름">公寶</index>, <index num="1869915_0" ref="M_0054657" sort="K" type="이름">正宗大王</index>之子, 母妃<index num="1869916_0" ref="M_0006824" sort="K" type="이름">孝懿王后</index>
+          <index num="1869917_0" sort="K" type="이름">金氏</index>,<annotation type="원주">
+            <noteContent>【籍<index num="1869918_0" sort="K" type="지명">淸風</index>, <index num="1869919_0" ref="M_0001714" sort="K" type="이름">淸原府院君</index>
+              <index num="1869920_0" ref="M_0001714" sort="K" type="이름">時默</index>女。】</noteContent>
+          </annotation> 母<index num="1869921_0" ref="M_0006788" sort="K" type="이름">綏嬪朴氏</index>。<annotation type="원주">
+            <noteContent>【籍<index num="1869922_0" sort="K" type="지명">潘南</index>, 判敦寧府事<index num="1869923_0" ref="M_0002619" sort="K" type="이름">準源</index>女。】</noteContent>
+          </annotation>
+        </paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

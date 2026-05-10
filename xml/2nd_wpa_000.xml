@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wpa">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>仁祖實錄</mainTitle>
+        <alternative> 仁祖大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wpa_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">仁祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">仁祖實錄 33책</mainTitle>
+          <page begin="501면"/>
+        </source>
+        <subjectClass>역사-편사(編史)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>변란-정변(政變)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="1190834_0" ref="M_0000817" sort="K" type="이름">仁祖憲文烈武明肅純孝大王</index>諱<index num="1190835_0" ref="M_0000817" sort="K" type="이름">倧</index>, 字<index num="1190836_0" ref="M_0000817" sort="K" type="이름">和伯</index>, 小字<index num="1190837_0" ref="M_0000817" sort="K" type="이름">天胤</index>, 在位二十七年, 壽五十五, 葬<index num="1190838_0" sort="K" type="지명">長陵</index>。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

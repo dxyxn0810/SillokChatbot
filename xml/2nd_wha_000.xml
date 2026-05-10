@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wha">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>睿宗實錄</mainTitle>
+        <alternative> 睿宗襄悼大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wha_000">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 睿宗實錄 總序</paragraph>
+      </content>
+    </text>
+    <level3 id="wha_000001">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>예종이 왕위를 잇고 한씨를 왕비로 삼다 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">睿宗實錄 1책 1권</mainTitle>
+            <page begin="1장 A면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">睿宗實錄 8책</mainTitle>
+            <page begin="268면"/>
+          </source>
+          <subjectClass>왕실-국왕(國王)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">○<index num="0367894_0" ref="M_0050740" sort="K" type="이름">睿宗襄悼欽文聖武懿仁昭孝大王</index>, 諱<index num="0367895_0" ref="M_0050740" sort="K" type="이름">晄</index>, 字<index num="0367896_0" ref="M_0050740" sort="K" type="이름">平甫</index>, <index num="0367897_0" ref="M_0047665" sort="K" type="이름">世祖惠莊大王</index>第二子, 母妃<index num="0367898_0" ref="M_0006819" sort="K" type="이름">慈聖欽仁景德宣烈明順元淑徽愼惠懿太王太妃</index>
+            <index num="0367899_0" ref="M_0006819" sort="K" type="이름">尹氏</index>。 以<index num="0367900_0" type="연호">景泰</index>元年庚午春正月丁丑, 誕于邸, 岐嶷穎異。 初封<index num="0367901_0" ref="M_0050740" sort="K" type="이름">海陽大君</index>, 娶<index num="0367902_0" ref="M_0006441" sort="K" type="이름">上黨府院君</index>
+            <index num="0367903_0" ref="M_0006441" sort="K" type="이름">韓明澮</index>之女, 卽<index num="0367904_0" ref="M_0006810" sort="K" type="이름">章順王后</index>, 早逝。 <index num="0367905_0" type="연호">天順</index>元年秋九月, 王世子卒, <index num="0367906_0" ref="M_0047665" sort="K" type="이름">世祖</index>請立爲世子, 帝遣使, 封<index num="0367907_0" sort="K" type="지명">朝鮮國</index>王世子。 性英明果斷, 恭儉淵默, 留意典墳, 令侍學者, 日三進講, 雖祁寒盛暑, 未嘗或輟。 故德業夙成, 輿望日隆, <index num="0367908_0" ref="M_0047665" sort="K" type="이름">世祖</index>嘗曰: "世子於六藝, 已無所不通。" <index num="0367909_0" type="연호">成化</index>三年丁亥春, <index num="0367910_0" ref="M_0047665" sort="K" type="이름">世祖</index>不豫, 命參決庶務, 聽斷明允, 喜曰: "付托得人, 吾無憂矣。" 翼年秋九月, <index num="0367911_0" ref="M_0047665" sort="K" type="이름">世祖</index>疾大漸, 命嗣位, 以昭訓<index num="0367912_0" ref="M_0006447" sort="K" type="이름">淸川府院君</index>
+            <index num="0367913_0" ref="M_0006447" sort="K" type="이름">韓伯倫</index>之女<index num="0367914_0" sort="K" type="이름">韓氏</index>爲王妃, 卽<index num="0367915_0" ref="M_0006792" sort="K" type="이름">仁惠王太妃</index>。</paragraph>
+        </content>
+      </text>
+    </level3>
+    <level3 id="wha_000002">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>세조가 세자에게 한의 멸망 원인을 후손들의 안일 때문이라고 설명하다 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">睿宗實錄 1책 1권</mainTitle>
+            <page begin="1장 A면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">睿宗實錄 8책</mainTitle>
+            <page begin="268면"/>
+          </source>
+          <subjectClass>왕실-종사(宗社)</subjectClass>
+          <subjectClass>왕실-경연(經筵)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">○<index num="0367916_0" ref="M_0047665" sort="K" type="이름">世祖</index>嘗問世子: "讀<index num="0367917_0" type="서명">《通鑑》</index>何代?" 世子代以<index num="0367918_0" sort="K" type="지명">漢</index>
+            <index num="0367919_0" ref="M_0034204" sort="A" type="이름">獻帝</index>。 <index num="0367920_0" ref="M_0047665" sort="K" type="이름">世祖</index>問: "何以亡?" 對曰: "讒諂行而威權漸移, 安不思危, 紀綱壞也。" <index num="0367921_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "然。 始祖與群臣, 同心戮力, 以創大業, 子孫漸逸樂, 群臣亦各自安, 故亡。"</paragraph>
+        </content>
+      </text>
+    </level3>
+  </level2>
+</level1>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wea">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>文宗實錄</mainTitle>
+        <alternative> 文宗恭順大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wea_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">文宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">文宗實錄 6책</mainTitle>
+          <page begin="215면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0246678_0" ref="M_0046153" sort="K" type="이름">文宗恭順欽明仁肅光文聖孝大王</index>諱<index num="0246679_0" ref="M_0046153" sort="K" type="이름">珦</index>, 字<index num="0246680_0" ref="M_0046153" sort="K" type="이름">輝之</index>。 <index num="0246681_0" ref="M_0032471" sort="K" type="이름">世宗莊憲王</index>之長子, 母曰<index num="0246682_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>
+          <index num="0246683_0" ref="M_0006786" sort="K" type="이름">沈氏</index>。 <index num="0246684_0" type="연호">永樂</index>十二年, 甲午十月初三日癸酉, 誕于<index num="0246685_0" sort="K" type="지명">漢陽</index>邸。 歲辛丑<index num="0246686_0" ref="M_0032471" sort="K" type="이름">世宗</index>, 請爲國儲, 明年秋, <index num="0246687_0" ref="M_0031970" sort="A" type="이름">太宗文皇帝</index>, 遣使封爲<index num="0246688_0" sort="K" type="지명">朝鮮國</index>王世子。 性寬仁明睿, 剛毅簡默, 孝友恭儉, 不喜聲色戲玩, 專心性理之學。 又博覽前史, 講究治亂之機, 至於六藝、天文、曆象、聲律、音韻, 無所不通。 <index num="0246689_0" type="연호">正統</index>十年乙丑, <index num="0246690_0" ref="M_0032471" sort="K" type="이름">世宗</index>以疾不能視事, 乃命王世子, 參決庶務。 <index num="0246691_0" type="연호">景泰</index>元年庚午二月壬辰, <index num="0246692_0" ref="M_0032471" sort="K" type="이름">世宗</index>薨于<index num="0246693_0" ref="M_0009859" sort="K" type="이름">永膺大君</index>第, 王世子與大君, 諸君被髮徒跣, 設殯殿。 都監提調三, 使二, 副使二, 判官二。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

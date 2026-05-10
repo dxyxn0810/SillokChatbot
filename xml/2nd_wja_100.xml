@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wja_100">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>燕山君日記 卽位年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1494" type="서기"/>
+        <dateOccured type="간지">甲寅</dateOccured>
+        <dateOccured type="재위연도">연산 즉위</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 103</dateOccured>
+        <dateOccured type="중국연호">명 홍치(弘治) 7</dateOccured>
+        <dateOccured type="단기">3827</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">명 홍치(弘治) 7</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 卽位年(1494)<annotation type="원주">
+          <noteContent>【<index num="0584248_0" sort="K" type="지명">大明</index>
+            <index num="0584249_0" type="연호">弘治</index>七年】</noteContent>
+        </annotation>
+      </paragraph>
+    </content>
+  </text>
+  <level3 id="wja_100120">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>燕山君日記 卽位年 十二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 卽位年 十二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wja_10012025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>燕山君 卽位年 12月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1494-12-25L0" type="서기"/>
+            <dateOccured type="간지">庚辰</dateOccured>
+            <dateOccured type="재위연도">연산 즉위년 12월 25일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 103년 12월 25일</dateOccured>
+            <dateOccured type="중국연호">명 홍치(弘治) 7년 12월 25일</dateOccured>
+            <dateOccured type="단기">3827년 12월 25일</dateOccured>
+            <dateOccured type="일본연호">년 12월 25일</dateOccured>
+            <dateOccured type="display">명 홍치(弘治)7년 12월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wja_10012025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이극돈 등이 성종의 염습을 정침에서 집행할 것을 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚辰/朝奠于殯殿, 百官入臨。 都監堂上<index num="0584250_0" ref="M_0004161" sort="K" type="이름">李克墩</index>等, 啓于<index num="0584251_0" sort="K" type="지명">仁粹王大妃殿</index>曰: "歛襲諸事, 請詣正寢掌辦。" 傳曰: "可。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012025_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>을시에 습할 때 백관이 인정전에 들어와 곡하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙時, 襲。 百官入臨, <index num="0584252_0" sort="K" type="지명">仁政殿</index>庭, 遂擧哀。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012025_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>습을 마치고 제사가 끝나지 않아 세자가 나가자 신승선·노사신 등이 말리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○襲畢將奠, 而諸事未完, 世子先出于外以待。 右議政<index num="0584253_0" ref="M_0003131" sort="K" type="이름">愼承善</index>請還入內待事辦而出, 世子不許。 左議政<index num="0584254_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>啓: "人君之事, 異於匹夫, 請入內。" 從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012025_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>예조 판서 성현이 절에서 제 지낼지를 묻자 왕비가 허락하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○禮曹判書<index num="0584255_0" ref="M_0062935" sort="K" type="이름">成俔</index>啓: "先朝舊例, 國恤七七日及大小祥, 皆設齋于佛寺。 然此不載禮文, 而大行大王, 亦不崇信佛敎, 今將何以?" 世子使中官<index num="0584256_0" ref="M_0035566" sort="K" type="이름">金孝江</index>轉啓于王妃, 王妃傳曰: "大行大王, 雖不好佛, 然無遺敎止之。 且祖宗朝皆行之, 今不可廢。" <index num="0584257_0" ref="M_0062935" sort="K" type="이름">俔</index>以不當啓之事, 敢取稟, 世子不敢自斷, 轉啓王妃, 必以<index num="0584258_0" ref="M_0062935" sort="K" type="이름">俔</index>所啓爲不當而然也。 其卒行之者, 以其懿旨不敢違也。 <index num="0584259_0" ref="M_0062935" sort="K" type="이름">俔</index>與其兄<index id="p16_000089_00" num="0584260_0" ref="M_0067286" sort="K" type="이름">任</index>、<index num="0584261_0" ref="M_0067036" sort="K" type="이름">侃</index>, 皆有文名, 而頗惑釋敎, 士林以此少之。 今觀<index num="0584262_0" ref="M_0062935" sort="K" type="이름">俔</index>所啓, 其家世侫佛, 蓋不誣矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012025_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정시에 소렴할 때 노사신·신승선·이극돈 등이 들어와 염하고 백관이 곡림하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁時, 小歛。 <index num="0584263_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>、<index num="0584264_0" ref="M_0003131" sort="K" type="이름">愼承善</index>、<index num="0584265_0" ref="M_0004161" sort="K" type="이름">李克墩</index>、<index num="0584266_0" ref="M_0003972" sort="K" type="이름">尹孝孫</index>、<index num="0584267_0" ref="M_0062935" sort="K" type="이름">成俔</index>及承旨<index num="0584268_0" ref="M_0034475" sort="K" type="이름">金應箕</index>ㆍ<index num="0584269_0" ref="M_0000902" sort="K" type="이름">姜龜孫</index>入歛, 百官哭臨。 行小歛奠, 百官哭臨。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012025_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>석전에 백관이 곡림하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○夕奠, 百官哭臨。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012025_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>예조 참판 송영이 장생전에서 왕의 관곽을 옮겨오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">007</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○禮曹參判<index num="0584270_0" ref="M_0048159" sort="K" type="이름">宋瑛</index>, 詣<index num="0584271_0" sort="K" type="지명">長生殿</index>, 奉移梓宮。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012025_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이극균·한치형 등을 국장 도감 제조로, 정문형·유순 등을 산릉 도감 제조로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">008</docNo>
+            <date>
+              <dateOccured date="1494-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以知中樞府事<index num="0584272_0" ref="M_0004159" sort="K" type="이름">李克均</index>、左贊成<index num="0584273_0" ref="M_0006498" sort="K" type="이름">韓致亨</index>、戶曹判書<index num="0584274_0" ref="M_0006550" sort="K" type="이름">洪貴達</index>, 爲國葬都監提調; 左參贊<index num="0584275_0" ref="M_0005777" sort="K" type="이름">鄭文炯</index>、工曹判書<index num="0584276_0" ref="M_0038463" sort="K" type="이름">柳洵</index>、<index num="0584277_0" ref="M_0004573" sort="K" type="이름">廣陽君</index>
+              <index num="0584278_0" ref="M_0004573" sort="K" type="이름">李世佐</index>, 爲山陵都監提調。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wja_10012026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>燕山君 卽位年 12月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1494-12-26L0" type="서기"/>
+            <dateOccured type="간지">辛巳</dateOccured>
+            <dateOccured type="재위연도">연산 즉위년 12월 26일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 103년 12월 26일</dateOccured>
+            <dateOccured type="중국연호">명 홍치(弘治) 7년 12월 26일</dateOccured>
+            <dateOccured type="단기">3827년 12월 26일</dateOccured>
+            <dateOccured type="일본연호">년 12월 26일</dateOccured>
+            <dateOccured type="display">명 홍치(弘治)7년 12월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wja_10012026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕세자가 두 대비와 왕비전께 죽 들기를 청하자, 승정원이 먼저 세자에게 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛巳/黎明, 王世子傳曰: "予於兩大妃、王妃殿, 累請進粥, 不聽。 政丞等宜卽共請。" 時尙早, 政丞皆未至。 承政院啓: "政丞, 昨日啓請勸粥云: ‘帝王之孝, 異於士庶人。’ 臣等又按<index num="0584279_0" type="서명">《儀軌》</index>, <index num="0584280_0" ref="M_0032471" sort="K" type="이름">世宗</index>嘗曰: ‘世子生長深宮, 居處飮食, 異於平人, 遭喪翌日, 宜可勸粥。’ 聖訓昭昭。 臣等意世子先自進粥, 乃請于三殿, 則庶可得請矣。" 傳曰: "予則已矣, 宜請于三殿。" 承旨等啓: "當待政丞之來, 共議啓請。 然臣等意<index num="0584281_0" ref="M_0032471" sort="K" type="이름">世宗</index>於<index num="0584282_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>之喪, 勸世子翌日進粥, 明載<index num="0584283_0" type="서명">《儀軌》</index>, 豈以居養異常, 遽撤飮食, 則慮或傷生, 故有此訓也。 請先進粥, 仍請三殿, 則豈不從之乎?" 傳曰: "如不得請, 則予當先之。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>사직과 종묘와 영녕전에 상을 고하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○告訃于社稷、宗廟、<index num="0584284_0" sort="K" type="지명">永寧殿</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕비가 성복할 날짜를 변경하려 하다가 빈전 도감 제조 이극돈의 반대로 그치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>사상-토속신앙(土俗信仰)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○王妃傳曰: "人言 ‘成服日有妨於世子’ 可得進退耶?" 殯殿都監提調<index num="0584285_0" ref="M_0004161" sort="K" type="이름">李克墩</index>啓: "凡喪制, 一從禮文, 小歛以前歛襲等事, 若値炎熱, 或有從權進退者。 今則已經小歛, 自後節次, 當依禮文, 時日吉凶不足信也。 人子哀戚之情雖無窮, 而亦不得不有節文, 故聖人稱其情文, 制爲喪葬之禮。 天子七月而葬; 諸侯五月而葬, 自古及今, 無有違其制者。 況我祖宗朝, 亦從禮文, 而不以時日吉凶進退之。 若拘於吉凶, 則葬必不以時, 請遵聖人之制, 循祖宗之法, 使合禮文。" 王妃傳曰: "予豈知禮文哉? 人有言者, 故欲從世俗爾。 當依所啓。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>부모의 상과 임금의 상이 겹친 유자광의 입장에 대하여 신하들이 찬반 토론하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>사법-법제(法制)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+            <subjectClass>윤리(倫理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○前<index num="0584286_0" ref="M_0003702" sort="K" type="이름">武靈君柳子光</index>上書:</paragraph>
+            <paragraph align="center">
+              <quotation> 臣遭母喪, 已成殯。 謹按<index num="0584287_0" type="서명">《禮經》</index>, <index num="0584288_0" type="서명">《會子問<annotation type="교감주">
+                    <noteTitle>〔曾子問〕</noteTitle>
+                  </annotation>》</index>曰: "大夫士有私喪, 可以除之矣, 而有君服焉, 其除之也, 如之何?" <index num="0584289_0" ref="M_0014330" sort="A" sort2="춘추·魯" type="이름">孔子</index>曰: "有君喪服於身, 不敢私服, 又何除焉?" 註曰: ‘君重親輕, 以義斷恩。’ <index num="0584290_0" ref="M_0033788" sort="A" sort2="춘추·魯" type="이름">曾子</index>又問曰: "君旣啓, 而臣有父母之喪, 則如之何?" <index num="0584291_0" ref="M_0014330" sort="A" sort2="춘추·魯" type="이름">孔子</index>曰: "歸哭而反送君。" 註曰: ‘歸哭親喪, 復往送君之喪。’ 又曰: "若臣有父母喪, 旣殯而後有君喪, 則歸君所; 父母喪有殷事, 則來歸家。 朝夕亦恒在君所。" <index num="0584292_0" ref="M_0033788" sort="A" sort2="춘추·魯" type="이름">曾子</index>又問曰: "父母之喪, 旣引及塗, 聞君薨, 如之何?" <index num="0584293_0" ref="M_0014330" sort="A" sort2="춘추·魯" type="이름">孔子</index>曰: "遂旣封, 改服而往。" 註曰: ‘不敢以私喪之服, 喪君也。’ 此<index num="0584294_0" type="서명">《禮經》</index>所載, 正合臣事。 臣今若因私服, 而不更除君服, 是臣而不服君服。 然則親反重, 君反輕, 有違<index num="0584295_0" type="서명">《禮經》</index>, 有虧大義。</quotation>
+            </paragraph>
+            <paragraph align="center">命議于政丞等。 <index num="0584296_0" ref="M_0004163" sort="K" type="이름">李克培</index>議: "令該司磨鍊以啓, 何如?"; <index num="0584297_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>議: "有古禮, 依<index num="0584298_0" ref="M_0003702" sort="K" type="이름">子光</index>所啓, 何如?"; <index num="0584299_0" ref="M_0003131" sort="K" type="이름">愼承善</index>議: "雖有古禮, 以今觀之, 不無礙處。 然此乃臣子出於至情, 依所啓施行, 何如?" 命該曹議啓。 禮曹啓: "<index num="0584300_0" ref="M_0003702" sort="K" type="이름">子光</index>援引<index num="0584301_0" type="서명">《禮經》</index>, 欲服大行王喪, 其心志可喜。 但時移事殊, 不必盡用<index num="0584302_0" sort="K" type="지명">周</index>制。 我朝參酌古今, 勒成<index num="0584303_0" type="서명">《大典》</index>。 凡爲人子者, 方守親喪, 遇君喪, 無改服之制。 君喪雖重, 母喪亦非輕。 亡母在殯未久, 而著紗帽、網巾, 詣(關)<annotation type="교감주">
+                <noteTitle>〔闕〕</noteTitle>
+              </annotation>隨班, 駭人視聽。 今一開端, 後必效此, 遂成格例, 事勢實爲未便。 <index num="0584304_0" ref="M_0003702" sort="K" type="이름">子光</index>所啓, 宜勿施行。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>성종을 위하여 수륙재를 올리려 하자 강백진·이의손이 반대하여 상소하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="623면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○司憲府掌令<index num="0584305_0" ref="M_0000926" sort="K" type="이름">康伯珍</index>、司諫院正言<index num="0584306_0" ref="M_0004932" sort="K" type="이름">李懿孫</index>啓: "伏聞爲大行大王, 行水陸齋之敎。 大行王嘗不好佛, 且今新政之初, 臣民望治之時, 宜去邪道, 以從禮文。" 傳曰: "先王豈皆好佛! 然水陸之設, 自祖宗朝已然, 而大行王亦無遺命止之, 今不可遽廢。" <index num="0584307_0" ref="M_0000926" sort="K" type="이름">伯珍</index>等更啓: "大行大王於佛道, 本不崇信。 今於七七之日, 若設水陸齋, 則非孝子奉先之意, 請勿行。" 傳曰: "先王皆行之。 大行王雖不好佛, 亦爲先王而行之。 予亦當爲大行王而行之。" 弘文館副提學<index num="0584308_0" ref="M_0002888" sort="K" type="이름">成世明</index>等書啓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>伏聞爲大行大王, 將設佛齋, 令本館製疏以進, 不勝驚愕。 此雖出於哀痛罔極之誠, 然非禮之擧, 實非所以盡孝之道也。 大行大王在平昔, 不信佛敎, 臣民所共知。 今欲爲大行盡誠, 而反於平昔, 則甚非所謂 ‘如事生之道’也。 況正始之初, 尤所當謹! 在今擗踊哀痛之時, 敢此籲號者, 誠以所關者大也。</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "其以語臺諫者, 語之。" <index num="0584309_0" ref="M_0000926" sort="K" type="이름">伯珍</index>等更啓, 不從。 <index num="0584310_0" ref="M_0002888" sort="K" type="이름">世明</index>等更啓: "大行大王, 自卽位以來, 不信佛敎。 如度僧之法, 乃先王所定, <index num="0584311_0" type="서명">《大典》</index>所載, 而一朝斷然革去, 使良民不復爲僧, 新創寺社, 一切禁止。 且於經筵, 語及佛事, 每敎群臣曰: ‘予之不信, 爾等所知。’ 天語丁寧, 炳然在耳。 今在嗣服之初, 事事宜遵先志, 而反擧 大行所不信之事, 佞佛求福, 則大行在天之靈, 其肯之乎? 況正始之初, 萬化所出, 萬民所觀, 在所尤謹, 而乃敎曰: ‘爲先王設齋。 大行王亦嘗不廢, 又無遺敎止之。’ 不勝缺望。 大行之有此擧, 特勉從先志耳, 非其本意。 且不有遺敎者, 初不知有今日之擧也。" 傳曰: "前言已盡。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>승지 강귀손이 태종에 대한 세자의 호칭 문제를 상고할 것을 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○承旨<index num="0584312_0" ref="M_0000902" sort="K" type="이름">姜龜孫</index>啓: "<index num="0584313_0" ref="M_0034056" sort="K" type="이름">太宗</index>於大行王, 爲高祖。 故於祭告, 稱皇祖考。 今於世子, 爲五世。 攷於古文, 稱號無據。 世子時未卽位, 故不指曰某祖, 而泛稱。 明日卽位之後, 則將何以稱之? 請令大臣及禮曹, 同議稱號, 又令弘文館, 博考古文。" 傳曰: "可。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>윤필상·노사신·신승선·이극돈·김응기를 산릉 간심사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">007</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>왕실-종사(宗社)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="0584314_0" ref="M_0003959" sort="K" type="이름">尹弼商</index>、<index num="0584315_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>、<index num="0584316_0" ref="M_0003131" sort="K" type="이름">愼承善</index>、<index num="0584317_0" ref="M_0004161" sort="K" type="이름">李克墩</index>、<index num="0584318_0" ref="M_0034475" sort="K" type="이름">金應箕</index>, 爲山陵看審使。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>세자가 모든 정승이 예궐하기를 전교하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">008</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○世子傳曰: "大行王有遺敎曰: ‘宜與政丞, 議斷國事。’ 今聞政丞等, 或有不詣闕者, 其竝召之。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012026_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>승정원과 예조가 작호를 받은 부인의 상복을 백의 3년으로 할 것을 의논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">009</docNo>
+            <date>
+              <dateOccured date="1494-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>의생활-예복(禮服)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○傳曰: "先王命婦, 當服喪否?" 政院與禮曹議啓: "兩殿壓尊, 不可服衰, 當以白衣終制矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wja_10012027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>燕山君 卽位年 12月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1494-12-27L0" type="서기"/>
+            <dateOccured type="간지">壬午</dateOccured>
+            <dateOccured type="재위연도">연산 즉위년 12월 27일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 103년 12월 27일</dateOccured>
+            <dateOccured type="중국연호">명 홍치(弘治) 7년 12월 27일</dateOccured>
+            <dateOccured type="단기">3827년 12월 27일</dateOccured>
+            <dateOccured type="일본연호">년 12월 27일</dateOccured>
+            <dateOccured type="display">명 홍치(弘治)7년 12월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wja_10012027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>승정원이 수라 들기를 권하여 이에 따르다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>식생활-주부식(主副食)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬午/承政院啓: "<index num="0584319_0" ref="M_0032471" sort="K" type="이름">世宗大王</index>遺敎曰: ‘三日後可進食。’ 請從是敎。" 傳曰: "予已歠粥。 進食則當待成殯後酌爲之。" 更啓, "若不進膳, 則王妃亦豈肯進膳? 請勿違先王遺敎, 爲王妃强進。" 傳曰: "先王遺敎大矣, 予勉從之。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>강백진·이의손이 불사의 폐해를 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○司憲府掌令<index num="0584320_0" ref="M_0000926" sort="K" type="이름">康伯珍</index>、司諫院正言<index num="0584321_0" ref="M_0004932" sort="K" type="이름">李懿孫</index>啓: "佛事於先王, 若小有利益, 臣子當先啓請。 臣等當擗踊之時, 固爭不己者, 以其虛誕無益, 有累正始之道也。" 命示于政丞等, 仍傳曰: "祖宗朝皆行, 豈爲好佛而然歟? 大行大王不好佛, 亦爲先王不敢廢也。 今者, 臺諫累日論啓, 卿等以予不可從之意, 開諭何如?" <index num="0584322_0" ref="M_0003959" sort="K" type="이름">尹弼商</index>等啓: "伏聞上敎, 是出於哀痛迫切之至。 其聽與不聽, 斷在聖心。 臣等不敢開諭。" <index num="0584323_0" ref="M_0000926" sort="K" type="이름">伯珍</index>等更啓: "不作佛事, 昭載禮文。 況初政, 不從禮文, 而從邪道, 中外缺望。" 不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍문관 부제학 성세명 등이 불사를 하지 말도록 서계하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○弘文館副提學<index num="0584324_0" ref="M_0002888" sort="K" type="이름">成世明</index>等書啓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>我<index num="0584325_0" ref="M_0047665" sort="K" type="이름">世祖大王</index>, 常敎群臣曰: "予雖信佛氏, 然不欲勞民傷財, 後王不可法我。" 大行大王, 每於經筵, 敎曰: "予之不信佛敎, 爾等所知。" 夫以崇信佛敎, 如<index num="0584326_0" ref="M_0047665" sort="K" type="이름">光廟</index>而猶有是敎, 不信佛敎, 如大行而丁寧敎戒如是者, 皆爲後嗣計也。 今乃媚佛追薦, 則是不有祖訓也。 <index num="0584327_0" ref="M_0014330" sort="A" sort2="춘추·魯" type="이름">孔子</index>曰: "三年無改於父之道, 可謂孝矣。" 上賓未幾, 遽爾自用, 敢改先志, 可謂孝乎? 況在正始之初, 中外咸仰, 以觀新化, 而反崇異道, 以示愚民, 虧損聖德, 無甚於此。</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "爾等謂予爲不孝耶? 予若行先王所不行之事, 而不遵先王之敎, 則言之可也。 今無遺敎, 祖宗朝所行之事, 予何獨不然。" <index num="0584328_0" ref="M_0002888" sort="K" type="이름">世明</index>等書啓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>自昨日至今日, 累陳不已, 而迄無頷可竊惑焉, 大行王高明之德, 二十六年之間, 無有一事瑕玷, 而上賓之後, 遽加以非禮之事, 以累盛德, 甚非孝子事之如生之意也。 且今日, 所當觀法者, 不必遠求, 惟大行之初服是效耳。 大行之或爲先王追薦者, 誠以當先王崇信之後, 不忍遽改其志耳, 非其本意也。 今可獨循故事, 而忍違先志乎? 孝子之於親, 當思其所嗜, 思其所樂, 大行之所嗜、所樂者, 爲何事乎? <index num="0584329_0" type="서명">《詩》</index>曰: "念玆皇祖, 陟降庭止。" 伏惟留心焉。</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "爲先王也。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>모친상과 국상이 겹친 유자광에게 모친상을 따르도록 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>사법-법제(法制)</subjectClass>
+            <subjectClass>윤리-강상(綱常)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○傳于承政院曰: "<index num="0584330_0" ref="M_0003702" sort="K" type="이름">柳子光</index>居母服, 而請服君喪, 政丞等云 ‘可從其願’, 禮曹則以爲 ‘不可 聽’, 將何以處之? 更問于政丞等。" <index num="0584331_0" ref="M_0003959" sort="K" type="이름">尹弼商</index>啓: "不可以此開端, 依禮曹所啓, 何如?"; <index num="0584332_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>啓: "若有事, 則雖在喪者, 當起復詣闕。 <index num="0584333_0" ref="M_0003702" sort="K" type="이름">子光</index>之請, 於義無妨。"; <index num="0584334_0" ref="M_0003131" sort="K" type="이름">愼承善</index>啓: "依前議, 何如。" 傳曰: "爲先王之誠, 予實嘉之。 然國有成法, 不可聽, 其以是意諭<index num="0584335_0" ref="M_0003702" sort="K" type="이름">子光</index>。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>표연말·양희지·권주 등이 성종을 위하여 불재를 지내지 말 것을 서계하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○弘文館直提學<index num="0584336_0" ref="M_0006406" sort="K" type="이름">表沿沫</index>、典翰<index num="0584337_0" ref="M_0003380" sort="K" type="이름">楊熙止</index>、應敎<index num="0584338_0" ref="M_0000180" sort="K" type="이름">權柱</index>、副應敎<index num="0584339_0" ref="M_0061406" sort="K" type="이름">洪瀚</index>、副修撰<index num="0584340_0" ref="M_0000226" sort="K" type="이름">金勘</index>書啓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>臣等, 今方撰大行王行狀于<index num="0584341_0" sort="K" type="지명">景福宮</index>藝文館。 此雖國家及期大事, 然嗣服惟新之初, 臣民想望之日, 行此佛齋, 大累聖德。 敢撤所事來啓耳。 釋氏誕妄, 今不暇論。 <index num="0584342_0" type="서명">《記》</index>曰: "孝子不忍死其親。" 大行王痛闢佛敎, 無一毫崇信之意, 非徒嗣王所灼知, 一國臣民, 無不知之。 今大行新陟, 未就榟宮, 聲音笑貌, 洋洋如在, 而當擗踊哀痛之際, 以大行所不爲之事, 爲大行追薦, 其於孝子不忍死其親之心, 安乎? 必緇徒設幄, 呼唱靈駕, 大行在天之靈, 必怫然怒矣。 其肯下享乎? 其肯曰: "我有後嗣而善繼其志乎?" 臣等以經幄舊臣, 今覩此擧, 感念疇昔, 不勝痛哭。 伏願亟命停罷, 以追先志, 以謹初服, 幸甚。</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "爲先王事, 何以敢言乎?" <index num="0584343_0" ref="M_0006406" sort="K" type="이름">沿沫</index>等更啓: "<index num="0584344_0" ref="M_0034056" sort="K" type="이름">太宗</index>不信佛敎, 至革寺社, 故<index num="0584345_0" sort="K" type="지명">獻陵</index>獨無齋宮。 大行王平昔亦不好佛。 今乃以所不好之事, 追薦(寅)<annotation type="교감주">
+                <noteTitle>〔冥〕</noteTitle>
+              </annotation>福, 可謂孝乎? 新服之初, 四方瞻望, 而先示邪道, 是豈正始之道乎?" 傳曰: "<index num="0584346_0" sort="K" type="이름">太宗</index>賓天後, 其不設齋耶? 他陵皆有齋宮耶? 問于政丞。" 政丞啓: "<index num="0584347_0" sort="K" type="이름">太宗</index>果革寺社矣。 設齋與否, 年久未記, 他陵皆有齋宮矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍문관 수찬 손주가 수륙재를 올리는 소문을 짓기를 사양하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="624면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○弘文館修撰<index num="0584348_0" ref="M_0047914" sort="K" type="이름">孫澍</index>啓: "令臣製設齋疏文以進, 本館方論設齋未便, 而臣若反製疏文, 其於事體, 何如? 臣不敢奉敎。" 傳曰: "予旣命之, 何不製歟?" <index num="0584349_0" ref="M_0047914" sort="K" type="이름">澍</index>啓: "館中時方論啓, 臣亦知其非而製之, 則於事體未便, 不敢奉敎。" 傳于政丞等曰: "<index num="0584350_0" ref="M_0047914" sort="K" type="이름">孫澍</index>承命, 不製疏文, 可乎? 强辭至再, 然則已之歟? 政丞等啓: "<index num="0584351_0" ref="M_0047914" sort="K" type="이름">孫澍</index>不奉敎命, 於禮似慢。 然其心以謂時方論請, 而反製佛疏, 則事與心異, 故敢辭耳。" 傳于<index num="0584352_0" ref="M_0047914" sort="K" type="이름">澍</index>曰: "其在先朝, 非不設齋, 其速製進。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>예문관 봉교 이소 등이 성종의 불교 배척 의지를 본받기를 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">007</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="5장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○藝文館奉敎<index num="0584353_0" ref="M_0041424" sort="K" type="이름">李宵</index>等啓: "臣等雖無言責, 久侍經幄, 歷知大行大王深斥佛敎。 祝壽之齋, 自祖宗朝行之已久, 而罷之; 度僧之法, 載在大典而亦罷之。 至於經筵嘗曰: ‘予之不好佛, 爾等咸知。’ 臣等追念聖敎, 洋洋在耳。 嗣王亦豈不知? 今者賓天未幾, 小大皇皇, 擗踊奔走之時, 撞鍾擊鼓, 飯佛齋僧, 題疏緘曰: ‘朝鮮國王’云云, 非徒臣民缺望, 深恐在天之靈, 亦必有所憾也。 <index num="0584354_0" ref="M_0014330" sort="A" sort2="춘추·魯" type="이름">孔子</index>曰: ‘三年無改於父之道, 可謂孝矣。’ 未審此擧, 可謂孝乎? 況當嗣服之初, 臺諫、侍從之言, 一切拒之, 首擧非禮之事, 率一國以左道, 非所以自貽哲命之道。 伏望勉從輿望, 以示惟新之化。" 不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍문관 부제학 성세명 등이 절에 재 올림을 책하고, 영의정 이극배가 사직을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">008</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="5장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○弘文館副提學<index num="0584355_0" ref="M_0002888" sort="K" type="이름">成世明</index>等啓: "敎曰: ‘爲大行之事。’ 臣等未解。 繼(太)<annotation type="교감주">
+                <noteTitle>〔大〕</noteTitle>
+              </annotation>行之志, 述大行之事, 則可謂爲大行矣。 今乃違大行之志, 反大行之事, 而謂爲大行, 可乎? 大行王, 凡國事必與大臣商議, 今何不歷問大臣乎? 大臣, 引君當道者也。 正當謹始之初, 誰肯以齋僧、飯佛, 爲嗣服首事乎? 若此事所關, 不甚重大, 則當此五內摧裂之時, 安敢累瀆不已乎?" 傳曰: "予已歷問大臣矣。" 領議政<index num="0584356_0" ref="M_0004163" sort="K" type="이름">李克培</index>, 令其弟吏曹判書<index num="0584357_0" ref="M_0004161" sort="K" type="이름">克墩</index>啓: "臣爲首相, 義當朝夕哭臨, 而病日益深, 起居須人。 成服卽位, 終始之大事, 而又不得趨班, 不勝痛悶。 辭職乞骸, 固非其時, 然勢迫敢啓。" 傳曰: "前者, 卿累請辭職, 而大行皆不允。 如有大事, 當就而議之, 其勿趨班, 安心調保。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012027_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>충청도 면천·서산·당진에 지진이 일어나다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">009</docNo>
+            <date>
+              <dateOccured date="1494-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>과학-천기(天氣)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="0584358_0" sort="K" type="지명">忠淸道</index>
+              <index num="0584359_0" sort="K" type="지명">沔川</index>、<index num="0584360_0" sort="K" type="지명">瑞山</index>、<index num="0584361_0" sort="K" type="지명">唐津</index>, 地震。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wja_10012028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>燕山君 卽位年 12月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1494-12-28L0" type="서기"/>
+            <dateOccured type="간지">癸未</dateOccured>
+            <dateOccured type="재위연도">연산 즉위년 12월 28일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 103년 12월 28일</dateOccured>
+            <dateOccured type="중국연호">명 홍치(弘治) 7년 12월 28일</dateOccured>
+            <dateOccured type="단기">3827년 12월 28일</dateOccured>
+            <dateOccured type="일본연호">년 12월 28일</dateOccured>
+            <dateOccured type="display">명 홍치(弘治)7년 12월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wja_10012028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>노사신이 절에 재 올림을 조종조의 고사로써 가볍게 여기다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸未/弘文館大提學<index num="0584362_0" ref="M_0003390" sort="K" type="이름">魚世謙</index>啓: "館員皆以言事詣闕, 大行行狀修撰稽緩, 敢取稟。" 傳曰: "其問政丞等": <index num="0584363_0" ref="M_0003959" sort="K" type="이름">尹弼商</index>啓: "拜表日近, 事甚緊急, 廢而來啓, 事體未便。 臺諫凡有所啓, 則掌務官獨來啓之。 請依此例, 一員留啓, 其餘皆還本館, 何如?"; 盧思愼啓: "事有緩急, 今一飯佛, 而國之興亡, 在於朝夕, 則言之, 可也。 爲先王設齋, 皆祖宗朝故事, 不可以此爲崇佛也。 擗踊哭泣, 非言事之時, 而舍其所事, 坌集闕下, 論難不已, 臣甚非之。 臣意以爲, 大事外, 如此事, 不必答之。"; <index num="0584364_0" ref="M_0003131" sort="K" type="이름">愼承善</index>默然不言, 但云: "吾意亦如<index num="0584365_0" ref="M_0002221" sort="K" type="이름">思愼</index>之言。"</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "正始之初, 飯佛、齋僧, 過孰大於此, 而<index num="0584366_0" ref="M_0002221" sort="K" type="이름">思愼</index>以謂: ‘非大事, 不必答。’ 不知<index num="0584367_0" ref="M_0002221" sort="K" type="이름">思愼</index>以何事爲大。" 應敎<index num="0584368_0" ref="M_0061406" sort="K" type="이름">洪瀚</index>歎曰: "使<index num="0584369_0" ref="M_0060441" sort="K" type="이름">許琮</index>、<index id="p16_000099_00" num="0584370_0" ref="M_0061186" sort="K" type="이름">洪應</index>在, 端不爲此言矣。"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012028_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍문관 부제학 성세명 등이 재 올림의 옳고 그름을 대신에게 묻기를 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○弘文館副提學<index num="0584371_0" ref="M_0002888" sort="K" type="이름">成世明</index>等啓: "昨日臣等所啓之意, 初欲訪問于政丞, 而敎曰: ‘承旨知之矣。’ 臣等問于承旨, 答曰: ‘但問<index num="0584372_0" sort="K" type="이름">太宗</index>時設齋與否及他陵齋宮有無而已。’ 此與臣等所啓之意有異。 請以臣等之言, 廣問大臣, 則可知其是非矣。" 傳曰: "言可聽, 則當問諸大臣。 不可聽, 故不問耳。" <index num="0584373_0" ref="M_0002888" sort="K" type="이름">世明</index>等啓: "臣等所啓, 是非判然, 而不問於大臣, 獨自斷之, 臣切痛心。 大行遇事, 必謀及大臣, 請議于大臣。" 不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012028_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>사헌부 장령 강백진이 즉위한 처음에 재 지내지 말기를 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="6장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○司憲府掌令<index num="0584374_0" ref="M_0000926" sort="K" type="이름">康伯珍</index>啓: "設齋事, 若不關於大體, 當(僻)<annotation type="교감주">
+                <noteTitle>〔擗〕</noteTitle>
+              </annotation>踊之時, 豈敢如此煩瀆? 今嗣服之初, 中外望治之日, 尤不可以左道表率。" 不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012028_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍문관 수찬 손주가 불사를 거행하는 일로 소문짓기를 거절하여 승지가 짓다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="6장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○弘文館修撰孫澍書啓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>嗣服正始之初, 首擧佛事, 違先志、累聖德, 無甚於此。 故館中, 時方論啓, 而反製供佛疏文, 則非但有累事體, 抑且言與行違也。 雖人主之命, 若大關事體, 則古之人, 有封還詔書者。 方擗踊哀痛之際, 煩瀆聖聽, 豈忍爲哉? 第念大行大王, 高明光大, 不信佛敎。 而上賓未幾, 媚佛邀福, 擧非禮之事, 此非但衊汚大行大王卄餘年之聖化, 其有累於初政, 尤甚大, 則豈可承順而製疏文哉? 所言非所行, 所行非所言, 則是下負所學, 上負大行大王盛德, 豈忍爲哉?</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "累命製進, 固辭不從, 此何如耶? 其問政丞等。" <index num="0584375_0" ref="M_0003959" sort="K" type="이름">尹弼商</index>啓: "製進後諍之, 可也。 澍乃固辭, 是不欲變其初心, 亦不可謂非也。 且於此時, 不宜治罪, 姑令他員製進何如?"; <index num="0584376_0" ref="M_0003131" sort="K" type="이름">愼承善</index>曰: "孫澍之事, 果爲無禮。 然不可此時治罪, 令他員製進, 何如?"; <index num="0584377_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>曰: "我朝<index num="0584378_0" ref="M_0000889" sort="K" type="이름">太祖</index>、<index num="0584379_0" sort="K" type="이름">太宗</index>、<index num="0584380_0" ref="M_0032471" sort="K" type="이름">世宗</index>, 旣皆行之, 今不可廢也。 然孫澍則旣已抗論, 雖死必不製矣。 此事甚急, 姑令承政院製送何如? 澍之事當於後日, 在上裁耳。" 承旨<index num="0584381_0" ref="M_0000902" sort="K" type="이름">姜龜孫</index>曰: "政院亦職帶(絰)<annotation type="교감주">
+                <noteTitle>〔經〕</noteTitle>
+              </annotation>筵, 而立心, 且不下於孫澍, 澍不從命, 而政院其肯製之乎?" <index num="0584382_0" ref="M_0002221" sort="K" type="이름">思愼</index>强啓, 傳曰: "政院製送。" 承旨等, 令香室入直正字, 謄寫舊疏而送。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012028_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>축수재를 지냄에 대해 강백진·이의손 등이 하지 말기를 서계하였으나, 듣지 않다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="6장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="625면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○掌令<index num="0584383_0" ref="M_0000926" sort="K" type="이름">康伯珍</index>、正言<index num="0584384_0" ref="M_0004932" sort="K" type="이름">李懿孫</index>書啓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>祝壽齋, 先世例事, 大行王廢之; 度僧之法, 著在令甲, 大行王亦不遵守。 <index num="0584385_0" type="서명">《語》</index>云: "三年無改於父之道, 可謂孝矣。" 今此飯僧、媚佛, 曾是以爲孝乎?</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "今云三年無改父之道, 大行王爲<index num="0584386_0" ref="M_0050740" sort="K" type="이름">睿宗</index>, 非不行也。 又無遺敎禁止, 予爲先王, 何爲不行哉!" <index num="0584387_0" ref="M_0000926" sort="K" type="이름">伯珍</index>等又書啓曰:</paragraph>
+            <paragraph align="center">
+              <quotation>今初政, 中外臣民, 引領拭目, 想望風化。 命設水陸, 大張飯佛, 非徒駭人聽聞, 甚妨於正始。</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "若可聽之事, 則予何不聽。 當此擗踊之時, 煩瀆如此, 政院其勿出納。" 侍講院輔德<index num="0584388_0" ref="M_0000433" sort="K" type="이름">李琚</index>等上箚曰:</paragraph>
+            <paragraph align="center">
+              <quotation>臣等俱以庸劣, 嘗侍書筵, 上於學問, 日就高明, 理之邪正、事之是非, 無不灼知。 臣等常謂, 他日必無過擧。 今嗣位之初, 首擧佛事, 夫飯佛齋僧, 人主之惡德。 況今初服, 萬民望治之日, 其所爲乃至於此, 臣等缺望。 臣等初聞是事, 卽欲來啓, 然臺諫、侍從方言之。 臣等以謂, 殿下當從諫弗咈, 去邪勿疑, 以新初政, 至于今日, 兪音未下。 臣等久侍東宮, 雖無輔導之功, 伏覩過擧, 不可不言, 敢干天聽。 伏望命停佛事, 以副臣等宿昔之望。</quotation>
+            </paragraph>
+            <paragraph align="center">不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012028_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>예조가 태종 대왕의 칭호를 임시로 칭하고, 홍문관이 옛 제도를 상고하도록 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>왕실-종사(宗社)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○禮曹啓: "<index num="0584389_0" sort="K" type="이름">太宗</index>
+              <index num="0584390_0" type="서명">《大王》</index>, 於世次當祧, 在廟稱號爲難。 今姑泛稱<index num="0584391_0" sort="K" type="이름">太宗</index>, 後令弘文館考古制, 施行。" 令示政丞, 政丞等啓: "當如禮曹所啓。" 從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012028_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정시에 대렴하고 신시에 성빈하고 전을 올리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">007</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁時, 大歛, 百官哭臨。 辛時, 成殯, 遂設奠, 百官哭臨。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012028_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>5일 동안 철시하다. 모든 백성과 왜인까지 슬퍼하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">008</docNo>
+            <date>
+              <dateOccured date="1494-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○輟市五日。 閭巷小民, 無不哀痛, 至有垂泣而言曰: "何不以我, 代上之身乎?" <index num="0584392_0" sort="J" type="지명">倭人</index>之到館者, 見我人衣白、不食肉, 問其故, 對之以實。 <index num="0584393_0" sort="J" type="지명">倭人</index>相與泣曰: "聖主之薨, 胡適我輩之來?" 悲慟不止。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wja_10012029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>燕山君 卽位年 12月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1494-12-29L0" type="서기"/>
+            <dateOccured type="간지">甲申</dateOccured>
+            <dateOccured type="재위연도">연산 즉위년 12월 29일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 103년 12월 29일</dateOccured>
+            <dateOccured type="중국연호">명 홍치(弘治) 7년 12월 29일</dateOccured>
+            <dateOccured type="단기">3827년 12월 29일</dateOccured>
+            <dateOccured type="일본연호">년 12월 29일</dateOccured>
+            <dateOccured type="display">명 홍치(弘治)7년 12월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wja_10012029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>승정원이 즉위 때 사령을 반포할 것을 아뢰니, 정승들이 충군자만 석방토록 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲申/承政院, 書<index num="0584394_0" ref="M_0047665" sort="K" type="이름">世祖</index>、<index num="0584395_0" ref="M_0050740" sort="K" type="이름">睿宗</index>、大行王卽位頒赦之例以啓。 傳曰: "一從大行王例。" 政丞等啓: "凡定屬者, 或爲官奴, 或爲驛子, 以實邊圉。 若皆放之, 則兩界及驛路虛踈。 臣等意, 定屬, 不可放也。 但充軍者, 放之何如? 且大行王以旁支, 入承大統, 故特加百官一階。 今則以正承襲, 不可用此例加百官階。" 傳曰: "充軍者勿論輕重, 皆放之, 定屬勿放。 百官亦勿加階。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012029_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>승지 송질을 보재어 장의사에서 수륙재를 지내게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○遣承旨<index num="0584396_0" ref="M_0048219" sort="K" type="이름">(宗軼)<annotation type="교감주">
+                  <noteTitle>〔宋軼〕</noteTitle>
+                </annotation>
+              </index>, 行水陸齋于藏義寺。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012029_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>성균관 및 사학의 유생들이 대궐문 밖에서 곡림하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○成均館及四學儒生等, 詣闕門外哭臨。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012029_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>미시에 성복하다. 의례를 마치고 중외에 사령을 반포하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○未時, 成服。 王世子服衰絰, 王子及宗親、文武百官皆服衰, 入就位, 俯伏哭。 代奠官酌酒奠訖, 王世子以下還廬次, 百官以次出。 王妃及王世子嬪、內外命婦服喪, 如儀禮訖。 都承旨陳遺敎凾于欑宮南, 尙瑞院官, 陳大寶于其南。 宗親、文武百官, 變服朝服, 就門外位。 左議政<index num="0584397_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>, 詣殯殿東南隅, 西向俯伏。 王世子釋衰服, 具冕服出。 左通禮引王世子, 由東門入就位。 <index num="0584398_0" ref="M_0002221" sort="K" type="이름">思愼</index>詣欑宮南案前跪, 奉大寶西向立。 王世子陞自東階, 入詣香案前跪。 <index num="0584399_0" ref="M_0002221" sort="K" type="이름">思愼</index>以大寶, 授王世子, 王世子以授近侍, 降就位四拜訖, 出西門, 近侍奉大寶前行, 宗親、文武百官以次出。 王御<index num="0584400_0" sort="K" type="지명">仁政殿</index>簷下, 受百官賀如儀, 還入廬次, 釋冕服, 反喪服。 宗親、文武百官出門外, 服衰服, 還入庭中。 頒赦于中外, 敎曰:</paragraph>
+            <paragraph align="center">
+              <quotation>予惟我大行大王, 以聰明睿智之聖, 承祖宗艱大之業, 宵衣(肝)<annotation type="교감주">
+                  <noteTitle>〔旰〕</noteTitle>
+                </annotation>食, 勵精圖治, 蓋二十有六年于玆矣。 文敎蔚興, 武功赫然, 民安物阜, 德澤洽于四方。 禮備樂和, 治化光于前烈, 巍巍蕩蕩, 不可名焉。 大德必得其壽, 期享福之無(彊)<annotation type="교감주">
+                  <noteTitle>〔疆〕</noteTitle>
+                </annotation>, 皇天降割我家, 慟攀(胡)<annotation type="교감주">
+                  <noteTitle>〔呼〕</noteTitle>
+                </annotation>之莫及。 豈惟宗社之大慼, 實是臣民之不幸。 呼天叫地, 哀我何怙, 方煢煢而在疚, 遽忍安於踐祚。 第以大統不可久曠, 神器不可暫虛, 玆不獲已, 乃於十二月二十九日甲申, 卽位於昌德宮。 尊<index num="0584401_0" ref="M_0006787" sort="K" type="이름">仁粹王大妃</index>、<index num="0584402_0" ref="M_0006792" sort="K" type="이름">仁惠王大妃</index>爲大王大妃, 尊大行王妃爲王大妃, 以嬪<index num="0584403_0" ref="M_0059037" sort="K" type="이름">愼氏</index>爲王妃。 玆當嗣服之初, 宜布作解之恩。 自是日昧爽以前, 除謀反、大逆、謀叛, 子孫謀殺、歐罵祖父母ㆍ父母, 妻妾謀殺夫, 奴婢謀殺主, 蠱毒、魘魅, 但犯强盜外, 已發覺未發覺, 已決正未決正, 咸宥除之。 敢以宥旨前事, 相告言者, 以其罪罪之。 收職牒者還給, 徒、流、付處、充軍者, 竝皆放釋。 於戲! 惟天惟祖宗, 全付予有家。 若涉淵(水)<annotation type="교감주">
+                  <noteTitle>〔氷〕</noteTitle>
+                </annotation>, 罔知攸濟。 尙賴臣隣之助, 永底隆平之治。</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012029_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>성균관 유생 조유형 등이 선왕을 위해 재를 지냄은 효도가 아니니 금지를 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="8장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○成均館儒生<index num="0584404_0" ref="M_0006134" sort="K" type="이름">趙有亨</index>等上書曰:</paragraph>
+            <paragraph align="center">
+              <quotation>伏以大行大王, 至仁育物, 如天地之覆燾、父母之撫鞠, 吾東方萬世之福也。 一朝不幸, 奄棄群臣。 雖深山窮谷愚夫愚婦, 莫不奔走哀號, 如喪考妣。 旣臣等, 涵泳敎育恩乎! 今殿下新登寶位, 凡所施爲, 罔不在初。 中外臣庶(器)<annotation type="교감주">
+                  <noteTitle>〔哭〕</noteTitle>
+                </annotation>泣之餘, 揮涕延頸, 願聞新政之何如? 臣等伏聞, 國家爲先王求福, 設齋禱佛, 臣竊痛焉。 先王有盛德大業, 福祿如天, 何必謟佛妄求, 然後爲福也。 此非福先王也, 乃累先王也。 臣聞<index num="0584405_0" type="서명">《書》</index>曰: "若生子, 罔不在<annotation type="교감주">
+                  <noteTitle>〔厥〕</noteTitle>
+                </annotation>初生。 自貽哲命, 今天其命哲、命吉凶、命歷年, 知今我初服。" <index num="0584406_0" type="서명">《詩》</index>曰: "不愆不忘, 率由舊章。" 自古人主, 未有不能正其始而能善其終者也。 正始之要, 不過曰: "遵先王之法而已。" 恭惟我大行大王, 聖神文武, 扶植斯道, 滅絶異端, 祝壽之齋、度僧之法, 一切停罷。 敎化大行, 至於閭巷細民, 行父母之喪, 一遵<index num="0584407_0" type="서명">《家禮》</index>, 咸知禱佛之無益於親, 而且恥爲之。 故麗季汚俗, 一朝革去。 今殿下卽位之初, 人心之邪正、習俗之美惡、社稷之安危, 無不係焉。 此正念慕羹墻, 思所以慰先王在天之靈, 而無故(陞)<annotation type="교감주">
+                  <noteTitle>〔墜〕</noteTitle>
+                </annotation>先王已隆之敎, 爲小民所恥之事, 臣等爲殿下不取也。 大行大王, 至聖至明, (同)<annotation type="교감주">
+                  <noteTitle>〔洞〕</noteTitle>
+                </annotation>知佛氏之足以亂國家也。 故撫位二十六年, 斥而去之, 終始如一, 使惑世無賴之徒, 太半爲民矣。 豈肯依無賴之徒, 求福於土木之塊乎? 萬萬無此理, 天地神明所知, 中外臣(臣)民所痛, 臨之在上, 質之在旁, 不可誣也。 殿下此擧, 非徒有累於正始, 適足以欺先王在天之靈, 啓愚民邪妄之心。 <index num="0584408_0" ref="M_0014330" sort="A" sort2="춘추·魯" type="이름">孔子</index>曰: "三年無改於父之道, 可謂孝矣。" <index num="0584409_0" type="서명">《傳》</index>曰: "人能以父母之心爲心, 則可謂孝矣。" 今去先王棄弓之日, 未經一旬, 欲改先王之道之心, 而之崇信虛無怪誕之事, 可謂孝乎? 伏願殿下, 決邪正之機, 澄出治之源, 明先王精一之學, 快慰臣民如渴之望。</quotation>
+            </paragraph>
+            <paragraph align="center">傳曰: "自祖宗朝例行之事。" 不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012029_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정언 이의손이 송흠·김흥수가 성종에게 약을 잘못 썼다하여 극형 징계를 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="8장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○正言<index num="0584410_0" ref="M_0004932" sort="K" type="이름">李懿孫</index>啓: "自古醫侍君疾, 妄投湯劑者, 皆置法。 今外間皆曰: ‘大行大王有腫證, <index num="0584411_0" ref="M_0048336" sort="K" type="이름">宋欽</index>、<index num="0584412_0" ref="M_0002074" sort="K" type="이름">金興守</index>等, 不謹(胗)<annotation type="교감주">
+                <noteTitle>〔診〕</noteTitle>
+              </annotation>候, 誤進藥餌, 以致大故。’ 不勝痛憤。 <index num="0584413_0" ref="M_0032471" sort="K" type="이름">世宗</index>朝, <index num="0584414_0" ref="M_0037754" sort="K" type="이름">盧仲禮</index>、<index num="0584415_0" ref="M_0005706" sort="K" type="이름">全循義</index>等, 以奉藥無效, 皆受重罪。 請置<index num="0584416_0" ref="M_0048336" sort="K" type="이름">欽</index>等極刑, 以懲後。" 傳曰: "大行大王, 精於藥理, 在不豫時, 令醫考方付(摽)<annotation type="교감주">
+                <noteTitle>〔標〕</noteTitle>
+              </annotation>以入, 自察其藥, 合於證候, 而服之。 固非醫員擅進也。 常不接醫, 至疾革, 大妃累請, 然後使醫(胗)<annotation type="교감주">
+                <noteTitle>〔診〕</noteTitle>
+              </annotation>候。 予之所憾, 曷勝言哉! 如可治罪, 則固當重論。 然不可加以曖昧之罪, 其議于政丞等。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012029_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정승들과 국사를 의논하라는 성종의 유교를 시행토록 승정원에 전교하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">007</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="8장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="626면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○傳于承政院曰: "大行(太)<annotation type="교감주">
+                <noteTitle>〔大〕</noteTitle>
+              </annotation>王敎予云: ‘予踐位之初, 有院相。 汝初政, 令政丞等, 常坐政院, 同議國事。’ 當依遺敎施行。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wja_10012029_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>강백진·이의손이 수륙재에 대한 대간의 간언을 금지한 데 대해 실망을 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">008</docNo>
+            <date>
+              <dateOccured date="1494-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+              <page begin="627면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○掌令<index num="0584417_0" ref="M_0000926" sort="K" type="이름">康伯珍</index>、正言<index num="0584418_0" ref="M_0004932" sort="K" type="이름">李懿孫</index>啓: "昨日啓水陸齋不可事, 命勿啓臺諫之言。 人主高居深宮, 若不聞臺諫之言, 則朝廷得失、民間疾苦, 何由得知? 不勝缺望。" 傳曰: "予非謂他事也。 此事爲先王也。 決不可聽, 而敢言之, 故使不啓耳。"</paragraph>
+            <paragraph align="center">燕山君日記卷第一</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

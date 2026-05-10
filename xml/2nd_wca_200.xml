@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wca_200">
+  <front>
+    <biblioData type="T">
+      <title>
+        <mainTitle>附錄 / 纂修官 名單</mainTitle>
+      </title>
+      <source>
+        <mainTitle type="태백산사고본"> 16책 36권</mainTitle>
+        <page begin="30장 A면"/>
+      </source>
+      <source>
+        <mainTitle type="국편영인본"> 2책</mainTitle>
+        <page begin="252면"/>
+      </source>
+      <subjectClass>역사-편사(編史)</subjectClass>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center">○春秋館敬奉王旨撰進。</paragraph>
+      <paragraph align="center">監館事:</paragraph>
+      <paragraph align="center">大匡輔國崇祿大夫議政府右議政領集賢殿經筵事兼判兵曹事世子傅 臣<index num="0072574_0" ref="M_0002242" sort="K" type="이름">孟思誠</index>
+      </paragraph>
+      <paragraph align="center">同知館事:</paragraph>
+      <paragraph align="center">嘉靖大夫藝文館提學集賢殿提學同知經筵事世子右賓客 臣<index id="p16_000001_00" num="0072575_0" ref="M_0000414" sort="K" type="이름">尹淮</index>
+      </paragraph>
+      <paragraph align="center">嘉善大夫中軍都摠制府摠制世子左副賓客 臣<index id="p16_000006_00" num="0072576_0" ref="M_0049184" sort="K" type="이름">申檣</index>
+      </paragraph>
+      <paragraph align="center">記注官:</paragraph>
+      <paragraph align="center">朝散大夫直集賢殿知製敎經筵檢討官 臣<index id="p16_000020_00" num="0072577_0" ref="M_0050064" sort="K" type="이름">安止</index>
+      </paragraph>
+      <paragraph align="center">朝散大夫議政府舍人 臣<index num="0072578_0" ref="M_0000408" sort="K" type="이름">尹烱</index>
+      </paragraph>
+      <paragraph align="center">朝奉大夫議政府舍人知製敎 臣<index num="0072579_0" ref="M_0006063" sort="K" type="이름">趙瑞康</index>
+      </paragraph>
+      <paragraph align="center">朝奉大夫奉常少尹 臣<index num="0072580_0" ref="M_0000722" sort="K" type="이름">李㙲</index>
+      </paragraph>
+      <paragraph align="center">記事官:</paragraph>
+      <paragraph align="center">奉直郞司諫院左獻納知製敎兼承文院副校理 臣<index num="0072581_0" ref="M_0049827" sort="K" type="이름">安修己</index>
+      </paragraph>
+      <paragraph align="center">奉直郞集賢殿副校理知製 敎經筵副檢討官 臣<index num="0072582_0" ref="M_0004503" sort="K" type="이름">李先齊</index>
+      </paragraph>
+      <paragraph align="center">奉直郞司譯院判官 臣<index num="0072583_0" ref="M_0009387" sort="K" type="이름">朴始生</index>
+      </paragraph>
+      <paragraph align="center">務功郞藝文奉敎世子右副正字 臣<index num="0072584_0" ref="M_0009388" sort="K" type="이름">吳愼之</index>
+      </paragraph>
+      <paragraph align="center">務功郞藝文奉敎 臣<index num="0072585_0" ref="M_0001240" sort="K" type="이름">權自弘</index>
+      </paragraph>
+      <paragraph align="center">通仕郞藝文待敎 臣<index num="0072586_0" ref="M_0009389" sort="K" type="이름">張莪</index>
+      </paragraph>
+      <paragraph align="center">通仕郞藝文待敎 臣<index num="0072587_0" ref="M_0003406" sort="K" type="이름">魚孝瞻</index>
+      </paragraph>
+      <paragraph align="center">從仕郞藝文檢閱 臣<index num="0072588_0" ref="M_0001520" sort="K" type="이름">金文起</index>
+      </paragraph>
+      <paragraph align="center">從仕郞藝文檢閱 臣<index num="0072589_0" ref="M_0000914" sort="K" type="이름">姜孟卿</index>
+      </paragraph>
+      <paragraph align="center">從仕郞藝文檢閱 臣<index id="p16_000051_00" num="0072590_0" ref="M_0005123" sort="K" type="이름">李宗儉</index>
+      </paragraph>
+      <paragraph align="center">
+        <index num="0072591_0" type="연호">宣德</index>六年辛亥三月日進<annotation type="원주">
+          <noteContent>【計三十六卷】</noteContent>
+        </annotation>
+      </paragraph>
+    </content>
+  </text>
+</level2>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wnb_200">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>附錄</mainTitle>
+      </title>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 宣祖大王修正實錄 附錄</paragraph>
+    </content>
+  </text>
+  <level3 id="wnb_200001">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 《선조실록》 수정 범례 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">宣祖修正實錄 8책 42권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+          <page begin="704면"/>
+        </source>
+        <subjectClass>역사-편사(編史)</subjectClass>
+        <subjectClass>역사-사학(史學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○宣祖大王實錄 修正凡例</paragraph>
+        <paragraph align="center">一, <index num="1110294_0" type="서명">《實錄》</index>, 非但毁譽失眞, 狼藉無據也。 凡人名、地名、職名、國事大槪, 人所易知者, 皆錯換違悞。 又名臣奏疏, 關係治亂之幾者, 皆不書入。 今雖未能刪改謬譌, 至於大事, 首末源委及名臣奏疏, 隨所有纂錄。</paragraph>
+        <paragraph align="center">一, 實錄, 壬辰以上無日記, 或有月記, 或只年記, 壬辰以後方有日記。 今以野史採輯者, 不得爲日記, 只隨月記之, 而月亦未詳, 則當於年終書之。<annotation type="원주">
+            <noteContent>【或日字可考處, 則存之。】</noteContent>
+          </annotation>
+        </paragraph>
+        <paragraph align="center">一, 先錄綱領所載, 次採雜記, 次採碑誌、行狀。<annotation type="원주">
+            <noteContent>【行狀之類, 非止其人事跡, 或記國事, 或記他人得失, 皆得詳採。】</noteContent>
+          </annotation>
+        </paragraph>
+        <paragraph align="center">一, 野史之類, 文字荒雜, 今當節約成文。 誌狀之類, 美惡溢辭, 今當一從公論, 取節紀實, 不得一從本文。</paragraph>
+        <paragraph align="center">一, 野史雖出於名人, 失實則刪; 雖出於非人, 紀實則取。</paragraph>
+        <paragraph align="center">一, 雜取諸紀錄, 有一事而所紀差異, 當合幷刪, 略而書之。 其間所論, 意不貫屬, 源委未暢者, 不得已增潤完篇, 則間或有之。 然皆已着之事, 諸家已定之論, 皆據來歷書之。</paragraph>
+        <paragraph align="center">一, 野史是非不全, 具不得逐年齊排, 狀誌之類, 有褒而無貶, 難於添揷, 則此史是是多, 而非非少, 似爲不全。 然有可諉者, 修<index num="1110295_0" type="서명">《實錄》</index>時, 姦兇摠裁主張, 刪削增加, 皆自筆定。 伊人輩爲世所外, 徒黨甚少, 滿朝前後輩, 皆所仇對。 故所褒者, 只其身及所親密若干人; 所詆者, 皆先朝所倚任名臣。 不但其人受誣, 其汚衊盛世淸明之美已甚, 此雖褒多, 而不爲過也。 其有從公是非間, 有可觀者, 則實錄自具矣。 至於姦兇自褒自飾處, 則不得已, 而依史筆例, 稍存公議。</paragraph>
+        <paragraph align="center">一, 名臣奏疏, 切於一時是非, 後世龜鑑者, 或全載, 或刪載, 要在關世敎爲重。</paragraph>
+        <paragraph align="center">一, 凡實錄所記, 大事首末詳備及名臣啓箚疏章皆載者, 則於此書不載, 只存其大槪, 以屬事意。</paragraph>
+        <paragraph align="center">一, 此錄畢修之末, 歷擧實錄誣枉譌謬之狀, 兼今日修補之意, 作一段史論, 付于其末, 以備後考。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wnb_200002">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 《선조실록》 수정에 참가한 채유후의 후기(後記) </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">宣祖修正實錄 8책 42권</mainTitle>
+          <page begin="2장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+          <page begin="705면"/>
+        </source>
+        <subjectClass>정론(政論)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+        <subjectClass>역사-사학(史學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○臣謹按, 歷代修史者, 皆據當時起居注, 間採諸乘所載, 參以所覩記, 而尙多乖舛訛謬, 故<index num="1110296_0" type="서명">《綱目》</index>亦有證覽正誤之說。 若其秪徇私好惡, 滅了公是非, 甚至持曲作直, 指正爲邪, 構陷諸賢, 汚衊一世者, 則不得無釐正之擧, 卽<index num="1110297_0" sort="K" type="지명">宋</index>朝<index num="1110298_0" ref="M_0032195" sort="A" sort2="송" type="이름">范冲</index>之史是已。 況我<index num="1110299_0" ref="M_0047647" sort="K" type="이름">宣廟</index>實錄之撰修, 耑出於賊臣之手, 潛削史氏文字, 做作無根說話, 誣毁而肆詆之, 不遺餘力, 遂自諸臣而及於朝政, 豈不痛哉, 豈不痛哉? 及癸亥反正, 筵臣、相臣交請改修, 國家多故, 未遑此事, 識者皆以爲恨。 至癸未, 大提學<index num="1110300_0" ref="M_0000582" sort="K" type="이름">李植</index>上疏, 請速加修正, 別成一帙, 附藏史庫, 先王遂命領議政<index num="1110301_0" ref="M_0016683" sort="K" type="이름">金瑬</index>領其事, 而<index num="1110302_0" ref="M_0000582" sort="K" type="이름">李植</index>實主之。 史官時政記與注書日記, 竝入裒聚, 其有放失闕漏者, 則搜取家藏通報及野史雜記、諸人狀誌, 塡補裁刪, 要附於證覽正誤之義。 未訖功而<index num="1110303_0" ref="M_0000582" sort="K" type="이름">植</index>先卒, 事亦遂閣者久矣。 今上卽位之九年丁酉, 右議政<index num="1110304_0" ref="M_0003259" sort="K" type="이름">沈之源</index>請於上, 以畢其役, 遂開局于<index num="1110305_0" sort="K" type="지명">慶德宮</index>之承政院, 以領敦寧府事<index num="1110306_0" ref="M_0000307" sort="K" type="이름">金堉</index>領之, 分命<index num="1110307_0" ref="M_0003865" sort="K" type="이름">尹順之</index>、<index num="1110308_0" ref="M_0005004" sort="K" type="이름">李一相</index>及臣<index num="1110309_0" ref="M_0006273" sort="K" type="이름">&amp;#x2567F;後</index>等, 一依<index num="1110310_0" ref="M_0000582" sort="K" type="이름">李植</index>所著凡例, 踵而成之。 蓋以改修之意, 具著於<index num="1110311_0" ref="M_0000582" sort="K" type="이름">李植</index>之疏, 竝錄于左, 以備後考。 顧惟我<index num="1110312_0" ref="M_0047647" sort="K" type="이름">宣廟</index>在位四十二年, <index num="1110313_0" ref="M_0000582" sort="K" type="이름">李植</index>所修正, 自丁卯止丙申三十年, 而今玆續纂, 自丁酉止戊申十二年也。 吾東方文獻, 非不盛矣, 而諸家記錄, 多佚於前後變亂。 然丁酉以前, 則尙有存者, <index num="1110314_0" ref="M_0000582" sort="K" type="이름">植</index>之所修, 頗似詳備。 此以下, 則年代稍遠, 書籍亦尠, 秪就誣史中尤無據者, 以若干遺記及耳目所逮之實, 而證辨之, 遂以按實錄爲例。 其餘諸臣之被誣受垢者, 則不能盡擧而湔洗之, 然察其人之始終, 而可定其是非, 觀者詳之。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wnb_200003">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 《선조실록》의 수정을 청하는 대제학 이식의 소(疏) </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">宣祖修正實錄 8책 42권</mainTitle>
+          <page begin="3장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+          <page begin="705면"/>
+        </source>
+        <subjectClass>정론-정론(政論)</subjectClass>
+        <subjectClass>역사-사학(史學)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+        <subjectClass>역사-고사(故事)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○大提學<index num="1110315_0" ref="M_0000582" sort="K" type="이름">李植</index>上疏曰:</paragraph>
+        <paragraph align="center">
+          <quotation>史者, 一代之典章, 萬世之龜鑑, 是天敍、天秩之所寓; 民心、士論之攸繫, 國而無史, 非國也, 史而不公, 非史也。 昔<index num="1110316_0" sort="K" type="지명">宋</index>
+            <index num="1110317_0" ref="M_0032577" sort="A" sort2="송" type="이름">高宗</index>之南渡也, 行都未定, 和戰未決, 搶攘甚矣, 而<index num="1110318_0" sort="K" type="이름">元祐太后</index>首請改修國史, 以辨<index num="1110319_0" sort="K" type="이름">宣仁</index>之誣, <index num="1110320_0" sort="K" type="이름">高宗</index>卽命史官<index num="1110321_0" ref="M_0032195" sort="A" sort2="송" type="이름">范冲</index>, 因舊改修, 謂之朱墨史。 當時大儒<index num="1110322_0" ref="M_0014982" sort="A" sort2="송" type="이름">張栻</index>以爲: "此撥亂反正之大本。" 其非國家第二件事明矣。 臣竊惟, 我東文物之備、人材之萃, 莫盛於<index num="1110323_0" ref="M_0047647" sort="K" type="이름">宣廟</index>之世。 雖守義遘難, 旣崇而圮, 天心克享, 邦域再奠, 斯莫非聖人殷憂之所啓, 而事機之變, 締搆之效, 無非可傳於後世者, 則簡冊所載, 宜莫詳於此時也, 而不幸廢朝間之, 姦孽擅命, <index num="1110324_0" ref="M_0001283" sort="K" type="이름">奇自獻</index>爲摠裁, 而<index num="1110325_0" ref="M_0004951" sort="K" type="이름">李爾瞻</index>、<index num="1110326_0" ref="M_0046756" sort="K" type="이름">朴楗</index>等, 專任撰修, 陰削舊錄, 自加誣筆, 是非、名實一切倒置。 凡爲<index num="1110327_0" ref="M_0004951" sort="K" type="이름">爾瞻</index>所右者五六人, 則飾僞虛美, 擬諸聖賢, 此外名臣ㆍ碩輔、道學之士, 與其所素睚眦牴牾之人, 則憤辭醜罵, 擧加以<index num="1110328_0" sort="K" type="이름">窮奇</index>、<index num="1110329_0" sort="K" type="이름">擣扤</index>之罪。 至其末年所書<index num="1110330_0" ref="M_0003663" sort="K" type="이름">柳永慶</index>、<index num="1110331_0" ref="M_0005885" sort="K" type="이름">鄭仁弘</index>等事, 則敢爾滓穢日月之明, 掩蔽天地之大, 正與<index num="1110332_0" sort="K" type="이름">章蔡</index>之誣<index num="1110333_0" sort="K" type="이름">宣仁</index>, 同一姦軌, 尤非臣子可忍言者。 史庫之藏, 外人雖不能遍窺, 而前後實錄考見之時, 史臣目見相傳, 有不可諱者, 誠千古史家之一大變也。 臣謹稽, 癸亥反正之初, 筵臣<index num="1110334_0" ref="M_0041479" sort="K" type="이름">李睟光</index>、<index num="1110335_0" ref="M_0005589" sort="K" type="이름">任叔英</index>等, 卽請修正, 聖旨已兪, 翌年春, 相臣<index num="1110336_0" ref="M_0000356" sort="K" type="이름">尹昉</index>、宰臣<index num="1110337_0" ref="M_0047645" sort="K" type="이름">徐渻</index>等相繼申請, 皆蒙允許, 俾速擧行。 伏惟聖意, 委重此事, 無以加矣, 而國家多故, 有司惜費, <index num="1110338_0" type="서명">《光海日紀》</index>亦經作輟, 踈率僅就。 館閣大小臣僚, 牽掣時務, 未遑文事, 因循忽忘, 以至于今, 而每經變亂, 則史庫遺文及野錄、家傳之書, 堙沒殆盡。 今又老成掌故之臣, 死亡廢散, 在朝者無一二, 若更數年, 則如臣等輩, 亦必漸次就木, 耳目聞覩, 便成異代, 而誣史遂行矣。 夫惟國可滅, 史不可滅者, 古今之至論, 而今也國未亡而史先亡, 加而誣罔之筆, 汚衊盛美, 千載之後, 永無湔洗之望, 豈非我國臣子, 沒世無涯之痛乎? 臣曾與二三相臣, 論及此事以爲: "開局京師, 聚集藏本, 一時修正, 計不過數月可了。" 云則難者以爲: "時艱之際, 財費重大, 許多實錄, 久置京中, 脫有不虞, 恐歸全失。" 臣又以爲: "收拾野言、家錄, 折衷筆削, 附藏史庫, 亦是朱墨之遺意。" 而難者又以不大湔洗, 止於小補爲歉。 臣亦空言妄想而已, 不敢自任力贊, 到此地頭, 年衰志喪, 萬事茫昧, 而惟此一念, 刻心未忘, 常恐倐先朝露, 呑恨入地, 敢冒萬死, 復陳一得焉。 目今國力蕩竭, 時勢扤捏, 修正舊本之擧, 則誠難措手, 惟有便宜可爲者。 及此野言、家錄未盡散亡, 委定文學博故之臣堂上、堂下三四員, 皆以實職兼春秋, 而特以一大臣領其事, 就一閑處, 開局設庫, 令該曹計支紙筆, 而仍定算員, 逐日計的, 勿令濫費。 抽出各司剩濫書吏、使令, 輪回定數, 以備使喚ㆍ守直, 俾無別添廩料之費。 且此非史筆藏秘之比, 凡書寫之役, 亦以吏輩善寫者, 抄定分書, 則亦無加費矣。 其編緝凡例, 則首先求訪士夫家所藏記錄, 而外方則以都事兼春秋, 博訪民間, 聚集上送。 然後稟裁于大臣, 取其不謬于是非、名實者, 以爲一類, 又取名臣、善士碑、誌、狀、傳, 略倣<index num="1110339_0" ref="M_0032269" sort="A" sort2="송" type="이름">司馬光</index>
+            <index num="1110340_0" type="서명">《百官表》</index>、<index num="1110341_0" ref="M_0033766" sort="A" sort2="송" type="이름">朱子</index>
+            <index num="1110342_0" type="서명">《名臣言行錄》</index>, 以爲一類。 雖其收集之間, 當費時月, 刪定之役, 則計不過數月可定。 又取先朝名臣大儒文集, 有關於典章者, 依祖宗朝當時著述, 幷藏史庫之例, 一體付傳, 則庶幾一代典刑, 尙有徵於來許矣。 古之著述之士, 能以匹夫之力, 完就數百卷者有之; 前古史志, 出於干戈搶攘之際者, 尤詳且明, 不惟<index num="1110343_0" sort="K" type="이름">范氏</index>史爲然者。 無他焉, 中原專事文獻, 君上亦重之, 必委屬一二史臣, 俾伸其志, 卒其業, 故歷代史記, 如彼其盛, 此非外國之所企及也。 惟此先朝誣史, 關係大義, 決不可付之悠泛, 致有罔極之玷辱, 故臣不避譏嫌, 冒陳誠素。 伏願聖明, 垂察惕念, 下詢廟堂, 速賜裁處, 不勝幸甚。</quotation>
+        </paragraph>
+        <paragraph align="center"/>
+        <paragraph align="center">宣祖大王修正實錄卷之四十二</paragraph>
+      </content>
+    </text>
+  </level3>
+</level2>

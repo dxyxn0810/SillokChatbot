@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wsb_139">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>肅宗實錄補闕正誤 三十九年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1713" type="서기"/>
+        <dateOccured type="간지">癸巳</dateOccured>
+        <dateOccured type="재위연도">숙종 [보궐정오실록] 39</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 322</dateOccured>
+        <dateOccured type="중국연호">청 강희(康熙) 52</dateOccured>
+        <dateOccured type="단기">4046</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">청 강희(康熙) 52</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 三十九年(1713) 【<index num="1565621_0" sort="K" type="지명">淸</index>
+        <index num="1565622_0" type="연호">康熙</index>五十二年】</paragraph>
+    </content>
+  </text>
+  <level3 id="wsb_139010">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 正月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 正月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13901004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 1月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-01-04L0" type="서기"/>
+            <dateOccured type="간지">壬午</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 1월 4일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 1월 4일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 1월 4일</dateOccured>
+            <dateOccured type="단기">4046년 1월 4일</dateOccured>
+            <dateOccured type="일본연호">년 1월 4일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 1월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13901004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>영의정 이유가 즉위 40주년을 경축하는 계품이 없다 하여 해당 당상관을 추고할 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-01-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="502면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬午/領議政<index num="1565623_0" ref="M_0000634" sort="K" type="이름">李濡</index>, 啓以聖上卽位四十年, 請稱慶, 且以該曹之尙無啓稟, 請當該堂上, 從重推考, 上以乙卯紀元, 今年未滿四十爲敎, 命勿推勿擧行。</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "上敎至矣盡矣。 雖滿四十年, 臣子愛戴之誠, 亶不在於稱慶一節, 則況其不然者乎? 曾在<index num="1565624_0" ref="M_0047647" sort="K" type="이름">穆廟</index>末年, 倖臣<index num="1565625_0" ref="M_0003663" sort="K" type="이름">柳永慶</index>, 首倡此論, 至今目之以逢君。 豈意復起於今日乎?"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13901005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 1月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-01-05L0" type="서기"/>
+            <dateOccured type="간지">癸未</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 1월 5일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 1월 5일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 1월 5일</dateOccured>
+            <dateOccured type="단기">4046년 1월 5일</dateOccured>
+            <dateOccured type="일본연호">년 1월 5일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 1월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13901005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>영의정 이유 등이 즉위 40주년의 칭경(稱慶) 및 존호(尊號)의 일을 논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-01-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="502면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸未/上行朝參禮。 領議政<index num="1565626_0" ref="M_0000634" sort="K" type="이름">李濡</index>、兵曹判書<index num="1565627_0" ref="M_0006214" sort="K" type="이름">趙泰采</index>, 復陳稱慶之請。 <index num="1565628_0" ref="M_0000634" sort="K" type="이름">濡</index>曰: "<index num="1565629_0" ref="M_0047647" sort="K" type="이름">宣廟</index>亦以明年乃四十年爲敎, 而特因群情之懇至, 畢竟允許, 則今日自上勉從, 元非未安之事, 而先朝已行之禮, 殿下猶不肯受, 則事涉逕庭, 亦似未安矣。" <index num="1565630_0" ref="M_0006214" sort="K" type="이름">泰采</index>曰: "論以史家限年之法, 則今年是三十九年, 而若計自臨御初, 則恰滿四十年, 故群下之陳請, 蓋以此也。 皇朝<index num="1565631_0" ref="M_0031969" sort="A" sort2="명" type="이름">高皇帝</index>二十五年, 稱慶上壽, <index num="1565632_0" ref="M_0032471" sort="K" type="이름">世宗</index>三十年、四十年, 亦皆行之, <index num="1565633_0" ref="M_0047647" sort="K" type="이름">宣廟</index>朝亦據皇朝及我列聖朝故事而行之。 今苦執謙而不許, 則事涉逕庭, 亦恐未安矣。" 又曰: "列聖已行之事, 有同典禮, 到今遵行, 無異繼述。" 判府事<index num="1565634_0" ref="M_0004946" sort="K" type="이름">李頤命</index>、左承旨<index num="1565635_0" ref="M_0001462" sort="K" type="이름">金德基</index>, 亦相繼力請, 上答以勉從。 <index num="1565636_0" ref="M_0001462" sort="K" type="이름">德基</index>仍發尊號之論, <index num="1565637_0" ref="M_0000634" sort="K" type="이름">濡</index>、<index num="1565638_0" ref="M_0006214" sort="K" type="이름">泰采</index>, 復繼陳。 <index num="1565639_0" ref="M_0006214" sort="K" type="이름">泰采</index>曰: "自<index num="1565640_0" sort="K" type="지명">漢</index>、<index num="1565641_0" sort="K" type="지명">唐</index>、<index num="1565642_0" sort="K" type="지명">宋</index>曁于皇朝、我朝, 皆有請行之例, 有若典禮者然。 聖德撝謙不居, 群下益復抑鬱。" <index num="1565643_0" ref="M_0000634" sort="K" type="이름">濡</index>曰: "今已發端, 不可無端退去。 請使大臣、諸臣, 各陳所見。"<annotation type="원주">
+                <noteContent>【詳見上。】</noteContent>
+              </annotation>上以牢定爲敎, 終不聽。 歲初延訪, 嘉言寂寥, 廊廟訏謨, 罔非逢迎諂媚之言。 噫! 祖宗朝良法、美政, 廢墜者何限, 而未聞以修擧爲請, 顧乃以稱慶、尊號, 旣謂之典禮, 又謂之繼述, 必欲慫慂而贊成之。 秉國成者, 無識如此, 識者憂之。</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "徽號, 非古聖王盛節, 觀<index num="1565644_0" ref="M_0031660" sort="A" type="이름">陸贄</index>、<index num="1565645_0" ref="M_0032269" sort="A" type="이름">司馬光</index>之論, 可徵矣。 雖出於崇揚之至誠, 猶將爲導諛之歸。 況一二貪戀之輩, 較挈利害, 欲爲固寵保位之計者哉? 時, 朝著一進一退, 好惡靡定, 致以小人之腹, 妄揣上意, 謂可以爲此陳請, 固結於上, 而猶恐其得罪淸議, 囁嚅而不敢發者久矣。 <index num="1565646_0" ref="M_0000634" sort="K" type="이름">李濡</index>, 身在輔弼, 縱不能引君當道, 而役心於此等事, 倖他人之發口, 而欲遂其請, 其無識甚矣。 頃年<index num="1565647_0" ref="M_0004875" sort="K" type="이름">李裕民</index>之疏請也, 人多傳<index num="1565648_0" ref="M_0006214" sort="K" type="이름">泰采</index>主張, 故其從弟<index num="1565649_0" ref="M_0006212" sort="K" type="이름">泰億</index>, 欲論<index num="1565650_0" ref="M_0004875" sort="K" type="이름">裕民</index>, 而嫌其相逼, 問於<index num="1565651_0" ref="M_0006214" sort="K" type="이름">泰采</index>, 則牢諱之。 今乃反以主其疏爲己功, 人之無恥, 豈至於斯耶? <index num="1565652_0" ref="M_0006214" sort="K" type="이름">泰采</index>、<index num="1565653_0" ref="M_0001462" sort="K" type="이름">德基</index>等, 當前席奏對之際, 如癡如狂, 擧措駭悖。 且<index num="1565654_0" ref="M_0006214" sort="K" type="이름">泰采</index>與王子, 摠管班序, 適比肩, 敢欲爲附耳語。 傳曰: ‘鄙夫可與事君哉?’ 如<index num="1565655_0" ref="M_0006214" sort="K" type="이름">泰采</index>輩, 難乎免矣。"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13901006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 1月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-01-06L0" type="서기"/>
+            <dateOccured type="간지">甲申</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 1월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 1월 6일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 1월 6일</dateOccured>
+            <dateOccured type="단기">4046년 1월 6일</dateOccured>
+            <dateOccured type="일본연호">년 1월 6일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 1월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13901006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>호조 판서 조태구의 존호의 일에 대한 상소문</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-01-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="502면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲申/戶曹判書<index num="1565656_0" ref="M_0006208" sort="K" type="이름">趙泰耉</index>上疏陳戒。 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1565657_0" sort="K" type="지명">唐</index>臣<index num="1565658_0" ref="M_0031660" sort="A" type="이름">陸贄</index>之言曰: "尊號之興, 本非古制, 行於安泰之日, 已累謙沖。 又曰: "<index num="1565659_0" ref="M_0032223" sort="A" sort2="신화" type="이름">伏羲</index>、<index num="1565660_0" ref="M_0032675" sort="A" type="이름">神農</index>、<index num="1565661_0" ref="M_0034333" sort="A" type="이름">黃帝</index>、<index num="1565662_0" ref="M_0033589" sort="K" type="이름">堯</index>、<index num="1565663_0" ref="M_0033585" sort="K" type="이름">舜</index>, 自生民以來, 君德之最神聖者也, 其指以爲稱者, 曰皇曰帝, 唯是一字, <index num="1565664_0" ref="M_0034126" sort="A" type="이름">禹</index>、<index num="1565665_0" ref="M_0032358" sort="A" type="이름">湯</index>繼興, 莫非大聖, 尙自菲薄, 降號爲王。 <index num="1565666_0" sort="K" type="지명">嬴秦</index>, 德衰於<index num="1565667_0" sort="K" type="지명">殷</index>、<index num="1565668_0" sort="K" type="지명">周</index>, 名竊於<index num="1565669_0" ref="M_0032223" sort="A" type="이름">義昊</index>, 兼皇與帝, 始總稱之。 後代昏僻之君, 乃有姓對天元之號, 是知人主重輕, 不在名稱, 崇其號無補於徽猷, 損其名不傷於德美, 得失之侔, 居然可辨。" 末又云: "<index num="1565670_0" ref="M_0008418" sort="A" type="이름">伊尹</index>恥其君不如<index num="1565671_0" ref="M_0033589" sort="K" type="이름">堯</index>、<index num="1565672_0" ref="M_0033585" sort="K" type="이름">舜</index>, 臣亦恥之。" 如使<index num="1565673_0" ref="M_0031660" sort="A" type="이름">陸贄</index>非賢則已, 使<index num="1565674_0" ref="M_0031660" sort="A" type="이름">贄</index>而賢也, 其言豈不可信而服乎? 殿下聰明稽古, 明斷赫然, 凡所作爲, 出尋常萬萬, 雖臣子致隆之誠, 靡所屆極, 倘殿下一意謙抑, 不受虛名, 以損實美, 則其爲盛德光輝, 高出百王, 奚啻數字之徽稱而已? 噫! 進宴, 小節也, 而殿下猶慮其或近於豐豫, 追下昨日之備忘, 大聖人挹損之至美, 於此亦可見矣。 終乃推廣此心, 堅持不撓於今日顯號之請, 則尤豈不增美於聖躬乎?</quotation>
+            </paragraph>
+            <paragraph align="center">上賜優批。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wsb_13901006_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동부승지 신심이 존호의 일에 대해 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1713-01-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="503면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○引見時, 同副承旨<index num="1565675_0" ref="M_0048966" sort="K" type="이름">申鐔</index>以稱慶、陳賀, 尙未擧行, 請遞禮官, 上命遞禮曹判書<index num="1565676_0" ref="M_0001930" sort="K" type="이름">金鎭圭</index>。 <index num="1565677_0" sort="K" type="이름">鐔</index>仍進曰: "昨日諫臣以尊號事, 有所陳達, 臣意亦同, 欲爲繼陳, 而因大臣徑退, 未及發口矣。 臣民顒望, 愈久愈鬱, 聖上謙德, 孰不欽譎, 而一國輿情, 何可終遏乎? 竊聞昨日大臣出令, 將會賓廳, 以二品以上員數之不多, 姑退日期云。 此何等大事, 旣已出令, 又退日期? 事體極爲未安矣。" 且斥<index num="1565678_0" ref="M_0004261" sort="K" type="이름">李晩成</index>疏以爲: "誤引<index num="1565679_0" ref="M_0031606" sort="A" type="이름">劉敞</index>。" 云, 上曰: "尊號自初牢拒, 予意已定, 有何更論之事乎?"<annotation type="원주">
+                <noteContent>【詳見上。】</noteContent>
+              </annotation>
+            </paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1565680_0" ref="M_0048966" sort="K" type="이름">申鐔</index>, 是一筵臣耳。 禮官變通, 非可獨稟, 至於進宴、尊號, 尤係重大, 何敢獨於前席陳請, 有若自私以要功者哉? 蓋<index num="1565681_0" sort="K" type="이름">鐔</index>初以朝參時, 欲發尊號之請相約, 而倉卒間, 未及發說, <index num="1565682_0" ref="M_0000634" sort="K" type="이름">李濡</index>大生疑怒, 斥其反覆。 <index num="1565683_0" sort="K" type="이름">鐔</index>急於自解, 是日, 非其輪次, 而自求入侍, 意在逢迎, 情態自露。 不識人間有羞恥事者, 正爲此輩道也。"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13901008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 1月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-01-08L0" type="서기"/>
+            <dateOccured type="간지">丙戌</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 1월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 1월 8일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 1월 8일</dateOccured>
+            <dateOccured type="단기">4046년 1월 8일</dateOccured>
+            <dateOccured type="일본연호">년 1월 8일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 1월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13901008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>응교 박봉령이 존호 올리는 일에 반대하는 상소를 올리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-01-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="503면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙戌/應敎<index num="1565684_0" ref="M_0002478" sort="K" type="이름">朴鳳齡</index>疏斥尊號之議, 上賜優批, 護軍<index num="1565685_0" ref="M_0001930" sort="K" type="이름">金鎭圭</index>, 以禮官時不稟稱慶, 陳疏引咎, 上賜例批。<annotation type="원주">
+                <noteContent>【疏皆見上。】</noteContent>
+              </annotation>
+            </paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1565686_0" ref="M_0002478" sort="K" type="이름">鳳齡</index>、<index num="1565687_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>, 自前立脚於尊號之論, 而<index num="1565688_0" ref="M_0002478" sort="K" type="이름">鳳齡</index>今疏, 尤剴切激昻。 <index num="1565689_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>則屢經風霜, 太半銷落, 雖不肯直自陳請, 而疏語頗剗去稜角, 人比之脂韋矣。"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13901013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 1月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-01-13L0" type="서기"/>
+            <dateOccured type="간지">辛卯</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 1월 13일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 1월 13일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 1월 13일</dateOccured>
+            <dateOccured type="단기">4046년 1월 13일</dateOccured>
+            <dateOccured type="일본연호">년 1월 13일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 1월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13901013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>장령 정동후 등이 존호 올리기를 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-01-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="503면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛卯/掌令<index num="1565690_0" ref="M_0005763" sort="K" type="이름">鄭東後</index>、獻納<index num="1565691_0" ref="M_0020920" sort="K" type="이름">韓永祚</index>等, 合啓請上尊號, 上不聽。 時, 一群鄙夫, 竊據廊廟, 乃以患失之心, 敢陳尊號之請, 賓廳之啓, 庭請之設, 已可謂聖世之羞。 至於臺閣事面, 視廟堂又別, 而<index num="1565692_0" ref="M_0005763" sort="K" type="이름">東後</index>輩, 承望柄臣喉氣, 冒司直之名, 而附導諛之論, 其辱臺閣極矣。 識者尤駭之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13901026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 1月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-01-26L0" type="서기"/>
+            <dateOccured type="간지">甲辰</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 1월 26일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 1월 26일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 1월 26일</dateOccured>
+            <dateOccured type="단기">4046년 1월 26일</dateOccured>
+            <dateOccured type="일본연호">년 1월 26일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 1월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13901026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 판서 이돈의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-01-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="503면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲辰/前判書<index num="1565693_0" ref="M_0063439" sort="K" type="이름">李墪</index>卒於<index num="1565694_0" sort="K" type="지명">牙山</index>謫所。 <index num="1565695_0" ref="M_0063439" sort="K" type="이름">墪</index>以名祖之孫, 居家篤孝友, 立朝著廉介。 尤以文雅, 見稱於世, 而爲人狷隘, 持論極峭峻。 少與<index num="1565696_0" ref="M_0003456" sort="K" type="이름">吳道一</index>莫逆, 黨人甚嫉之。 時, 黨人動以名義驅人, <index num="1565697_0" ref="M_0063439" sort="K" type="이름">墪</index>不勝忿, 嘗於筵席, 有名義爲穽之說, 重被譴責, 黨人益以此齮齕。 及有壬辰科, 事中深文, 竟以非罪擯死, 人皆冤之。 然己巳忠臣<index num="1565698_0" ref="M_0002646" sort="K" type="이름">朴泰輔</index>之死, <index num="1565699_0" ref="M_0063439" sort="K" type="이름">墪</index>實與同事, 疏語中尤激觸者, <index num="1565700_0" ref="M_0063439" sort="K" type="이름">墪</index>之辭也, 而不敢以同罪爲請, 泯默赴邊邑, 至甲戌, 遍歷淸華, 不一引咎, 遂爲淸議所短。 掌銓選, 用舍偏私, 務主乖激之論。 當壬辰科, 承牌後還家, 固出老妄, 而自明之際, 語多差錯, 置對之辭, 亦不知大體, 識者益病之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_139050">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 五月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 五月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13905002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 5月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-05-02L0" type="서기"/>
+            <dateOccured type="간지">戊寅</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 5월 2일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 5월 2일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 5월 2일</dateOccured>
+            <dateOccured type="단기">4046년 5월 2일</dateOccured>
+            <dateOccured type="일본연호">년 5월 2일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 5월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13905002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>사헌부에서 부솔 김재해를 사판에서 삭제할 것을 계청하니 윤허하지 않다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-05-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 61책 53권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="503면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊寅/憲府啓請削副率<index num="1565701_0" ref="M_0020627" sort="K" type="이름">金載海</index>仕版,<annotation type="원주">
+                <noteContent>【措語見上。】</noteContent>
+              </annotation>不允。 <index num="1565702_0" ref="M_0020627" sort="K" type="이름">載海</index>, 純樸無華。 窮居讀書, 早從先正臣<index num="1565703_0" ref="M_0002518" sort="K" type="이름">朴世采</index>學, 晩又出入於儒賢<index num="1565704_0" ref="M_0000392" sort="K" type="이름">尹拯</index>之門。 以薦爲桂坊官, 頻入書筵, 善說經旨, 世子甚重之, 賜手札, 且給文房具。 仍令勿爲替直, <index num="1565705_0" ref="M_0020627" sort="K" type="이름">載海</index>益感激, 知無不言。 黨人以此忌嫉, 謂其不參於師門辨誣疏, 以背師目之, 必逐去乃已。 然<index num="1565706_0" ref="M_0020627" sort="K" type="이름">載海</index>才踈識麤, 事或鄙瑣, 世以此短之。</paragraph>
+            <paragraph align="center">肅宗顯義光倫睿聖英烈章文憲武敬明元孝大王實錄補闕正誤卷之五十三</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_139060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 六月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 六月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13906016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 6月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-06-16L0" type="서기"/>
+            <dateOccured type="간지">辛卯</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 6월 16일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 6월 16일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 6월 16일</dateOccured>
+            <dateOccured type="단기">4046년 6월 16일</dateOccured>
+            <dateOccured type="일본연호">년 6월 16일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 6월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13906016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>장령 서명우의 김유의 일에 대한 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-06-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="523면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛卯/掌令<index num="1565707_0" ref="M_0021061" sort="K" type="이름">徐命遇</index>陳疏盛論時事。 其斥<index num="1565708_0" ref="M_0035749" sort="K" type="이름">金楺</index>復科事, 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>己卯科之不當追復, 萬口公誦, 百世正議。 <index num="1565709_0" ref="M_0035749" sort="K" type="이름">金楺</index>挾侫慧之術, 費巧密之計, 籠絡時輩, 圖復乃已。 雖以<index num="1565710_0" sort="K" type="지명">龍潭</index>邑子之投章, 連姻諫官之陳請觀之, 其所奔走經營, 昭然難掩, 焉可諱也? 云云。</quotation>
+            </paragraph>
+            <paragraph align="center">上嚴批責之, 命遞差。<annotation type="원주">
+                <noteContent>【原疏、批旨見上。】</noteContent>
+              </annotation>
+              <index num="1565711_0" sort="K" type="지명">龍潭</index>, 卽<index num="1565712_0" ref="M_0035749" sort="K" type="이름">楺</index>曾莅之邑, 諫官<index num="1565713_0" ref="M_0020659" sort="K" type="이름">李德英</index>亦<index num="1565714_0" ref="M_0035749" sort="K" type="이름">楺</index>兄<index num="1565715_0" sort="K" type="이름">構</index>之婦娚, 故<index num="1565716_0" ref="M_0021061" sort="K" type="이름">命遇</index>之言如此。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13906020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 6月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-06-20L0" type="서기"/>
+            <dateOccured type="간지">乙未</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 6월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 6월 20일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 6월 20일</dateOccured>
+            <dateOccured type="단기">4046년 6월 20일</dateOccured>
+            <dateOccured type="일본연호">년 6월 20일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 6월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13906020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>좌의정 이이명이 서명우의 상소에 대해 변명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-06-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="523면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>정론-정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙未/左議政<index num="1565717_0" ref="M_0063233" sort="K" type="이름">李頣命</index>以<index num="1565718_0" ref="M_0021061" sort="K" type="이름">徐命遇</index>疏, 陳疏自辨。 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>徼寵固位, 卽憸宵之索性, 卽其生心於徼固者, 儘無狀矣。 啓寵而授位者, 累及於君恩, 苟如其言, 擢髮難贖其罪。 雖或出於巧詆, 宜卽斥退, 絶其寵位, 以昭至公也。</quotation>
+            </paragraph>
+            <paragraph align="center">上賜優批。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13906022">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 6月 22日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-06-22L0" type="서기"/>
+            <dateOccured type="간지">丁酉</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 6월 22일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 6월 22일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 6월 22일</dateOccured>
+            <dateOccured type="단기">4046년 6월 22일</dateOccured>
+            <dateOccured type="일본연호">년 6월 22일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 6월 22일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13906022_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>우윤 김덕기가 서명우의 상소로 인해 사직소를 올리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-06-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="523면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁酉/右尹<index num="1565719_0" ref="M_0001462" sort="K" type="이름">金德基</index>, 因<index num="1565720_0" ref="M_0021061" sort="K" type="이름">徐命遇</index>疏斥, 陳疏縷縷自暴, 上令勿辭。</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1565721_0" ref="M_0001462" sort="K" type="이름">德基</index>知申之擬, 實未允於物情, 則<index num="1565722_0" ref="M_0021061" sort="K" type="이름">徐命遇</index>所斥, 雖非出於公心, 而言其不合則是矣。 顧此聖批中扶抑之懸殊者, 豈無所以然乎? 及至翌日知申之出也, 政官拔<index num="1565723_0" ref="M_0001462" sort="K" type="이름">德基</index>於舊望中, 人莫不多之。"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_139070">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 七月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 七月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13907005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 7月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-07-05L0" type="서기"/>
+            <dateOccured type="간지">庚戌</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 7월 5일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 7월 5일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 7월 5일</dateOccured>
+            <dateOccured type="단기">4046년 7월 5일</dateOccured>
+            <dateOccured type="일본연호">년 7월 5일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 7월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13907005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>임금이 특지로 김우항을 우의정에 임명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-07-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="523면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚戌/上以特旨, 拜<index num="1565724_0" ref="M_0020344" sort="K" type="이름">金宇杭</index>爲右議政。 <index num="1565725_0" ref="M_0020344" sort="K" type="이름">宇杭</index>器量寬弘, 言議平恕, 屢長六部, 輒著能聲。 勤於國事, 不喜翕訾, 黨人素輕之。 及壬辰科査, <index num="1565726_0" ref="M_0020344" sort="K" type="이름">宇杭</index>以試官, 心憫<index num="1565727_0" ref="M_0063439" sort="K" type="이름">李墪</index>冤狀, 惡黨人構捏, 疏白之, 黨人益譁然詆斥。 至是大拜, 修初史者, 又追加疵議。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13907021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 7月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-07-21L0" type="서기"/>
+            <dateOccured type="간지">丙寅</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 7월 21일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 7월 21일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 7월 21일</dateOccured>
+            <dateOccured type="단기">4046년 7월 21일</dateOccured>
+            <dateOccured type="일본연호">년 7월 21일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 7월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13907021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>우의정 김우항이 대신들을 비난한 서명우의 일에 대해 논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-07-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="523면"/>
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>사법-재판(裁判)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙寅/上行疏決, 右議政<index num="1565728_0" ref="M_0020344" sort="K" type="이름">金宇杭</index>白上曰: "建極之道, 不在他求。 人君如天地日月之照臨萬物, 群下之賢愚枉直, 自莫能逃。 如有黨論尤甚之人, 勿論彼此, 亟加罪斥, 庶有懲勵之道矣。 以朝議潰裂, 前後聖敎, 不啻懇惻, 苟有人心者, 孰不感動? 就其已成痼習, 終不悛改者而罪之, 則渠何敢稱冤乎? <index num="1565729_0" ref="M_0021061" sort="K" type="이름">徐命遇</index>之疏, 意在傾軋, 力攻大臣、重臣, 論其心跡, 則雖加重罪, 宜無不可, 而今當疏決, 參酌放釋, 豈非盛德事乎? <index num="1565730_0" ref="M_0004500" sort="K" type="이름">李善溥</index>、<index num="1565731_0" ref="M_0001487" sort="K" type="이름">金斗南</index>, 不過言其不可罪之意, 而臺諫至於論罪, 且其避嫌辭意, 殊不韙矣。 旱災至此, 雨意漠然, 京中罪囚及外方編配若干人, 僅蒙解澤, 亦是疏滯之道, 而第<index num="1565732_0" type="서명">《傳》</index>曰: ‘三月無君則弔。’ 人臣出身事君, 所期如何, 而若使終身廢錮, 豈不憫惻乎? 向時廢黜者罪名, 臣未之詳也, 而今距甲戌, 已至二十載, 無論其有罪無罪, 一向廢錮, 必有冤鬱之氣, 上干天和, 豈無疏通之道乎? 其中出入三司之人, 聖上當知其爲人。 臣尙記昔年入侍時, 自上敎以<index num="1565733_0" ref="M_0001870" sort="K" type="이름">金鼎台</index>怪狀, <index num="1565734_0" ref="M_0002257" sort="K" type="이름">睦林一</index>無傷人害物之心。 臣於此, 影響不及, 而旣無傷害之心, 則便是善人也, 其在曠蕩之政, 疏通滯鬱, 則亦是弭災之一助矣。" 上曰: "大意固好矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_139080">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 八月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 八月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13908003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 8月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-08-03L0" type="서기"/>
+            <dateOccured type="간지">戊寅</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 8월 3일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 8월 3일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 8월 3일</dateOccured>
+            <dateOccured type="단기">4046년 8월 3일</dateOccured>
+            <dateOccured type="일본연호">년 8월 3일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 8월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13908003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이시형이 조부 이돈의 억울함을 호소하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-08-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="523면"/>
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+            <subjectClass>정론-정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊寅/<index num="1565735_0" ref="M_0063439" sort="K" type="이름">李墪</index>孫<index num="1565736_0" ref="M_0041839" sort="K" type="이름">蓍亨</index>, 擊皷訟其祖冤。 供辭略曰: "諸臣疏奏中有曰: ‘文衡違牌後, 急急還家’ 云, 而文衡違牌, 在於旣還之後, 已悉於<index num="1565737_0" ref="M_0005233" sort="K" type="이름">李震壽</index>、<index num="1565738_0" ref="M_0003417" sort="K" type="이름">呂光周</index>之疏。 其曰: ‘試題首望之出於其手, 人皆言之。’ 又曰: ‘略有變幻, 元非別題。’ 出題時亡祖則欲以<index num="1565739_0" ref="M_0019286" sort="A" type="이름">龔遂</index>爲主, 他試官則欲以<index num="1565740_0" sort="K" type="이름">王生</index>爲主, 取裁命官, 終以<index num="1565741_0" sort="K" type="이름">王生</index>爲題, 主客旣判, 旨意懸殊。 其曰: ‘提衡之人, 何可退坐乎?’ 又曰: ‘試官目覩傳說。’ 抄上之際, 參考之時, 亡祖終不參涉之狀, 諸考官之所詳知, 主試大臣, 亦以人言之爽誤爲言。 若<index num="1565742_0" ref="M_0002992" sort="K" type="이름">相琦</index>疏, 則以受點前還家, 謂之落點後出去, 日曛時還詣, 謂之夜深後始到者, 尤爲陰巧。 身在政院, 的知事實, 而互換爲說, 專事欺隱, 其湊合和應之態, 有不忍正視。 <index num="1565743_0" ref="M_0006214" sort="K" type="이름">趙泰采</index>之疏曰: ‘歷抵歸一, 則用情自在其中。’ 又曰: ‘合考不參, 自是題外。’ 噫! 若非身參合考, 則決無容手之地, 而今乃以參考爲題外, 必欲歸重於歷抵, 何也? 蓋試題旣歸虛, 合考又歸虛, 則謂之用情, 都無所據, 歷抵又將脫空, 故捨明白易知之事, 循黯昧難明之端, 而鍜鍊羅織, 固在其手。 如果構歷抵之案, 則謂可驅入於用情之科, 其設計用意, 政所謂如見肺肝也。 末後加律之啓, 又曰: ‘受點後忽然還家。’ 又曰: ‘及其榜出, 果取其人。’ 還家之在於落點之前, 証驗固甚明白, 合考抄定, 全無參涉, 則取與不取, 干我何事, 而其抑勒驅脅如此? 此皆其構誣也。 <index num="1565744_0" ref="M_0040928" sort="K" type="이름">賓興</index>, 卽<index num="1565745_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>之切族, 而與亡祖有仇怨, <index num="1565746_0" ref="M_0003472" sort="K" type="이름">吳遂元</index>與<index num="1565747_0" ref="M_0003991" sort="K" type="이름">健命</index>、<index num="1565748_0" ref="M_0004942" sort="K" type="이름">宜顯</index>家, 有積怨血讎, <index num="1565749_0" ref="M_0003472" sort="K" type="이름">遂元</index>家與<index num="1565750_0" ref="M_0040928" sort="K" type="이름">賓興</index>家隔隣, 而亡祖與<index num="1565751_0" ref="M_0003472" sort="K" type="이름">遂元</index>家親切, 故乃以還家一着, 執爲可乘之釁, 欲爲一擧竝中之計。 若曰以某也於某日歷抵某家倡說, 而募人爲證, 則可以疑亂聽聞, 而彼亦難於自明, 遂敢肆然傳說, 合謀於卿宰, 蜚語於諫臣, 其綢繆經營之狀, 狼藉難掩, 雖欲秘諱, 爲可得耶? 雖然, <index num="1565752_0" ref="M_0040928" sort="K" type="이름">賓興</index>初招所謂傳說者, <index num="1565753_0" ref="M_0043234" sort="K" type="이름">禎興</index>也, 目覩者<index num="1565754_0" ref="M_0014332" sort="K" type="이름">彭壽</index>, 而及<index num="1565755_0" ref="M_0014332" sort="K" type="이름">彭壽</index>之被囚也, 轉諉於其稚弟與童奴。 此等所引, 或是隣居之孽從, 廊底之私人, 或是豢養之兒, 仰役之奴也。 終始擔當立隻者, 非他人也, 乃仇怨之<index num="1565756_0" ref="M_0040928" sort="K" type="이름">賓興</index>也, 援引作證者, 又非他人也, 乃<index num="1565757_0" ref="M_0040928" sort="K" type="이름">賓興</index>之孽族與丐子、癡僕, 而白晝大路人衆成群之時, 何無一人公立可信之證乎? <index num="1565758_0" ref="M_0040928" sort="K" type="이름">賓興</index>就拿之初, 募鄕儒立證之說, 狼藉傳播矣。 其後追聞, 昨年七月初, <index num="1565759_0" ref="M_0043234" sort="K" type="이름">禎興</index>之兄<index num="1565760_0" ref="M_0040267" sort="K" type="이름">道興</index>, 抵書于<index num="1565761_0" sort="K" type="지명">龍仁</index>居<index num="1565762_0" ref="M_0067516" sort="K" type="이름">宋道聖</index>曰: ‘下宅方被囚於禁府, 將以君名現告。 羅卒若下去, 則例給七兩錢, 而君家貧甚, 自此已備置’ 云。 所謂下宅, 卽指<index num="1565763_0" ref="M_0040928" sort="K" type="이름">賓興</index>。 <index num="1565764_0" ref="M_0067516" sort="K" type="이름">道聖</index>驚怪, 辭而拒之曰: ‘庭試時, 我雖以下宅隨從上來, 而二十四日出往<index num="1565765_0" sort="K" type="지명">桃渚洞</index>
+              <index num="1565766_0" ref="M_0042557" sort="K" type="이름">李猶興</index>家, 還到<index num="1565767_0" sort="K" type="지명">泥峴</index>, 則烽火已擧, 吾何以曾見<index num="1565768_0" ref="M_0012887" sort="K" type="이름">李判書</index>乎? 平生不識其面目, 何以知某人之爲<index num="1565769_0" ref="M_0012887" sort="K" type="이름">李判書</index>耶?’ <index num="1565770_0" ref="M_0040267" sort="K" type="이름">道興</index>曰: ‘如此憫迫之時, 君何不救濟親舊耶?’ <index num="1565771_0" ref="M_0067516" sort="K" type="이름">道聖</index>曰: ‘事雖如此, 吾旣不知面, 而稱以目見, 入囚之後, 使吾解識<index num="1565772_0" ref="M_0012887" sort="K" type="이름">李判書</index>於多人之中, 則吾何以分別耶?’ <index num="1565773_0" ref="M_0043234" sort="K" type="이름">禎興</index>曰: ‘當自此畫出<index num="1565774_0" ref="M_0012887" sort="K" type="이름">李判書</index>形貌, 君若孰視而默記, 則必無違錯之理也。’ <index num="1565775_0" ref="M_0067516" sort="K" type="이름">道聖</index>曰: ‘吾不忍白地構人, 決不可爲此事。’ 仍爲出來行廊, 則其所眄主人之婢, 謂<index num="1565776_0" ref="M_0067516" sort="K" type="이름">道聖</index>曰: ‘以如此不干之事, 無陷於諸人敎誘之中可也。 生死之間, 彼自擔當, 決不可同謀也。’ 翌朝, <index num="1565777_0" ref="M_0067516" sort="K" type="이름">道聖</index>告歸, 則<index num="1565778_0" ref="M_0043234" sort="K" type="이름">禎興</index>等曰: ‘昨議之事, 君不肯聽, 無可奈何, 而此語若出口, 則吾當絶交’ 云。 <index num="1565779_0" ref="M_0067516" sort="K" type="이름">道聖</index>者, 卽<index num="1565780_0" ref="M_0040928" sort="K" type="이름">賓興</index>墓下居生之人, 而平生親昵間也。 <index num="1565781_0" ref="M_0067516" sort="K" type="이름">道聖</index>還後, 憤其威脅敎誘之狀, 其洞居親舊之間, 輒告之曰: ‘吾以如此如此之事, 幾不免見囚被刑。’ 詳聞<index num="1565782_0" ref="M_0067516" sort="K" type="이름">道聖</index>之言, 而傳於矣身者, 不啻數人, 而至有謄其顚末, 自筆書給於矣身之人, 則<index num="1565783_0" ref="M_0040928" sort="K" type="이름">賓興</index>之初欲構募着實立證者, 而終不得順從之人, 未免以稚騃現出之狀, 據此一款, 可以覷破, 此等機關, 凶譎幽秘, 雖鬼神, 亦有不可測者。 且<index num="1565784_0" ref="M_0041351" sort="K" type="이름">李聖興</index>, 卽<index num="1565785_0" ref="M_0040928" sort="K" type="이름">賓興</index>之再從弟, 而<index num="1565786_0" ref="M_0043234" sort="K" type="이름">禎興</index>之嫡同生也。 當初<index num="1565787_0" ref="M_0040928" sort="K" type="이름">賓興</index>, 欲借其兒子<index num="1565788_0" ref="M_0039495" sort="K" type="이름">慶大</index>, 立以爲證, 則<index num="1565789_0" ref="M_0041351" sort="K" type="이름">聖興</index>不從, 又欲募<index num="1565790_0" ref="M_0041351" sort="K" type="이름">聖興</index>之婢<index num="1565791_0" ref="M_0049542" sort="K" type="이름">惡發</index>之子爲證, 則<index num="1565792_0" ref="M_0049542" sort="K" type="이름">惡發</index>怨其白地驅脅, 多般揚惡, 故乃以此等稚騃, 不得已募證。 <index num="1565793_0" ref="M_0040928" sort="K" type="이름">賓興</index>之欲得<index num="1565794_0" ref="M_0041351" sort="K" type="이름">聖興</index>家人而爲證者, 蓋以<index num="1565795_0" ref="M_0041351" sort="K" type="이름">聖興</index>所居, 與<index num="1565796_0" ref="M_0003472" sort="K" type="이름">遂元</index>家相接, 使之立證, 易致疑惑故也。 此等情節, 矣身詳聞於<index num="1565797_0" ref="M_0041351" sort="K" type="이름">聖興</index>一家人, 旣甚明的。 至於禮講年月之相左, 誣飾之狀旣著, 而<index num="1565798_0" ref="M_0040928" sort="K" type="이름">賓興</index>惟恐其計之或露, 先自措辭, 曲爲<index num="1565799_0" ref="M_0014332" sort="K" type="이름">彭壽</index>代供者, 已極無狀。 而一月與數朔, 便是咫尺間事, 非可錯記者, 而及其更覈也, 一月變爲期年, 數朔退作三歲, 獄情之違端, 孰甚於此? 聞<index num="1565800_0" ref="M_0040928" sort="K" type="이름">賓興</index>率置<index num="1565801_0" ref="M_0014332" sort="K" type="이름">彭壽</index>之母於<index num="1565802_0" ref="M_0041351" sort="K" type="이름">聖興</index>家, 啗之以利, 脅之以威, 錢穀之賂, 殆罄家産, 而憤懟怨怒之聲, 猶且騰諸道路。 若有一番刑訊之擧, 則其間情節, 幾乎敗露矣。 又聞<index num="1565803_0" ref="M_0040928" sort="K" type="이름">賓興</index>在獄時, 有一札自外來傳於一囚人, 故拆見, 則乃<index num="1565804_0" ref="M_0040928" sort="K" type="이름">賓興</index>家書, 而書辭隱秘難解而有曰: ‘<index num="1565805_0" ref="M_0053925" sort="K" type="이름">夢漢</index>, 昨又不服, 其將奈何? 然而秋判之意, 必欲窮推而後已, 是可幸也。 但家中, 又將有生變之漸, 是極悶慮’ 云云。 所謂<index num="1565806_0" ref="M_0053925" sort="K" type="이름">夢漢</index>, 卽<index num="1565807_0" ref="M_0053925" sort="K" type="이름">夢先</index>, 秋判, 卽<index num="1565808_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>也。 其時<index num="1565809_0" ref="M_0014332" sort="K" type="이름">彭</index>、<index num="1565810_0" ref="M_0007663" sort="K" type="이름">甲</index>輩父母, 交相怨謗, 將欲以實告官之說, 傳播於都下。 其所謂生變云者, 正指此等事也。 且以<index num="1565811_0" ref="M_0004908" sort="K" type="이름">李胤彦</index>逢着亡祖一款言之, <index num="1565812_0" sort="K" type="지명">南洞</index>洞口, 有上、下街, 上街則自<index num="1565813_0" sort="K" type="지명">泥峴</index>來路也, 下街則自<index num="1565814_0" sort="K" type="지명">河梁橋</index>來路也。 當初<index num="1565815_0" ref="M_0040928" sort="K" type="이름">賓興</index>之引<index num="1565816_0" ref="M_0004908" sort="K" type="이름">胤彦</index>爲證也, <index num="1565817_0" ref="M_0004908" sort="K" type="이름">胤彦</index>妻父右尹<index num="1565818_0" ref="M_0001462" sort="K" type="이름">金德基</index>, 本居<index num="1565819_0" sort="K" type="지명">南洞</index>, 適到洞中親舊家, 語及<index num="1565820_0" ref="M_0004908" sort="K" type="이름">胤彦</index>事曰: ‘<index num="1565821_0" ref="M_0004908" sort="K" type="이름">胤彦</index>伊日, 果來吾家卽還。 方出洞口, 有一前導, 自下街而來, 下馬立見, 則乃<index num="1565822_0" ref="M_0012887" sort="K" type="이름">李判書</index>也’ 云云, 故從祖堂卽爲往問其委折, 則所答一如所聞, 而士人<index num="1565823_0" ref="M_0021536" sort="K" type="이름">安壽咸</index>, 卽<index num="1565824_0" ref="M_0004908" sort="K" type="이름">胤彦</index>之一家也。 聞<index num="1565825_0" ref="M_0004908" sort="K" type="이름">胤彦</index>就拿, 往問其由而來傳, 與從祖之親聞於<index num="1565826_0" ref="M_0001462" sort="K" type="이름">德基</index>者, 無所參差。 <index num="1565827_0" ref="M_0004908" sort="K" type="이름">胤彦</index>之見亡祖從下街而來者, 旣甚明白, 則不爲歷抵之狀, 的然可知, 此皆其破綻者也。 <index num="1565828_0" ref="M_0004942" sort="K" type="이름">宜顯</index>疏中所云, 參考時目覩試官, 亡祖供辭, 乞以玆事, 緘問於言者, 問其爲誰某, 而金吾覆奏, 終無一字擧論, 蓋衆目難掩, 公證至多, 或恐<index num="1565829_0" ref="M_0004942" sort="K" type="이름">宜顯</index>做出之情, 仍至敗露故也。 禮講一款, <index num="1565830_0" ref="M_0014332" sort="K" type="이름">彭壽</index>之前後變說, 是莫大之違端, 而終不請訊, 其隨事曲護之情, 有不容掩也。 <index num="1565831_0" ref="M_0004908" sort="K" type="이름">胤彦</index>逢着之處, 上、下兩街, 全不鉤問辨別, 從以逢着於<index num="1565832_0" sort="K" type="지명">南洞</index>爲言, 勒爲歷抵之大驗。 末後<index num="1565833_0" ref="M_0003472" sort="K" type="이름">遂元</index>之招, 以伊日座客之多, 以證不歷抵之實狀, 而議讞之際, 終不請問, 惟恐證左之或實。 <index num="1565834_0" ref="M_0004908" sort="K" type="이름">胤彦</index>旣以日晡爲言, 而<index num="1565835_0" ref="M_0053925" sort="K" type="이름">夢先</index>及諸傔之招, 則乃以午時還宅爲言。 午還之人, 豈有晡時入洞之理乎? 彼此相左, 節節如此, 而按問之時, 亦無一言盤詰。 <index num="1565836_0" ref="M_0053925" sort="K" type="이름">夢先</index>及八傔酷刑之狀, 言之慘矣。 常制之外, 別造重杖, 箇箇嗔喝, 杖杖替人, 數杖之內, 血肉糜爛, 一次之刑, 致斃者二人, 噫嘻慘矣! 八傔一次受刑之後, 一人先斃於獄中, 餘皆奄奄, 命在頃刻, 則刑官欲掩酷刑之跡, 乃以一次之刑, 初不重傷, 凍餓致斃等說, 肆然草記, 以爲眩惑之計。 凍餓而死, 果如其言, 則豈於見放之後, 一人又斃, 而辛苦得生者, 亦皆爲殘疾之人耶? 其百般欺蔽, 亦無嚴矣。 <index num="1565837_0" ref="M_0053925" sort="K" type="이름">夢先</index>之招, <index num="1565838_0" sort="K" type="지명">壼洞</index>、<index num="1565839_0" sort="K" type="지명">泥峴</index>之互換錯對, 其情可見。 <index num="1565840_0" ref="M_0003472" sort="K" type="이름">遂元</index>之家, 僑寓<index num="1565841_0" sort="K" type="지명">壼洞</index>, 曾在十年之前, 移居<index num="1565842_0" sort="K" type="지명">泥峴</index>, 已是八年之久, 則<index num="1565843_0" ref="M_0053925" sort="K" type="이름">夢先</index>以多年使役於京司之人, 宰相家居, 萬無不能記認之理, 而捨累載時居之所, 指久遠曾寓之處, 此實常理之外, 則其求說不得, 猝辦强對之狀, 明若觀火, 而惟以變辭誣服爲幸, 而曾不詰問其違端。 且八傔之願與<index num="1565844_0" ref="M_0053925" sort="K" type="이름">夢先</index>面質者, 不啻縷縷, 一番對質, 在所不已, 而或恐情狀現露, 不使對質, 直爲請刑, 威迫萬端, 終使不勝楚毒, 同歸誣承, 而不過曰旣迫死境, 不得已承款云云而已, 其出於萬分怵迫, 强爲誣承之狀, 於此亦可見矣, 此皆其用意者也。 噫嘻! <index num="1565845_0" ref="M_0006214" sort="K" type="이름">泰采</index>之所引故大司憲<index num="1565846_0" ref="M_0006210" sort="K" type="이름">趙泰東</index>之言曰: ‘吾亦以試官詣闕, 則<index num="1565847_0" ref="M_0063439" sort="K" type="이름">李墪</index>已出去, 晩後還詣, 以爲往在北所’ 云云, 有若亡祖欲諱還家, 托往北所, 而<index num="1565848_0" ref="M_0006210" sort="K" type="이름">泰東</index>親聞於亡祖者然。 亡祖之還詣也, 門已下鑰, 留宿直房, 翌曉開門之後, 諸試官之在闕中者, 始爲出來, 故亡祖隨其後, 進詣試所矣。 當初還詣之後, 旣不得入闕, 則與<index num="1565849_0" ref="M_0006210" sort="K" type="이름">泰東</index>, 元無相面之事, 北所之說, 何從而發乎? 亡祖承牌之前, 旣以還家之意, 預言於<index num="1565850_0" ref="M_0003417" sort="K" type="이름">光周</index>來訪之時, 詣闕之後, 又以還家之實狀, 備言于<index num="1565851_0" ref="M_0005233" sort="K" type="이름">震壽</index>在直之時, 且於儕友間, 力辨其冤狀。 雖以<index num="1565852_0" ref="M_0006214" sort="K" type="이름">泰采</index>疏見之, 其引<index num="1565853_0" ref="M_0006210" sort="K" type="이름">泰東</index>之言, 以爲構捏亡祖之一大欛柄者, 出於同堂之親, 是豈恒情之所可測者耶? 果使<index num="1565854_0" ref="M_0006214" sort="K" type="이름">泰采</index>, 親聞此言於夏初, 則以陷害之心術, 輕脫之口業, 豈可一日含忍, 而始發於半年後<index num="1565855_0" ref="M_0006210" sort="K" type="이름">泰東</index>身死之日耶? <index num="1565856_0" ref="M_0006214" sort="K" type="이름">泰采</index>終始擔當此獄, 惟以構成罪名爲能事。 人而忍此, 何事不可忍也? 及其筵席勘罪之日, 大臣諸臣所獻議者, 以歷抵一款, 置之有無之間, 一則曰殊涉可疑, 一則曰不能無疑, 至以斷以用情, 似涉太過等語, 糢糊爲說, 直請酌處, 則彼雖極意鍜鍊, 靡所不至, 而其難於爲說, 苟然成案者, 至此而益無所逃矣。 大抵在前庭試考官, 只令聞見待令, 而無牌招之規, 中間一次, 雖請牌招, 而或留或退, 亦無定例, 而亡祖惟知古規之如彼, 不復思及於末世慮患之道, 其時遷窆迫頭, 而年少未任重事, 凡百事爲, 亡祖皆自主張, 故本欲暫進旋歸, 以爲指揮分付之地, 蓋慮仍入試所, 則又將費了日字, 襄葬重事, 勢難及躬周旋也。 伊日事狀, 斷斷如此。 今若以智慮未周, 擧措踈率爲咎, 則亡祖亦當摧謝之不暇, 而因此構捏, 欲成歷抵用情之案, 噫嘻痛哉! 天下寧有是耶? 設令亡祖欲私於擧子, 則承牌之前, 無非閒日, 密議潛通, 無所不可。 豈有白晝大都市之中, 騶導呵擁, 迂往擧子之家, 而爲科場之私情者哉? 此於事理, 近乎否乎? 街路行人, 市廛小民, 萬目環瞻, 非可掩諱。 噫嘻冤哉! 天下寧有是耶? 亡祖出自宗支, 致位隆顯, 每以勿欺無隱四字, 自勖於心, 而不幸群憾逞毒, 駭機潛發, 卒至陷身於坑穽之中, 竄跡於煙海之濱, 無路籲天, 含冤入地。 臨歿諄諄之語, 惟以見疑聖主, 忝辱先祖, 爲平生之至恨, 腐心剌骨之私痛, 有不忍言者, 而在聖朝至仁體下之道, 獨不衋然傷愍乎哉? 所援諸人俱在, 乞命攸司, 一一按問, 使亡祖至冤至痛, 一一按問。" 上命議處。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13908006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 8月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-08-06L0" type="서기"/>
+            <dateOccured type="간지">辛巳</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 8월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 8월 6일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 8월 6일</dateOccured>
+            <dateOccured type="단기">4046년 8월 6일</dateOccured>
+            <dateOccured type="일본연호">년 8월 6일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 8월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13908006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>지평 이진망이 조부 이경석의 억울함에 대해 상소하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-08-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="525면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>외교-야(野)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+            <subjectClass>윤리(倫理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛巳/持平<index num="1565857_0" ref="M_0005229" sort="K" type="이름">李眞望</index>, 陳疏訟其祖<index num="1565858_0" ref="M_0004013" sort="K" type="이름">文忠公</index>
+              <index num="1565859_0" ref="M_0004013" sort="K" type="이름">景奭</index>, 被誣於<index num="1565860_0" ref="M_0006545" sort="K" type="이름">洪啓迪</index>、<index num="1565861_0" ref="M_0001930" sort="K" type="이름">金鎭圭</index>之冤。 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1565862_0" ref="M_0006545" sort="K" type="이름">啓迪</index>等之呈疏也, <index num="1565863_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>首自擔當, 爲構其文, 而其言則專以臣祖丁丑撰文事, 爲一大案, 以爲故相臣<index num="1565864_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>詆罵臣祖之張本。 蓋其心自謂, 吾今皷發吾群黨, 扶擁吾所尊, 假太學公論之名, 爲一時眩幻之計, 則長德宿望, 可以一筆句抹, 輿言、公誦, 可以一朝變亂。 及臣等之疏出, 則<index num="1565865_0" ref="M_0000817" sort="K" type="이름">仁廟</index>面諭懇迫之旨, 臣祖承命黽勉之意, 事實俱著, 弱國君臣, 臨危相須者, 有足以激悲後人, 撰文一節, 終不可爲臣祖之疵咎者, 較然矣。 謄本一播, 國人傳看, 苟有一段公心者, 莫不心快意豁, 是非之公, 不待百年而定。 <index num="1565866_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>於此, 狼戾之性, 益務角勝, 自構一疏, 遣其弟<index num="1565867_0" ref="M_0020466" sort="K" type="이름">鎭瑞</index>, 誘脅<index num="1565868_0" ref="M_0053253" sort="K" type="이름">張震煥</index>而上之。 蓋<index num="1565869_0" ref="M_0020466" sort="K" type="이름">鎭瑞</index>爲<index num="1565870_0" ref="M_0053253" sort="K" type="이름">震煥</index>之姑夫, 而臣等之疏, 及於<index num="1565871_0" ref="M_0000864" sort="K" type="이름">新豐府院君</index>
+                <index num="1565872_0" ref="M_0000864" sort="K" type="이름">張維</index>撰文事, 故彼乃藉爲欛柄, 一篇精神, 不在於爲<index num="1565873_0" ref="M_0000864" sort="K" type="이름">新豐</index>地, 而急於詬辱臣祖, 猶不自快, 更思所以逞忿者。 適居國子之任, 顯示風旨, 俾倡疏擧, 陰諷所親, 自要構文。 文旣成, 自知言絶悖, 人必不肯受用, 乃復送言, 以爲全用則可送, 參用則不可送, 果爲泮中諸議所格。 又使私人, 袖其藁而往, 詐稱他宰之文, 而終不見售, 遂作自己疏投呈。 噫! 使其事正而言公, 則明言顯議可矣, 何乃匿跡經營, 至再至三, 及其計絶勢窮, 始露其頭面乎? 其陰秘閃鑠, 凶狡縱恣之態, 固已萬目所共見。 <index num="1565874_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>旣知撰文事, 終不足爲臣祖之疵咎, 乃曰: "設令迫於事勢, 不得不爲, 豈無善爲其辭之道, 而極力贊美, 無少裁量?" 噫嘻! 是何言也? 城下之盟, 萬不獲已, 及夫還都, 彼虜之疑怒益甚, 動以干戈(胥)<annotation type="교감주">
+                  <noteTitle>〔脅〕</noteTitle>
+                </annotation>之, 尙可以一二文字, 有所矜持, 更挑塗炭之禍耶? 虜人之徵文也, 亟選詞臣, 火急撰出, 至於別遣人, 見屬於在憂之哲匠, 且於臣祖之撰進也, 虜人怒其太略, 督令改述, 則面諭之辭, 至以無致轉激爲敎。 懇惻之諭, 若是丁寧, 則言外微旨, 復何從求, 而<index num="1565875_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>乃以姑應彼索爲言耶? 尤可笑者, <index num="1565876_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>謂<index num="1565877_0" ref="M_0053253" sort="K" type="이름">震煥</index>之疏, 有以牽羊之句, 爲尊<index num="1565878_0" sort="K" type="지명">周</index>之大證, 而殊不知臣祖所撰中, 首揭風捲秋蘀, 及爐燎鴻毛等句, 俱用<index num="1565879_0" sort="K" type="이름">符堅</index>寇<index num="1565880_0" sort="K" type="지명">晋</index>時自夸之語。 夫<index num="1565881_0" ref="M_0000864" sort="K" type="이름">新豐</index>之引<index num="1565882_0" sort="K" type="지명">楚</index>子, 固有意焉, 而比諸<index num="1565883_0" sort="K" type="지명">氐</index>、<index num="1565884_0" sort="K" type="지명">羌</index>之來寇<index num="1565885_0" sort="K" type="지명">中華</index>, 亦有間矣。 方其屬草也, 此等文字, 不爲不多, 而唯此數句, 寓旨深微, 獨不入於<index num="1565886_0" ref="M_0065641" sort="K" type="이름">范文程</index>一倂塗抹之中。 今<index num="1565887_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>全昧援譬之意, 强生較量分別之計, 斯亦不足辨也。 尊<index num="1565888_0" sort="K" type="지명">周</index>之義, 在<index num="1565889_0" sort="K" type="지명">莒</index>之痛。 何嘗暫忘於一下筆之頃, 而事有所拘, 勢有所迫, 抆血飮恨, 强綴匪心之辭, 千載之下, 苟有忠臣、義士, 固當默想時象, 揣念心事, 悲聖祖含冤忍痛之心, 哀諸臣生丁不辰之痛, 而顧乃捃摭旣往之跡, 構成罔極之語, 詆罵詬辱, 略不顧慮者, 此又何心哉? 大抵<index num="1565890_0" ref="M_0001930" sort="K" type="이름">鎭圭</index>, 爲人陰戾奰慝, 勇於死黨, 雖於閑漫言語, 必欲凌人而駕物, 以濟其悖謬之說, 此其一生伎倆也。 河間一句, 醜穢鄙悖, 尤是載(藉)<annotation type="교감주">
+                  <noteTitle>〔籍〕</noteTitle>
+                </annotation>所未聞者。 噫嘻痛哉! 天壤之間, 乃有此悖惡之人耶? 臣每一念到, 五內痛裂云云。</quotation>
+            </paragraph>
+            <paragraph align="center">上賜批極隆重。<annotation type="원주">
+                <noteContent>【批旨見上。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13908011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 8月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-08-11L0" type="서기"/>
+            <dateOccured type="간지">丙戌</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 8월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 8월 11일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 8월 11일</dateOccured>
+            <dateOccured type="단기">4046년 8월 11일</dateOccured>
+            <dateOccured type="일본연호">년 8월 11일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 8월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13908011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>공조 판서 김진규가 자신을 비난한 이시형의 소를 논박하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-08-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="6장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="525면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙戌/工曹判書<index num="1565891_0" ref="M_0001930" sort="K" type="이름">金鎭圭</index>以<index num="1565892_0" ref="M_0041839" sort="K" type="이름">李蓍亨</index>供辭, <index num="1565893_0" ref="M_0005229" sort="K" type="이름">李眞望</index>疏語, 陳疏自辨。 其論<index num="1565894_0" ref="M_0041839" sort="K" type="이름">蓍亨</index>供略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>以<index num="1565895_0" ref="M_0040928" sort="K" type="이름">李賓興</index>之爲臣踈戚, 視若奇貨, 隱然驅臣於與<index num="1565896_0" ref="M_0003991" sort="K" type="이름">李健命</index>、<index num="1565897_0" ref="M_0004942" sort="K" type="이름">李宜顯</index>等, 謀議峻囑之科。 噫! 臣始雖泛聞<index num="1565898_0" ref="M_0040928" sort="K" type="이름">賓興</index>傳其所聞, 而不以言於<index num="1565899_0" ref="M_0004942" sort="K" type="이름">宜顯</index>, <index num="1565900_0" ref="M_0004942" sort="K" type="이름">宜顯</index>必自有所聞, 而指告<index num="1565901_0" ref="M_0040928" sort="K" type="이름">賓興</index>, 則彼所以牽連捏合者, 已極無謂, 而無其事而造言陷人, 是何等大罪, 乃與踈戚謀議乎? 其謂<index num="1565902_0" ref="M_0040928" sort="K" type="이름">賓興</index>在囚時, 其家書之提及臣職名, 而爲人所見云者, 亦有可怪。 無論此說虛實之如何, 當<index num="1565903_0" ref="M_0053925" sort="K" type="이름">夢先</index>之加刑, 同僚已示貳意, 臣固知其難於究竟, 則豈以窮推後, 已言於<index num="1565904_0" ref="M_0040928" sort="K" type="이름">賓興</index>家人耶? 且臣則始施例刑於<index num="1565905_0" ref="M_0053925" sort="K" type="이름">夢先</index>, 繼因判付加刑, 而杖皆較刑穴, 其不用別杖, 吏隷亦知。 二次之後, 又, 不得行公, 酷刑之謗, 臣不必與辨矣。 北所之說, 臣之始聞, 實在<index num="1565906_0" ref="M_0006210" sort="K" type="이름">趙泰東</index>生前, 而<index num="1565907_0" ref="M_0006214" sort="K" type="이름">趙泰采</index>不欲發其一家所聞, 臣亦惜事體, 而憖置之, 及至<index num="1565908_0" ref="M_0004544" sort="K" type="이름">世德</index>之熒惑獄情, 不得已略擧。 今<index num="1565909_0" ref="M_0041839" sort="K" type="이름">蓍亨</index>竝與<index num="1565910_0" ref="M_0006214" sort="K" type="이름">泰采</index>而詬罵, 此必以<index num="1565911_0" ref="M_0006210" sort="K" type="이름">泰東</index>之死, 謂無可問而然耶?</quotation>
+            </paragraph>
+            <paragraph align="center">
+              <annotation type="원주">
+                <noteContent>【其對<index num="1565912_0" ref="M_0005229" sort="K" type="이름">李眞望</index>疏語見上。】</noteContent>
+              </annotation>上答以已諭, 以所論<index num="1565913_0" ref="M_0005229" sort="K" type="이름">眞望</index>事, 嚴批責之。<annotation type="원주">
+                <noteContent>【批旨見上。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_13908019">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 8月 19日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-08-19L0" type="서기"/>
+            <dateOccured type="간지">甲午</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 8월 19일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 8월 19일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 8월 19일</dateOccured>
+            <dateOccured type="단기">4046년 8월 19일</dateOccured>
+            <dateOccured type="일본연호">년 8월 19일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 8월 19일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13908019_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대사헌 박권이 이시형의 소를 논박하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-08-19L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="6장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="525면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲午/大司憲<index num="1565914_0" ref="M_0046894" sort="K" type="이름">朴權</index>, 以<index num="1565915_0" ref="M_0041839" sort="K" type="이름">李蓍亨</index>供辭, 陳疏自辨。 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>臣歷按三道刑訊, 必以較正法杖用之, 及叨刑官, 聞本曹刑杖大小、厚薄, 甚爲不均, 臣使當該律官, 收聚訊杖, 一依<index num="1565916_0" type="서명">《大典》</index>尺寸之數, 裁其長短、厚薄, 以鐵穴較正後, 使律官, 着名杖背, 臨時出用執杖之人, 不得低昻。 從前行賂歇杖者, 極以爲悶云, 諸傔受刑之杖, 亦律官着名者, 而只因行賂路絶, 不比前日之輕, 無乃<index num="1565917_0" sort="K" type="이름">墪</index>家所以爲切迫者, 乃在於此, 而<index num="1565918_0" ref="M_0041839" sort="K" type="이름">蓍亨</index>創爲別杖之說耶? 受刑之後, 仍處凍地致斃, 固無足怪, 厥後一人之死, 乃在於放釋旣久之後, 而今欲湊合, 謂之死於杖毒, 其果成說乎? 京外罪囚之致死於一次之刑者, 何限, 而未聞皆以酷刑律之也。 臣未嘗一躡<index num="1565919_0" ref="M_0003456" sort="K" type="이름">吳道一</index>之門, 所居之洞名, 移徙之久近, 固所昧昧。 <index num="1565920_0" ref="M_0053925" sort="K" type="이름">夢先</index>招中, <index num="1565921_0" sort="K" type="지명">壼洞</index>、<index num="1565922_0" sort="K" type="지명">泥峴</index>互換與否, 不得詰問, 勢固然耳, 而初招之稱以<index num="1565923_0" sort="K" type="지명">壼洞</index>者, 似出於眩亂之計, 末後以<index num="1565924_0" sort="K" type="지명">泥峴</index>爲對者, 不得不直招而然, 則此可謂訟冤之證耶云云。</quotation>
+            </paragraph>
+            <paragraph align="center">上答以何足爲嫌。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_139090">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 九月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 九月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13909029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 9月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-09-29L0" type="서기"/>
+            <dateOccured type="간지">癸酉</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 9월 29일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 9월 29일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 9월 29일</dateOccured>
+            <dateOccured type="단기">4046년 9월 29일</dateOccured>
+            <dateOccured type="일본연호">년 9월 29일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 9월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13909029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>사간 유숭이 시사(時事)를 상소하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-09-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="526면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸酉/司諫<index num="1565925_0" ref="M_0052100" sort="K" type="이름">兪崇</index>疏論時事, 末以冢宰除拜, 有若輪差, 尋常慨惜爲言, 上答以未曉。<annotation type="원주">
+                <noteContent>【原疏、批旨見上。】</noteContent>
+              </annotation>時, 吏判<index num="1565926_0" ref="M_0062029" sort="K" type="이름">黃欽</index>, 非人望, 故<index num="1565927_0" ref="M_0052100" sort="K" type="이름">崇</index>疏及之。 然<index num="1565928_0" ref="M_0062029" sort="K" type="이름">欽</index>實恬靜, 黨論不爲泰甚, 反有愈於所謂人望者矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_139100">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 十月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 十月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13910005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 10月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-10-05L0" type="서기"/>
+            <dateOccured type="간지">己卯</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 10월 5일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 10월 5일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 10월 5일</dateOccured>
+            <dateOccured type="단기">4046년 10월 5일</dateOccured>
+            <dateOccured type="일본연호">년 10월 5일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 10월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13910005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>지사 이광적이 서명우의 일을 논하고 죄주기를 청하니 임금이 책망하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-10-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="526면"/>
+            </source>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>정론-정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己卯/知事<index num="1565929_0" ref="M_0004101" sort="K" type="이름">李光迪</index>, 疏陳所懷, 請從<index num="1565930_0" ref="M_0003109" sort="K" type="이름">申思喆</index>言, 罪<index num="1565931_0" ref="M_0021061" sort="K" type="이름">徐命遇</index>。 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1565932_0" ref="M_0021061" sort="K" type="이름">命遇</index>讒言, 罪不容於投畀有北。 徼寵固位之言, 不使窮覈, 則大臣被誣, 終無以快雪, 讒口交亂, 終無以杜絶, 震雷不寧之變, 亦無以消弭也云云。</quotation>
+            </paragraph>
+            <paragraph align="center">上嚴批責之, 略曰: "今卿以不施<index num="1565933_0" ref="M_0021061" sort="K" type="이름">命遇</index>投畀之典, 爲冬雷之應, 其意不特在於傅會也。 果如卿言, 則從今以後, 傾軋之輩, 用意危險者, 皆將下吏究詰, 其流之弊, 庸有極乎? 噫! 卿以白首之年, 當遇災憂懼之日, 其所汲汲投疏, 一則曰究覈<index num="1565934_0" ref="M_0021061" sort="K" type="이름">命遇</index>, 二則曰加律<index num="1565935_0" ref="M_0021061" sort="K" type="이름">命遇</index>, 以爲消弭之第一策, 寧有是哉? 予實駭歎也。"<annotation type="원주">
+                <noteContent>【原疏、批旨見上。】</noteContent>
+              </annotation>
+              <index num="1565936_0" ref="M_0004101" sort="K" type="이름">光迪</index>老而不死, 乃以諂附權貴之計, 借災異、傅會之說, 構捏言者, 必欲加罪, 此正所謂不識人間羞恥事者。 上敎嚴明, 足令老奸破膽, 人皆快之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_139110">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三十九年 十一月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 十一月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_13911028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 39年 11月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1713-11-28L0" type="서기"/>
+            <dateOccured type="간지">壬申</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 39년 11월 28일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 322년 11월 28일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 52년 11월 28일</dateOccured>
+            <dateOccured type="단기">4046년 11월 28일</dateOccured>
+            <dateOccured type="일본연호">년 11월 28일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)52년 11월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_13911028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이택·김진규에게 관직을 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1713-11-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 62책 54권</mainTitle>
+              <page begin="7장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 40책</mainTitle>
+              <page begin="526면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬申/以<index num="1565937_0" ref="M_0000758" sort="K" type="이름">李澤</index>爲吏曹佐郞, <index num="1565938_0" ref="M_0001930" sort="K" type="이름">金鎭圭</index>爲<index num="1565939_0" sort="K" type="지명">江華</index>留守。</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1565940_0" ref="M_0000758" sort="K" type="이름">李澤</index>流俗庸庸之輩, 嘗言事被謫, 隣邑不堪其誅求, 乍補下邑, 政績有歉於簡約。 持身居官, 類多如此, 而天部華貫, 不少枳礙, 名器可惜也。 <index num="1565941_0" ref="M_0001930" sort="K" type="이름">金鎭圭</index>之淸素孤直, 實罕其倫, 掌考試, 一世爭推以至公, 在秋部, 訟者皆自以爲無冤, 而旣見忤於世, 且不得於上, 從正卿出留守, 未免左降, 公議惜之。"】</paragraph>
+              </postScript>
+            </paragraph>
+            <paragraph align="center">肅宗顯義光倫睿聖英烈章文憲武敬明元孝大王實錄補闕正誤卷之五十四</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

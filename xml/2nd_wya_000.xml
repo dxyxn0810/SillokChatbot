@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wya">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>哲宗實錄</mainTitle>
+        <alternative> 哲宗熙倫正極粹德純聖文顯武成獻仁英孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wya_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">哲宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">哲宗實錄 48책</mainTitle>
+          <page begin="547면"/>
+        </source>
+        <subjectClass>왕실(王室)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○大王諱<annotation type="원주">
+            <noteContent>【<index num="1932459_0" ref="M_0033967" sort="K" type="이름">昪</index>】</noteContent>
+          </annotation>字<annotation type="원주">
+            <noteContent>【<index num="1932460_0" ref="M_0033967" sort="K" type="이름">道升</index>】</noteContent>
+          </annotation>
+          <index num="1932461_0" ref="M_0000722" sort="K" type="이름">全溪大院君</index>第三子。 母<index num="1932462_0" sort="K" type="이름">龍城府大夫人</index>
+          <index num="1932463_0" sort="K" type="이름">廉氏</index>
+          <annotation type="원주">
+            <noteContent>【籍<index num="1932464_0" sort="K" type="지명">龍潭</index>學生贈領議政<index num="1932465_0" ref="M_0037413" sort="K" type="이름">成化</index>女。】</noteContent>
+          </annotation> 辛卯<annotation type="원주">
+            <noteContent>【純祖三十一年】</noteContent>
+          </annotation>六月十七日丁酉, 誕降于<index num="1932466_0" sort="K" type="지명">慶幸坊</index>私第<annotation type="원주">
+            <noteContent>【<index num="1932467_0" ref="M_0000722" sort="K" type="이름">全溪大院君</index>第】</noteContent>
+          </annotation>己酉<annotation type="원주">
+            <noteContent>【憲宗十五年】</noteContent>
+          </annotation>六月六日壬申, <index num="1932468_0" ref="M_0034243" sort="K" type="이름">憲宗</index>升遐, 以<index num="1932469_0" ref="M_0006789" sort="K" type="이름">純元王后</index>命, 奉迎于沁都, 入承<index num="1932470_0" ref="M_0034243" sort="K" type="이름">憲宗</index>大統。 考<index num="1932471_0" sort="K" type="이름">純祖</index>母妃<index num="1932472_0" ref="M_0006789" sort="K" type="이름">純元王后</index>
+          <index num="1932473_0" ref="M_0006789" sort="K" type="이름">金氏</index>
+          <annotation type="원주">
+            <noteContent>【籍<index num="1932474_0" sort="K" type="지명">安東</index>
+              <index num="1932475_0" ref="M_0001879" sort="K" type="이름">永粹君</index>
+              <index num="1932476_0" ref="M_0001879" sort="K" type="이름">祖淳</index>之女。】</noteContent>
+          </annotation> 初封<index num="1932477_0" ref="M_0033967" sort="K" type="이름">德完君</index>, 九日乙亥, 行冠禮, 卽位于<index num="1932478_0" sort="K" type="지명">昌德宮</index>之<index num="1932479_0" sort="K" type="지명">仁政門</index>。 癸亥六月十七日壬辰, 上尊號<index num="1932480_0" sort="K" type="이름">熙倫正極粹德純聖</index>, 十二月八日庚子, 昇遐, 在位十四年, 春秋三十三。 有晬容四本, 二本<annotation type="원주">
+            <noteContent>【壬子圖寫】</noteContent>
+          </annotation>二本<annotation type="원주">
+            <noteContent>【辛酉圖寫】</noteContent>
+          </annotation>奉于<index num="1932481_0" sort="K" type="지명">宙合樓</index>。 有一女<annotation type="원주">
+            <noteContent>【宮人<index num="1932482_0" sort="K" type="이름">范氏</index>出】</noteContent>
+          </annotation>無嗣。 <index num="1932483_0" sort="K" type="지명">睿陵</index>。<annotation type="원주">
+            <noteContent>【在<index num="1932484_0" sort="K" type="지명">高陽</index>
+              <index num="1932485_0" sort="K" type="지명">禧陵</index>右岡子坐午向甲子四月七日, 葬有表石。】</noteContent>
+          </annotation>妃<index num="1932486_0" sort="K" type="이름">明純大妃</index>
+          <index num="1932487_0" ref="M_0006820" sort="K" type="이름">金氏</index>
+          <annotation type="원주">
+            <noteContent>【籍<index num="1932488_0" sort="K" type="지명">安東</index>】</noteContent>
+          </annotation>領敦寧府事<index num="1932489_0" ref="M_0001519" sort="K" type="이름">永恩府院君</index>
+          <index num="1932490_0" ref="M_0001519" sort="K" type="이름">汶根</index>女, 丁酉<annotation type="원주">
+            <noteContent>【<index num="1932491_0" ref="M_0034243" sort="K" type="이름">憲宗</index>三年】</noteContent>
+          </annotation>三月二十三日庚子, 誕降, 辛亥, 冊封王妃。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

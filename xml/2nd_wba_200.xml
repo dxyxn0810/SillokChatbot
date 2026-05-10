@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wba_200">
+  <front>
+    <biblioData type="T">
+      <title>
+        <mainTitle>附錄 / 纂修官 名單</mainTitle>
+      </title>
+      <source>
+        <mainTitle type="태백산사고본"> 1책 6권</mainTitle>
+        <page begin="12장 B면"/>
+      </source>
+      <source>
+        <mainTitle type="국편영인본"> 1책</mainTitle>
+        <page begin="189면"/>
+      </source>
+      <subjectClass>역사-편사(編史)</subjectClass>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center">○春秋館敬奉王旨撰進。</paragraph>
+      <paragraph align="center">同知館事嘉靖大夫藝文館提學集賢殿提學同知經筵事世子右賓客 臣<index id="p16_000001_00" num="0015525_0" ref="M_0000414" sort="K" type="이름">尹淮</index>。</paragraph>
+      <paragraph align="center">同知館事嘉善大夫中軍都摠府摠制世子左副賓客 臣<index id="p16_000006_00" num="0015526_0" ref="M_0049184" sort="K" type="이름">申檣</index>。</paragraph>
+      <paragraph align="center">
+        <index num="0015527_0" type="연호">宣德</index>丙午八月日進。</paragraph>
+      <paragraph align="center">計六卷。</paragraph>
+    </content>
+  </text>
+</level2>

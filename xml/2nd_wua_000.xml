@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wua">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>英祖實錄</mainTitle>
+        <alternative> 英宗至行純德英謨毅烈章義弘倫光仁敦禧體天建極聖功神化大成廣運開泰基永堯明舜哲乾健坤寧翼文宣武熙敬顯孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wua_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">英祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">英祖實錄 41책</mainTitle>
+          <page begin="401면"/>
+        </source>
+        <subjectClass>왕실-종사(宗社)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○大王諱<annotation type="원주">
+            <noteContent>【<index num="1590304_0" ref="M_0050728" sort="K" type="이름">昑</index>】</noteContent>
+          </annotation>字<annotation type="원주">
+            <noteContent>【<index num="1590305_0" ref="M_0050728" sort="K" type="이름">光叔</index>】</noteContent>
+          </annotation>, <index num="1590306_0" ref="M_0032646" sort="K" type="이름">肅宗元孝大王</index>之子, <index num="1590307_0" ref="M_0000063" sort="K" type="이름">景宗宣孝大王</index>之弟。 母<index num="1590308_0" ref="M_0032646" sort="K" type="이름">毓祥宮</index>
+          <index num="1590309_0" sort="K" type="이름">淑嬪崔氏</index>, <index num="1590311_0" ref="M_0032646" sort="K" type="이름">肅宗大王</index>二十年甲戌九月十三日戊寅, 誕降于<index num="1590312_0" sort="K" type="지명">昌德宮</index>之<index num="1590313_0" sort="K" type="지명">寶慶堂</index>。 己卯封<index num="1590314_0" ref="M_0050728" sort="K" type="이름">延礽君</index>, <index num="1590315_0" ref="M_0000063" sort="K" type="이름">景宗大王</index>元年辛丑, 冊封王世弟, 甲辰卽位, 丙申昇遐, 在位五十二年, 壽八十三。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

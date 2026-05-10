@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wma">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>明宗實錄</mainTitle>
+        <alternative> 明宗大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wma_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">明宗實錄 3책 3권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">明宗實錄 19책</mainTitle>
+          <page begin="379면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0855188_0" ref="M_0045847" sort="K" type="이름">明宗</index>王諱<index num="0855189_0" ref="M_0045847" sort="K" type="이름">峘</index>, 字<index num="0855190_0" ref="M_0045847" sort="K" type="이름">對陽</index>。 <index num="0855191_0" ref="M_0057021" sort="K" type="이름">中宗</index>第二子, <index num="0855192_0" ref="M_0000819" sort="K" type="이름">仁廟</index>異母弟, 母妃<index num="0855193_0" ref="M_0006784" sort="K" type="이름">聖烈大妃</index>
+          <index num="0855194_0" ref="M_0006784" sort="K" type="이름">尹氏</index>。 性慈孝恭勤, 雅好文藝。 然幼沖踐祚, 母妃臨朝, 政由外家。 群奸得志, 良善多被竄殺, 主勢孤危。 曁親政之後, 猶未免寵信戚畹, 昵近刑餘, 朝政日紊, 終幸覺悟, 斥黜<index num="0855195_0" ref="M_0014563" sort="K" type="이름">李樑</index>、<index num="0855196_0" ref="M_0003894" sort="K" type="이름">尹元衡</index>之徒, 國家復安。 在位二十三年, 壽三十四。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

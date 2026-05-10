@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wia">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>成宗實錄</mainTitle>
+        <alternative> 成宗康靖大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wia_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">成宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">成宗實錄 8책</mainTitle>
+          <page begin="440면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0381505_0" ref="M_0000328" sort="K" type="이름">成宗康靖仁文憲武欽聖恭孝大王</index>諱, <index num="0381506_0" ref="M_0036471" sort="K" type="이름">德宗</index>第二子也。 母<index num="0381507_0" ref="M_0006787" sort="K" type="이름">仁粹大王大妃</index>
+          <index num="0381508_0" ref="M_0006787" sort="K" type="이름">韓氏</index>, 左議政<index num="0381509_0" ref="M_0060045" sort="K" type="이름">西原府院君</index>
+          <index num="0381510_0" ref="M_0060045" sort="K" type="이름">確</index>之女。 <index num="0381511_0" type="연호">天順</index>元年丁丑七月三十日辛卯, 誕王于東邸。 是年九月, <index num="0381512_0" ref="M_0036471" sort="K" type="이름">德宗</index>薨, <index num="0381513_0" ref="M_0047665" sort="K" type="이름">世祖</index>育王于宮中。 王天姿岐嶷, 氣度異常, <index num="0381514_0" ref="M_0047665" sort="K" type="이름">世祖</index>奇愛之。 辛巳正月, 封<index num="0381515_0" ref="M_0000328" sort="K" type="이름">者山君</index>。 王嘗與母兄<index num="0381516_0" ref="M_0043123" sort="K" type="이름">月山君</index>
+          <index num="0381517_0" ref="M_0043123" sort="K" type="이름">婷</index>, 在宮中廡下讀書, 適有迅雷, 小宦在側震死, 侍者無不顚仆失氣, 王略無懼色, 言動自若, 人皆異之。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

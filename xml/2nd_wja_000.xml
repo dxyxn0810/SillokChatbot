@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wja">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>燕山君日記</mainTitle>
+        <alternative> 燕山君日記</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wja_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">燕山君日記 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">燕山君日記 12책</mainTitle>
+          <page begin="623면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0584238_0" ref="M_0003442" sort="K" type="이름">燕山君</index>諱<index num="0584239_0" ref="M_0003442" sort="K" type="이름">㦕</index>, <index num="0584240_0" ref="M_0000328" sort="K" type="이름">成宗康靖大王</index>長子, 母廢妃<index num="0584241_0" ref="M_0059038" sort="K" type="이름">尹氏</index>, 判奉常寺事<index num="0584242_0" ref="M_0010456" sort="K" type="이름">起畎</index>之女。 以<index num="0584243_0" type="연호">成化</index>丙申十一月初七日丁未生。 癸卯二月己巳, 冊封世子, 遣領中樞<index num="0584244_0" ref="M_0006441" sort="K" type="이름">韓明澮</index>等, 請命于京師。 五月丁酉, 帝遣太監<index num="0584245_0" ref="M_0053821" sort="K" type="이름">鄭同</index>等賜勑封。 少時不好學, 東宮僚屬有勸戒者, 深銜之。 及卽位, 宮中所行多不善, 外庭猶未之知。 晩年, 荒悖淫縱, 大肆虐政, 誅殺大臣、臺諫、侍從, 殆盡。 至有炮烙、斮胸、寸斬、碎骨飄風之刑, 遂廢徙<index num="0584246_0" sort="K" type="지명">喬桐</index>, 封<index num="0584247_0" ref="M_0003442" sort="K" type="이름">燕山君</index>。 居數月, 以疾終。 年三十一, 在位十二年。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

@@ -1,0 +1,3266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wga_200">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>樂譜</mainTitle>
+      </title>
+      <source>
+        <mainTitle type="국편영인본"> 8 책</mainTitle>
+        <page begin="216면"/>
+      </source>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center">樂譜</paragraph>
+    </content>
+  </text>
+  <level3 id="wga_200010">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 樂譜 / 樂譜序 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+          <page begin="216면"/>
+        </source>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">◈ 樂譜序</paragraph>
+        <paragraph align="center">
+          <index num="0367735_0" sort="K" type="지명">中國</index>雅樂,以十二律爲譜。俗樂,以五凡工尺上一四六句合十字爲譜。合爲黃鐘。四爲大呂、太簇。一爲夾鐘、姑洗。工爲夷則、南呂。凡爲無射、應鐘。各以上下分爲淸濁,其仲呂、蕤賓、林鐘不可以上下分。上爲仲呂。句爲蕤賓,尺爲林(鍾)[鐘]。其黃鐘淸用六字。大呂、太簇、夾鐘淸各用五字,而以上下緊別之, 緊五者夾鐘淸聲, 俗樂以爲宮, 此其取律寸律數,用字紀聲之略也。惟我東國雅樂,則亦用十二律爲譜。鄕樂,則只以肉譜爲譜,疎數緩急之節,不可以爲據,而傳於後世也。今我<index num="0367736_0" ref="M_0047665" sort="K" type="이름">世祖大王</index>,發於宸衷,創作此譜,劃爲十六井,而作六大綱,以宮上下紀聲其縵中數三體因用綱各異,而有疎[數]緩急之不同。其曰宮者,以歌聲之調爲宮,非宮調之宮也,非特十二宮調爲宮也。商、角、徵、羽亦皆爲宮。自宮而上,第一聲爲上一,第二聲爲上二,第三聲爲上三,第四聲爲上四,第五聲爲上五。自宮而下,第一聲爲下一,第二聲爲下二,第三聲爲下三,第四聲爲下四,第五聲爲下五。聲之高者爲上,聲之下者爲下,上五以上,過乎輕淸,下五以下,淪乎沈濁,皆不可用也。<index num="0367737_0" sort="K" type="지명">中國</index>雅俗樂,一均之聲,皆用七音,東國本用五音,而不知用二變之聲。今用二變,則以宮上下爲譜,所不能及,故兼用五凡工尺上一四六句合。起樂之始, 或出於第一綱,或出於第二綱,或出於第三綱者,音樂之體勢使之然也。前代未有聲音節奏、疎數緩急之譜,只有效其聲,而作肉譜以傳其聲。且琵琶、玄琴、伽倻琴、笛、觱篥,各異其譜,煩雜難曉。又未有歌聲之譜,今合絲竹、歌杖鼓、拍板總而爲譜,要約而不煩,明白而易曉。世俗所謂林鐘尺字平調,則林鐘爲宮、南呂爲上一、淸黃鐘爲上二、淸太簇爲上三、淸姑洗爲上四、淸林鐘爲上五,上五所謂少宮聲也。姑洗爲下一、太簇爲下二、黃鐘爲下三、濁南呂爲下四、濁林鐘爲下五,下四、下五所謂倍濁聲也。林鐘尺字界面調,則林鐘爲宮、無射爲上一、淸黃鐘爲上二、淸太簇爲上三、淸仲呂爲上四、淸林鐘爲上五,上五所謂少宮聲也。仲呂爲下一、太簇爲下二、黃鐘爲下三、濁無射爲下四、濁林鐘爲下五,下四、下五所謂倍濁聲也。以<index num="0367738_0" sort="K" type="지명">中國</index>五調言之,則平調乃徵調徵聲爲主,界面調爲羽調羽聲爲主,餘倣此。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_200020">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle> 樂譜 / 新制雅樂譜 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+          <page begin="216면"/>
+        </source>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">◈ 新制雅樂譜</paragraph>
+      </content>
+    </text>
+    <level4 id="wga_20002001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>樂譜 / 新制雅樂譜 / 圜丘</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="048" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="217면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 圜丘</paragraph>
+        </content>
+      </text>
+      <level5 id="wga_20002001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 迎神 夾鐘宮 六變</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 迎神 夾鐘宮 六變</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 夾鐘宮 六變</caption>
+                <image align="center" src="wga_20002001_001_v" type="0"/>
+                <image align="center" src="wga_20002001_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 奠玉幣</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 奠玉幣</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠玉幣</caption>
+                <image align="center" src="wga_20002001_002_v" type="0"/>
+                <image align="center" src="wga_20002001_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 進俎</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 進俎</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進俎</caption>
+                <image align="center" src="wga_20002001_003_v" type="0"/>
+                <image align="center" src="wga_20002001_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 初獻</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻</caption>
+                <image align="center" src="wga_20002001_004_v" type="0"/>
+                <image align="center" src="wga_20002001_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 亞獻</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻</caption>
+                <image align="center" src="wga_20002001_005_v" type="0"/>
+                <image align="center" src="wga_20002001_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 終獻</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 終獻</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>終獻</caption>
+                <image align="center" src="wga_20002001_006_v" type="0"/>
+                <image align="center" src="wga_20002001_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 徹籩豆</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 徹籩豆</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆</caption>
+                <image align="center" src="wga_20002001_007_v" type="0"/>
+                <image align="center" src="wga_20002001_007_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 送神</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 送神</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神</caption>
+                <image align="center" src="wga_20002001_008_v" type="0"/>
+                <image align="center" src="wga_20002001_008_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20002001_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新制雅樂譜 / 圜丘 / 望燎</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="217면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 望燎</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>望燎</caption>
+                <image align="center" src="wga_20002001_009_v" type="0"/>
+                <image align="center" src="wga_20002001_009_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">自<index num="0367739_0" type="서명">《迎神》</index>至<index num="0367740_0" type="서명">《望燎》</index>,皆以夾鐘宮奏之。 【依<index num="0367741_0" sort="K" type="지명">大明</index>
+              <index num="0367742_0" type="서명">《大祀樂章》</index>。】</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wga_200030">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 樂譜 / 後序 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+          <page begin="218면"/>
+        </source>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○ 後序</paragraph>
+        <paragraph align="center">
+          <index num="0367743_0" type="연호">天順</index>七年癸未冬十月。命領議政府事臣<index id="p17_000070_00" num="0367744_0" ref="M_0003129" sort="K" type="이름">申叔舟</index>、右參贊臣<index id="p16_000057_00" num="0367745_0" ref="M_0058307" sort="K" type="이름">崔恒</index>、同知中樞院事臣<index id="p16_000081_00" num="0367746_0" ref="M_0003360" sort="K" type="이름">梁誠之</index>、工曹參判臣<index num="0367747_0" sort="K" type="이름">成任樂</index>、學副使臣<index num="0367748_0" ref="M_0054858" sort="K" type="이름">鄭沈</index>等。若曰:"<index num="0367749_0" ref="M_0032471" sort="K" type="이름">世宗</index>朝始制<index num="0367750_0" type="서명">《保太平》</index>、<index num="0367751_0" type="서명">《定大業》</index>二舞,聲容盡美。今欲用之郊廟,宜聽子言,更考古今制度。"以聞遂命<index num="0367752_0" ref="M_0000526" sort="K" type="이름">永順君</index>
+          <index num="0367753_0" ref="M_0000526" sort="K" type="이름">溥</index>掌出納。於是臣等,詳攷歷代諸書,以啓上,參酌裁定。越明年甲申正月,親祀圜丘、宗廟,始用新樂奏之。夫禮樂爲國先務,然必待時而後制作,今乃神聖誕作善繼善述,以成一代之樂,薦之于郊于廟,極其美善。其制度之詳,不可不傳,謹志其登歌軒架二舞,及儀物冠服,幷其考據諸書以進。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_200040">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle> 樂譜 / 登歌軒架之圖 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+          <page begin="218면"/>
+        </source>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">◈ 登歌軒架之圖</paragraph>
+      </content>
+    </text>
+    <level4 id="wga_20004001">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>樂譜 / 登歌軒架之圖 / 登歌之圖</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="048" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="219면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 登歌之圖</paragraph>
+          <paragraph align="center">
+            <illustration>
+              <caption>登歌之圖</caption>
+              <image align="center" src="wga_20004001_v" type="0"/>
+              <image align="center" src="wga_20004001_h" type="0"/>
+            </illustration>
+          </paragraph>
+        </content>
+      </text>
+    </level4>
+    <level4 id="wga_20004002">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>樂譜 / 登歌軒架之圖 / 軒架之圖</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="048" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="219면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 軒架之圖</paragraph>
+          <paragraph align="center">
+            <illustration>
+              <caption>軒架之圖</caption>
+              <image align="center" src="wga_20004002_v" type="0"/>
+              <image align="center" src="wga_20004002_h" type="0"/>
+            </illustration>
+          </paragraph>
+        </content>
+      </text>
+    </level4>
+  </level3>
+  <level3 id="wga_200050">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle> 樂譜 / 舞圖附考定 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+          <page begin="219면"/>
+        </source>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">◈ 舞圖附考定</paragraph>
+      </content>
+    </text>
+    <level4 id="wga_20005001">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>樂譜 / 舞圖附考定 / 保太平之舞圖</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="048" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="219면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 保太平之舞圖</paragraph>
+          <paragraph align="center">
+            <illustration>
+              <caption>保太平之舞圖</caption>
+              <image align="center" src="wga_20005001_v" type="0"/>
+              <image align="center" src="wga_20005001_h" type="0"/>
+            </illustration>
+          </paragraph>
+        </content>
+      </text>
+    </level4>
+    <level4 id="wga_20005002">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>樂譜 / 舞圖附考定 / 定大業之舞圖</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="048" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="219면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 定大業之舞圖</paragraph>
+          <paragraph align="center">
+            <illustration>
+              <caption>定大業之舞圖</caption>
+              <image align="center" src="wga_20005002_v" type="0"/>
+              <image align="center" src="wga_20005002_h" type="0"/>
+            </illustration>
+          </paragraph>
+        </content>
+      </text>
+    </level4>
+    <level4 id="wga_20005003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>樂譜 / 舞圖附考定 / 二舞舞考定</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="048" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="220면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 二舞舞考定</paragraph>
+        </content>
+      </text>
+      <level5 id="wga_20005003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 舞圖附考定 / 二舞舞考定 / 宗廟</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="220면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">◎ 宗廟</paragraph>
+            <paragraph align="center">○ 迎神</paragraph>
+            <paragraph align="center">軒架,作<index num="0367754_0" type="서명">《保太平》</index>之樂,<index num="0367755_0" type="서명">《保太平》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 奠幣</paragraph>
+            <paragraph align="center">登歌,作<index num="0367756_0" type="서명">《保太平》</index>之樂,<index num="0367757_0" type="서명">《保太平》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 進饌</paragraph>
+            <paragraph align="center">軒架,作<index num="0367758_0" type="서명">《豊安》</index>之樂。 【依<index num="0367759_0" type="서명">《宋史》</index>
+              <index num="0367760_0" type="서명">《禮樂志》</index>有樂無舞。】</paragraph>
+            <paragraph align="center">○ 初獻</paragraph>
+            <paragraph align="center">登歌作<index num="0367761_0" type="서명">《保太平》</index>之樂、<index num="0367762_0" type="서명">《保太平》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 亞獻</paragraph>
+            <paragraph align="center">軒架作<index num="0367763_0" type="서명">《定大業》</index>之樂、<index num="0367764_0" type="서명">《定大業》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 終獻</paragraph>
+            <paragraph align="center">軒架,作<index num="0367765_0" type="서명">《定大業》</index>之樂、<index num="0367766_0" type="서명">《定大業》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 徹籩豆</paragraph>
+            <paragraph align="center">登歌,作<index num="0367767_0" type="서명">《雍安》</index>之樂。 【依<index num="0367768_0" type="서명">《宋史》</index>
+              <index num="0367769_0" type="서명">《禮樂志》</index>
+              <index num="0367770_0" type="서명">《大明諸司職掌》</index>有樂無舞。】</paragraph>
+            <paragraph align="center">○ 送神</paragraph>
+            <paragraph align="center">軒架,作<index num="0367771_0" type="서명">《興安》</index>之樂。 【依<index num="0367772_0" type="서명">《宋史》</index>
+              <index num="0367773_0" type="서명">《禮樂志》</index>
+              <index num="0367774_0" type="서명">《大明諸司職掌》</index>有樂無舞。】</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20005003_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 舞圖附考定 / 二舞舞考定 / 圜丘</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="220면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">◎ 圜丘</paragraph>
+            <paragraph align="center">○ 迎神</paragraph>
+            <paragraph align="center"> 軒架,作<index num="0367775_0" type="서명">《保太平》</index>之樂、<index num="0367776_0" type="서명">《保太平》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 奠幣</paragraph>
+            <paragraph align="center"> 登歌,作<index num="0367777_0" type="서명">《保太平》</index>之樂、<index num="0367778_0" type="서명">《保太平》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 進饌</paragraph>
+            <paragraph align="center">軒架,作<index num="0367779_0" type="서명">《隆安之樂》</index>。 【依<index num="0367780_0" type="서명">《宋史》</index>
+              <index num="0367781_0" type="서명">《禮樂志》</index>
+              <index num="0367782_0" type="서명">《大明諸司職掌》</index>有樂無舞。】</paragraph>
+            <paragraph align="center">○ 初獻</paragraph>
+            <paragraph align="center">登歌,作<index num="0367783_0" type="서명">《保太平》</index>之樂、<index num="0367784_0" type="서명">《保太平》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 亞獻</paragraph>
+            <paragraph align="center">軒架,作<index num="0367785_0" type="서명">《定大業》</index>之樂、<index num="0367786_0" type="서명">《定大業》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 終獻</paragraph>
+            <paragraph align="center">軒架,作<index num="0367787_0" type="서명">《定大業》</index>之樂、<index num="0367788_0" type="서명">《定大業》</index>之舞作。</paragraph>
+            <paragraph align="center">○ 徹籩豆</paragraph>
+            <paragraph align="center">登歌,作<index num="0367789_0" type="서명">《成安》</index>之樂。 【依<index num="0367790_0" type="서명">《宋史》</index>
+              <index num="0367791_0" type="서명">《禮樂志》</index>
+              <index num="0367792_0" type="서명">《大明諸司職掌》</index>有樂無舞。】</paragraph>
+            <paragraph align="center">○ 送神</paragraph>
+            <paragraph align="center">軒架,作<index num="0367793_0" type="서명">《寧安》</index>之樂。 【依<index num="0367794_0" type="서명">《宋史》</index>
+              <index num="0367795_0" type="서명">《禮樂志》</index>
+              <index num="0367796_0" type="서명">《大明諸司職掌》</index>有樂無舞。】</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20005003_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 舞圖附考定 / 二舞舞考定 / 考定記</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="220면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">◎ 考定記</paragraph>
+            <paragraph align="center">依<index num="0367797_0" type="서명">《杜氏通典》</index>,唐麟德二年,文舞改用功成<index num="0367798_0" type="서명">《慶善樂》</index>,武舞改用神功<index num="0367799_0" type="서명">《破陣樂》</index>,改舊文舞爲<index num="0367800_0" type="서명">《保太平》</index>之舞,武舞爲<index num="0367801_0" type="서명">《定大業》</index>之舞</paragraph>
+            <paragraph align="center">○ 二舞郊廟通用</paragraph>
+            <paragraph align="center">依<index num="0367802_0" type="서명">《杜氏通典》</index>,<index num="0367803_0" sort="K" type="지명">唐</index>
+              <index num="0367804_0" type="연호">麟德</index>二年,詔郊廟所奏,文舞,宜用功成<index num="0367805_0" type="서명">《慶善》</index>之樂,武舞,宜用神功<index num="0367806_0" type="서명">《破陣》</index>之樂。</paragraph>
+            <paragraph align="center">○ 用文武舞節次</paragraph>
+            <paragraph align="center">依<index num="0367807_0" type="서명">《文獻通考》</index>: <index num="0367808_0" sort="K" type="지명">唐</index>
+              <index num="0367809_0" ref="M_0031123" sort="A" type="이름">高祖</index>時,郊廟凡初獻作文舞之舞,亞獻、終獻作武舞之舞,太廟降神以文舞。</paragraph>
+            <paragraph align="center">○ 二舞進退無樂</paragraph>
+            <paragraph align="center">舊制,文舞退、武舞進。軒架作<index num="0367810_0" type="서명">《舒安》</index>之樂,舞者立定,樂止。今改<index num="0367811_0" type="서명">《保太平》</index>之舞退,<index num="0367812_0" type="서명">《定大業》</index>之舞進,二舞進退之間,不別奏樂。</paragraph>
+            <paragraph align="center">○ 升降飮福無樂</paragraph>
+            <paragraph align="center">依<index num="0367813_0" type="서명">《大明諸司職掌》</index>,皇帝郊祀享廟時,升降飮福,皆不奏樂。</paragraph>
+            <paragraph align="center">○ 宗廟用黃鐘宮,圜丘用夾鐘宮,社稷用林鐘宮</paragraph>
+            <paragraph align="center">依<index num="0367814_0" type="서명">《周禮》</index>:"圜鐘爲宮,黃鐘爲角,太簇爲徵,姑洗爲羽。冬至日,於地上之圜丘奏之,若樂六變,則天神皆降,可得而禮矣。函鐘爲宮,太簇爲角,姑洗爲徵,南呂爲羽。夏至日,於澤中之方丘奏之,若樂八變,則地祗皆出,可得而禮矣。黃鐘爲宮,大呂爲角,太簇爲徵,應鐘爲羽。於宗廟之中奏之。若樂九變,則人鬼,可得而禮矣。"註圜鐘: "夾鐘也。夾鐘生於房、心之氣,房、心爲太辰天帝之明堂。函鐘,林鐘也。林鐘生於(未)<annotation type="교감주">
+                <noteTitle>[尾]</noteTitle>
+              </annotation>之氣,(未)<annotation type="교감주">
+                <noteTitle>[尾]</noteTitle>
+              </annotation>坤之位,或曰天社在東井、輿鬼之外。天社,地神也。黃鐘生於虛、危之氣,虛、危爲宗廟。"</paragraph>
+            <paragraph align="center">○ 樂舞佾數</paragraph>
+            <paragraph align="center">舊制文武舞,用六佾。每佾,八人。<index num="0367815_0" ref="M_0032471" sort="K" type="이름">世宗</index>朝,制<index num="0367816_0" type="서명">《定大業》</index>、<index num="0367817_0" type="서명">《保太平》</index>二舞,亦用六佾,每佾人數,如其佾數,今因之。</paragraph>
+            <paragraph align="center">○ 冠帶衣裳之制</paragraph>
+            <paragraph align="center">
+              <index num="0367818_0" type="서명">《保太平》</index>齋,卽進賢冠一梁細纓,<index num="0367819_0" type="서명">《定大業》</index>武工,皮弁細纓,竝藍衣、赤裳、皂緣、赤揀帶、白布襪、烏皮履。二舞執儀物者,各與舞者同。登歌、軒架齋,卽樂生,竝介幘冠、緋繡鸞衫、白中單、白綃帶、白布襪、烏皮履。典樂二人,綠衫、㡤頭、烏鞓帶、黑靴。</paragraph>
+            <paragraph align="center">依歷代制度而酌定。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wga_200060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle> 樂譜 / 新製略定樂譜 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+          <page begin="221면"/>
+        </source>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">◈ 新製略定樂譜</paragraph>
+      </content>
+    </text>
+    <level4 id="wga_20006001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>樂譜 / 新製略定樂譜 / 宗廟</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="048" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="221면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 宗廟</paragraph>
+        </content>
+      </text>
+      <level5 id="wga_20006001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 迎神 熙文之樂 淸黃鐘調 黃鐘爲徵</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="221면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 迎神 熙文之樂 淸黃鐘調 黃鐘爲徵</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_001_001_v" type="0"/>
+                <image align="center" src="wga_20006001_001_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_001_002_v" type="0"/>
+                <image align="center" src="wga_20006001_001_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_001_003_v" type="0"/>
+                <image align="center" src="wga_20006001_001_003.h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_001_004_v" type="0"/>
+                <image align="center" src="wga_20006001_001_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_001_005_v" type="0"/>
+                <image align="center" src="wga_20006001_001_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 奠幣 熙文之樂 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="222면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 奠幣 熙文之樂 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂 調上同</caption>
+                <image align="center" src="wga_20006001_002_001_v" type="0"/>
+                <image align="center" src="wga_20006001_002_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂 調上同</caption>
+                <image align="center" src="wga_20006001_002_002_v" type="0"/>
+                <image align="center" src="wga_20006001_002_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂 調上同</caption>
+                <image align="center" src="wga_20006001_002_003_v" type="0"/>
+                <image align="center" src="wga_20006001_002_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂 調上同</caption>
+                <image align="center" src="wga_20006001_002_004_v" type="0"/>
+                <image align="center" src="wga_20006001_002_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂 調上同</caption>
+                <image align="center" src="wga_20006001_002_005_v" type="0"/>
+                <image align="center" src="wga_20006001_002_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 進饌 豊安之樂 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="223면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 進饌 豊安之樂 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 豊安之樂 調上同</caption>
+                <image align="center" src="wga_20006001_003_001_v" type="0"/>
+                <image align="center" src="wga_20006001_003_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 豊安之樂 調上同</caption>
+                <image align="center" src="wga_20006001_003_002_v" type="0"/>
+                <image align="center" src="wga_20006001_003_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 豊安之樂 調上同</caption>
+                <image align="center" src="wga_20006001_003_003_v" type="0"/>
+                <image align="center" src="wga_20006001_003_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 豊安之樂 調上同</caption>
+                <image align="center" src="wga_20006001_003_004_v" type="0"/>
+                <image align="center" src="wga_20006001_003_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 豊安之樂 調上同</caption>
+                <image align="center" src="wga_20006001_003_005_v" type="0"/>
+                <image align="center" src="wga_20006001_003_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 熙文 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="224면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 熙文 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 熙文 調上同</caption>
+                <image align="center" src="wga_20006001_004_001_v" type="0"/>
+                <image align="center" src="wga_20006001_004_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 熙文 調上同</caption>
+                <image align="center" src="wga_20006001_004_002_v" type="0"/>
+                <image align="center" src="wga_20006001_004_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 熙文 調上同</caption>
+                <image align="center" src="wga_20006001_004_003_v" type="0"/>
+                <image align="center" src="wga_20006001_004_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 熙文 調上同</caption>
+                <image align="center" src="wga_20006001_004_004_v" type="0"/>
+                <image align="center" src="wga_20006001_004_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 熙文 調上同</caption>
+                <image align="center" src="wga_20006001_004_005_v" type="0"/>
+                <image align="center" src="wga_20006001_004_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 基命 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="225면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 基命 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 基命 調上同</caption>
+                <image align="center" src="wga_20006001_005_001_v" type="0"/>
+                <image align="center" src="wga_20006001_005_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 基命 調上同</caption>
+                <image align="center" src="wga_20006001_005_002_v" type="0"/>
+                <image align="center" src="wga_20006001_005_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 基命 調上同</caption>
+                <image align="center" src="wga_20006001_005_003_v" type="0"/>
+                <image align="center" src="wga_20006001_005_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 基命 調上同</caption>
+                <image align="center" src="wga_20006001_005_004_v" type="0"/>
+                <image align="center" src="wga_20006001_005_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 歸仁 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="226면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 歸仁 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 歸仁 調上同</caption>
+                <image align="center" src="wga_20006001_006_001_v" type="0"/>
+                <image align="center" src="wga_20006001_006_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 歸仁 調上同</caption>
+                <image align="center" src="wga_20006001_006_002_v" type="0"/>
+                <image align="center" src="wga_20006001_006_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 歸仁 調上同</caption>
+                <image align="center" src="wga_20006001_006_003_v" type="0"/>
+                <image align="center" src="wga_20006001_006_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 亨嘉 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="227면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 亨嘉 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 亨嘉 調上同</caption>
+                <image align="center" src="wga_20006001_007_001_v" type="0"/>
+                <image align="center" src="wga_20006001_007_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 亨嘉 調上同</caption>
+                <image align="center" src="wga_20006001_007_002_v" type="0"/>
+                <image align="center" src="wga_20006001_007_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 輯寧 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="227면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 輯寧 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 輯寧 調上同</caption>
+                <image align="center" src="wga_20006001_008_001_v" type="0"/>
+                <image align="center" src="wga_20006001_008_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 輯寧 調上同</caption>
+                <image align="center" src="wga_20006001_008_002_v" type="0"/>
+                <image align="center" src="wga_20006001_008_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 隆化 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="227면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 隆化 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 隆化 調上同</caption>
+                <image align="center" src="wga_20006001_009_001_v" type="0"/>
+                <image align="center" src="wga_20006001_009_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 隆化 調上同</caption>
+                <image align="center" src="wga_20006001_009_002_v" type="0"/>
+                <image align="center" src="wga_20006001_009_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 隆化 調上同</caption>
+                <image align="center" src="wga_20006001_009_003_v" type="0"/>
+                <image align="center" src="wga_20006001_009_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_010">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 顯美 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="228면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 顯美 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 顯美 調上同</caption>
+                <image align="center" src="wga_20006001_010_001_v" type="0"/>
+                <image align="center" src="wga_20006001_010_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 顯美 調上同</caption>
+                <image align="center" src="wga_20006001_010_002_v" type="0"/>
+                <image align="center" src="wga_20006001_010_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 顯美 調上同</caption>
+                <image align="center" src="wga_20006001_010_003_v" type="0"/>
+                <image align="center" src="wga_20006001_010_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 顯美 調上同</caption>
+                <image align="center" src="wga_20006001_010_004_v" type="0"/>
+                <image align="center" src="wga_20006001_010_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 顯美 調上同</caption>
+                <image align="center" src="wga_20006001_010_005_v" type="0"/>
+                <image align="center" src="wga_20006001_010_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_011">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 龍光 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="229면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 龍光 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 龍光 調上同</caption>
+                <image align="center" src="wga_20006001_011_001_v" type="0"/>
+                <image align="center" src="wga_20006001_011_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 龍光 調上同</caption>
+                <image align="center" src="wga_20006001_011_002_v" type="0"/>
+                <image align="center" src="wga_20006001_011_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_012">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 貞明 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="230면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 貞明 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 貞明 調上同</caption>
+                <image align="center" src="wga_20006001_012_001_v" type="0"/>
+                <image align="center" src="wga_20006001_012_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 貞明 調上同</caption>
+                <image align="center" src="wga_20006001_012_002_v" type="0"/>
+                <image align="center" src="wga_20006001_012_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 貞明 調上同</caption>
+                <image align="center" src="wga_20006001_012_003_v" type="0"/>
+                <image align="center" src="wga_20006001_012_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_013">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 大猷 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="230면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 大猷 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 大猷 調上同</caption>
+                <image align="center" src="wga_20006001_013_001_v" type="0"/>
+                <image align="center" src="wga_20006001_013_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 大猷 調上同</caption>
+                <image align="center" src="wga_20006001_013_002_v" type="0"/>
+                <image align="center" src="wga_20006001_013_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 大猷 調上同</caption>
+                <image align="center" src="wga_20006001_013_003_v" type="0"/>
+                <image align="center" src="wga_20006001_013_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 大猷 調上同</caption>
+                <image align="center" src="wga_20006001_013_004_v" type="0"/>
+                <image align="center" src="wga_20006001_013_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 大猷 調上同</caption>
+                <image align="center" src="wga_20006001_013_005_v" type="0"/>
+                <image align="center" src="wga_20006001_013_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_014">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 初獻 保太平之樂 繹成 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="231면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 保太平之樂 繹成 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 繹成 調上同</caption>
+                <image align="center" src="wga_20006001_014_001_v" type="0"/>
+                <image align="center" src="wga_20006001_014_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 保太平之樂 繹成 調上同</caption>
+                <image align="center" src="wga_20006001_014_002_v" type="0"/>
+                <image align="center" src="wga_20006001_014_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_015">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="232면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</caption>
+                <image align="center" src="wga_20006001_015_001_v" type="0"/>
+                <image align="center" src="wga_20006001_015_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</caption>
+                <image align="center" src="wga_20006001_015_002_v" type="0"/>
+                <image align="center" src="wga_20006001_015_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</caption>
+                <image align="center" src="wga_20006001_015_003_v" type="0"/>
+                <image align="center" src="wga_20006001_015_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</caption>
+                <image align="center" src="wga_20006001_015_004_v" type="0"/>
+                <image align="center" src="wga_20006001_015_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</caption>
+                <image align="center" src="wga_20006001_015_005_v" type="0"/>
+                <image align="center" src="wga_20006001_015_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 昭武 淸黃鐘調 黃鐘爲羽</caption>
+                <image align="center" src="wga_20006001_015_006_v" type="0"/>
+                <image align="center" src="wga_20006001_015_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_016">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 篤慶 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="233면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 篤慶 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 篤慶 調上同</caption>
+                <image align="center" src="wga_20006001_016_001_v" type="0"/>
+                <image align="center" src="wga_20006001_016_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 篤慶 調上同</caption>
+                <image align="center" src="wga_20006001_016_002_v" type="0"/>
+                <image align="center" src="wga_20006001_016_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 篤慶 調上同</caption>
+                <image align="center" src="wga_20006001_016_003_v" type="0"/>
+                <image align="center" src="wga_20006001_016_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 篤慶 調上同</caption>
+                <image align="center" src="wga_20006001_016_004_v" type="0"/>
+                <image align="center" src="wga_20006001_016_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 篤慶 調上同</caption>
+                <image align="center" src="wga_20006001_016_005_v" type="0"/>
+                <image align="center" src="wga_20006001_016_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 篤慶 調上同</caption>
+                <image align="center" src="wga_20006001_016_006_v" type="0"/>
+                <image align="center" src="wga_20006001_016_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_017">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 濯征 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="234면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 濯征 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 濯征 調上同</caption>
+                <image align="center" src="wga_20006001_017_001_v" type="0"/>
+                <image align="center" src="wga_20006001_017_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 濯征 調上同</caption>
+                <image align="center" src="wga_20006001_017_002_v" type="0"/>
+                <image align="center" src="wga_20006001_017_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 濯征 調上同</caption>
+                <image align="center" src="wga_20006001_017_003_v" type="0"/>
+                <image align="center" src="wga_20006001_017_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 濯征 調上同</caption>
+                <image align="center" src="wga_20006001_017_004_v" type="0"/>
+                <image align="center" src="wga_20006001_017_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 濯征 調上同</caption>
+                <image align="center" src="wga_20006001_017_005_v" type="0"/>
+                <image align="center" src="wga_20006001_017_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_018">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 宣威 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="235면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 宣威 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_001_v" type="0"/>
+                <image align="center" src="wga_20006001_018_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_002_v" type="0"/>
+                <image align="center" src="wga_20006001_018_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_003_v" type="0"/>
+                <image align="center" src="wga_20006001_018_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_004_v" type="0"/>
+                <image align="center" src="wga_20006001_018_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_005_v" type="0"/>
+                <image align="center" src="wga_20006001_018_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_006_v" type="0"/>
+                <image align="center" src="wga_20006001_018_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_007_v" type="0"/>
+                <image align="center" src="wga_20006001_018_007_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_008_v" type="0"/>
+                <image align="center" src="wga_20006001_018_008_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_009_v" type="0"/>
+                <image align="center" src="wga_20006001_018_009_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_010_v" type="0"/>
+                <image align="center" src="wga_20006001_018_010_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_011_v" type="0"/>
+                <image align="center" src="wga_20006001_018_011_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_012_v" type="0"/>
+                <image align="center" src="wga_20006001_018_012_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_013_v" type="0"/>
+                <image align="center" src="wga_20006001_018_013_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_014_v" type="0"/>
+                <image align="center" src="wga_20006001_018_014_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_015_v" type="0"/>
+                <image align="center" src="wga_20006001_018_015_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 宣威 調上同</caption>
+                <image align="center" src="wga_20006001_018_016_v" type="0"/>
+                <image align="center" src="wga_20006001_018_016_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_019">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 神定 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="238면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 神定 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 神定 調上同</caption>
+                <image align="center" src="wga_20006001_019_001_v" type="0"/>
+                <image align="center" src="wga_20006001_019_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 神定 調上同</caption>
+                <image align="center" src="wga_20006001_019_002_v" type="0"/>
+                <image align="center" src="wga_20006001_019_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 神定 調上同</caption>
+                <image align="center" src="wga_20006001_019_003_v" type="0"/>
+                <image align="center" src="wga_20006001_019_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 神定 調上同</caption>
+                <image align="center" src="wga_20006001_019_004_v" type="0"/>
+                <image align="center" src="wga_20006001_019_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 神定 調上同</caption>
+                <image align="center" src="wga_20006001_019_005_v" type="0"/>
+                <image align="center" src="wga_20006001_019_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 神定 調上同</caption>
+                <image align="center" src="wga_20006001_019_006_v" type="0"/>
+                <image align="center" src="wga_20006001_019_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 神定 調上同</caption>
+                <image align="center" src="wga_20006001_019_007_v" type="0"/>
+                <image align="center" src="wga_20006001_019_007_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_020">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 奮雄 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="240면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 奮雄 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 奮雄 調上同</caption>
+                <image align="center" src="wga_20006001_020_001_v" type="0"/>
+                <image align="center" src="wga_20006001_020_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 奮雄 調上同</caption>
+                <image align="center" src="wga_20006001_020_002_v" type="0"/>
+                <image align="center" src="wga_20006001_020_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 奮雄 調上同</caption>
+                <image align="center" src="wga_20006001_020_003_v" type="0"/>
+                <image align="center" src="wga_20006001_020_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 奮雄 調上同</caption>
+                <image align="center" src="wga_20006001_020_004_v" type="0"/>
+                <image align="center" src="wga_20006001_020_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_021">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 順應 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="241면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 順應 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 順應 調上同</caption>
+                <image align="center" src="wga_20006001_021_001_v" type="0"/>
+                <image align="center" src="wga_20006001_021_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 順應 調上同</caption>
+                <image align="center" src="wga_20006001_021_002_v" type="0"/>
+                <image align="center" src="wga_20006001_021_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 順應 調上同</caption>
+                <image align="center" src="wga_20006001_021_003_v" type="0"/>
+                <image align="center" src="wga_20006001_021_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 順應 調上同</caption>
+                <image align="center" src="wga_20006001_021_004_v" type="0"/>
+                <image align="center" src="wga_20006001_021_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 順應 調上同</caption>
+                <image align="center" src="wga_20006001_021_005_v" type="0"/>
+                <image align="center" src="wga_20006001_021_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 順應 調上同</caption>
+                <image align="center" src="wga_20006001_021_006_v" type="0"/>
+                <image align="center" src="wga_20006001_021_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 順應 調上同</caption>
+                <image align="center" src="wga_20006001_021_007_v" type="0"/>
+                <image align="center" src="wga_20006001_021_007_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_022">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 寵綏 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="243면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 寵綏 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 寵綏 調上同</caption>
+                <image align="center" src="wga_20006001_022_001_v" type="0"/>
+                <image align="center" src="wga_20006001_022_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 寵綏 調上同</caption>
+                <image align="center" src="wga_20006001_022_002_v" type="0"/>
+                <image align="center" src="wga_20006001_022_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 寵綏 調上同</caption>
+                <image align="center" src="wga_20006001_022_003_v" type="0"/>
+                <image align="center" src="wga_20006001_022_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_023">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 靖世 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="243면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 靖世 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 靖世 調上同</caption>
+                <image align="center" src="wga_20006001_023_001_v" type="0"/>
+                <image align="center" src="wga_20006001_023_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 靖世 調上同</caption>
+                <image align="center" src="wga_20006001_023_002_v" type="0"/>
+                <image align="center" src="wga_20006001_023_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 靖世 調上同</caption>
+                <image align="center" src="wga_20006001_023_003_v" type="0"/>
+                <image align="center" src="wga_20006001_023_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 靖世 調上同</caption>
+                <image align="center" src="wga_20006001_023_004_v" type="0"/>
+                <image align="center" src="wga_20006001_023_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 靖世 調上同</caption>
+                <image align="center" src="wga_20006001_023_005_v" type="0"/>
+                <image align="center" src="wga_20006001_023_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_024">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 赫整 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="244면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 赫整 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 赫整 調上同</caption>
+                <image align="center" src="wga_20006001_024_001_v" type="0"/>
+                <image align="center" src="wga_20006001_024_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 赫整 調上同</caption>
+                <image align="center" src="wga_20006001_024_002_v" type="0"/>
+                <image align="center" src="wga_20006001_024_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 赫整 調上同</caption>
+                <image align="center" src="wga_20006001_024_003_v" type="0"/>
+                <image align="center" src="wga_20006001_024_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 赫整 調上同</caption>
+                <image align="center" src="wga_20006001_024_004_v" type="0"/>
+                <image align="center" src="wga_20006001_024_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 赫整 調上同</caption>
+                <image align="center" src="wga_20006001_024_005_v" type="0"/>
+                <image align="center" src="wga_20006001_024_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_025">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 亞獻 定大業之樂 永觀 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="245면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 定大業之樂 永觀 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 永觀 調上同</caption>
+                <image align="center" src="wga_20006001_025_001_v" type="0"/>
+                <image align="center" src="wga_20006001_025_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 永觀 調上同</caption>
+                <image align="center" src="wga_20006001_025_002_v" type="0"/>
+                <image align="center" src="wga_20006001_025_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 定大業之樂 永觀 調上同</caption>
+                <image align="center" src="wga_20006001_025_003_v" type="0"/>
+                <image align="center" src="wga_20006001_025_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_026">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 終獻 上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="245면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 終獻 上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>終獻 上同</caption>
+                <image align="center" src="wga_20006001_026_001_v" type="0"/>
+                <image align="center" src="wga_20006001_026_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_027">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 徹籩豆 雍安之樂 淸黃鐘調 黃鐘爲徵</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="245면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 徹籩豆 雍安之樂 淸黃鐘調 黃鐘爲徵</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 雍安之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_026_001_v" type="0"/>
+                <image align="center" src="wga_20006001_026_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 雍安之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_026_002_v" type="0"/>
+                <image align="center" src="wga_20006001_026_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 雍安之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_026_003_v" type="0"/>
+                <image align="center" src="wga_20006001_026_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 雍安之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_026_004_v" type="0"/>
+                <image align="center" src="wga_20006001_026_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 雍安之樂 淸黃鐘調 黃鐘爲徵</caption>
+                <image align="center" src="wga_20006001_026_005_v" type="0"/>
+                <image align="center" src="wga_20006001_026_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006001_028">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 宗廟 / 送神 興安之樂 調上同 </mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="048" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="247면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 送神 興安之樂 調上同 </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 興安之樂 調上同 </caption>
+                <image align="center" src="wga_20006001_027_001_v" type="0"/>
+                <image align="center" src="wga_20006001_027_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 興安之樂 調上同 </caption>
+                <image align="center" src="wga_20006001_027_002_v" type="0"/>
+                <image align="center" src="wga_20006001_027_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 興安之樂 調上同 </caption>
+                <image align="center" src="wga_20006001_027_003_v" type="0"/>
+                <image align="center" src="wga_20006001_027_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 興安之樂 調上同 </caption>
+                <image align="center" src="wga_20006001_027_004_v" type="0"/>
+                <image align="center" src="wga_20006001_027_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 興安之樂 調上同 </caption>
+                <image align="center" src="wga_20006001_027_005_v" type="0"/>
+                <image align="center" src="wga_20006001_027_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center"/>
+            <paragraph align="center">世祖惠莊大王實錄卷第四十八</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wga_20006002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>樂譜 / 新製略定樂譜 / 圜丘</mainTitle>
+          </title>
+          <publication>
+            <publisher>
+              <number no="049" type="bookno"/>
+            </publisher>
+          </publication>
+          <source>
+            <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+            <page begin="248면"/>
+          </source>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">◎ 圜丘</paragraph>
+        </content>
+      </text>
+      <level5 id="wga_20006002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 迎神 熙文之樂 夾鐘調 夾鐘爲徵 </mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="248면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 迎神 熙文之樂 夾鐘調 夾鐘爲徵 </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 夾鐘調 夾鐘爲徵 </caption>
+                <image align="center" src="wga_20006002_001_001_v" type="0"/>
+                <image align="center" src="wga_20006002_001_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 夾鐘調 夾鐘爲徵 </caption>
+                <image align="center" src="wga_20006002_001_002_v" type="0"/>
+                <image align="center" src="wga_20006002_001_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 夾鐘調 夾鐘爲徵 </caption>
+                <image align="center" src="wga_20006002_001_003_v" type="0"/>
+                <image align="center" src="wga_20006002_001_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 夾鐘調 夾鐘爲徵 </caption>
+                <image align="center" src="wga_20006002_001_004_v" type="0"/>
+                <image align="center" src="wga_20006002_001_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>迎神 熙文之樂 夾鐘調 夾鐘爲徵 </caption>
+                <image align="center" src="wga_20006002_001_005_v" type="0"/>
+                <image align="center" src="wga_20006002_001_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 奠幣 熙文之樂</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="249면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 奠幣 熙文之樂</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂</caption>
+                <image align="center" src="wga_20006002_002_001_v" type="0"/>
+                <image align="center" src="wga_20006002_002_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂</caption>
+                <image align="center" src="wga_20006002_002_002_v" type="0"/>
+                <image align="center" src="wga_20006002_002_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂</caption>
+                <image align="center" src="wga_20006002_002_003_v" type="0"/>
+                <image align="center" src="wga_20006002_002_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂</caption>
+                <image align="center" src="wga_20006002_002_004_v" type="0"/>
+                <image align="center" src="wga_20006002_002_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>奠幣 熙文之樂</caption>
+                <image align="center" src="wga_20006002_002_005_v" type="0"/>
+                <image align="center" src="wga_20006002_002_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 進饌 隆安之樂 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="250면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 進饌 隆安之樂 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 隆安之樂 調上同</caption>
+                <image align="center" src="wga_20006002_003_001_v" type="0"/>
+                <image align="center" src="wga_20006002_003_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 隆安之樂 調上同</caption>
+                <image align="center" src="wga_20006002_003_002_v" type="0"/>
+                <image align="center" src="wga_20006002_003_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 隆安之樂 調上同</caption>
+                <image align="center" src="wga_20006002_003_003_v" type="0"/>
+                <image align="center" src="wga_20006002_003_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 隆安之樂 調上同</caption>
+                <image align="center" src="wga_20006002_003_004_v" type="0"/>
+                <image align="center" src="wga_20006002_003_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>進饌 隆安之樂 調上同</caption>
+                <image align="center" src="wga_20006002_003_005_v" type="0"/>
+                <image align="center" src="wga_20006002_003_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 初獻 基命之樂 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="252면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 初獻 基命之樂 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 基命之樂 調上同</caption>
+                <image align="center" src="wga_20006002_004_001_v" type="0"/>
+                <image align="center" src="wga_20006002_004_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 基命之樂 調上同</caption>
+                <image align="center" src="wga_20006002_004_002_v" type="0"/>
+                <image align="center" src="wga_20006002_004_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 基命之樂 調上同</caption>
+                <image align="center" src="wga_20006002_004_003_v" type="0"/>
+                <image align="center" src="wga_20006002_004_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>初獻 基命之樂 調上同</caption>
+                <image align="center" src="wga_20006002_004_004_v" type="0"/>
+                <image align="center" src="wga_20006002_004_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 亞獻 宣威之樂 夾鐘調 夾鐘爲羽</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="252면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 亞獻 宣威之樂 夾鐘調 夾鐘爲羽</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_001_v" type="0"/>
+                <image align="center" src="wga_20006002_005_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_002_v" type="0"/>
+                <image align="center" src="wga_20006002_005_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_003_v" type="0"/>
+                <image align="center" src="wga_20006002_005_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_004_v" type="0"/>
+                <image align="center" src="wga_20006002_005_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_005_v" type="0"/>
+                <image align="center" src="wga_20006002_005_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_006_v" type="0"/>
+                <image align="center" src="wga_20006002_005_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_007_v" type="0"/>
+                <image align="center" src="wga_20006002_005_007_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_008_v" type="0"/>
+                <image align="center" src="wga_20006002_005_008_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_009_v" type="0"/>
+                <image align="center" src="wga_20006002_005_009_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>亞獻 宣威之樂 夾鐘調 夾鐘爲羽</caption>
+                <image align="center" src="wga_20006002_005_010_v" type="0"/>
+                <image align="center" src="wga_20006002_005_010_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 終獻 濯征之樂 調上同</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="255면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 終獻 濯征之樂 調上同</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>終獻 濯征之樂 調上同</caption>
+                <image align="center" src="wga_20006002_006_001_v" type="0"/>
+                <image align="center" src="wga_20006002_006_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>終獻 濯征之樂 調上同</caption>
+                <image align="center" src="wga_20006002_006_002_v" type="0"/>
+                <image align="center" src="wga_20006002_006_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>終獻 濯征之樂 調上同</caption>
+                <image align="center" src="wga_20006002_006_003_v" type="0"/>
+                <image align="center" src="wga_20006002_006_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 徹籩豆 成安之樂 夾鐘調 夾鐘爲徵</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="256면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 徹籩豆 成安之樂 夾鐘調 夾鐘爲徵</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 成安之樂 夾鐘調 夾鐘爲徵</caption>
+                <image align="center" src="wga_20006002_007_001_v" type="0"/>
+                <image align="center" src="wga_20006002_007_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 成安之樂 夾鐘調 夾鐘爲徵</caption>
+                <image align="center" src="wga_20006002_007_002_v" type="0"/>
+                <image align="center" src="wga_20006002_007_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 成安之樂 夾鐘調 夾鐘爲徵</caption>
+                <image align="center" src="wga_20006002_007_003_v" type="0"/>
+                <image align="center" src="wga_20006002_007_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 成安之樂 夾鐘調 夾鐘爲徵</caption>
+                <image align="center" src="wga_20006002_007_004_v" type="0"/>
+                <image align="center" src="wga_20006002_007_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>徹籩豆 成安之樂 夾鐘調 夾鐘爲徵</caption>
+                <image align="center" src="wga_20006002_007_005_v" type="0"/>
+                <image align="center" src="wga_20006002_007_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 送神 寧安之樂 調上同 </mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="257면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 送神 寧安之樂 調上同 </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 寧安之樂 調上同 </caption>
+                <image align="center" src="wga_20006002_008_001_v" type="0"/>
+                <image align="center" src="wga_20006002_008_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 寧安之樂 調上同 </caption>
+                <image align="center" src="wga_20006002_008_002_v" type="0"/>
+                <image align="center" src="wga_20006002_008_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 寧安之樂 調上同 </caption>
+                <image align="center" src="wga_20006002_008_003_v" type="0"/>
+                <image align="center" src="wga_20006002_008_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 寧安之樂 調上同 </caption>
+                <image align="center" src="wga_20006002_008_004_v" type="0"/>
+                <image align="center" src="wga_20006002_008_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>送神 寧安之樂 調上同 </caption>
+                <image align="center" src="wga_20006002_008_005_v" type="0"/>
+                <image align="center" src="wga_20006002_008_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 創守之曲 南呂宮 羽調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="258면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 創守之曲 南呂宮 羽調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_001_v" type="0"/>
+                <image align="center" src="wga_20006002_009_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_002_v" type="0"/>
+                <image align="center" src="wga_20006002_009_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_003_v" type="0"/>
+                <image align="center" src="wga_20006002_009_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_004_v" type="0"/>
+                <image align="center" src="wga_20006002_009_004_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_005_v" type="0"/>
+                <image align="center" src="wga_20006002_009_005_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_006_v" type="0"/>
+                <image align="center" src="wga_20006002_009_006_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_007_v" type="0"/>
+                <image align="center" src="wga_20006002_009_007_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_008_v" type="0"/>
+                <image align="center" src="wga_20006002_009_008_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_009_v" type="0"/>
+                <image align="center" src="wga_20006002_009_009_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>創守之曲 南呂宮 羽調</caption>
+                <image align="center" src="wga_20006002_009_010_v" type="0"/>
+                <image align="center" src="wga_20006002_009_010_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_010">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(一) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="260면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(一) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(一) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_010_001_v" type="0"/>
+                <image align="center" src="wga_20006002_010_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(一) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_010_002_v" type="0"/>
+                <image align="center" src="wga_20006002_010_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(一) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_010_003_v" type="0"/>
+                <image align="center" src="wga_20006002_010_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_011">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(二) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="261면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(二) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(二) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_011_001_v" type="0"/>
+                <image align="center" src="wga_20006002_011_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(二) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_011_002_v" type="0"/>
+                <image align="center" src="wga_20006002_011_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(二) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_011_003_v" type="0"/>
+                <image align="center" src="wga_20006002_011_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_012">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(三) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="262면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(三) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(三) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_012_001_v" type="0"/>
+                <image align="center" src="wga_20006002_012_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(三) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_012_002_v" type="0"/>
+                <image align="center" src="wga_20006002_012_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(三) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_012_003_v" type="0"/>
+                <image align="center" src="wga_20006002_012_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_013">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(四) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="262면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(四) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(四) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_013_001_v" type="0"/>
+                <image align="center" src="wga_20006002_013_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(四) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_013_002_v" type="0"/>
+                <image align="center" src="wga_20006002_013_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(四) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_013_003_v" type="0"/>
+                <image align="center" src="wga_20006002_013_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_014">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(五) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="263면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(五) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(五) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_014_001_v" type="0"/>
+                <image align="center" src="wga_20006002_014_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(五) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_014_002_v" type="0"/>
+                <image align="center" src="wga_20006002_014_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(五) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_014_003_v" type="0"/>
+                <image align="center" src="wga_20006002_014_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_015">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(六) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="264면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(六) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(六) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_015_001_v" type="0"/>
+                <image align="center" src="wga_20006002_015_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(六) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_015_002_v" type="0"/>
+                <image align="center" src="wga_20006002_015_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(六) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_015_003_v" type="0"/>
+                <image align="center" src="wga_20006002_015_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_016">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(七) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="264면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(七) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(七) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_016_001_v" type="0"/>
+                <image align="center" src="wga_20006002_016_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(七) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_016_002_v" type="0"/>
+                <image align="center" src="wga_20006002_016_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(七) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_016_003_v" type="0"/>
+                <image align="center" src="wga_20006002_016_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_017">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(八) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8 책</mainTitle>
+              <page begin="265면"/>
+            </source>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(八) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(八) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_017_001_v" type="0"/>
+                <image align="center" src="wga_20006002_017_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(八) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_017_002_v" type="0"/>
+                <image align="center" src="wga_20006002_017_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(八) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_017_003_v" type="0"/>
+                <image align="center" src="wga_20006002_017_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wga_20006002_018">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>樂譜 / 新製略定樂譜 / 圜丘 / 敬勤之曲(九) 林鐘宮 徵調</mainTitle>
+            </title>
+            <publication>
+              <publisher>
+                <number no="049" type="bookno"/>
+              </publisher>
+            </publication>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○ 敬勤之曲(九) 林鐘宮 徵調</paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(九) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_018_001_v" type="0"/>
+                <image align="center" src="wga_20006002_018_001_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(九) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_018_002_v" type="0"/>
+                <image align="center" src="wga_20006002_018_002_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center">
+              <illustration>
+                <caption>敬勤之曲(九) 林鐘宮 徵調</caption>
+                <image align="center" src="wga_20006002_018_003_v" type="0"/>
+                <image align="center" src="wga_20006002_018_003_h" type="0"/>
+              </illustration>
+            </paragraph>
+            <paragraph align="center"/>
+            <paragraph align="center">世祖惠莊大王實錄卷第四十九</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

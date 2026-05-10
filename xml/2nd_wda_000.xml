@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wda">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>世宗實錄</mainTitle>
+        <alternative> 世宗莊憲大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wda_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世宗實錄 2책</mainTitle>
+          <page begin="259면"/>
+        </source>
+        <subjectClass>왕실-의식(儀式)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인사-임면(任免)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0072592_0" ref="M_0000328" sort="K" type="이름">世宗莊憲英文睿武仁聖明孝大王</index>諱<index num="0072593_0" ref="M_0032471" sort="K" type="이름">裪</index>, 字<index num="0072594_0" ref="M_0032471" sort="K" type="이름">元正</index>, <index num="0072595_0" ref="M_0034056" sort="K" type="이름">太宗恭定大王</index>第三子也。 母<index num="0072596_0" ref="M_0006794" sort="K" type="이름">元敬王后</index>
+          <index num="0072597_0" sort="K" type="이름">閔氏</index>, 以<index num="0072598_0" ref="M_0000889" sort="K" type="이름">太祖</index>六年丁丑四月壬辰, 生於<index num="0072599_0" sort="K" type="지명">漢陽</index>
+          <index num="0072600_0" sort="K" type="지명">俊秀坊</index>潛邸, 實<index num="0072601_0" sort="K" type="지명">大明</index>
+          <index num="0072602_0" ref="M_0031969" sort="A" type="이름">太祖高皇帝</index>
+          <index num="0072603_0" type="연호">洪武</index>三十年也。 英明剛果, 沈毅重厚, 寬裕仁慈, 恭儉孝友, 出於天性。 <index num="0072604_0" ref="M_0034056" sort="K" type="이름">太宗</index>八年戊子二月, 封<index num="0072605_0" ref="M_0032471" sort="K" type="이름">忠寧君</index>, 娶右副代言<index num="0072606_0" ref="M_0058729" sort="K" type="이름">沈溫</index>之女, 封<index num="0072607_0" ref="M_0006786" sort="K" type="이름">敬淑翁主</index>。 十三年壬辰五月, 進封<index num="0072608_0" ref="M_0032471" sort="K" type="이름">忠寧大君</index>。 十八年戊戌六月壬午, <index num="0072609_0" ref="M_0034056" sort="K" type="이름">太宗</index>在<index num="0072610_0" sort="K" type="지명">開京</index>, 文武百官以世子<index num="0072611_0" ref="M_0043245" sort="K" type="이름">禔</index>失德, 合辭請廢, <index num="0072612_0" ref="M_0034056" sort="K" type="이름">太宗</index>欲立<index num="0072613_0" ref="M_0043245" sort="K" type="이름">禔</index>長子爲嗣, 群臣咸曰: "殿下敎養世子, 無所不至, 尙且如此, 今立幼孫, 寧能保異日乎? 況廢父立子, 於義何如? 請擇賢以立之。" <index num="0072614_0" ref="M_0034056" sort="K" type="이름">太宗</index>曰: "卿等宜擇賢以聞。" 群臣咸曰: "知子知臣, 莫如君父, 簡在聖心。" <index num="0072615_0" ref="M_0034056" sort="K" type="이름">太宗</index>曰: "<index num="0072616_0" ref="M_0032471" sort="K" type="이름">忠寧大君</index>天性聰敏, 好學不倦, 雖盛寒極暑, 終夜讀書, 且識治體, 每於大事獻議, 皆出於意料之外, 又其子有將大有爲之資。 予欲以<index num="0072617_0" ref="M_0032471" sort="K" type="이름">忠寧</index>定爲世子。" 群臣咸曰: "臣等所謂擇賢, 亦指<index num="0072618_0" ref="M_0032471" sort="K" type="이름">忠寧大君</index>也。" 議旣定, 卽立爲王世子, 趣百官入賀, 遣<index num="0072619_0" ref="M_0005128" sort="K" type="이름">長川君</index>
+          <index num="0072620_0" ref="M_0005128" sort="K" type="이름">李從茂</index>, 告于宗廟。 下敎宥中外曰:</paragraph>
+        <paragraph align="center">
+          <quotation>建儲以賢, 乃古今之大義; 有罪當廢, 惟國家之恒規。 事非一槪, 期於當理而已。 予嘗建嫡長<index num="0072621_0" ref="M_0043245" sort="K" type="이름">禔</index>爲世子, 迨年旣冠, 不好學問, 沈于聲色。 予以其少也, 庶幾長成改過自新, 年踰二十, 顧乃私通群小, 恣行非義, 往歲之春事覺, 伏誅者數人。 <index num="0072622_0" ref="M_0043245" sort="K" type="이름">禔</index>乃悉書其過, 告于宗廟, 上書於予, 似自悔責, 未幾又入姦臣<index num="0072623_0" ref="M_0008739" sort="K" type="이름">漢老</index>之陰謀, 復踵前轍。 予以父子之恩, 止黜<index num="0072624_0" ref="M_0008739" sort="K" type="이름">漢老</index>, <index num="0072625_0" ref="M_0043245" sort="K" type="이름">禔</index>乃罔有悛心, 反懷怨怒, 憤然上書, 辭甚悖慢, 全無臣子之義。 政府、勳臣、六曹、臺諫、文武百官合辭署狀以爲: ‘世子之行, 不可以承祧主鬯, 以任付托之重。 伏望仰思<index num="0072626_0" ref="M_0000889" sort="K" type="이름">太祖</index>草創之艱難, 又念宗社萬世之大計, 俯循大小臣僚之所望, 斷以公義, 許廢世子, 放之于外, 擇宗室之賢者, 卽建儲貳, 以定人心。’ 且謂: ‘<index num="0072627_0" ref="M_0032471" sort="K" type="이름">忠寧大君</index>英明恭儉, 孝友溫仁, 好學不倦, 允符儲副之望。’ 予不獲已, 放<index num="0072628_0" ref="M_0043245" sort="K" type="이름">禔</index>于外, 建<index num="0072629_0" ref="M_0032471" sort="K" type="이름">忠寧大君</index> 爲王世子。 嗚呼! 古人有言曰: ‘禍福無不自己求者。’ 予豈有一毫愛憎之私心哉?</quotation>
+        </paragraph>
+        <paragraph align="center">甲申, 賜世子官敎, 封夫人<index num="0072630_0" ref="M_0006786" sort="K" type="이름">敬淑翁主</index>爲<index num="0072631_0" ref="M_0006786" sort="K" type="이름">敬嬪</index>。 丙申, <index num="0072632_0" ref="M_0034056" sort="K" type="이름">太宗</index>御正殿, 冊世子曰:</paragraph>
+        <paragraph align="center">
+          <quotation>建儲貳、係人心, 實爲大典; 擇元良、端國本, 惟在至公。 爰正名位之隆, 式擧封崇之禮。 咨爾<index num="0072633_0" ref="M_0032471" sort="K" type="이름">忠寧大君</index>
+            <index num="0072634_0" ref="M_0032471" sort="K" type="이름">裪</index>, 寬弘莊重, 孝悌謙恭, 愛敬事親, 居常翼翼, 聰明好學, 惟日孜孜, 付托是宜, 臣民屬望, 是用冊爾爲王世子。 嗚呼! 天祚明德, 神享克誠。 主鬯承祧, 尙念負荷之艱大; 臨深履薄, 永膺祿福之綏將。</quotation>
+        </paragraph>
+        <paragraph align="center">冊<index num="0072635_0" ref="M_0006786" sort="K" type="이름">敬嬪</index>曰:</paragraph>
+        <paragraph align="center">
+          <quotation>順公義而建元良, 儲副卽定; 重配匹以承宗社, 位號宜崇。 爰擧徽稱, 用遵彝典。 咨爾<index num="0072636_0" ref="M_0006786" sort="K" type="이름">沈氏</index>, 貞嘉稟性, 端正飭躬。 常存敬長之心, 夙著勤儉之德。 克敦婦道, 允孚家人。 穀旦于差, 縟禮斯備。 今遣臣某, 冊爲<index num="0072637_0" ref="M_0006786" sort="K" type="이름">敬嬪</index>。 肅雍內助, 誠恒切於鷄鳴; 黽勉相承, 祥益膺於麟趾。</quotation>
+        </paragraph>
+        <paragraph align="center">又下敎宥中外曰:</paragraph>
+        <paragraph align="center">
+          <quotation>建儲端本, 所以承宗廟、係人心, 爲萬世計也。 昔者<index num="0072638_0" ref="M_0033706" sort="A" sort2="周" type="이름">周文王</index>舍<index num="0072639_0" ref="M_0032161" sort="A" type="이름">伯邑考</index>而立<index num="0072640_0" ref="M_0033705" sort="A" sort2="周" type="이름">武王</index>, 惟其賢也。 詢諸臣僚, 乃立子<index num="0072641_0" sort="K" type="이름">裪</index>爲王世子, 已嘗布告中外。 若稽典禮, 當行冊命, 肆於<index num="0072642_0" type="연호">永樂</index>十六年六月十七日, 授以冊寶, 屬玆盛擧, 宜布寬條。 嗚呼, 旣建元良, 以慰神人之望; 載滌瑕垢, 旁施廣蕩之恩。</quotation>
+        </paragraph>
+        <paragraph align="center">上上箋謝曰:</paragraph>
+        <paragraph align="center">
+          <quotation>負扆當陽, 誕布冊命, 建儲端本, 謬及臣身, 良切悚兢, 冞增感激。 伏念臣<index num="0072643_0" sort="K" type="이름">裪</index>, 識見淺陋, 性稟愚蒙。 視膳東廂, 罔知順承之道; 傳經外傅, 未究蘊奧之精。 何期睿恩邃霑陋質? 玆蓋主上殿下齊莊中正, 濬哲文明, 謂主器必有攸歸, 而人心所當預定, 遂命庸品, 獲荷崇儀。 臣謹當思付托之匪輕, 無斁亦保; 奉訓戒之至切, 永矢不諼。</quotation>
+        </paragraph>
+        <paragraph align="center">七月壬子, <index num="0072644_0" ref="M_0034056" sort="K" type="이름">太宗</index>命上, 如漢京謁宗廟。 <index num="0072645_0" ref="M_0034056" sort="K" type="이름">太宗</index>密有內禪之志, 六代言泣曰: "非臣僚之所望也。" <index num="0072646_0" ref="M_0034056" sort="K" type="이름">太宗</index>曰: "勿露此意。" 丁丑, <index num="0072647_0" ref="M_0034056" sort="K" type="이름">太宗</index>自開京還漢京。 八月乙酉, <index num="0072648_0" ref="M_0034056" sort="K" type="이름">太宗</index>御<index num="0072649_0" sort="K" type="지명">慶會樓</index>下, 召知申事<index num="0072650_0" ref="M_0004302" sort="K" type="이름">李明德</index>等曰: "予在位今已十九年矣。 夙夜祗懼, 不敢遑寧, 而未能上答天意, 屢致災變, 且有宿疾, 近來尤劇。 玆欲傳位于世子。" <index num="0072651_0" ref="M_0004302" sort="K" type="이름">明德</index>等力陳不可, <index num="0072652_0" ref="M_0034056" sort="K" type="이름">太宗</index>不聽, 御<index num="0072653_0" sort="K" type="지명">報平殿</index>, 令內臣召上, 再三趣之, 命尙瑞司進大寶。 政府、六曹、功臣、三軍摠制、六代言等排闥直入, 號天慟哭, 共挽大寶, 令不得進, <index num="0072654_0" ref="M_0034056" sort="K" type="이름">太宗</index>厲聲勑<index num="0072655_0" ref="M_0004302" sort="K" type="이름">明德</index>曰: "君有命, 臣不從義乎?" <index num="0072656_0" ref="M_0004302" sort="K" type="이름">明德</index>不獲已進大寶。 上未知命召之意, 顚倒進見, <index num="0072657_0" ref="M_0034056" sort="K" type="이름">太宗</index>卽以大寶授之, 上俯伏不起, <index num="0072658_0" ref="M_0034056" sort="K" type="이름">太宗</index>執上袖起而授之, 卽入于內。 上惶遽, 置寶案上, 隨入于內, 至誠請辭, 群臣亦慟哭不已。 <index num="0072659_0" ref="M_0034056" sort="K" type="이름">太宗</index>使宦官<index num="0072660_0" ref="M_0058286" sort="K" type="이름">崔閑</index>敎臣僚曰: "予已與國王相對而坐, 卿等勿復請也。" 命上受寶留宮, 仍賜紅陽傘, 移御<index num="0072661_0" sort="K" type="지명">蓮花坊</index>古世子殿。 百官隨至殿庭慟哭, 請復如前, 上亦奉大寶, 親詣內庭固辭。 至夜, <index num="0072662_0" ref="M_0034056" sort="K" type="이름">太宗</index>謂上曰: "諭予之意, 已至再三, 何不以孝我爲念, 而紛紛然若是乎?" 拱手指北斗, 誓以不變之意, 上惶懼, 令<index num="0072663_0" ref="M_0004302" sort="K" type="이름">明德</index>奉寶而出, 還于<index num="0072664_0" sort="K" type="지명">景福宮</index>。 丙戌, 文武百官復上書固請, 成均館生又上書極言, <index num="0072665_0" ref="M_0034056" sort="K" type="이름">太宗</index>皆不覽。 群臣請至上前面陳, <index num="0072666_0" ref="M_0034056" sort="K" type="이름">太宗</index>閉門不納, 群臣慟哭, 聲震宮庭。 <index num="0072667_0" ref="M_0034056" sort="K" type="이름">太宗</index>使<index num="0072668_0" ref="M_0058286" sort="K" type="이름">崔閑</index>敎群臣曰: "予已誓告皇天、宗廟, 不可改也。" 遂令代言等歸<index num="0072669_0" sort="K" type="지명">景福宮</index>。 丁亥, <index num="0072670_0" ref="M_0034056" sort="K" type="이름">太宗</index>遣<index num="0072671_0" ref="M_0058286" sort="K" type="이름">崔閑</index>, 送乘輿儀仗, 又命侍衛軍士迎上來。 上將以烏杖、靑陽傘行, <index num="0072672_0" ref="M_0034056" sort="K" type="이름">太宗</index>使內臣視之, 怒曰: "不從命則勿來也。" 上不得已以朱杖、紅陽傘進, 上箋固辭曰:</paragraph>
+        <paragraph align="center">
+          <quotation>臣性資愚魯, 學問未成, 爲政之方, 懜然無覺, 叨居儲副之位, 夙夜惕慮, 猶懼不稱。 何圖今日乃有付畀之命? 事出意外, 顚倒無措。 恭惟主上殿下, 春秋鼎盛, 聖德方隆, 遽倦萬機, 欲以廟社之重, 委諸顓蒙之軀, 豈惟臣子之心, 倍加兢惶? 誠恐祖宗之靈, 有以驚動。 且以國家而相傳, 實惟國家之大事, 悤遽乃爾, 中外臣庶罔不駭愕。 重念殿下立臣爲後之時, 猶以不敢擅便, 奏于天子, 況以軍國之重, 擅授於臣? 臣恐事大之禮, 亦且有失。 伏望殿下, 察愚臣之至情, 慮國家之大計, 以慰宗社、臣民之望。</quotation>
+        </paragraph>
+        <paragraph align="center">
+          <index num="0072673_0" ref="M_0034056" sort="K" type="이름">太宗</index>猶不允。 群臣又直入內庭號哭, 聲徹御座, <index num="0072674_0" ref="M_0034056" sort="K" type="이름">太宗</index>使<index num="0072675_0" ref="M_0006770" sort="K" type="이름">孝寧大君</index>
+          <index num="0072676_0" ref="M_0006770" sort="K" type="이름">(補)<annotation type="교감주">
+              <noteTitle>〔&amp;#x25677;〕</noteTitle>
+            </annotation>
+          </index>傳命曰: "予傳位于異姓, 則卿等之請然矣。 予傳位于子, 何以如此?" 乃以翼善冠, 親加于上, 遂令上備國王儀仗, 往<index num="0072677_0" sort="K" type="지명">景福宮</index>卽位。 上不獲已承命而出, 謂群臣曰: "幼沖愚魯, 難堪大事, 至誠請辭, 終不蒙允。" 群臣見上戴翼善冠, 皆俯伏。 上如<index num="0072678_0" sort="K" type="지명">景福宮</index>。 <index num="0072679_0" ref="M_0034056" sort="K" type="이름">太宗</index>命<index num="0072680_0" ref="M_0058286" sort="K" type="이름">崔閑</index>, 敎政府、大臣曰: "主上未壯之前, 軍事予親聽斷。 且國家每有難斷之事, 令政府、六曹同議可否, 予亦與議焉。" <index num="0072681_0" ref="M_0032081" sort="K" type="이름">朴訔</index>等對曰: "上之傳位, 臣等以爲欲爲逸豫, 今乃知上意。 請下敎書, 諭以傳位之意, 以寬臣民之望。" 乃命禮曹判(晝)〔書〕<index num="0072682_0" ref="M_0002739" sort="K" type="이름">卞季良</index>, 製傳位敎書。 又命諸代言曰: "兵曹堂上, 皆侍從於予; 代言等, 侍從主上殿。" 諸代言啓曰: "臣等乞分半侍衛。" <index num="0072683_0" ref="M_0034056" sort="K" type="이름">太宗</index>曰: "自古承宣從人主, 無別行之理, 須速去。" 諸代言又啓曰: "願留知兵曹。" <index num="0072684_0" ref="M_0034056" sort="K" type="이름">太宗</index>曰: "雖兼兵曹者, 承宣豈可分屬乎?" 諸代言皆拜辭。 <index num="0072685_0" ref="M_0002739" sort="K" type="이름">季良</index>製敎書以進, <index num="0072686_0" ref="M_0034056" sort="K" type="이름">太宗</index>曰: "今日事甚繁劇, 宜速頒敎。" 於是, 群臣朝服, 班序殿庭, 乃頒敎書曰:</paragraph>
+        <paragraph align="center">
+          <quotation>予以否德, 纉承<index num="0072687_0" ref="M_0000889" sort="K" type="이름">太祖</index>之洪業, 夙夜祗懼, 勵精圖治, 蓋已十八年于玆矣, 澤未及民, 屢致災變。 且有宿疾, 近日乃劇, 不堪聽政。 世子<index num="0072688_0" sort="K" type="이름">裪</index>英明恭儉, 孝悌寬仁, 合登大位, 已於<index num="0072689_0" type="연호">永樂</index>十六年戊戌八月初八日, 親授大寶, 俾專機務, 唯軍國重事, 予親聽斷。 咨爾中外大小臣僚, 咸體至懷, 同心協輔, 以迓惟新之慶。</quotation>
+        </paragraph>
+        <paragraph align="center">又命群臣, 詣<index num="0072690_0" sort="K" type="지명">景福宮</index>陳賀。 庚時, 宗室及文武百官朝服, 班序<index num="0072691_0" sort="K" type="지명">景福宮</index>庭, 上以遠遊冠、絳紗袍, 御<index num="0072692_0" sort="K" type="지명">勤政殿</index>, 群臣上箋陳賀, 成均學生、<index num="0072693_0" sort="K" type="지명">回回</index>老人、僧徒皆與焉。 上受賀訖, 尊上王爲太上王, 父王爲上王, 母后爲大妃, 封<index num="0072694_0" sort="K" type="이름">敬嬪</index>爲妃。</paragraph>
+        <paragraph align="center">初, 上王在潛邸, <index num="0072695_0" ref="M_0006794" sort="K" type="이름">元敬王后</index>夢, <index num="0072696_0" ref="M_0034056" sort="K" type="이름">太宗</index>抱上, 坐於日輪中, 未幾<index num="0072697_0" ref="M_0034056" sort="K" type="이름">太宗</index>踐阼, 至是, 上又嗣位。 以<index num="0072698_0" ref="M_0058729" sort="K" type="이름">沈溫</index>爲<index num="0072699_0" ref="M_0058729" sort="K" type="이름">靑川府院君</index>, 妻<index num="0072700_0" sort="K" type="이름">安氏</index>爲<index num="0072701_0" sort="K" type="이름">三韓國大夫人</index>, <index num="0072702_0" ref="M_0047549" sort="K" type="이름">朴信</index>爲議政府贊成, <index num="0072703_0" ref="M_0063778" sort="K" type="이름">朴習</index>爲兵曹判書, <index num="0072704_0" ref="M_0006022" sort="K" type="이름">趙末生</index>爲刑曹判書。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

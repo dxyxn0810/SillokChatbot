@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wnb_139">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>宣祖修正實錄 三十九年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1606" type="서기"/>
+        <dateOccured type="간지">丙午</dateOccured>
+        <dateOccured type="재위연도">선조 [수정실록] 39</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 215</dateOccured>
+        <dateOccured type="중국연호">명 만력(萬曆) 34</dateOccured>
+        <dateOccured type="단기">3939</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">명 만력(萬曆) 34</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 三十九年(1606)<annotation type="원주">
+          <noteContent>【丙午, <index num="1109799_0" type="연호">萬曆</index>三十四年】</noteContent>
+        </annotation>
+      </paragraph>
+    </content>
+  </text>
+  <level3 id="wnb_139010">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 正月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 正月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13901001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 1月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-01-01L0" type="서기"/>
+            <dateOccured type="간지">庚午</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 1월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 1월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 1월 1일</dateOccured>
+            <dateOccured type="단기">3939년 1월 1일</dateOccured>
+            <dateOccured type="일본연호">년 1월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 1월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13901001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이충을 성천 부사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="697면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔庚午/以<index num="1109800_0" ref="M_0043987" sort="K" type="이름">李沖</index>爲<index num="1109801_0" sort="K" type="지명">成川</index>府使。 <index num="1109802_0" type="서명">《實錄》</index>云: "<index num="1109803_0" sort="K" type="이름">沖</index>, 權奸<index num="1109804_0" ref="M_0014563" sort="K" type="이름">樑</index>之孫, 不齒於人, 諂事宮掖, 遂蒙超擢。" 觀此<index num="1109805_0" type="서명">《實錄》</index>中褒貶之辭, 類皆謬戾, 而於<index num="1109806_0" ref="M_0000748" sort="K" type="이름">沖</index>則直書其實如此, <index num="1109807_0" ref="M_0000748" sort="K" type="이름">沖</index>之爲人尤可知矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13901001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>간원이 선원록 교정청의 당상을 파직하도록 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1606-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="697면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>사법-재판(裁判)</subjectClass>
+            <subjectClass>윤리-강상(綱常)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○諫院請罷<index num="1109808_0" type="서명">《璿源錄》</index>校正廳堂上職。 松京文人<index num="1109809_0" ref="M_0006260" sort="K" type="이름">車天輅</index>爲人麤疎, 世頗輕之。 壬辰亂後, 謂其妻爲賊所汚, 私娶宗室女爲妻。 至是, <index num="1109810_0" type="서명">《璿源錄》</index>校正廳以草本上之, 上敎曰: "<index num="1109811_0" ref="M_0006260" sort="K" type="이름">天輅</index>一奸細人也。 諉以其妻見汚於<index num="1109812_0" sort="J" type="지명">倭</index>賊, 娶他人女爲妻, 敢錄於璿系中, 若後人效之, 託言妻有某罪, 擅自改娶, 則其將盡許之乎? 妻果有罪, 則告於有司, 議于門族, 名其罪而黜之可也。 今<index num="1109813_0" ref="M_0006260" sort="K" type="이름">天輅</index>之事, 傷風敗倫甚矣。 其令有司議處。" 於是, 諫院啓曰: "<index num="1109814_0" ref="M_0006260" sort="K" type="이름">天輅</index>私棄其妻, 敢以宗室女爲妻。 揆之王法, 自有當治之律, 而校正廳不先稟斷, 朦然直錄, 循情蔑法之罪, 不可不論。 請罷本廳堂上。" 上命推考, 只罷該郞之職。 禮曹啓曰: "<index num="1109815_0" ref="M_0006260" sort="K" type="이름">天輅</index>已經王府推鞫, 而其所謂後妻, 尙無處置之擧。 考諸<index num="1109816_0" type="서명">《大明律》</index>, 則有妻娶妻者杖九十離異, <index num="1109817_0" type="서명">《大典》</index>則以先爲嫡, 請議于大臣。" <index num="1109818_0" ref="M_0004850" sort="K" type="이름">李元翼</index>、<index num="1109819_0" ref="M_0004237" sort="K" type="이름">李德馨</index>、<index num="1109820_0" ref="M_0005354" sort="K" type="이름">李恒福</index>、<index num="1109821_0" ref="M_0001283" sort="K" type="이름">奇自獻</index>、<index num="1109822_0" ref="M_0003268" sort="K" type="이름">沈喜壽</index>等以爲, 宜用<index num="1109823_0" type="서명">《大明律》</index>, 上可其議。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13901001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이덕형과 이항복을 기록한 《실록》에 대한 사평</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1606-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="697면"/>
+            </source>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1109824_0" type="서명">《實錄》</index>曰: "<index num="1109825_0" ref="M_0004237" sort="K" type="이름">德馨</index>之父爲<index num="1109826_0" sort="K" type="지명">文化</index>縣令時, <index num="1109827_0" ref="M_0004237" sort="K" type="이름">德馨</index>出空名告身帖一百餘張, 買牛數百頭於縣地, 放牧於<index num="1109828_0" sort="K" type="지명">通津</index>農舍, 野爲之黃。" 又以<index num="1109829_0" ref="M_0004237" sort="K" type="이름">德馨</index>反覆趨勢, 前後翻轉, 引<index num="1109830_0" ref="M_0003601" sort="K" type="이름">兪大禎</index>之言以證之。 又曰: "<index num="1109831_0" ref="M_0005354" sort="K" type="이름">恒福</index>當己丑之獄, 言於<index num="1109832_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>曰: ‘<index num="1109833_0" ref="M_0005840" sort="K" type="이름">汝立</index>之起兵湖南也, 有從嶺南起者, 從京中起者。’ 蓋欲以此, 陷嶺南<index num="1109834_0" ref="M_0006329" sort="K" type="이름">崔永慶</index>、<index num="1109835_0" ref="M_0005885" sort="K" type="이름">鄭仁弘</index>、<index num="1109836_0" ref="M_0003630" sort="K" type="이름">柳成龍</index>, 京中<index num="1109837_0" ref="M_0000519" sort="K" type="이름">李潑</index>、<index num="1109838_0" ref="M_0000480" sort="K" type="이름">李洁</index>、<index num="1109839_0" ref="M_0005834" sort="K" type="이름">鄭彦信</index>、<index num="1109840_0" ref="M_0002731" sort="K" type="이름">白惟讓</index>之計也。 同惡相濟之狀如此, 而至於台鼎, 豈不怪哉?" 按, <index num="1109841_0" ref="M_0004237" sort="K" type="이름">德馨</index>、<index num="1109842_0" ref="M_0005354" sort="K" type="이름">恒福</index>俱以賢相, 爲一世所倚重, 故<index num="1109843_0" ref="M_0001283" sort="K" type="이름">自獻</index>、<index num="1109844_0" ref="M_0004951" sort="K" type="이름">爾瞻</index>輩媢嫉特甚, 必欲售其陷害之計, 而不得其說, 乃以無根不近之事, 肆加詆辱, 書之史冊。 且以<index num="1109845_0" ref="M_0006329" sort="K" type="이름">崔永慶</index>之死, 一隊人<annotation type="원주">
+                <noteContent>【東人也。】</noteContent>
+              </annotation> 專攻<index num="1109846_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>, 而<index num="1109847_0" ref="M_0005354" sort="K" type="이름">恒福</index>以己丑問事郞, 備知顚末, 常言: "<index num="1109848_0" ref="M_0006329" sort="K" type="이름">永慶</index>之初被逮也, <index num="1109849_0" ref="M_0054803" sort="K" type="이름">澈</index>草箚將救之, 旋有放釋之命, 故不果上。 及其再鞫也, <index num="1109850_0" ref="M_0054803" sort="K" type="이름">澈</index>聞臺論驚甚, 對<index num="1109851_0" ref="M_0003268" sort="K" type="이름">沈喜壽</index>苦口言之, <index num="1109852_0" ref="M_0054803" sort="K" type="이름">澈</index>之心事, 終始如此。" 以是, 群小銜之最深, 捏造虛無, 至謂之同惡相濟, 可勝痛哉?</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13901001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이홍로를 경기 감사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1606-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="697면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1109853_0" ref="M_0005444" sort="K" type="이름">李弘老</index>爲<index num="1109854_0" sort="K" type="지명">京畿</index>監司。 <index num="1109855_0" ref="M_0005444" sort="K" type="이름">弘老</index>爲人, 邪佞憸巧, 當上之西幸也, 駕到<index num="1109856_0" sort="K" type="지명">臨津</index>問: "<index num="1109857_0" ref="M_0062151" sort="K" type="이름">成渾</index>居在何處?" <index num="1109858_0" ref="M_0005444" sort="K" type="이름">弘老</index>以兵郞在前, 指近岸小村曰: "此, <index num="1109859_0" ref="M_0062151" sort="K" type="이름">渾</index>之家也。" 上曰: "然則何不出見予乎?" 對曰: "當此之時, <index num="1109860_0" ref="M_0062151" sort="K" type="이름">渾</index>豈肯來謁乎?" <index num="1109861_0" ref="M_0005444" sort="K" type="이름">弘老</index>曾往來<index num="1109862_0" ref="M_0062151" sort="K" type="이름">渾</index>家, 知去<index num="1109863_0" sort="K" type="지명">臨津</index>幾三十餘里, 而其所對如此。 及<index num="1109864_0" ref="M_0062151" sort="K" type="이름">渾</index>自世子行朝追謁上于<index num="1109865_0" sort="K" type="지명">義州</index>, <index num="1109866_0" ref="M_0005444" sort="K" type="이름">弘老</index>又言於上曰: "<index num="1109867_0" ref="M_0062151" sort="K" type="이름">渾</index>之來, 爲世子圖內禪。" 其乘時陷害之態, 類如此, 世以蛇蝎視之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13901001_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>황태손의 탄생을 반포하기 위해 중국에서 조서를 가지고 오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1606-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>외교-명(明)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○翰林院修撰<index num="1109868_0" ref="M_0033755" sort="A" sort2="명" type="이름">朱之蕃</index>、禮部左給事中<index num="1109869_0" ref="M_0031364" sort="A" sort2="명" type="이름">梁有年</index>, 齎詔出來, 爲頒皇太孫誕生之慶也。 以大提學<index num="1109870_0" ref="M_0038043" sort="K" type="이름">柳根</index>爲遠接使, 禮曹判書<index num="1109871_0" ref="M_0005431" sort="K" type="이름">李好閔</index>爲館伴, <index num="1109872_0" ref="M_0038043" sort="K" type="이름">根</index>辟<index num="1109873_0" ref="M_0060255" sort="K" type="이름">許筠</index>、<index num="1109874_0" ref="M_0006244" sort="K" type="이름">趙希逸</index>、<index num="1109875_0" ref="M_0005209" sort="K" type="이름">李志完</index>爲從事。 時, <index num="1109876_0" ref="M_0001611" sort="K" type="이름">金尙憲</index>、<index num="1109877_0" ref="M_0006593" sort="K" type="이름">洪瑞鳳</index>皆斥守外邑, 不得與焉。 <index num="1109878_0" ref="M_0006244" sort="K" type="이름">希逸</index>方爲參下官, <index num="1109879_0" ref="M_0038043" sort="K" type="이름">根</index>援<index num="1109880_0" ref="M_0002623" sort="K" type="이름">朴增榮</index>例, 啓請陞品帶去。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139040">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 四月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 四月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13904001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 4月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-04-01L0" type="서기"/>
+            <dateOccured type="간지">己亥</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 4월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 4월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 4월 1일</dateOccured>
+            <dateOccured type="단기">3939년 4월 1일</dateOccured>
+            <dateOccured type="일본연호">년 4월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 4월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13904001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>양사가 급제 구성의 직첩을 회수할 것을 청하니 윤허하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-04-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>변란-정변(政變)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔己亥/兩司請還收及第<index num="1109881_0" ref="M_0000089" sort="K" type="이름">具宬</index>職牒還給之命, 從之。 <index num="1109882_0" ref="M_0000089" sort="K" type="이름">宬</index>於己丑, 爲正言時, 諫院請再鞫<index num="1109883_0" ref="M_0006329" sort="K" type="이름">崔永慶</index>, 蓋<index num="1109884_0" ref="M_0000089" sort="K" type="이름">宬</index>聞<index num="1109885_0" sort="K" type="지명">慶尙</index>都事<index num="1109886_0" ref="M_0060538" sort="K" type="이름">許昕</index>之言, 而發簡於同僚以啓之也。 <index num="1109887_0" ref="M_0006329" sort="K" type="이름">永慶</index>竟死獄中, 且於壬辰之亂, <index num="1109888_0" ref="M_0000089" sort="K" type="이름">宬</index>扈至松京白上曰: "今日之亂, 皆首相<index num="1109889_0" ref="M_0004454" sort="K" type="이름">李山海</index>誤國之致, 宜正其罪, 以謝國人。" <index num="1109890_0" ref="M_0004454" sort="K" type="이름">山海</index>遂得罪去位, 由是, 仇視者益衆。 及<index num="1109891_0" ref="M_0005885" sort="K" type="이름">鄭仁弘</index>得志, 嗾其徒追論<index num="1109892_0" ref="M_0006329" sort="K" type="이름">永慶</index>事, <index num="1109893_0" ref="M_0000089" sort="K" type="이름">宬</index>配于<index num="1109894_0" sort="K" type="지명">洪州</index>, 甲辰, 放還家居。 至是, 命給職牒, 兩司啓曰: "<index num="1109895_0" ref="M_0000089" sort="K" type="이름">宬</index>受<index num="1109896_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>指, 請再鞫<index num="1109897_0" ref="M_0006329" sort="K" type="이름">永慶</index>, 終以殺士之名歸之於君父。" 論之不已, 上不得已從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13904001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조사 주지번 등이 서울에 들어오니 조서를 반포하고 칙유를 선포하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1606-04-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+            <subjectClass>외교-명(明)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○詔使<index num="1109898_0" ref="M_0033755" sort="A" sort2="명" type="이름">朱之蕃</index>等入京, 上出郊迎之, 館于<index num="1109899_0" sort="K" type="지명">大平館</index>。 是日頒詔, 又宣勑, 勑曰:</paragraph>
+            <paragraph align="center">
+              <quotation>往以<index num="1109900_0" sort="J" type="지명">倭</index>情叵測, 朕令<index num="1109901_0" sort="M" type="지명">遼東</index>(撫鎭)<annotation type="교감주">
+                  <noteTitle>〔鎭撫〕</noteTitle>
+                </annotation>差人, 到爾國哨探。 經今三載, 督撫稱, 邇來, 海上竝無動靜。 遣官徒自煩擾。 令爾國自行探報, 以省供應之需。 王宜及時淬勵, 乃心嚴督, 着實修擧, 仍遠偵密探, 不論有無警息, 每兩月一報<index num="1109902_0" sort="K" type="지명">鎭江</index>遊擊衙門轉報, 如有重大情形, 不時馬上馳報。</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13904001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>유구국 중산왕의 세자 상령이 후의에 보답하기 위해 자문을 보내 오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1606-04-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>외교-유구(琉球)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1109903_0" sort="J" type="지명">琉球國</index>
+              <index num="1109904_0" sort="J" type="이름">中山王</index>世子<index num="1109905_0" sort="J" type="이름">尙寧</index>移咨以聞, 爲申酬厚儀事也。 其咨曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1109906_0" sort="K" type="이름">關酋</index>肆逆, 神人共憤, 天亡驕虜, 海宇騰懽。 矧今天朝神武大振, 貴國威靈更張, 則餘孽旣行勦滅。 凡爾醜虜, 莫不喪魄落膽, 日後豈復有如匪茹之<index num="1109907_0" sort="K" type="이름">關酋</index>? 間或逆萌, 敝國職在藩封, 誼屬友邦, 自將猷念, 共分遙偵豫探, 馳奏天朝, 轉左右以聞, 幸無遠慮。</quotation>
+            </paragraph>
+            <paragraph align="center">仍獻綿綃二十端、黃石綃十端、花文綃十端、土扇二百把。<annotation type="원주">
+                <noteContent>【癸卯年, 冬至使<index num="1109908_0" ref="M_0048242" sort="K" type="이름">宋駿</index>自<index num="1109909_0" sort="K" type="지명">北京</index>齎來, 至是, 付送回咨及回禮物件於冬至使<index num="1109910_0" ref="M_0004465" sort="K" type="이름">李尙信</index>之行。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13904001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>백관이 세자의 봉전을 청하는 내용을 조사에게 정문하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1606-04-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>외교-명(明)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○百官呈文于詔使, 爲請世子封典也。 甲辰夏, 遣<index num="1109911_0" ref="M_0005060" sort="K" type="이름">李廷龜</index>奏請世子封典, 禮部以<index num="1109912_0" ref="M_0010617" sort="K" type="이름">光海</index>非嫡長, 覆題不許。 至是, 禮曹啓曰: "今兩詔使皆學士、科官也。 本國群情之悶迫, 莫大於冊封。 宜趁詔使在館, 備述事情而呈文, 以冀轉聞。" 上許之。 已而, 館學儒生等聞詔使退却呈文, 陳疏, 自請更籲, 上敎曰: "事貴務積誠意, 從容處之。 天命有在, 則不勞人爲。 天朝處大事、決大疑, 必不因一二緩頰, 而爲之左右, 予以爲, 呈文似無益也。 且觀詔使斥退呈文之語, 未易與言者也。 不惟難望其致力, 或疑其出於脅制, 則非細慮也。 儒生, 藏修之士, 何預朝家事? 今令儒生而呈文, 何不令都民, 相率而赴愬之? 但今若不許呈文, 必有奸臣造言者矣。"<annotation type="원주">
+                <noteContent>【上以呈文草藁不先稟知, 下敎詰責大臣, 特罷禮曹郞官。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139050">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 五月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 五月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13905001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 5月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-05-01L0" type="서기"/>
+            <dateOccured type="간지">戊辰</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 5월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 5월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 5월 1일</dateOccured>
+            <dateOccured type="단기">3939년 5월 1일</dateOccured>
+            <dateOccured type="일본연호">년 5월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 5월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13905001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전계신·조훤·손문욱 등을 일본에 파견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>외교-왜(倭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔戊辰/遣<index num="1109913_0" ref="M_0005696" sort="K" type="이름">金繼信</index>、<index num="1109914_0" ref="M_0056613" sort="K" type="이름">趙暄</index>、<index num="1109915_0" ref="M_0002940" sort="K" type="이름">孫文彧</index>等于<index num="1109916_0" sort="J" type="지명">日本</index>。 先是, <index num="1109917_0" sort="J" type="지명">對馬島</index>主<index num="1109918_0" sort="J" type="이름">平義智</index>及<index num="1109919_0" sort="J" type="이름">平景直</index>送差倭<index num="1109920_0" sort="J" type="이름">源信安</index>、<index num="1109921_0" sort="J" type="이름">橘智正</index>于<index num="1109922_0" sort="K" type="지명">釜山</index>, 致書禮曹, 稱以<index num="1109923_0" sort="J" type="이름">家康</index>之意, 求送使通信。 上累詢諸臣, 使各獻議, 多言: "<index num="1109924_0" sort="J" type="이름">家康</index>雖挾幼<annotation type="원주">
+                <noteContent>【<index num="1109925_0" sort="J" type="이름">秀賴</index>也。】</noteContent>
+              </annotation> 擅國, <index num="1109926_0" sort="J" type="이름">秀吉</index>餘黨, 布滿其國, 他日勝負, 未可知也。 今我不審其形勢, 不見其一紙書, 只憑差倭之言, 輕許納款, 則恐被瞞於今, 而嫁禍於後也。 不如先使人, 詗察其誠僞而處之爲便。" 上可其議, 且敎曰: "責送犯陵之賊, 大義之不可已者, 宜令竝諭此意。" 遂遣前虞候<index num="1109927_0" ref="M_0008115" sort="K" type="이름">全繼信</index>、郡守<index num="1109928_0" ref="M_0056613" sort="K" type="이름">趙暄</index>、僉知<index num="1109929_0" ref="M_0002940" sort="K" type="이름">孫文彧</index>
+              <annotation type="원주">
+                <noteContent>【曾隨<index num="1109930_0" sort="K" type="이름">惟正</index>入往者也。】</noteContent>
+              </annotation> 及譯官<index num="1109931_0" ref="M_0002441" sort="K" type="이름">朴大根</index>、<index num="1109932_0" ref="M_0004747" sort="K" type="이름">李彦瑞</index>等, 偕<index num="1109933_0" sort="J" type="이름">智正</index>等入<index num="1109934_0" sort="J" type="지명">日本</index>, 且移咨<index num="1109935_0" sort="K" type="지명">鎭江</index>, 使之轉聞于天朝。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13905001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>허성을 이조 판서로, 신흠을 병조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1606-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1109936_0" ref="M_0060327" sort="K" type="이름">許筬</index>爲吏曹判書, <index num="1109937_0" ref="M_0049454" sort="K" type="이름">申欽</index>爲兵曹判書。 人謂<index num="1109938_0" ref="M_0049454" sort="K" type="이름">欽</index>儒雅, 不閑武事, 及拜是職, 施措得宜, 案無留牘, 門絶私謁, 聞者歎服。 未幾以病免。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 六月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 六月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13906001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 6月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-06-01L0" type="서기"/>
+            <dateOccured type="간지">戊戌</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 6월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 6월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 6월 1일</dateOccured>
+            <dateOccured type="단기">3939년 6월 1일</dateOccured>
+            <dateOccured type="일본연호">년 6월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 6월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13906001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>우의정 심희수가 위관을 사직하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-06-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>사법-재판(裁判)</subjectClass>
+            <subjectClass>사법-치안(治安)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+            <subjectClass>교육-인문교육(人文敎育)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔戊戌/右議政<index num="1109939_0" ref="M_0003268" sort="K" type="이름">沈喜壽</index>上箚辭委官。 時, 成均館聖廟東廡壁上, 有人列書朝臣及宮人、內官之名, 評論品題, 多至千百餘字, 而書<index num="1109940_0" ref="M_0001283" sort="K" type="이름">奇自獻</index>凶悖之行特甚。 <index num="1109941_0" ref="M_0001283" sort="K" type="이름">自獻</index>方爲左相, 有寵幸, 上震怒, 令三省嚴鞫之。 本館直宿官及儒生皆下獄, 典僕等多亡匿, 收捕拷掠, 累日不決。 <index num="1109942_0" ref="M_0003268" sort="K" type="이름">喜壽</index>爲委官, 謂獄情可疑, 多所平反, 知義禁<index num="1109943_0" ref="M_0003015" sort="K" type="이름">宋言愼</index>必欲羅織成獄, 故怒<index num="1109944_0" ref="M_0003268" sort="K" type="이름">喜壽</index>緩治, 乃稱疾辭職, 有忿懥之語。 於是, <index num="1109945_0" ref="M_0003268" sort="K" type="이름">喜壽</index>上箚, 悉陳獄事終無端緖之狀, 仍擧<index num="1109946_0" ref="M_0003015" sort="K" type="이름">言愼</index>侵侮之辭, 力辭委官。 上命遞<index num="1109947_0" ref="M_0003015" sort="K" type="이름">言愼</index>, 而實以<index num="1109948_0" ref="M_0003268" sort="K" type="이름">喜壽</index>爲緩獄, 特令窮治。 館官<index num="1109949_0" ref="M_0001047" sort="K" type="이름">高敬吾</index>及館奴等, 多死於杖下, 人皆冤之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13906001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>신흠을 예조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1606-06-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1109950_0" ref="M_0049454" sort="K" type="이름">申欽</index>爲禮曹判書。 時有<index num="1109951_0" ref="M_0017176" sort="K" type="이름">金稽</index>者上疏, 請追崇<index num="1109952_0" ref="M_0043933" sort="K" type="이름">德興大院君</index>, <index num="1109953_0" ref="M_0003663" sort="K" type="이름">柳永慶</index>欲因此獻媚, 謂<index num="1109954_0" ref="M_0049454" sort="K" type="이름">欽</index>方爲宗伯, 使人先餂<index num="1109955_0" ref="M_0049454" sort="K" type="이름">欽</index>意, <index num="1109956_0" ref="M_0049454" sort="K" type="이름">欽</index>正色曰: "此有先儒定論, 豈容異議?" 問者色沮, 事遂寢。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139070">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 七月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 七月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13907001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 7月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-07-01L0" type="서기"/>
+            <dateOccured type="간지">戊辰</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 7월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 7월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 7월 1일</dateOccured>
+            <dateOccured type="단기">3939년 7월 1일</dateOccured>
+            <dateOccured type="일본연호">년 7월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 7월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13907001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>심희수를 좌의정으로, 허욱을 우의정으로, 서성을 호조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-07-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="698면"/>
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔戊辰/以<index num="1109957_0" ref="M_0003268" sort="K" type="이름">沈喜壽</index>爲左議政, <index num="1109958_0" ref="M_0060388" sort="K" type="이름">許頊</index>爲右議政, <index num="1109959_0" ref="M_0047645" sort="K" type="이름">徐渻</index>爲戶曹判書。 <index num="1109960_0" ref="M_0060388" sort="K" type="이름">頊</index>闒茸無他長, 唯謹愼而已。 附<index num="1109961_0" ref="M_0003663" sort="K" type="이름">柳永慶</index>, 躐取美爵, 至陞冡宰。 未幾, <index num="1109962_0" ref="M_0003663" sort="K" type="이름">永慶</index>引以爲相, 朝野羞之, 及<index num="1109963_0" ref="M_0003663" sort="K" type="이름">永慶</index>敗, <index num="1109964_0" ref="M_0060388" sort="K" type="이름">頊</index>亦被削黜。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139090">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 九月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 九月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13909001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 9月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-09-01L0" type="서기"/>
+            <dateOccured type="간지">丁卯</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 9월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 9월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 9월 1일</dateOccured>
+            <dateOccured type="단기">3939년 9월 1일</dateOccured>
+            <dateOccured type="일본연호">년 9월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 9월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13909001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>좌의정 심희수가 병으로 면직되다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-09-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>신분-천인(賤人)</subjectClass>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔丁卯/左議政<index num="1109965_0" ref="M_0003268" sort="K" type="이름">沈喜壽</index>以病免。 時, 王子<index num="1109966_0" ref="M_0043693" sort="K" type="이름">臨海君</index>
+              <index num="1109967_0" ref="M_0043693" sort="K" type="이름">珒</index>橫恣特甚, 中外不堪其苦。 上, 下敎, 歷擧<index num="1109968_0" ref="M_0043693" sort="K" type="이름">珒</index>狂悖之行, 仍令有司, 竝還所奪奴婢於其主, 所畜官妓於本州, 宮奴之依憑作拏者, 亦令法府治之, 以爲諸王子戒。 <index num="1109969_0" ref="M_0003268" sort="K" type="이름">喜壽</index>方在告聞之, 乃上箚, 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>伏覩聖敎, 感淚沾襟。 四方瞻聆, 孰不鼓舞聳動, 爲國死忠, 島夷、山戎之釁, 亦不足慮也。 益見慈愛之天, 保全之仁, 無所不用其極。 使諸宮家, 觀此旨意, 孰敢有一毫不悛之習乎? 近來膏肓之弊, 專在於此, 天命人心, 去就離合之幾, 間不容髮, 而皆謂上所厭聞, 臺官亦不敢發口。 倘微天啓聖衷, 渙發德音, 則未知國事之稅駕也。</quotation>
+            </paragraph>
+            <paragraph align="center">上覽之不悅, 三告免。 按<index num="1109970_0" type="서명">《實錄》</index>, 以<index num="1109971_0" ref="M_0003268" sort="K" type="이름">喜壽</index>爲反覆諂附, 醜詆狼藉。 <index num="1109972_0" ref="M_0003268" sort="K" type="이름">喜壽</index>亦一時名相也。 當壁書之變, 受委官之命, 心知<index num="1109973_0" ref="M_0001283" sort="K" type="이름">自獻</index>之必欲搆成大獄, 以洩己憤, 不肯隨時屈意, 而專務平反, 獄事賴以無濫, <index num="1109974_0" ref="M_0003268" sort="K" type="이름">喜壽</index>之平日秉心, 槪可見矣。 乃反以爲反覆諂附, 何哉? <index num="1109975_0" ref="M_0001283" sort="K" type="이름">自獻</index>監修國史, 追嗛前事, 張皇不近之說, 以呈私憾, 率多類此, 可勝痛哉?</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13909001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>경원부에 짙은 안개가 10여 일 동안 계속 되다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1606-09-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>과학-천기(天氣)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1109976_0" sort="K" type="지명">慶源府</index>黃霧四塞, 晝夜沈陰, 百步之內不辨人物, 十餘日。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139100">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 十月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 十月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13910001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 10月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-10-01L0" type="서기"/>
+            <dateOccured type="간지">丙申</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 10월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 10월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 10월 1일</dateOccured>
+            <dateOccured type="단기">3939년 10월 1일</dateOccured>
+            <dateOccured type="일본연호">년 10월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 10월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13910001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍문관 부응교 조정립이 향리에서 사직하고 벼슬에 나아가지 않다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-10-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔丙申/弘文館副應敎<index num="1109977_0" ref="M_0006159" sort="K" type="이름">趙正立</index>在鄕上疏, 辭不就。 <index num="1109978_0" ref="M_0006159" sort="K" type="이름">正立</index>淸介守靜, 不樂榮進。 自<index num="1109979_0" ref="M_0003663" sort="K" type="이름">永慶</index>盜秉, 時事日變, 其所引用, 皆嗜利無恥之輩。 <index num="1109980_0" ref="M_0006159" sort="K" type="이름">正立</index>以此, 益無意仕宦, 累拜典翰、舍人, 皆不至。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13910001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>한응인을 의정부 우의정으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1606-10-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1109981_0" ref="M_0006475" sort="K" type="이름">韓應寅</index>爲議政, <index num="1109982_0" sort="K" type="이름">府右</index>議政。 <index num="1109983_0" ref="M_0006475" sort="K" type="이름">應寅</index>立朝, 雖無異能, 而能畏愼自飭。 至是, 代<index num="1109984_0" ref="M_0003268" sort="K" type="이름">沈喜壽</index>爲相, 以勳臣驟致相位, 乃上疏乞免, 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>臣之參卜, 初非諸相之僉擧, 實出於一時之誤恩。 前後六七年之久, 每蒙收錄, 不一改者, 非謂時望可堪作相, 特以當初聖敎存焉耳。</quotation>
+            </paragraph>
+            <paragraph align="center">上不許。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13910001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>증광 별시를 베풀어 전 참봉 양응락 등 36인을 뽑다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1606-10-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○設增廣別試, 取前參奉<index num="1109985_0" ref="M_0003366" sort="K" type="이름">梁應洛</index>等三十六人。<annotation type="원주">
+                <noteContent>【是年乃上卽位之四十年, 遵故典設科。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wnb_13910001_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>식년 전시를 베풀어 생원 임기 등 33인을 뽑다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1606-10-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○設式年殿試, 取生員<index num="1109986_0" ref="M_0045417" sort="K" type="이름">林<newChar href="KC09935"/>
+              </index>等三十三人。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139110">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 十一月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 十一月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13911001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 11月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-11-01L0" type="서기"/>
+            <dateOccured type="간지">丙寅</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 11월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 11월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 11월 1일</dateOccured>
+            <dateOccured type="단기">3939년 11월 1일</dateOccured>
+            <dateOccured type="일본연호">년 11월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 11월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13911001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대마도 왜인 마고사구·마다화지 등을 저자에서 목베었다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-11-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법-재판(裁判)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>군사-지방군(地方軍)</subjectClass>
+            <subjectClass>군사-전쟁(戰爭)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔丙寅/斬<index num="1109987_0" sort="J" type="지명">對馬島</index>
+              <index num="1109988_0" sort="J" type="지명">倭</index>
+              <index num="1109989_0" sort="J" type="이름">麻古沙九</index>、<index num="1109990_0" sort="J" type="이름">麻多化之</index>等于市。 初, <index num="1109991_0" sort="J" type="지명">倭</index>酋<index num="1109992_0" sort="J" type="이름">源家康</index>擅主國政, 一反<index num="1109993_0" sort="J" type="이름">秀吉</index>所爲, 連許刷送被擄人, 仍送差倭<index num="1109994_0" sort="J" type="이름">橘智正</index>, 到<index num="1109995_0" sort="K" type="지명">釜山</index>求復通信使, 而實無<index num="1109996_0" sort="J" type="이름">家康</index>國書。 朝廷以爲, 縛送犯陵<index num="1109997_0" sort="J" type="지명">倭</index>, 且致<index num="1109998_0" sort="J" type="이름">家康</index>書, 乃可議和, 先遣人諭之。 於是, <index num="1109999_0" sort="J" type="이름">家康</index>始通書曰:</paragraph>
+            <paragraph align="center">
+              <quotation>殿下早許送使過海, 使六十餘州人民, 知和好之實, 則彼此大幸。</quotation>
+            </paragraph>
+            <paragraph align="center">又以<index num="1110000_0" sort="J" type="지명">馬島</index>
+              <index num="1110001_0" sort="J" type="지명">倭</index>有罪當死者, <index num="1110002_0" sort="J" type="이름">麻古沙九</index>、<index num="1110003_0" sort="J" type="이름">麻多化之</index>二口, 詐稱犯陵之<index num="1110004_0" sort="J" type="지명">倭</index>, 隨國書出送。 時, <index num="1110005_0" ref="M_0003663" sort="K" type="이름">永慶</index>爲首相, 欲以此告廟獻俘, 人皆知<index num="1110006_0" ref="M_0003663" sort="K" type="이름">永慶</index>乘時求媚之計, 而不敢言, 朝議久未決。 同副承旨<index num="1110007_0" ref="M_0002453" sort="K" type="이름">朴東說</index>上疏曰:</paragraph>
+            <paragraph align="center">
+              <quotation>天道好還, 賊方悔禍, 至縛犯陵之讐, 尋前日之好, 神人積年之憤, 一朝獲洩, 其爲宗社、臣民之慶, 可謂大矣。 自古帝王之待夷狄, 夷狄之嘗<index num="1110008_0" sort="K" type="지명">中國</index>, 皆不一其端。 彼旣執此以要我, 我安得不因此以試彼乎? 此回答之行, 所以不得不往者也。 廟謨熟講, 豈容別議? 第其獻俘一節, 有不當然者。 蓋賊有首從, 事須明白。 假令<index num="1110009_0" sort="J" type="이름">家康</index>械送<index num="1110010_0" sort="J" type="이름">義智</index>、<index num="1110011_0" sort="J" type="이름">玄蘇</index>輩, 在我之心猶不足以快其萬一, 其他則又何說焉? 況<index num="1110012_0" sort="J" type="지명">馬島</index>之賊唯以事完爲急, 其間情形, 實所難測。 臣之愚意, 莫若使監、兵使, 一處會同於<index num="1110013_0" sort="J" type="이름">橘倭</index>所見處, 嚴辭正罪, 卽爲梟示, 一以奏聞天朝; 一以回諭<index num="1110014_0" sort="J" type="지명">日本</index>, 今日之擧, 以彼以此, 庶幾得體。 何必檻致京中, 有若眞的罪人斯得者然乎? 臣深恐損威受侮, 非細事也。</quotation>
+            </paragraph>
+            <paragraph align="center">上, 下其疏議之, 群議不一。 上敎曰: "無論眞假, 鞫問而得其狀, 果眞也則卽行獻俘之禮, 而可以告于廟; 果非眞也, 是亦賊也, 卽斬之宜矣。 事貴光明正大, 不可疑信行之。" 兵曹請諭<index num="1110015_0" sort="K" type="지명">慶尙</index>監司、兵使, 聚兵<index num="1110016_0" sort="K" type="지명">釜山</index>, 盛陳水、陸軍威, 受二<index num="1110017_0" sort="J" type="지명">倭</index>于海上, 令沿途列邑, 發卒圍守以送之, 又遣宣傳官、金吾郞, 押來于京。 命設鞫廳于司僕寺, 以<index num="1110018_0" ref="M_0003663" sort="K" type="이름">永慶</index>爲委官而鞫之。 <index num="1110019_0" sort="J" type="이름">麻古沙九</index>供稱: "得罪島主, 黜在外村, 乘夜縛送。" <index num="1110020_0" sort="J" type="이름">麻多化之</index>亦稱: "壬辰之役, 旣不從軍, 得罪島主, 牢囚外村, 猝被縛送。" 皆不服。 <index num="1110021_0" ref="M_0003663" sort="K" type="이름">永慶</index>連加烙刑、壓沙, 二<index num="1110022_0" sort="J" type="지명">倭</index>大呼曰: "吾輩固其死也。 初若知島主誑誘以送, 則雖刳腹立死, 豈有出來之理乎?" 號冤不已。 上敎曰: "<index num="1110023_0" sort="J" type="지명">馬島</index>之<index num="1110024_0" sort="J" type="지명">倭</index>, 孰非我國之賊? 島主旣已縛獻, 可梟首街上。" 遂命斬之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wnb_139120">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>宣祖修正實錄 三十九年 十二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三十九年 十二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wnb_13912001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>宣祖修正 39年 12月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1606-12-01L0" type="서기"/>
+            <dateOccured type="간지">乙未</dateOccured>
+            <dateOccured type="재위연도">선조 [수정실록] 39년 12월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 215년 12월 1일</dateOccured>
+            <dateOccured type="중국연호">명 만력(萬曆) 34년 12월 1일</dateOccured>
+            <dateOccured type="단기">3939년 12월 1일</dateOccured>
+            <dateOccured type="일본연호">년 12월 1일</dateOccured>
+            <dateOccured type="display">명 만력(萬曆)34년 12월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wnb_13912001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>회답사 여우길·경섬, 서장관 정호관 등을 일본에 파견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1606-12-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 40권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="699면"/>
+            </source>
+            <subjectClass>외교-왜(倭)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+            <subjectClass>어문학-문학(文學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔乙未/遣回答使<index num="1110025_0" ref="M_0015602" sort="K" type="이름">呂祐吉</index>ㆍ<index num="1110026_0" ref="M_0000061" sort="K" type="이름">慶暹</index>、書狀官<index num="1110027_0" ref="M_0005951" sort="K" type="이름">丁好寬</index>等入<index num="1110028_0" sort="J" type="지명">日本</index>。 <index num="1110029_0" sort="J" type="이름">家康</index>累請信使, 而朝議難其名, 久不許。 至是, <index num="1110030_0" sort="J" type="이름">家康</index>致書固請, 遂以回答爲名而遣之, 人皆以國讐未復, 徑許信使爲非。 前參判<index num="1110031_0" ref="M_0003875" sort="K" type="이름">尹安性</index>作詩, 贈別<index num="1110032_0" ref="M_0015602" sort="K" type="이름">祐吉</index>曰: "使名回答向何之? 今日君行我未知。 試到<index num="1110033_0" sort="K" type="지명">漢江</index>江上望, 二陵松栢不生枝。" 一時傳誦。 時, <index num="1110034_0" ref="M_0003663" sort="K" type="이름">柳永慶</index>久執朝權, 賄賂公行。 有南邊水將以一舡米遺<index num="1110035_0" ref="M_0003663" sort="K" type="이름">永慶</index>, 而稱以訓鍊都監軍餉, 都提調<index num="1110036_0" ref="M_0005354" sort="K" type="이름">李恒福</index>聞之, 取其船所載, 輸入于都監。 又一武夫納賂於<index num="1110037_0" ref="M_0003663" sort="K" type="이름">永慶</index>, 得除萬戶, 有同名者來爭肅拜, 聞者無不失笑。 <index num="1110038_0" ref="M_0003875" sort="K" type="이름">安性</index>又有詩曰: "都監坐得全舡米, 萬戶來爭肅拜名。 若使此言聞塞外, 東<index num="1110039_0" sort="J" type="지명">倭</index>北狄自然平。"</paragraph>
+            <paragraph align="center"/>
+            <paragraph align="center">宣祖大王修正實錄卷之四十</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wca">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>太宗實錄</mainTitle>
+        <alternative> 太宗恭定大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wca_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">太宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">太宗實錄 1책</mainTitle>
+          <page begin="190면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>역사(歷史)</subjectClass>
+        <subjectClass>사상-토속신앙(土俗信仰)</subjectClass>
+        <subjectClass>외교-명(明)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0015528_0" ref="M_0034056" sort="K" type="이름">太宗恭定聖德神功文武光孝大王</index>諱<index num="0015529_0" ref="M_0034056" sort="K" type="이름">芳遠</index>, 字<index num="0015530_0" ref="M_0034056" sort="K" type="이름">遺德</index>, <index num="0015531_0" ref="M_0000889" sort="K" type="이름">太祖</index>第五子, <index num="0015532_0" ref="M_0054668" sort="K" type="이름">恭靖王</index>之母弟也。 妣<index num="0015533_0" ref="M_0006766" sort="K" type="이름">神懿王后</index>
+          <index num="0015534_0" ref="M_0006766" sort="K" type="이름">韓氏</index>, 以<index num="0015535_0" sort="K" type="지명">元</index>
+          <index num="0015536_0" type="연호">至正</index>二十七年<index num="0015537_0" sort="K" type="지명">高麗</index>
+          <index num="0015538_0" ref="M_0001099" sort="K" type="이름">恭愍王</index>十六年丁未五月十六日辛卯, 誕生于<index num="0015539_0" sort="K" type="지명">咸興府</index>
+          <index num="0015540_0" sort="K" type="지명">歸州</index>私第。 <index num="0015541_0" ref="M_0006766" sort="K" type="이름">韓氏</index>問諸卜者<index num="0015542_0" ref="M_0046072" sort="K" type="이름">文成允</index>, 答曰: "此命, 貴不可言, 愼勿輕問卜人。" <index num="0015543_0" ref="M_0036113" sort="K" type="이름">南誾</index>每見<index num="0015544_0" ref="M_0034056" sort="K" type="이름">太宗</index>, 必謂人曰: "斯人蓋天英氣。" <index num="0015545_0" ref="M_0034056" sort="K" type="이름">太宗</index>生而神異, 稍長, 英睿絶倫, 好讀書學日進。 皇<index num="0015546_0" sort="K" type="지명">明</index>
+          <index num="0015547_0" type="연호">洪武</index>十五年壬戌, 登<index num="0015548_0" sort="K" type="지명">高麗</index>進士試, 越明年癸亥, 中丙科第七人及第。 自僞姓竊國以來, 姦臣執命, 政散民離, <index num="0015549_0" ref="M_0034056" sort="K" type="이름">太宗</index>慨然有濟世之志, 而能折節下士。 <index num="0015550_0" ref="M_0000889" sort="K" type="이름">太祖</index>待之異於諸子, <index num="0015551_0" ref="M_0006790" sort="K" type="이름">顯妃</index>
+          <index num="0015552_0" ref="M_0006790" sort="K" type="이름">康氏</index>亦奇愛之, <index num="0015553_0" ref="M_0034056" sort="K" type="이름">太宗</index>又盡孝誠。 <index num="0015554_0" ref="M_0000889" sort="K" type="이름">太祖</index>(隆隼)〔隆準〕龍顔, 而<index num="0015555_0" ref="M_0034056" sort="K" type="이름">太宗</index>貌類焉。 <index num="0015556_0" ref="M_0059127" sort="K" type="이름">河崙</index>與<index num="0015557_0" ref="M_0046579" sort="K" type="이름">驪興府院君</index>
+          <index num="0015558_0" ref="M_0046579" sort="K" type="이름">閔霽</index>, 爲同志之友。 <index num="0015559_0" ref="M_0059127" sort="K" type="이름">崙</index>素好相人, 謂<index num="0015560_0" ref="M_0046579" sort="K" type="이름">霽</index>曰: "吾相人多矣, 未有如公之二甥者。 吾欲謁見, 請公道之。" <index num="0015561_0" ref="M_0046579" sort="K" type="이름">霽</index>謂<index num="0015562_0" ref="M_0034056" sort="K" type="이름">太宗</index>曰: "<index num="0015563_0" ref="M_0059127" sort="K" type="이름">河崙</index>欲見君。" <index num="0015564_0" ref="M_0034056" sort="K" type="이름">太宗</index>乃見之, <index num="0015565_0" ref="M_0059127" sort="K" type="이름">崙</index>遂傾心事焉。 庚午, <index num="0015566_0" ref="M_0001101" sort="K" type="이름">恭讓王</index>進官密直司代言, 常置近密。 辛未, 遭母后之喪, 廬于陵側。 每爲覲<index num="0015567_0" ref="M_0000889" sort="K" type="이름">太祖</index>入京, 於道上雨泣不絶, 至<index num="0015568_0" ref="M_0000889" sort="K" type="이름">太祖</index>邸, 遇有所感, 輒痛哭, <index num="0015569_0" ref="M_0000889" sort="K" type="이름">太祖</index>左右莫不感愴, <index num="0015570_0" ref="M_0000889" sort="K" type="이름">太祖</index>常稱其孝。 壬申秋七月, 密與將相定策, 勸進開國, <index num="0015571_0" ref="M_0008731" sort="K" type="이름">趙浚</index>喜慶, 謂同列曰: "今日之事, 功在一人。" 指<index num="0015572_0" ref="M_0034056" sort="K" type="이름">太宗</index>也。 甲戌夏, <index num="0015573_0" ref="M_0031969" sort="A" type="이름">高皇帝</index>命親男入朝, <index num="0015574_0" ref="M_0000889" sort="K" type="이름">太祖</index>卽遣<index num="0015575_0" ref="M_0034056" sort="K" type="이름">太宗</index>應命。 臨別揮淚曰: "帝如有問, 非汝不能對。" 及其至也, 敷奏稱旨, 帝優禮遣還。 己卯秋九月, <index num="0015576_0" ref="M_0034056" sort="K" type="이름">太宗</index>在<index num="0015577_0" sort="K" type="지명">松都</index>
+          <index num="0015578_0" sort="K" type="지명">楸洞</index>潛邸, 一日, 天欲曙而星稀, 有白龍見于寢室之上, 大如椽有鱗, 光彩燦爛, 尾蜿蜒, 頭正向御在所。 侍女<index num="0015579_0" ref="M_0062076" sort="K" type="이름">金氏</index>坐簷下見之。 <index num="0015580_0" ref="M_0062076" sort="K" type="이름">金氏</index>, <index num="0015581_0" ref="M_0009342" sort="K" type="이름">敬寧君</index>
+          <index num="0015582_0" ref="M_0009342" sort="K" type="이름">(裶)<annotation type="교감주">
+              <noteTitle>〔<newChar href="KC02989"/>〕</noteTitle>
+            </annotation>
+          </index>之母也。 走告執饌人<index num="0015583_0" ref="M_0008722" sort="K" type="이름">金小斤</index>等八人, <index num="0015584_0" ref="M_0008722" sort="K" type="이름">小斤</index>等亦出見之。 俄而雲霧翳塞, 不知所之。 <index num="0015585_0" ref="M_0054668" sort="K" type="이름">恭靖王</index>無嗣, 以謂開國定社之策, 皆出於<index num="0015586_0" ref="M_0034056" sort="K" type="이름">靖安君</index>, 遣都承旨<index num="0015587_0" ref="M_0004345" sort="K" type="이름">李文和</index>, 白<index num="0015588_0" ref="M_0000889" sort="K" type="이름">太祖</index>冊爲王世子。 初, <index num="0015589_0" ref="M_0000889" sort="K" type="이름">太祖</index>封<index num="0015590_0" ref="M_0006790" sort="K" type="이름">顯妃</index>
+          <index num="0015591_0" ref="M_0006790" sort="K" type="이름">康氏</index>出<index num="0015592_0" ref="M_0008408" sort="K" type="이름">芳碩</index>爲世子, <index num="0015593_0" ref="M_0005969" sort="K" type="이름">鄭熙啓</index>妻言於<index num="0015594_0" ref="M_0006790" sort="K" type="이름">顯妃</index>曰: "<index num="0015595_0" ref="M_0034056" sort="K" type="이름">靖安君</index>爲世子, 甚合人望。 今立<index num="0015596_0" ref="M_0008408" sort="K" type="이름">芳碩</index>, 終必不好。" <index num="0015597_0" ref="M_0005969" sort="K" type="이름">熙啓</index>妻, <index num="0015598_0" ref="M_0003081" sort="K" type="이름">鷲山君</index>
+          <index num="0015599_0" ref="M_0003081" sort="K" type="이름">辛克禮</index>之妹, <index num="0015600_0" ref="M_0006790" sort="K" type="이름">顯妃</index>三寸姪也。 冬十一月, <index num="0015601_0" ref="M_0054668" sort="K" type="이름">恭靖王</index>素患風疾, 退居別宮, 禪位于<index num="0015602_0" ref="M_0034056" sort="K" type="이름">太宗</index>。 <index num="0015603_0" ref="M_0034056" sort="K" type="이름">太宗</index>涕泣辭之不獲, 遂卽位于<index num="0015604_0" sort="K" type="지명">壽昌宮</index>。 <index num="0015605_0" ref="M_0000889" sort="K" type="이름">太祖</index>喜曰: "剛明之君, 權必不下移。" <index num="0015606_0" type="연호">永樂</index>十六年戊戌八月, 禪位于我殿下, 優游頤養, 至于五年。 壬寅五月十日丙寅薨, 享年五十六, 在位十有九年。 皇帝賜諡曰<index num="0015607_0" ref="M_0034056" sort="K" type="이름">恭定</index>, 本國上諡曰<index num="0015608_0" ref="M_0034056" sort="K" type="이름">聖德神功文武光孝大王</index>, 廟號<index num="0015609_0" ref="M_0034056" sort="K" type="이름">太宗</index>。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

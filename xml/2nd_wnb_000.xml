@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wnb">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>宣祖修正實錄</mainTitle>
+        <alternative> 宣祖大王修正實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wnb_000">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 宣祖修正實錄 總序</paragraph>
+      </content>
+    </text>
+    <level3 id="wnb_000001">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>명종 대왕의 훙서 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">宣祖修正實錄 1책 1권</mainTitle>
+            <page begin="1장 A면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+            <page begin="403면"/>
+          </source>
+          <subjectClass>왕실-국왕(國王)</subjectClass>
+          <subjectClass>왕실-종사(宗社)</subjectClass>
+          <subjectClass>인물(人物)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">○<index num="1088007_0" sort="K" type="지명">大明</index>
+            <index num="1088008_0" type="연호">隆慶</index>元年。 <index num="1088009_0" ref="M_0045847" sort="K" type="이름">明宗大王</index>二十二年丁卯六月二十八日辛亥, <index num="1088010_0" ref="M_0045847" sort="K" type="이름">明宗大王</index>薨于<index num="1088011_0" sort="K" type="지명">景福宮</index>之寢殿。 前二十七日, 上疾猝重, 日午尤篤。 時, 右議政<index num="1088012_0" ref="M_0000202" sort="K" type="이름">權轍</index>朝京, 大臣只有領議政<index num="1088013_0" ref="M_0005159" sort="K" type="이름">李浚慶</index>、左議政<index num="1088014_0" ref="M_0000505" sort="K" type="이름">李蓂</index>及藥房都提調<index num="1088015_0" ref="M_0003264" sort="K" type="이름">沈通源</index>三人而已。 右承旨<index num="1088016_0" ref="M_0003810" sort="K" type="이름">尹斗壽</index>, 手書<index num="1088017_0" sort="K" type="지명">宋朝</index>
+            <index num="1088018_0" ref="M_0032056" sort="A" sort2="송" type="이름">文彦博</index>入宿禁中故事, 示<index num="1088019_0" ref="M_0005159" sort="K" type="이름">李浚慶</index>, <index num="1088020_0" ref="M_0005159" sort="K" type="이름">浚慶</index>入宿闕內, 夜半大漸。 王妃<index num="1088021_0" sort="K" type="이름">沈氏</index>急召大臣<index num="1088022_0" ref="M_0005159" sort="K" type="이름">浚慶</index>、<index num="1088023_0" ref="M_0003264" sort="K" type="이름">通源</index>, 入對于寢殿, 上已不省事。 <index num="1088024_0" ref="M_0005159" sort="K" type="이름">浚慶</index>進前大聲曰: "臣等來。" 上不應。 <index num="1088025_0" ref="M_0005159" sort="K" type="이름">浚慶</index>使史官書進二人名, 上亦不能視。 <index num="1088026_0" ref="M_0005159" sort="K" type="이름">浚慶</index>仍啓王妃曰: "事已至此, 當定社稷之計。 主上不能顧命, 中殿須有指揮。" 王妃答曰: "乙丑年曾得上旨, 須以其人爲嗣。" 蓋於乙丑九月, 上疾篤, 中殿下一封書于大臣, 以<index num="1088027_0" ref="M_0047647" sort="K" type="이름">河城君</index>
+            <index num="1088028_0" ref="M_0047647" sort="K" type="이름">鈞</index>爲嗣。 <index num="1088029_0" ref="M_0005159" sort="K" type="이름">浚慶</index>等拜謝曰: "社稷之計定矣。" 是曉上薨。 大臣使都承旨<index num="1088030_0" ref="M_0004736" sort="K" type="이름">李陽元</index>、同副承旨<index num="1088031_0" ref="M_0002521" sort="K" type="이름">朴素立</index>、注書<index num="1088032_0" ref="M_0015586" sort="K" type="이름">黃大受</index>及兵曹判書<index num="1088033_0" ref="M_0051958" sort="K" type="이름">元混</index>, 領侍衛將士, 迎上于<index num="1088034_0" ref="M_0043933" sort="K" type="이름">德興君</index>第。 <index num="1088035_0" ref="M_0015586" sort="K" type="이름">大受</index>執<index num="1088036_0" ref="M_0004736" sort="K" type="이름">陽元</index>帶曰: "何以不問當迎某君?" <index num="1088037_0" ref="M_0004736" sort="K" type="이름">陽元</index>曰: "已定之事, 不須問也。" <index num="1088038_0" ref="M_0015586" sort="K" type="이름">大受</index>曰: "雖已定, 此事不可草草。" 大臣曰: "<index num="1088039_0" ref="M_0047647" sort="K" type="이름">河城君</index>也。" <index num="1088040_0" ref="M_0015586" sort="K" type="이름">大受</index>書于紙, 擧示大臣, 而袖出。 時, 倉卒無僕馬, <index num="1088041_0" ref="M_0004736" sort="K" type="이름">陽元</index>欲步往, <index num="1088042_0" ref="M_0015586" sort="K" type="이름">大受</index>曰: "此時不可失儀, 以駭人視。" 卽求得騎從, 旣至第則侍衛未及至, 而雜人已闌入矣。 <index num="1088043_0" ref="M_0004736" sort="K" type="이름">陽元</index>不明言迎某君, 只呼出上舅<index num="1088044_0" ref="M_0054785" sort="K" type="이름">鄭昌瑞</index>, 通謁而已。 <index num="1088045_0" ref="M_0015586" sort="K" type="이름">大受</index>曰: "此大事不可糊塗。 宮中有王孫三人, 豈可不明言乎? 當請三王孫, 皆出親見然後, 乃可扈衛。" <index num="1088046_0" ref="M_0004736" sort="K" type="이름">陽元</index>不肯, 但問<index num="1088047_0" ref="M_0054785" sort="K" type="이름">昌瑞</index>曰: "何君粧束?" <index num="1088048_0" ref="M_0054785" sort="K" type="이름">昌瑞</index>曰: "前日所定<index num="1088049_0" ref="M_0047647" sort="K" type="이름">河城君</index>也。" 時, 上方居<index num="1088050_0" sort="K" type="이름">河東郡夫人</index>之喪, 哭辭靈座, 着白衣、烏紗帽以出。 將乘輦, <index num="1088051_0" ref="M_0015586" sort="K" type="이름">大受</index>又請擧簾諦視, <index num="1088052_0" ref="M_0004736" sort="K" type="이름">陽元</index>等遂進輦前, 審視環拜而行。 入自<index num="1088053_0" sort="K" type="지명">光化門</index>, 由<index num="1088054_0" sort="K" type="지명">勤政殿</index>東庭, 卽喪次。 時, 雜人妄言: "扈從者當錄功。" 於是, 朝士、儒生、吏胥輩, 多記名以授宮奴, 宮奴以授<index num="1088055_0" ref="M_0015586" sort="K" type="이름">大受</index>曰: "嗣君命, 藏之。" <index num="1088056_0" ref="M_0015586" sort="K" type="이름">大受</index>不受曰: "嗣君此時, 豈有命令耶?" <index num="1088057_0" ref="M_0002521" sort="K" type="이름">朴素立</index>受之, 傳于政院, 人多譏誚。 後, 臺諫啓焚其錄, 劾罷<index num="1088058_0" ref="M_0004736" sort="K" type="이름">陽元</index>等。 <index num="1088059_0" ref="M_0004736" sort="K" type="이름">陽元</index>之不明言迎某君, 蓋是時, 顧命未顯, 恐變生意外, 往迎者反獲大禍也。 <index num="1088060_0" ref="M_0005159" sort="K" type="이름">李浚慶</index>素有重望, 國人倚信, 傾想皆曰: "此時有此人, 國必賴之。" 嗣位纔定, 人情大安者, <index num="1088061_0" ref="M_0005159" sort="K" type="이름">浚慶</index>鎭物之功也。 <index num="1088062_0" ref="M_0015586" sort="K" type="이름">大受</index>造次之際, 卓有所守, 由此知名, 未及顯而歿。</paragraph>
+        </content>
+      </text>
+    </level3>
+    <level3 id="wnb_000002">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>덕흥군의 셋째 아들이 16세에 대통을 잇고 어휘를 연으로 고치다 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">宣祖修正實錄 1책 1권</mainTitle>
+            <page begin="1장 B면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+            <page begin="403면"/>
+          </source>
+          <subjectClass>왕실-종사(宗社)</subjectClass>
+          <subjectClass>왕실-국왕(國王)</subjectClass>
+          <subjectClass>가족-성명(姓名)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">○上, <index num="1088063_0" ref="M_0043933" sort="K" type="이름">德興君</index>第三子也。 幼有美質, 相表淸秀。 大行王旣喪<index num="1088064_0" ref="M_0044722" sort="K" type="이름">順懷世子</index>, 擇於諸姪中, 默眷已久。 乙丑夏, 大行王寢疾, 從大臣建儲之議, 與王妃密議定策, 惟大臣知之。 雖未正名號, 別置師傅<index num="1088065_0" ref="M_0015570" sort="K" type="이름">韓胤明</index>、<index num="1088066_0" ref="M_0005914" sort="K" type="이름">鄭芝衍</index>等敎之, 數召試學業。 每進見歎曰: "福哉, <index num="1088067_0" ref="M_0043933" sort="K" type="이름">德興</index>!" 上讀書甚精, 時有難問出人意表, 師傅或不能答。 至是, 入承大統, 時年十六。 改 御諱曰<index num="1088068_0" ref="M_0063174" sort="K" type="이름">昖</index>。</paragraph>
+        </content>
+      </text>
+    </level3>
+    <level3 id="wnb_000003">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>고사에 따라 원상을 두다 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">宣祖修正實錄 1책 1권</mainTitle>
+            <page begin="2장 A면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+            <page begin="403면"/>
+          </source>
+          <subjectClass>인사-선발(選拔)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">○準故事, 置院相, 領議政<index num="1088069_0" ref="M_0005159" sort="K" type="이름">李浚慶</index>、右贊成<index num="1088070_0" ref="M_0050757" sort="K" type="이름">吳謙</index>、禮曹判書<index num="1088071_0" ref="M_0060988" sort="K" type="이름">洪暹</index>三人應選, 輪直政院, 參決機務。</paragraph>
+        </content>
+      </text>
+    </level3>
+    <level3 id="wnb_000004">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>상신이 상을 모시고 보호하도록 하려 했으나 심의겸의 주장으로 그만두다 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">宣祖修正實錄 1책 1권</mainTitle>
+            <page begin="2장 A면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+            <page begin="403면"/>
+          </source>
+          <subjectClass>왕실-국왕(國王)</subjectClass>
+          <subjectClass>왕실-궁관(宮官)</subjectClass>
+          <subjectClass>역사-고사(故事)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">○時, 相臣以上初入宮孤單, 欲進舊乳媪入侍保護, 承旨<index num="1088072_0" ref="M_0003244" sort="K" type="이름">沈義謙</index>爭以爲不可, 引<index num="1088073_0" sort="K" type="지명">漢</index>
+            <index num="1088074_0" ref="M_0033067" sort="A" sort2="한" type="이름">王聖</index>事爲比, 乃止。</paragraph>
+        </content>
+      </text>
+    </level3>
+  </level2>
+</level1>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wsb_105">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>肅宗實錄補闕正誤 五年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1679" type="서기"/>
+        <dateOccured type="간지">己未</dateOccured>
+        <dateOccured type="재위연도">숙종 [보궐정오실록] 5</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 288</dateOccured>
+        <dateOccured type="중국연호">청 강희(康熙) 18</dateOccured>
+        <dateOccured type="단기">4012</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">청 강희(康熙) 18</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 五年(1679) 【<index num="1560018_0" sort="K" type="지명">淸</index>
+        <index num="1560019_0" type="연호">康熙</index>十八年】</paragraph>
+    </content>
+  </text>
+  <level3 id="wsb_105080">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 五年 八月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 五年 八月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_10508002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 5年 8月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1679-08-02L0" type="서기"/>
+            <dateOccured type="간지">甲子</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 5년 8월 2일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 288년 8월 2일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 18년 8월 2일</dateOccured>
+            <dateOccured type="단기">4012년 8월 2일</dateOccured>
+            <dateOccured type="일본연호">년 8월 2일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)18년 8월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_10508002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>민암·김덕원 등의 직임 환수에 관한 지평 이증의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1679-08-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 7책 8권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 38책</mainTitle>
+              <page begin="430면"/>
+            </source>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲子/持平<index num="1560020_0" ref="M_0020119" sort="K" type="이름">李增</index>疏論<index num="1560021_0" ref="M_0046461" sort="K" type="이름">閔黯</index>、<index num="1560022_0" ref="M_0001470" sort="K" type="이름">金德遠</index>、<index num="1560023_0" ref="M_0005890" sort="K" type="이름">鄭載嵩</index>、<index num="1560024_0" ref="M_0006056" sort="K" type="이름">趙師錫</index>、<index num="1560025_0" ref="M_0005085" sort="K" type="이름">李正英</index>陞擢之濫, 請從臺啓還收, 上批不許, 略曰: "國家取人之道, 才德爲上, 功勞次之。 今玆數臣, 皆是有才望之人, 簡拔登庸, 有何不可, 而抉摘前日之細過, 殊非與人不求備之意也。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_10508020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 5年 8月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1679-08-20L0" type="서기"/>
+            <dateOccured type="간지">壬午</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 5년 8월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 288년 8월 20일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 18년 8월 20일</dateOccured>
+            <dateOccured type="단기">4012년 8월 20일</dateOccured>
+            <dateOccured type="일본연호">년 8월 20일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)18년 8월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_10508020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정재숭·이정영 등의 직임 환수에 관한 이증의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1679-08-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 7책 8권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 38책</mainTitle>
+              <page begin="430면"/>
+            </source>
+            <subjectClass>역사-사학(史學)</subjectClass>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬午/持平<index num="1560026_0" ref="M_0020119" sort="K" type="이름">李增</index>申前啓, 請還收<index num="1560027_0" ref="M_0005890" sort="K" type="이름">鄭載嵩</index>、<index num="1560028_0" ref="M_0005085" sort="K" type="이름">李正英</index>特除之命, 上不許。</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1560029_0" ref="M_0046461" sort="K" type="이름">閔黯</index>之不稱, 與<index num="1560030_0" ref="M_0005085" sort="K" type="이름">李正英</index>無異, 而<index num="1560031_0" ref="M_0005085" sort="K" type="이름">正英</index>則有行; <index num="1560032_0" ref="M_0001470" sort="K" type="이름">金德遠</index>之超躐, 與<index num="1560033_0" ref="M_0005890" sort="K" type="이름">鄭載嵩</index>一般, 而<index num="1560034_0" ref="M_0005890" sort="K" type="이름">載嵩</index>則有望。 特以論議之不同, <index num="1560035_0" ref="M_0046461" sort="K" type="이름">閔黯</index>、<index num="1560036_0" ref="M_0001470" sort="K" type="이름">金德遠</index>、<index num="1560037_0" ref="M_0004841" sort="K" type="이름">李元祿</index>, 則只數啓停論, 拈出此兩人, 論之不已, 識者竊歎。"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_105120">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 五年 十二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 五年 十二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_10512013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 5年 12月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1679-12-13L0" type="서기"/>
+            <dateOccured type="간지">甲戌</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 5년 12월 13일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 288년 12월 13일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 18년 12월 13일</dateOccured>
+            <dateOccured type="단기">4012년 12월 13일</dateOccured>
+            <dateOccured type="일본연호">년 12월 13일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)18년 12월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_10512013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정언 남후가 예조 참의 김만중의 체직을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1679-12-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 7책 8권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 38책</mainTitle>
+              <page begin="430면"/>
+            </source>
+            <subjectClass>역사-사학(史學)</subjectClass>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲戌/行初覆。 引見時, 正言<index num="1560038_0" ref="M_0036261" sort="K" type="이름">南垕</index>申前啓, 遞禮曹參議<index num="1560039_0" ref="M_0001495" sort="K" type="이름">金萬重</index>, 上謂領議政<index num="1560040_0" ref="M_0060422" sort="K" type="이름">許積</index>曰: "卿不知耶? 啓辭以爲, 與<index num="1560041_0" ref="M_0002339" sort="K" type="이름">閔鼎重</index>無異, 以此觀之, 欲永棄也。" <index num="1560042_0" ref="M_0060422" sort="K" type="이름">積</index>曰: "<index num="1560043_0" ref="M_0003011" sort="K" type="이름">時烈</index>、<index num="1560044_0" ref="M_0003043" sort="K" type="이름">浚吉</index>皆<index num="1560045_0" ref="M_0001495" sort="K" type="이름">萬重</index>祖<index num="1560046_0" ref="M_0001840" sort="K" type="이름">金長生</index>門人也。 <index num="1560047_0" ref="M_0001495" sort="K" type="이름">萬重</index>之與<index num="1560048_0" ref="M_0003011" sort="K" type="이름">時烈</index>相親, 無異<index num="1560049_0" ref="M_0002339" sort="K" type="이름">鼎重</index>之謂也, 非謂同罪也。" <index num="1560050_0" ref="M_0036261" sort="K" type="이름">垕</index>引避, 上特遞之。 承旨請還收, 大臣亦言之, 上初難, 而後從之。<annotation type="원주">
+                <noteContent>【詳見上。】</noteContent>
+              </annotation>
+            </paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1560051_0" ref="M_0001495" sort="K" type="이름">萬重</index>卽一戚里, 其用捨, 不甚有關於國家。 銓曹之收用, 必先於此人, 而上之所以爲此人, 摧折臺諫, 自不覺其辭氣之露者, 何歟? 近來, 銓曹用人, 一循私意, 苟同於己, 陞擢之不暇; 苟異於己, 搏擊之殆盡。 及乎嚴旨一下, 自<index num="1560052_0" ref="M_0060422" sort="K" type="이름">積</index>以下煌㤼患失, 以持論和平, 收用一邊之意, 陳達於咫尺天威之下, 以冀一時之無事。 及退恐其不用一人, 而又陷於欺誣之罪, 汲汲用一戚里, 以爲合上意而塞責之計。 臺閣所論, 大體則好, 雷威遽加, 至以無狀責之。 噫! 上所爲亦不得免於私意, 而責臣下之無私, 亦難矣。 然其臺啓所論, 亦足一哂。 以<index num="1560053_0" ref="M_0060422" sort="K" type="이름">積</index>謂之柱石大臣, 以斥<index num="1560054_0" ref="M_0060422" sort="K" type="이름">積</index>爲罪, 如是, 而尙何望有槪於王心哉?"】</paragraph>
+              </postScript>
+            </paragraph>
+            <paragraph align="center">肅宗顯義光倫睿聖英烈章文憲武敬明元孝大王實錄補闕正誤卷之八</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

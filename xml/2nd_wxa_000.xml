@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wxa">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>憲宗實錄</mainTitle>
+        <alternative> 憲宗經文緯武明仁哲孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wxa_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">憲宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+          <page begin="433면"/>
+        </source>
+        <subjectClass>왕실-종사(宗社)</subjectClass>
+        <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">大王諱<index num="1923448_0" sort="K" type="이름">烉</index>、字<index num="1923449_0" ref="M_0034243" sort="K" type="이름">文應</index>, <index num="1923450_0" ref="M_0052997" sort="K" type="이름">翼宗大王</index>子。 丁亥<annotation type="원주">
+            <noteContent>【<index num="1923451_0" ref="M_0062679" sort="K" type="이름">純宗</index>二十七年。】</noteContent>
+          </annotation>七月十八日辛酉誕降。 庚寅冊封王世孫, 甲午十一月十八日己卯卽位, 己酉六月六日壬申, 昇遐, 在位十五年, 春秋二十三。 有睟容三本<annotation type="원주">
+            <noteContent>【丙午圖寫。】</noteContent>
+          </annotation>辛亥, 奉于<index num="1923452_0" sort="K" type="지명">璿源殿</index>。 有一女<annotation type="원주">
+            <noteContent>【宮人<index num="1923453_0" sort="K" type="이름">金氏</index>出。 ○早卒。】</noteContent>
+          </annotation>無嗣<index num="1923454_0" sort="K" type="지명">景陵</index>。<annotation type="원주">
+            <noteContent>【在<index num="1923455_0" sort="K" type="지명">楊州</index>
+              <index num="1923456_0" sort="K" type="지명">健元陵</index>西岡酉坐卯向。 己酉十月二十八日葬, 有表石。】</noteContent>
+          </annotation>
+        </paragraph>
+        <paragraph align="center">妃<index num="1923457_0" ref="M_0006825" sort="K" type="이름">孝顯王后</index>
+          <index num="1923458_0" ref="M_0006825" sort="K" type="이름">金氏</index>,<annotation type="원주">
+            <noteContent>【籍<index num="1923459_0" sort="K" type="지명">安東</index>。】</noteContent>
+          </annotation>領敦寧府事<index num="1923460_0" ref="M_0026266" sort="K" type="이름">永興府院君</index>贈領議政<index num="1923461_0" ref="M_0026266" sort="K" type="이름">祖根</index>女, 戊子<annotation type="원주">
+            <noteContent>【<index num="1923462_0" ref="M_0062679" sort="K" type="이름">純宗</index>二十八年。】</noteContent>
+          </annotation>三月十四日癸丑, 誕降, 丁酉冊封王妃, 癸卯<annotation type="원주">
+            <noteContent>【憲宗九年】</noteContent>
+          </annotation>八月二十五日乙丑昇遐, 春秋十六。 <index num="1923463_0" sort="K" type="지명">景陵</index>。<annotation type="원주">
+            <noteContent>【在<index num="1923464_0" sort="K" type="지명">楊州</index>。 <index num="1923465_0" sort="K" type="지명">健元陵</index>西岡庚坐甲向癸卯十二月二日葬。 有表石。】</noteContent>
+          </annotation>
+        </paragraph>
+        <paragraph align="center">繼妃大妃殿下<index num="1923466_0" sort="K" type="이름">洪氏</index>
+          <annotation type="원주">
+            <noteContent>【籍<index num="1923467_0" sort="K" type="지명">南陽</index>。】</noteContent>
+          </annotation>領敦寧府事<index num="1923468_0" ref="M_0006663" sort="K" type="이름">益豐府院君</index>
+          <index num="1923469_0" ref="M_0006663" sort="K" type="이름">在龍</index>女。 辛卯<annotation type="원주">
+            <noteContent>【純宗三十一年。】</noteContent>
+          </annotation>正月二十二日丙子誕降, 甲辰冊封王妃。 己酉六月九日, 進號大妃。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

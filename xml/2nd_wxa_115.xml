@@ -1,0 +1,4166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wxa_115">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>憲宗實錄 十五年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1849" type="서기"/>
+        <dateOccured type="간지">己酉</dateOccured>
+        <dateOccured type="재위연도">헌종 15</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 458</dateOccured>
+        <dateOccured type="중국연호">청 도광(道光) 29</dateOccured>
+        <dateOccured type="단기">4182</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">청 도광(道光) 29</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 十五年(1849)<annotation type="원주">
+          <noteContent>【<index num="1931979_0" sort="K" type="지명">淸</index>
+            <index num="1931980_0" type="연호">道光</index>二十九年】</noteContent>
+        </annotation>
+      </paragraph>
+    </content>
+  </text>
+  <level3 id="wxa_115010">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>憲宗實錄 十五年 正月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十五年 正月</paragraph>
+      </content>
+    </text>
+    <level4 id="wxa_11501001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-01L0" type="서기"/>
+            <dateOccured type="간지">庚午</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 1일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 1일</dateOccured>
+            <dateOccured type="단기">4182년 1월 1일</dateOccured>
+            <dateOccured type="일본연호">년 1월 1일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비의 망칠이 되어 경하하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>어문학-문학(文學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚午/大王大妃寶齡望七。 上詣<index num="1931981_0" sort="K" type="지명">仁政殿</index>, 親上致詞、箋文、表裏, 仍陳賀頒敎, 赦。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-02L0" type="서기"/>
+            <dateOccured type="간지">辛未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 2일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 2일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 2일</dateOccured>
+            <dateOccured type="단기">4182년 1월 2일</dateOccured>
+            <dateOccured type="일본연호">년 1월 2일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>남병철을 전라도 관찰사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛未/以<index num="1931982_0" ref="M_0002135" sort="K" type="이름">南秉哲</index>爲<index num="1931983_0" sort="K" type="지명">全羅道</index>觀察使。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-03L0" type="서기"/>
+            <dateOccured type="간지">壬申</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 3일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 3일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 3일</dateOccured>
+            <dateOccured type="단기">4182년 1월 3일</dateOccured>
+            <dateOccured type="일본연호">년 1월 3일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>진하할 때의 각 차비관에게 차등을 두어 상주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬申/親上表裏, 陳賀時各差備官施賞有差, 宣敎官<index num="1931984_0" ref="M_0004885" sort="K" type="이름">李&amp;#x2567F;膺</index>, 禮房承旨<index num="1931985_0" ref="M_0002139" sort="K" type="이름">南性敎</index>, 對擧承旨<index num="1931986_0" ref="M_0006676" sort="K" type="이름">洪鍾應</index>, 竝加資。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501010">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-10L0" type="서기"/>
+            <dateOccured type="간지">己卯</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 10일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 10일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 10일</dateOccured>
+            <dateOccured type="단기">4182년 1월 10일</dateOccured>
+            <dateOccured type="일본연호">년 1월 10일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김도희가 학문에 힘쓰고 용도를 절약하기를 청하자 비답을 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>재정-국용(國用)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己卯/上御<index num="1931987_0" sort="K" type="지명">誠正閣</index>, 行藥院入診, 引見大臣備局堂上。 左議政<index num="1931988_0" ref="M_0001478" sort="K" type="이름">金道喜</index>, 以勤學節用, 陳勉, 批以 ‘所陳甚好矣。 時習節用, 尤爲切實於目今, 豈不銘念?"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11501010_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>선정신 송시열의 사손을 수령에 차의하라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-01-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命先正臣<index num="1931989_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>祀孫, 守令差擬。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11501010_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김철순이 축낸 8천여 석을 탕감해 주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1849-01-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>왕실-경연(經筵)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1931990_0" sort="K" type="지명">利川</index>前府使<index num="1931991_0" ref="M_0024772" sort="K" type="이름">金喆淳</index>, 久逋八千餘石, 特蕩, 幷從, 左議政<index num="1931992_0" ref="M_0001478" sort="K" type="이름">金道喜</index>所奏也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11501010_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>한산도에 진을 설치하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1849-01-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>행정-지방행정(地方行政)</subjectClass>
+            <subjectClass>군사-군정(軍政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命<index num="1931993_0" sort="K" type="지명">統營</index>、<index num="1931994_0" sort="K" type="지명">閑山島</index>設鎭, 因左議政<index num="1931995_0" ref="M_0001478" sort="K" type="이름">金道喜</index>覆奏, <index num="1931996_0" sort="K" type="지명">統營</index>啓本許施。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11501010_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>문경현의 불탄 집에 휼전을 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1849-01-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>구휼(救恤)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○給<index num="1931997_0" sort="K" type="지명">聞慶縣</index>燒戶, 恤典。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-11L0" type="서기"/>
+            <dateOccured type="간지">庚辰</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 11일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 11일</dateOccured>
+            <dateOccured type="단기">4182년 1월 11일</dateOccured>
+            <dateOccured type="일본연호">년 1월 11일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>태백성이 보이다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>과학(科學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚辰/未時, 太白見於巳地。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11501011_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이희발을 형조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-01-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1931998_0" ref="M_0005526" sort="K" type="이름">李羲發</index>爲刑曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-15L0" type="서기"/>
+            <dateOccured type="간지">甲申</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 15일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 15일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 15일</dateOccured>
+            <dateOccured type="단기">4182년 1월 15일</dateOccured>
+            <dateOccured type="일본연호">년 1월 15일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>경중의 각사·각영에서 무신년의 회계부를 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>재정-국용(國用)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲申/京各司各營, 進戊申會計簿。<annotation type="원주">
+                <noteContent>【戶曹、餉廳、惠廳、兵曹、總營、訓局、禁營、御營, 時在黃金, 一百十九兩四分, 銀子二十萬八千六百八十九兩三錢九分, 錢文六十四萬八百八十五兩八分, 綿紬九十四同三十三疋十七尺, 木四千九百七十三同四十八疋三十三尺, 苧布四十四同三十疋二十一尺, 布子一千四十同二十九疋十八尺, 米三十一萬五千四百三十八石四斗零, 太一萬一千九百十八石十三斗九升零, 田米一萬二千七百八十二石五升, 皮雜穀三萬六千六百十三石四斗。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-16L0" type="서기"/>
+            <dateOccured type="간지">乙酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 16일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 16일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 16일</dateOccured>
+            <dateOccured type="단기">4182년 1월 16일</dateOccured>
+            <dateOccured type="일본연호">년 1월 16일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총위영 향색 제조를 차출하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙酉/敎曰: "總衛營餉色提調, 依壯營例, 令該曹, 備擬差出。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-17L0" type="서기"/>
+            <dateOccured type="간지">丙戌</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 17일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 17일</dateOccured>
+            <dateOccured type="단기">4182년 1월 17일</dateOccured>
+            <dateOccured type="일본연호">년 1월 17일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이응식·임성고·신관호에게 관직을 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙戌/以<index num="1931999_0" ref="M_0042673" sort="K" type="이름">李應植</index>爲總衛使, <index num="1932000_0" ref="M_0005577" sort="K" type="이름">任聖皐</index>爲訓鍊大將, <index num="1932001_0" ref="M_0067772" sort="K" type="이름">申觀浩</index>爲禁衛大將。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11501017_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김희화를 숭록 대부로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-01-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1932002_0" ref="M_0002088" sort="K" type="이름">金熙華</index>爲崇祿大夫, 進士回榜也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501024">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 24日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-24L0" type="서기"/>
+            <dateOccured type="간지">癸巳</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 24일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 24일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 24일</dateOccured>
+            <dateOccured type="단기">4182년 1월 24일</dateOccured>
+            <dateOccured type="일본연호">년 1월 24일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 24일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501024_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이약우를 이조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-24L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸巳/以<index num="1932003_0" ref="M_0004732" sort="K" type="이름">李若愚</index>爲吏曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11501028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 1月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-01-28L0" type="서기"/>
+            <dateOccured type="간지">丁酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 1월 28일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 1월 28일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 1월 28일</dateOccured>
+            <dateOccured type="단기">4182년 1월 28일</dateOccured>
+            <dateOccured type="일본연호">년 1월 28일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 1월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11501028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>휘경원의 재실에 불이 나다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-01-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>군사-금화(禁火)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁酉/<index num="1932004_0" sort="K" type="지명">徽慶園</index>齋室, 火。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wxa_115020">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>憲宗實錄 十五年 二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十五年 二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wxa_11502001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-01L0" type="서기"/>
+            <dateOccured type="간지">庚子</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 1일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 1일</dateOccured>
+            <dateOccured type="단기">4182년 2월 1일</dateOccured>
+            <dateOccured type="일본연호">년 2월 1일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>일식이 있다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>과학(科學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚子/日有食之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11502002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-02L0" type="서기"/>
+            <dateOccured type="간지">辛丑</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 2일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 2일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 2일</dateOccured>
+            <dateOccured type="단기">4182년 2월 2일</dateOccured>
+            <dateOccured type="일본연호">년 2월 2일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>중비로 윤정현을 병조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛丑/中批, 以<index num="1932005_0" ref="M_0003921" sort="K" type="이름">尹定鉉</index>爲兵曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11502005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-05L0" type="서기"/>
+            <dateOccured type="간지">甲辰</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 5일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 5일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 5일</dateOccured>
+            <dateOccured type="단기">4182년 2월 5일</dateOccured>
+            <dateOccured type="일본연호">년 2월 5일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김영근·홍열모·서대순에게 관직을 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲辰/以<index num="1932006_0" ref="M_0001763" sort="K" type="이름">金英根</index>爲吏曹參議, <index num="1932007_0" ref="M_0026203" sort="K" type="이름">洪說謨</index>爲成均館大司成, <index num="1932008_0" ref="M_0002790" sort="K" type="이름">徐戴淳</index>爲<index num="1932009_0" sort="K" type="지명">黃海道</index>觀察使。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11502015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-15L0" type="서기"/>
+            <dateOccured type="간지">甲寅</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 15일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 15일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 15일</dateOccured>
+            <dateOccured type="단기">4182년 2월 15일</dateOccured>
+            <dateOccured type="일본연호">년 2월 15일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>월식이 있다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>과학(科學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲寅/月有食之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11502020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-20L0" type="서기"/>
+            <dateOccured type="간지">己未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 20일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 20일</dateOccured>
+            <dateOccured type="단기">4182년 2월 20일</dateOccured>
+            <dateOccured type="일본연호">년 2월 20일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이정신을 공조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>과학(科學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己未/以<index num="1932010_0" ref="M_0005079" sort="K" type="이름">李鼎臣</index>爲工曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11502021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-21L0" type="서기"/>
+            <dateOccured type="간지">庚申</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 21일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 21일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 21일</dateOccured>
+            <dateOccured type="단기">4182년 2월 21일</dateOccured>
+            <dateOccured type="일본연호">년 2월 21일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>과장의 폐단을 없애도록 신칙하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚申/敎曰: "科場之弊, 古或有之, 然古之科弊, 惟在於考試之難明, 程式之不工也, 今之科弊, 又有在於考試程式之外者。 物色而取之, 書札而圖之, 許多蔑法營私之習, 茶飯行之, 甚至以莫重之國試, 便作龍斷之私貨。 是以, 每經大小之科, 輒失中外之望, 泯泯棼棼, 駭聽四方, 若此不已, 國何以爲國乎? 一言以蔽之曰, 爲公爲私, 惟在於掌試者, 則爲其任者, 苟能一心持公, 明白對揚, 雖百岐幻弄, 千徑鑽刺, 所謂關節, 焉得到於包老也? 大抵士趨之不正, 則試官之不秉公而然也, 試官之不秉公, 則謂予一人, 可以欺蔽, 無所畏忌而然也, 思之及此, 寧欲無言。 見今生、進、覆試, 只隔數日, 姑未知畢竟試取之如何, 而如是別諭之後, 視同尋常, 不思警惕, 則是不可以人理臣分而責者。 國綱雖曰掃地, 太阿不在此手乎? 若於事過之後, 有毫末涉私之入聞者, 律以作奸科場之外, 加施不信王言之罪。 而雖以士子言之, 皆是公卿自期之人也, 其若發身之初, 已犯罔上之科, 他日事君, 將何以藉手乎? 爲其父兄者, 亦不敢曰在家不知, 此則隨其現發, 斷當以加倍之律, 罪其家長矣。 須各知悉, 惕念擧行。 廟堂別般申飭。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11502024">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 24日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-24L0" type="서기"/>
+            <dateOccured type="간지">癸亥</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 24일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 24일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 24일</dateOccured>
+            <dateOccured type="단기">4182년 2월 24일</dateOccured>
+            <dateOccured type="일본연호">년 2월 24일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 24일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502024_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이번 시취를 마땅히 거행하도록 하교하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-24L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="535면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸亥/敎曰: "日昨飭諭, 罄悉無蘊, 固當任其所爲, 以觀動靜, 而事過後責其僨誤, 不如先事董飭之可望敦益, 故又有此申複之諭, 今番試取, 量宜擧行事, 自政院, 輪示此傳敎於一二所諸試官。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11502029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 2月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-02-29L0" type="서기"/>
+            <dateOccured type="간지">戊辰</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 2월 29일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 2월 29일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 2월 29일</dateOccured>
+            <dateOccured type="단기">4182년 2월 29일</dateOccured>
+            <dateOccured type="일본연호">년 2월 29일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 2월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11502029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>감시의 복시에서 이연우와 송약로가 으뜸을 차지하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-02-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊辰/監試覆試一所<index num="1932011_0" ref="M_0026607" sort="K" type="이름">李淵愚</index>, 二所<index num="1932012_0" ref="M_0026608" sort="K" type="이름">宋約老</index>居首。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wxa_115030">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>憲宗實錄 十五年 三月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十五年 三月</paragraph>
+      </content>
+    </text>
+    <level4 id="wxa_11503005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-05L0" type="서기"/>
+            <dateOccured type="간지">癸酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 5일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 5일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 5일</dateOccured>
+            <dateOccured type="단기">4182년 3월 5일</dateOccured>
+            <dateOccured type="일본연호">년 3월 5일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이기연·이학수를 석방하라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸酉/命<index num="1932013_0" ref="M_0004186" sort="K" type="이름">李紀淵</index>、<index num="1932014_0" ref="M_0005342" sort="K" type="이름">李鶴秀</index>, 竝放。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11503006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-06L0" type="서기"/>
+            <dateOccured type="간지">甲戌</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 6일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 6일</dateOccured>
+            <dateOccured type="단기">4182년 3월 6일</dateOccured>
+            <dateOccured type="일본연호">년 3월 6일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이기연·이학수를 방송하라는 명을 거두기를 청하니 비답을 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲戌/時原任大臣聯箚, 請亟寢<index num="1932015_0" ref="M_0004186" sort="K" type="이름">李紀淵</index>、<index num="1932016_0" ref="M_0005342" sort="K" type="이름">李鶴秀</index>放送之命, 批曰: "今此處分, 豈徒予意? 實有承聆於慈敎者, 卿等諒之。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11503006_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이지연의 죄명을 지우라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-03-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命<index num="1932017_0" ref="M_0005207" sort="K" type="이름">李止淵</index>罪名爻周。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11503008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-08L0" type="서기"/>
+            <dateOccured type="간지">丙子</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 8일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 8일</dateOccured>
+            <dateOccured type="단기">4182년 3월 8일</dateOccured>
+            <dateOccured type="일본연호">년 3월 8일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>오윤화를 방목에서 빼고 감처하라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙子/命冒參覆試人<index num="1932018_0" ref="M_0026609" sort="K" type="이름">吳潤和</index>, 拔去榜目, 嚴査勘處。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11503011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-11L0" type="서기"/>
+            <dateOccured type="간지">己卯</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 11일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 11일</dateOccured>
+            <dateOccured type="단기">4182년 3월 11일</dateOccured>
+            <dateOccured type="일본연호">년 3월 11일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이규철을 함경북도 병마 절도사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己卯/以<index num="1932019_0" ref="M_0004149" sort="K" type="이름">李圭徹</index>, 爲<index num="1932020_0" sort="K" type="지명">咸鏡北道</index>兵馬水軍節度使。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11503011_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이경재·조기윤 등을 각각의 벼슬에 임명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-03-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1932021_0" ref="M_0004035" sort="K" type="이름">李景在</index>爲刑曹判書, <index num="1932022_0" ref="M_0006000" sort="K" type="이름">趙冀永</index>爲<index num="1932023_0" sort="K" type="지명">漢城府</index>判尹, <index num="1932024_0" ref="M_0042668" sort="K" type="이름">李膺緖</index>爲<index num="1932025_0" sort="K" type="지명">黃海道</index>兵馬節度使, <index num="1932026_0" ref="M_0026196" sort="K" type="이름">金相宇</index>爲京畿水軍節度使兼三道統禦使<index num="1932027_0" sort="K" type="지명">喬桐</index>府使。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11503015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-15L0" type="서기"/>
+            <dateOccured type="간지">癸未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 15일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 15일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 15일</dateOccured>
+            <dateOccured type="단기">4182년 3월 15일</dateOccured>
+            <dateOccured type="일본연호">년 3월 15일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이양선을 망보는 일을 조사하여 신칙할 것과 도류된 죄인을 3년의 기한이 차거든 석방하라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+            <subjectClass>외교-구미(歐美)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>재정-전세(田稅)</subjectClass>
+            <subjectClass>구휼(救恤)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸未/上御<index num="1932028_0" sort="K" type="지명">誠正閣</index>, 引見大臣備局堂上。 左議政<index num="1932029_0" ref="M_0001478" sort="K" type="이름">金道喜</index>, 啓請察民瘼擇守令, 及異樣船候望, 措辭嚴飭, 批曰: "上款所陳甚好, 當留念, 而下款所陳, 亦好, 各別嚴飭。" 命掘塚徒流罪人, 待三年限滿解放。 許施<index num="1932030_0" sort="K" type="지명">濟州</index>牧場稅米減糴, 水稅錢貿土及陞補合設武科直報之請。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11503023">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 23日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-23L0" type="서기"/>
+            <dateOccured type="간지">辛卯</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 23일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 23일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 23일</dateOccured>
+            <dateOccured type="단기">4182년 3월 23일</dateOccured>
+            <dateOccured type="일본연호">년 3월 23일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 23일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>태백성이 사라지다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>과학(科學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛卯/太白滅。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11503027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-27L0" type="서기"/>
+            <dateOccured type="간지">乙未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 27일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 27일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 27일</dateOccured>
+            <dateOccured type="단기">4182년 3월 27일</dateOccured>
+            <dateOccured type="일본연호">년 3월 27일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>돌아온 동지 삼사를 소견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙未/召見回還冬至三使臣于<index num="1932031_0" sort="K" type="지명">重熙堂</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11503029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 3月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-03-29L0" type="서기"/>
+            <dateOccured type="간지">丁酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 3월 29일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 3월 29일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 3월 29일</dateOccured>
+            <dateOccured type="단기">4182년 3월 29일</dateOccured>
+            <dateOccured type="일본연호">년 3월 29일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 3월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11503029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김영순을 사헌부 대사헌, 임영수를 사간원 대사간으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-03-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁酉/以<index num="1932032_0" ref="M_0025921" sort="K" type="이름">金英淳</index>爲司憲府大司憲, <index num="1932033_0" ref="M_0005598" sort="K" type="이름">林永洙</index>爲司諫院大司諫。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wxa_115040">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>憲宗實錄 十五年 四月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十五年 四月</paragraph>
+      </content>
+    </text>
+    <level4 id="wxa_11504004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-04L0" type="서기"/>
+            <dateOccured type="간지">壬寅</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 4일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 4일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 4일</dateOccured>
+            <dateOccured type="단기">4182년 4월 4일</dateOccured>
+            <dateOccured type="일본연호">년 4월 4일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>식년 문과의 회시를 설행하여 오경리 등 33인을 뽑다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬寅/設式年文科會試, 取<index num="1932034_0" ref="M_0026611" sort="K" type="이름">吳慶履</index>等三十三人。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-08L0" type="서기"/>
+            <dateOccured type="간지">丙午</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 8일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 8일</dateOccured>
+            <dateOccured type="단기">4182년 4월 8일</dateOccured>
+            <dateOccured type="일본연호">년 4월 8일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>식년 문과 무과의 전시를 설행하여 문과에 36인, 무과에 76인을 뽑다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙午/設式年文武科殿試于<index num="1932035_0" sort="K" type="지명">春塘臺</index>, 文取<index num="1932036_0" ref="M_0026610" sort="K" type="이름">李亮信</index>等三十六人, 武取<index num="1932037_0" ref="M_0065452" sort="K" type="이름">白聖洙</index>等七十六人。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504009">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 9日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-09L0" type="서기"/>
+            <dateOccured type="간지">丁未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 9일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 9일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 9일</dateOccured>
+            <dateOccured type="단기">4182년 4월 9일</dateOccured>
+            <dateOccured type="일본연호">년 4월 9일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 9일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504009_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이노병을 사헌부 대사헌으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-09L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁未/以<index num="1932038_0" ref="M_0025747" sort="K" type="이름">李魯秉</index>爲司憲府大司憲。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504010">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-10L0" type="서기"/>
+            <dateOccured type="간지">戊申</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 10일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 10일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 10일</dateOccured>
+            <dateOccured type="단기">4182년 4월 10일</dateOccured>
+            <dateOccured type="일본연호">년 4월 10일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하여 권돈인이 왕의 건강을 염려하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊申/行藥院入診于<index num="1932039_0" sort="K" type="지명">重熙堂</index>。 都提調<index num="1932040_0" ref="M_0001168" sort="K" type="이름">權敦仁</index>曰: "臣於正月初一日, <index num="1932041_0" sort="K" type="지명">仁政殿</index>承候後, 今始登筵, 仰瞻天顔, 則玉色瘦敗, 色澤燥澁, 下情不勝憧憧矣。 近日則寢睡之節何如?" 上曰: "今番所苦, 始以滯氣爲祟, 別無他證。 近日以來, 滯氣頗減, 而寢睡亦稍勝矣。" <index num="1932042_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "近日中外輿情, 莫察上候之漸復, 尙此焦遑憫迫云, 輿情似然矣。" 上曰: "未能詳知, 容或無怪矣。" <index num="1932043_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "近日調理之劑, 自內進御, 故外間莫知進御, 是何方而憂慮不少, 以藥房事體言之, 是豈成說乎? 此後則煎入製入, 皆出榻敎, 則事體當然矣, 輿鬱快釋矣。" 上曰: "然矣。 湯劑當出榻敎矣。" <index num="1932044_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "藥房入侍, 異於他入侍, 自前有臥內便服爲之之例。 今日東風乖宜, 何爲移次乎? 玉體勞動, 則脈候亦不安靜, 有妨於詳察脈度。" 上曰: "然矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-11L0" type="서기"/>
+            <dateOccured type="간지">己酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 11일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 11일</dateOccured>
+            <dateOccured type="단기">4182년 4월 11일</dateOccured>
+            <dateOccured type="일본연호">년 4월 11일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-약학(藥學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己酉/行藥院入診于<index num="1932045_0" sort="K" type="지명">迎春軒</index>。 敎曰: "進御加味異功散, 一貼煎入。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11504011_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>북청부의 물에 잠긴 가호에 휼전을 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-04-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>구휼(救恤)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○給<index num="1932046_0" sort="K" type="지명">北靑府</index>渰戶, 恤典。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504012">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 12日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-12L0" type="서기"/>
+            <dateOccured type="간지">庚戌</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 12일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 12일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 12일</dateOccured>
+            <dateOccured type="단기">4182년 4월 12일</dateOccured>
+            <dateOccured type="일본연호">년 4월 12일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 12일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504012_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚戌/行藥院入診于<index num="1932047_0" sort="K" type="지명">迎春軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-13L0" type="서기"/>
+            <dateOccured type="간지">辛亥</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 13일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 13일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 13일</dateOccured>
+            <dateOccured type="단기">4182년 4월 13일</dateOccured>
+            <dateOccured type="일본연호">년 4월 13일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>의약-약학(藥學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛亥/行藥院入診于<index num="1932048_0" sort="K" type="지명">迎春軒</index>。 <index num="1932049_0" ref="M_0001168" sort="K" type="이름">權敦仁</index>曰: "湯劑法意愼重何如, 而多有自內煎進之時, 何等尊重之地, 事之踈虞, 莫此爲甚。 設置藥院及提調, 將焉用哉? 伏願繼自今, 每於日次, 亟許入診湯劑, 必自藥院煎入, 豈不有勝於自內煎進乎?" 上曰: "果好矣。 此後則欲如是爲之矣。" <index num="1932050_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "連日入診湯劑榻敎, 輒頒文蹟, 外間無疑眩之端。 向來群情之騷動, 今已妥帖云矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504014">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 14日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-14L0" type="서기"/>
+            <dateOccured type="간지">壬子</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 14일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 14일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 14일</dateOccured>
+            <dateOccured type="단기">4182년 4월 14일</dateOccured>
+            <dateOccured type="일본연호">년 4월 14일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 14일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504014_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-14L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬子/行藥院入診于<index num="1932051_0" sort="K" type="지명">迎春軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-15L0" type="서기"/>
+            <dateOccured type="간지">癸丑</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 15일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 15일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 15일</dateOccured>
+            <dateOccured type="단기">4182년 4월 15일</dateOccured>
+            <dateOccured type="일본연호">년 4월 15일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸丑/行藥院入診于<index num="1932052_0" sort="K" type="지명">迎春軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-17L0" type="서기"/>
+            <dateOccured type="간지">乙卯</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 17일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 17일</dateOccured>
+            <dateOccured type="단기">4182년 4월 17일</dateOccured>
+            <dateOccured type="일본연호">년 4월 17일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총위영 별시사를 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+            <subjectClass>군사-병법(兵法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙卯/上御<index num="1932053_0" sort="K" type="지명">春塘臺</index>, 行總衛營別試射。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-18L0" type="서기"/>
+            <dateOccured type="간지">丙辰</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 18일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 18일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 18일</dateOccured>
+            <dateOccured type="단기">4182년 4월 18일</dateOccured>
+            <dateOccured type="일본연호">년 4월 18일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙辰/行藥院入診于<index num="1932054_0" sort="K" type="지명">迎春軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-20L0" type="서기"/>
+            <dateOccured type="간지">戊午</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 20일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 20일</dateOccured>
+            <dateOccured type="단기">4182년 4월 20일</dateOccured>
+            <dateOccured type="일본연호">년 4월 20일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>경과 정시 문과·무과를 행하여 문과에 5인, 무과에 50인을 뽑다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊午/上御<index num="1932055_0" sort="K" type="지명">春塘臺</index>, 行慶科庭試文武科, 文取<index num="1932056_0" sort="K" type="지명">尹墩</index>等五人, 武取<index num="1932057_0" sort="K" type="지명">孫鍚瑩</index>等五十人。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11504020_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>함경 감사 박영원이 장계하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-04-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>외교-구미(歐美)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1932058_0" sort="K" type="지명">咸鏡</index>監司<index num="1932059_0" ref="M_0002561" sort="K" type="이름">朴永元</index>狀啓:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1932060_0" sort="K" type="지명">利原縣</index>執捉異樣船三隻, 彼人十八人, 押囚於本縣, 多般詰問語音不同, 示以書字, 全無字畫之樣, <index num="1932061_0" sort="K" type="지명">北靑府</index>異樣船一隻過去挽執, 問答言語, 全然不辨, 而贈以畫二張, 柳筐一箇, 冊張書二張, 仍向海中, 莫知所向去。 而以問情前下陸, 已非法式, 拘囚邑底, 大失柔遠之義, 該縣監請罷職。 問情筆跡一張, <index num="1932062_0" sort="K" type="지명">北靑府</index>彼人物件中墨跡二張, 畫本二張, 竝上送于備邊司。</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-21L0" type="서기"/>
+            <dateOccured type="간지">己未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 21일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 21일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 21일</dateOccured>
+            <dateOccured type="단기">4182년 4월 21일</dateOccured>
+            <dateOccured type="일본연호">년 4월 21일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김보근을 이조 참판, 홍재철을 사헌부 대사헌으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己未/以<index num="1932063_0" ref="M_0001558" sort="K" type="이름">金輔根</index>爲吏曹參判, <index num="1932064_0" ref="M_0006666" sort="K" type="이름">洪在喆</index>爲司憲府大司憲。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504022">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 22日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-22L0" type="서기"/>
+            <dateOccured type="간지">庚申</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 22일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 22일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 22일</dateOccured>
+            <dateOccured type="단기">4182년 4월 22일</dateOccured>
+            <dateOccured type="일본연호">년 4월 22일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 22일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504022_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>삼일제를 설행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚申/設三日製于泮宮</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-25L0" type="서기"/>
+            <dateOccured type="간지">癸亥</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 25일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 25일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 25일</dateOccured>
+            <dateOccured type="단기">4182년 4월 25일</dateOccured>
+            <dateOccured type="일본연호">년 4월 25일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸亥/行藥院入診于<index num="1932065_0" sort="K" type="지명">迎春軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-27L0" type="서기"/>
+            <dateOccured type="간지">乙丑</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 27일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 27일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 27일</dateOccured>
+            <dateOccured type="단기">4182년 4월 27일</dateOccured>
+            <dateOccured type="일본연호">년 4월 27일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>서기순을 예조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙丑/以<index num="1932066_0" ref="M_0002787" sort="K" type="이름">徐箕淳</index>爲禮曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 4月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-29L0" type="서기"/>
+            <dateOccured type="간지">丁卯</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 4월 29일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 4월 29일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 4월 29일</dateOccured>
+            <dateOccured type="단기">4182년 4월 29일</dateOccured>
+            <dateOccured type="일본연호">년 4월 29일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 4월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>북병영 도시 때에 모록한 여러 사람들의 과명과 가자를 시행하지 말도록 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁卯/命北兵營都試冒錄諸人科名及加資, 一竝勿施, 所授紅牌官敎, 收聚爻周。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wxa_115041">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>憲宗實錄 十五年 閏四月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十五年 閏四月</paragraph>
+      </content>
+    </text>
+    <level4 id="wxa_11504101">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-01L1" type="서기"/>
+            <dateOccured type="간지">戊辰</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 1일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 1일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 1일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 1일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504101_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>서좌보를 예조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-01L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊辰/以<index num="1932067_0" ref="M_0002846" sort="K" type="이름">徐左輔</index>爲禮曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504106">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-06L1" type="서기"/>
+            <dateOccured type="간지">癸酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 6일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 6일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 6일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 6일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504106_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>춘도기를 설행하여 박사겸·이계선에게 직부 전시하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-06L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸酉/設春到記于<index num="1932068_0" sort="K" type="지명">春塘臺</index>, 講居首<index num="1932069_0" ref="M_0026612" sort="K" type="이름">朴思謙</index>, 製述表居首<index num="1932070_0" ref="M_0026614" sort="K" type="이름">李啓善</index>, 竝直赴殿試。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504107">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 7日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-07L1" type="서기"/>
+            <dateOccured type="간지">甲戌</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 7일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 7일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 7일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 7일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 7일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 7일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504107_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-07L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲戌/行藥院入診于<index num="1932071_0" sort="K" type="지명">迎春軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504110">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-10L1" type="서기"/>
+            <dateOccured type="간지">丁丑</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 10일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 10일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 10일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 10일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 10일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504110_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>우박이 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-10L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>과학(科學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁丑/雨雹</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11504110_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-04-10L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○行藥院入診于<index num="1932072_0" sort="K" type="지명">迎春軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11504110_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>진상하는 녹용은 차원을 정해 바치라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1849-04-10L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>재정-진상(進上)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命進上鹿茸, 依羅蔘封進例, 定差員來納。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504111">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-11L1" type="서기"/>
+            <dateOccured type="간지">戊寅</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 11일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 11일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 11일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 11일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504111_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>강계부 여연에 참을 설치하고 파발을 두도록 윤허하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-11L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>교통-육운(陸運)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊寅/許施<index num="1932073_0" sort="K" type="지명">江界府</index>、<index num="1932074_0" sort="K" type="지명">閭延</index>設站置撥之請, 因備邊司稟覆, <index num="1932075_0" sort="K" type="지명">平安</index>監司<index num="1932076_0" ref="M_0006016" sort="K" type="이름">趙斗淳</index>狀啓也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504113">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-13L1" type="서기"/>
+            <dateOccured type="간지">庚辰</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 13일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 13일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 13일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 13일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 13일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504113_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍영규를 이조 참의로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-13L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚辰/以<index num="1932077_0" ref="M_0026037" sort="K" type="이름">洪永圭</index>爲吏曹參議。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504116">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-16L1" type="서기"/>
+            <dateOccured type="간지">癸未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 16일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 16일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 16일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 16일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 16일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504116_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동조의 회갑을 맞아 의절을 마련하라고 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-16L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸未/敎曰: "東朝周甲誕彌之辰, 近隔一月, 卽國朝罕有之大慶也, 誕日又當, 行賀禮告布則只行於元朝, 已諭於昨冬筵中矣, 予小子岡陵之祝, 尤切於虹流之節。 仰承撝謙之慈德, 雖不敢張大开慶, 五月十五日, 當詣<index num="1932078_0" sort="K" type="지명">明政殿</index>
+              <index num="1932079_0" sort="K" type="지명">月臺</index>親上致詞、箋文表裏, 略伸微誠。 依乙卯年已例, 磨鍊儀節以入事, 分付該曹。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504117">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-17L1" type="서기"/>
+            <dateOccured type="간지">甲申</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 17일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 17일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 17일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 17일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504117_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>수안군의 불탄 집에 휼전을 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-17L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>구휼(救恤)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲申/給<index num="1932080_0" sort="K" type="지명">遂安郡</index>燒戶, 恤典。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504120">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-20L1" type="서기"/>
+            <dateOccured type="간지">丁亥</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 20일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 20일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 20일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 20일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504120_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>일차 유생 전강을 행하여 박인하에게 직부 전시하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-20L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사-선발(選拔)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁亥/上御<index num="1932081_0" sort="K" type="지명">春塘臺</index>, 行日次儒生殿講, 居首<index num="1932082_0" ref="M_0026615" sort="K" type="이름">朴麟夏</index>直赴殿試。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11504128">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 閏4月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-04-28L1" type="서기"/>
+            <dateOccured type="간지">乙未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 윤4월 28일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 윤4월 28일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 윤4월 28일</dateOccured>
+            <dateOccured type="단기">4182년 윤4월 28일</dateOccured>
+            <dateOccured type="일본연호">년 윤4월 28일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 윤4월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11504128_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>태묘에 춘알하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-04-28L1" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙未/上詣太廟展拜, 春謁也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wxa_115050">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>憲宗實錄 十五年 五月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十五年 五月</paragraph>
+      </content>
+    </text>
+    <level4 id="wxa_11505001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-01L0" type="서기"/>
+            <dateOccured type="간지">丁酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 1일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 1일</dateOccured>
+            <dateOccured type="단기">4182년 5월 1일</dateOccured>
+            <dateOccured type="일본연호">년 5월 1일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이가우를 형조 판서, 신명원을 경상좌도 병마 절도사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁酉/以<index num="1932083_0" ref="M_0003983" sort="K" type="이름">李嘉愚</index>爲刑曹判書, <index num="1932084_0" ref="M_0048734" sort="K" type="이름">申命源</index>爲<index num="1932085_0" sort="K" type="지명">慶尙左道</index>兵馬節度使。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-03L0" type="서기"/>
+            <dateOccured type="간지">己亥</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 3일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 3일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 3일</dateOccured>
+            <dateOccured type="단기">4182년 5월 3일</dateOccured>
+            <dateOccured type="일본연호">년 5월 3일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>윤치수를 형조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="536면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己亥/以<index num="1932086_0" ref="M_0026110" sort="K" type="이름">尹致秀</index>爲刑曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-13L0" type="서기"/>
+            <dateOccured type="간지">己酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 13일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 13일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 13일</dateOccured>
+            <dateOccured type="단기">4182년 5월 13일</dateOccured>
+            <dateOccured type="일본연호">년 5월 13일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동조의 탄신에 치사, 표리를 바치게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>어문학-문학(文學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己酉/東朝誕辰, 進箋致詞、進表裏, 命自內親上。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11505013_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>판부사 정원용에게 시골에서 돌아오도록 하유하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-05-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○諭判府事<index num="1932087_0" ref="M_0005857" sort="K" type="이름">鄭元容</index>敎曰: "卿之遯荒, 今幾月矣。 往事不須更說, 而予心悵缺, 尤何言哉? 況今東朝慶辰, 只隔數日, 在卿情禮, 亦豈可退處鄕廬, 不思所以獻賀乎? 玆遣史官, 悉諭十行, 望卿, 卽爲還第, 勿復逡巡, 以副予至意。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505014">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 14日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-14L0" type="서기"/>
+            <dateOccured type="간지">庚戌</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 14일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 14일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 14일</dateOccured>
+            <dateOccured type="단기">4182년 5월 14일</dateOccured>
+            <dateOccured type="일본연호">년 5월 14일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 14일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505014_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원의 입진을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-14L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚戌/行藥院入診于<index num="1932088_0" sort="K" type="지명">觀物軒</index>。 都提調<index num="1932089_0" ref="M_0001168" sort="K" type="이름">權敦仁</index>曰: "近聞入診醫官所傳之言, 則面部上, 有浮候云矣。 今此仰瞻, 有微浮之候, 下情不勝憧憧, 大小便則何如? 日間諸節, 更若何?" 上曰: "大小便頗通利, 但有微浮之氣, 而姑未快勝矣。" <index num="1932090_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "小溲多少何如乎?" 上曰: "去夜洽爲一甫兒矣。" <index num="1932091_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "通計晝夜, 爲幾次乎?" 上曰: "自初更前, 至四五更, 小溲洽爲半溺缸矣。" <index num="1932092_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "小溲如通利, 則微浮之候, 自當漸臻快降矣。 寢睡水剌之節何如?" 上曰: "寢睡頗穩, 而飮啖亦如常, 但食後, 微有脹意矣。" <index num="1932093_0" ref="M_0001168" sort="K" type="이름">敦仁</index>曰: "臣未得入侍, 幾至踰月矣。 神色諸節, 別無加減, 而還有差勝之漸矣。" 上曰: "微有浮氣, 而其外則比前日少有差勝矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-15L0" type="서기"/>
+            <dateOccured type="간지">辛亥</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 15일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 15일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 15일</dateOccured>
+            <dateOccured type="단기">4182년 5월 15일</dateOccured>
+            <dateOccured type="일본연호">년 5월 15일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비전에 진하하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛亥/親上箋文、致詞、表裏于大王大妃殿, 自內行禮也。 百官詣<index num="1932094_0" sort="K" type="지명">明政殿</index>庭, 陳賀後賜饌。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11505015_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대신들을 소견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-05-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○召見時原任大臣于<index num="1932095_0" sort="K" type="지명">觀物軒</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-17L0" type="서기"/>
+            <dateOccured type="간지">癸丑</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 17일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 17일</dateOccured>
+            <dateOccured type="단기">4182년 5월 17일</dateOccured>
+            <dateOccured type="일본연호">년 5월 17일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이응식을 훈련 대장, 서상오를 총위 대장으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸丑/以<index num="1932096_0" ref="M_0042673" sort="K" type="이름">李應植</index>爲訓鍊大將, <index num="1932097_0" ref="M_0066430" sort="K" type="이름">徐相五</index>爲總衛大將。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-18L0" type="서기"/>
+            <dateOccured type="간지">甲寅</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 18일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 18일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 18일</dateOccured>
+            <dateOccured type="단기">4182년 5월 18일</dateOccured>
+            <dateOccured type="일본연호">년 5월 18일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>홍재룡을 어영 대장으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲寅/以<index num="1932098_0" ref="M_0006663" sort="K" type="이름">洪在龍</index>爲御營大將。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505019">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 19日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-19L0" type="서기"/>
+            <dateOccured type="간지">乙卯</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 19일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 19일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 19일</dateOccured>
+            <dateOccured type="단기">4182년 5월 19일</dateOccured>
+            <dateOccured type="일본연호">년 5월 19일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 19일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505019_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조석형을 성균관 대사성으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-19L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙卯/以<index num="1932099_0" ref="M_0026228" sort="K" type="이름">曺錫亨</index>爲成均館大司成。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11505026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 5月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-05-26L0" type="서기"/>
+            <dateOccured type="간지">壬戌</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 5월 26일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 5월 26일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 5월 26일</dateOccured>
+            <dateOccured type="단기">4182년 5월 26일</dateOccured>
+            <dateOccured type="일본연호">년 5월 26일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 5월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11505026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김기만을 교형에 처하고, 응모한 중들은 정배하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-05-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬戌/<index num="1932100_0" sort="K" type="지명">京畿</index>監司<index num="1932101_0" ref="M_0001413" sort="K" type="이름">金箕晩</index>, 以<index num="1932102_0" sort="K" type="지명">楊州</index>尼<index num="1932103_0" ref="M_0057262" sort="K" type="이름">昌善</index>, 稱以設醮, 聚會僧徒, 舁佛闌入校宮, 啓請廟堂稟處, 廟堂覆啓以爲: "妖尼頑僧, 罔念校宮之重, 作此悖亂之擧。 其地則莫嚴莫重, 其心則至凶至悖, 依<index num="1932104_0" type="서명">《大明律》</index>左道亂正之術爲首者絞之文, 首惡請令地方官處絞, 其餘應募諸僧, 分首從減死定配。" 允之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wxa_115060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>憲宗實錄 十五年 六月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十五年 六月</paragraph>
+      </content>
+    </text>
+    <level4 id="wxa_11506005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 6月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-06-05L0" type="서기"/>
+            <dateOccured type="간지">辛未</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 6월 5일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 6월 5일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 6월 5일</dateOccured>
+            <dateOccured type="단기">4182년 6월 5일</dateOccured>
+            <dateOccured type="일본연호">년 6월 5일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 6월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11506005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원에 명하여 번갈아 입직하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-06-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛未/命藥院輪直。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11506006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 6月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-06-06L0" type="서기"/>
+            <dateOccured type="간지">壬申</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 6월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 6월 6일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 6월 6일</dateOccured>
+            <dateOccured type="단기">4182년 6월 6일</dateOccured>
+            <dateOccured type="일본연호">년 6월 6일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 6월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11506006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원에서 입진을 청하자 비답하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬申/藥院請診, 批以已自內入診矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원에서 모두 입직하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○藥院幷直。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대신과 각신을 입시하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○敎曰: "藥房三提調、時原任大臣、閣臣入侍。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>약원을 시약청으로 옮기다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○移藥院爲侍藥廳。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대보를 대왕 대비전에 바치라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命大寶納于大王大妃殿。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_006">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>종묘·사직·각궁·산천에서 기도를 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">006</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○行廟社宮山川祈禱。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_007">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대점하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">007</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○上, 大漸。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_008">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>궁성을 호위하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">008</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>사법-치안(治安)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○宮城扈衛。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>오시에 창덕궁의 중희당에서 승하하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">009</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○午時, 上昇遐于<index num="1932105_0" sort="K" type="지명">昌德宮</index>之<index num="1932106_0" sort="K" type="지명">重熙堂</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_010">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>복하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">010</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○復。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_011">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>역복하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">011</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○易服。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_012">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 원상을 권돈인으로 삼게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">012</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大王大妃口傳下敎曰: "院相, <index num="1932107_0" sort="K" type="이름">權判府事</index>爲之。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_013">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 대신들을 소견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">013</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大王大妃召見, 時原任大臣于<index num="1932108_0" sort="K" type="지명">熙政堂</index>。 大王大妃哭泣曰: "天胡忍斯, 天胡忍斯?" <index num="1932109_0" ref="M_0006149" sort="K" type="이름">趙寅永</index>號泣抑塞曰: "五百年宗社, 豈料今日, 遽至於此乎?" 大王大妃哭泣曰: "遭慼胡至此極?" <index num="1932110_0" ref="M_0006149" sort="K" type="이름">寅永</index>曰: "伏願寬抑焉。" <index num="1932111_0" ref="M_0005857" sort="K" type="이름">鄭元容</index>曰: "臣等無祿, 遭此崩坼之痛, 穹壤茫茫。 何辭仰慰, 而顧今宗社之危, 澟乎一髮, 臣民所望者, 惟我慈聖殿下也。" <index num="1932112_0" ref="M_0001168" sort="K" type="이름">權敦仁</index>哭泣曰: "臣等以不忠無狀, 頑命不滅, 至於老白首, 遭此崩坼之變, 慟霣罔極。 而此莫非臣等之罪矣。" <index num="1932113_0" ref="M_0006149" sort="K" type="이름">寅永</index>曰: "國運豈至於如此乎?" <index num="1932114_0" ref="M_0002682" sort="K" type="이름">朴晦壽</index>曰: "十分寬抑焉。" <index num="1932115_0" ref="M_0001478" sort="K" type="이름">金道喜</index>曰: "宗社大計, 一時爲急。 伏願亟爲下敎焉。" 大王大妃掩抑下敎曰: "宗社付托時急。" 仍語泣相半, 且聲音微細, 諸臣不能詳承。 <index num="1932116_0" ref="M_0005857" sort="K" type="이름">元容</index>曰: "宗社大計急矣。 伏願寬抑, 分明下敎, 使臣等, 詳細承聆。 此莫重莫大之事, 不可只奉辭敎。 伏望以文字書下。" 大王大妃曰: "此有文字書之者矣。" <index num="1932117_0" ref="M_0005857" sort="K" type="이름">元容</index>曰: "年歲今爲幾何?" 大王大妃曰: "十九歲矣。" <index num="1932118_0" ref="M_0006149" sort="K" type="이름">寅永</index>等曰: "宗社大計, 今旣有定, 誠萬萬慶幸矣。 此是至重且大之事也, 軍總幾許, 先爲定送, 陪衛本第似好矣。" 答曰: "先送陪衛之言, 果好矣。" <index num="1932119_0" ref="M_0005857" sort="K" type="이름">元容</index>曰: "此事至爲重大, 奉信蹟敬傳袛受, 實合禮節。 今下慈敎, 使政院, 謹爲精書, 入覽于慈聖後還下, 奉彩輿具儀仗, 臣等陪詣敬傳宜矣。" 大王大妃曰: "事體果如所奏, 如是爲之也。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_014">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 이원범을 종사의 부탁으로 삼는다고 하교하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">014</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大王大妃敎曰: "宗社付托時急, <index num="1932120_0" ref="M_0050728" sort="K" type="이름">英廟</index>朝血脈, 今上與<index num="1932121_0" sort="K" type="지명">江華</index>居<index num="1932122_0" ref="M_0026613" sort="K" type="이름">元範</index>而已, 以此定以宗社付托, 卽<index num="1932123_0" sort="K" type="이름">壙</index>之第三子。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_015">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 봉영하는 의절을 전례에 따라 거행하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">015</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大王大妃敎曰: "奉迎儀節, 依例奉行。" 左議政<index num="1932124_0" ref="M_0001478" sort="K" type="이름">金道喜</index>啓言: "今伏承下敎, 宗社之托已定, 不勝萬萬慶幸。 而第伏念新王, 明習庶務之道, 專在於慈聖殿下垂簾導迪之訓。 伏願亟下傳敎, 庸答群情焉。" 大王大妃敎曰: "新王年近二十歲, 予則年過六十, 亦已神精昏耗矣, 今何可更論此事, 而國事至重, 旣無推諉之所, 當勉從矣。" 仍敎曰: "垂簾節目, 令該曹, 依例擧行。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506006_016">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 봉영하는 군교·대신·승지를 각각 정해주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">016</docNo>
+            <date>
+              <dateOccured date="1849-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大王大妃敎曰: "奉迎前兵摠府堂郞, 率三營門軍校, 先爲往護。" 又敎曰: "奉迎大臣, <index num="1932125_0" ref="M_0005857" sort="K" type="이름">鄭判府事</index>進去。" 又敎曰: "奉迎承旨, 都承旨進去。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11506007">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 6月 7日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-06-07L0" type="서기"/>
+            <dateOccured type="간지">癸酉</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 6월 7일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 6월 7일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 6월 7일</dateOccured>
+            <dateOccured type="단기">4182년 6월 7일</dateOccured>
+            <dateOccured type="일본연호">년 6월 7일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 6월 7일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11506007_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>목욕하고 습하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-06-07L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸酉/沐浴襲含。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506007_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>소렴하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-06-07L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○小斂。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11506008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 6月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-06-08L0" type="서기"/>
+            <dateOccured type="간지">甲戌</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 6월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 6월 8일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 6월 8일</dateOccured>
+            <dateOccured type="단기">4182년 6월 8일</dateOccured>
+            <dateOccured type="일본연호">년 6월 8일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 6월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11506008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 봉영하는 행차에 대해 하교하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-06-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲戌/大王大妃敎曰: "奉迎之行, 明將入闕, 封爵一款, 令該曹, 卽爲擧行, 君號, 以<index num="1932126_0" ref="M_0033967" sort="K" type="이름">德完君</index>擬入。" 又敎曰: "<index num="1932127_0" sort="K" type="이름">恩彦君</index>內外復爵, 令該曹, 當日擧行。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506008_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 덕완군의 봉작 교지를 남성교에게 전하라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-06-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大王大妃, 命<index num="1932128_0" ref="M_0033967" sort="K" type="이름">德完君</index>封爵敎旨, 左承旨<index num="1932129_0" ref="M_0002139" sort="K" type="이름">南性敎</index>奉傳。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506008_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대왕 대비가 사위 고유제의 축문을 김도희의 이름으로 하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1849-06-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○大王大妃命嗣位告由祭祝文, 以左議政<index num="1932130_0" ref="M_0001478" sort="K" type="이름">金道喜</index>名爲之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506008_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>영상을 환경전에 옮겨 봉안하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1849-06-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○移奉靈床于<index num="1932131_0" sort="K" type="지명">歡慶殿</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wxa_11506009">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>憲宗 15年 6月 9日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1849-06-09L0" type="서기"/>
+            <dateOccured type="간지">乙亥</dateOccured>
+            <dateOccured type="재위연도">헌종 15년 6월 9일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 458년 6월 9일</dateOccured>
+            <dateOccured type="중국연호">청 도광(道光) 29년 6월 9일</dateOccured>
+            <dateOccured type="단기">4182년 6월 9일</dateOccured>
+            <dateOccured type="일본연호">년 6월 9일</dateOccured>
+            <dateOccured type="display">청 도광(道光)29년 6월 9일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wxa_11506009_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>덕완군이 빈전에서 거애하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1849-06-09L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙亥/<index num="1932132_0" ref="M_0033967" sort="K" type="이름">德完君</index>詣殯殿擧哀。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wxa_11506009_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>덕완군이 희정당에서 관례를 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1849-06-09L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">憲宗實錄 8책 16권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">憲宗實錄 48책</mainTitle>
+              <page begin="537면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1932133_0" ref="M_0033967" sort="K" type="이름">德完君</index>冠于<index num="1932134_0" sort="K" type="지명">熙政堂</index>。<annotation type="원주">
+                <noteContent>【領府事<index num="1932135_0" ref="M_0006149" sort="K" type="이름">趙寅永</index>、判府事<index num="1932136_0" ref="M_0005857" sort="K" type="이름">鄭元容</index>、院相<index num="1932137_0" ref="M_0001168" sort="K" type="이름">權敦仁</index>、左議政<index num="1932138_0" ref="M_0001478" sort="K" type="이름">金道喜</index>、判府事<index num="1932139_0" ref="M_0002682" sort="K" type="이름">朴晦壽</index>、都承旨<index num="1932140_0" ref="M_0006676" sort="K" type="이름">洪鍾應</index>、記事官<index num="1932141_0" ref="M_0026509" sort="K" type="이름">洪鍾雲</index>ㆍ<index num="1932142_0" ref="M_0003913" sort="K" type="이름">尹滋悳</index>ㆍ<index num="1932143_0" ref="M_0002134" sort="K" type="이름">南秉吉</index>入參。】</noteContent>
+              </annotation>
+            </paragraph>
+            <paragraph align="center"/>
+            <paragraph align="center">憲宗經文緯武明仁哲孝大王實錄卷之十六 〔終〕</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wka_200">
+  <front>
+    <biblioData type="T">
+      <title>
+        <mainTitle>附錄 / 纂修官 名單</mainTitle>
+      </title>
+      <source>
+        <mainTitle type="태백산사고본"> 53책 105권</mainTitle>
+        <page begin="1장 A면"/>
+      </source>
+      <source>
+        <mainTitle type="국편영인본"> 19책</mainTitle>
+        <page begin="174면"/>
+      </source>
+      <subjectClass>역사-편사(編史)</subjectClass>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center">○<index num="0851981_0" type="연호">嘉靖</index>二十九年九月日, 春秋館奉敎撰前後官幷錄</paragraph>
+      <paragraph align="center">監事:</paragraph>
+      <paragraph align="center">推誠協翼炳幾定難衛社功臣大匡輔國崇祿大夫議政府左議政兼領經筵事<index num="0851982_0" ref="M_0000473" sort="K" type="이름">豐城府院君</index> 臣<index num="0851983_0" ref="M_0000473" sort="K" type="이름">李芑</index>。</paragraph>
+      <paragraph align="center">推誠協翼炳幾定難衛社功臣大匡輔國崇祿大夫議政府右議政兼領經筵事<index num="0851984_0" ref="M_0005812" sort="K" type="이름">溫陽府院君</index> 臣<index num="0851985_0" ref="M_0005812" sort="K" type="이름">鄭順朋</index>。</paragraph>
+      <paragraph align="center">推誠定難衛社功臣大匡輔國崇祿大夫議政府左議政兼領經筵事<index num="0851986_0" ref="M_0003233" sort="K" type="이름">靑川府院君</index> 臣<index num="0851987_0" ref="M_0003233" sort="K" type="이름">沈連源</index>。</paragraph>
+      <paragraph align="center">知事:</paragraph>
+      <paragraph align="center">推誠定難衛社功臣崇祿大夫行禮曹判書兼判義禁府事<index num="0851988_0" ref="M_0000338" sort="K" type="이름">鈴平君</index> 臣<index num="0851989_0" ref="M_0000338" sort="K" type="이름">尹漑</index>。</paragraph>
+      <paragraph align="center">崇政大夫行吏曹判書兼判義禁府事知經筵事 臣<index num="0851990_0" ref="M_0066220" sort="K" type="이름">尙震</index>。</paragraph>
+      <paragraph align="center">推誠定難衛社功臣崇政大夫議政府左贊成兼知經筵成均館事弘文館大提學藝文館大提學<index num="0851991_0" ref="M_0003080" sort="K" type="이름">靈城君</index> 臣<index num="0851992_0" ref="M_0003080" sort="K" type="이름">申光漢</index>。</paragraph>
+      <paragraph align="center">推誠協翼定難衛社功臣崇政大夫議政府右贊成兼知經筵事<index num="0851993_0" ref="M_0014240" sort="K" type="이름">上洛君</index> 臣<index num="0851994_0" ref="M_0014240" sort="K" type="이름">金光準</index>。</paragraph>
+      <paragraph align="center">正憲大夫議政府左參贊兼同知經筵事 臣<index num="0851995_0" ref="M_0000822" sort="K" type="이름">任權</index>。</paragraph>
+      <paragraph align="center">正憲大夫刑曹判書兼弘文館提學 臣<index num="0851996_0" ref="M_0005787" sort="K" type="이름">鄭士龍</index>。</paragraph>
+      <paragraph align="center">正憲大夫工曹判書 臣<index num="0851997_0" ref="M_0003835" sort="K" type="이름">尹思翼</index>。</paragraph>
+      <paragraph align="center">資憲大夫知敦寧府事 臣<index num="0851998_0" ref="M_0013923" sort="K" type="이름">金麟孫</index>。</paragraph>
+      <paragraph align="center">推誠定難衛社功臣資憲大夫<index num="0851999_0" sort="K" type="지명">漢城府</index>判尹<index num="0852000_0" ref="M_0057780" sort="K" type="이름">東原君</index> 臣<index num="0852001_0" ref="M_0057780" sort="K" type="이름">崔演</index>。</paragraph>
+      <paragraph align="center">資憲大夫<index num="0852002_0" sort="K" type="지명">漢城府</index>判尹 臣<index num="0852003_0" ref="M_0050153" sort="K" type="이름">安玹</index>。</paragraph>
+      <paragraph align="center">資憲大夫知中樞府事兼五衛都摠府都摠管 臣<index num="0852004_0" ref="M_0048362" sort="K" type="이름">宋㻩</index>。</paragraph>
+      <paragraph align="center">資憲大夫知中樞府事兼同知經筵成均館事 臣<index num="0852005_0" ref="M_0060988" sort="K" type="이름">洪暹</index>。</paragraph>
+      <paragraph align="center">同知事:</paragraph>
+      <paragraph align="center">資憲大夫議(議)〔政〕府右參贊兼知經筵義禁府事五衛都摠府都摠管 臣<index num="0852006_0" ref="M_0002526" sort="K" type="이름">朴守良</index>。</paragraph>
+      <paragraph align="center">推誠定難衛社功臣資憲大夫戶曹判書兼知義禁府事<index num="0852007_0" ref="M_0003004" sort="K" type="이름">壺山君</index> 臣<index num="0852008_0" ref="M_0003004" sort="K" type="이름">宋世珩</index>。</paragraph>
+      <paragraph align="center">嘉義大夫刑曹參判<index num="0852009_0" sort="K" type="이름">昌陽君</index> 臣<index num="0852010_0" ref="M_0005992" sort="K" type="이름">曺光遠</index>。</paragraph>
+      <paragraph align="center">推誠定難衛社功臣嘉義大夫<index num="0852011_0" sort="K" type="지명">漢城府</index>左尹<index num="0852012_0" ref="M_0014154" sort="K" type="이름">光平君</index> 臣<index num="0852013_0" ref="M_0014154" sort="K" type="이름">金明胤</index>。</paragraph>
+      <paragraph align="center">嘉善大夫戶曹參判 臣<index num="0852014_0" ref="M_0002141" sort="K" type="이름">南世健</index>。</paragraph>
+      <paragraph align="center">嘉善大夫刑曹參判兼五衛都摠府副摠管 臣<index num="0852015_0" ref="M_0000051" sort="K" type="이름">姜顯</index>。</paragraph>
+      <paragraph align="center">嘉善大夫禮曹參判 臣<index num="0852016_0" ref="M_0013820" sort="K" type="이름">金萬鈞</index>。</paragraph>
+      <paragraph align="center">推誠協翼定難衛社功臣嘉善大夫工曹參判瑞原君 臣<index num="0852017_0" ref="M_0003894" sort="K" type="이름">尹元衡</index>。</paragraph>
+      <paragraph align="center">嘉善大夫戶曹參判 臣<index num="0852018_0" ref="M_0049003" sort="K" type="이름">申瑛</index>。</paragraph>
+      <paragraph align="center">嘉善大夫禮曹參判 臣<index num="0852019_0" ref="M_0001368" sort="K" type="이름">金光轍</index>。</paragraph>
+      <paragraph align="center">嘉善大夫漢城府右尹 臣<index num="0852020_0" ref="M_0036802" sort="K" type="이름">羅世纉</index>。</paragraph>
+      <paragraph align="center">嘉善大夫同知中樞府事兼五衛都摠府副摠管 臣<index num="0852021_0" ref="M_0005771" sort="K" type="이름">鄭萬鍾</index>。</paragraph>
+      <paragraph align="center">嘉善大夫工曹參判 臣<index num="0852022_0" ref="M_0014854" sort="K" type="이름">柳辰仝</index>。</paragraph>
+      <paragraph align="center">嘉善大夫同(中知)〔知中〕樞府事兼五衛都摠府副摠管 臣<index num="0852023_0" ref="M_0047605" sort="K" type="이름">朴祐</index>。</paragraph>
+      <paragraph align="center">嘉善大夫工曹參判 臣<index num="0852024_0" ref="M_0000200" sort="K" type="이름">權纉</index>。</paragraph>
+      <paragraph align="center">推誠定難衛社功臣嘉善大夫德恩君 臣<index num="0852025_0" ref="M_0002962" sort="K" type="이름">宋麒壽</index>。</paragraph>
+      <paragraph align="center">嘉善大夫吏曹參判兼同知義禁府成均館事 臣<index num="0852026_0" ref="M_0006057" sort="K" type="이름">趙士秀</index>。</paragraph>
+      <paragraph align="center">嘉善大夫戶曹參判 臣<index num="0852027_0" ref="M_0014375" sort="K" type="이름">鄭惟善</index>。</paragraph>
+      <paragraph align="center">嘉善大夫吏曹參判兼同知義禁府事 臣<index num="0852028_0" ref="M_0003189" sort="K" type="이름">沈光彦</index>。</paragraph>
+      <paragraph align="center">嘉善大夫戶曹參判 臣<index num="0852029_0" ref="M_0014140" sort="K" type="이름">蔡世英</index>。</paragraph>
+      <paragraph align="center">嘉善大夫同知中樞府事兼五衛將 臣<index num="0852030_0" ref="M_0000730" sort="K" type="이름">李澯</index>。</paragraph>
+      <paragraph align="center">嘉善大夫同知中樞府事 臣<index num="0852031_0" ref="M_0005637" sort="K" type="이름">任虎臣</index>。</paragraph>
+      <paragraph align="center">嘉善大夫戶曹參判 臣<index num="0852032_0" ref="M_0014418" sort="K" type="이름">周世鵬</index>。</paragraph>
+      <paragraph align="center">嘉善大夫同知中樞府事兼同知成均館事 臣<index num="0852033_0" ref="M_0000505" sort="K" type="이름">李蓂</index>。</paragraph>
+      <paragraph align="center">嘉善大夫行僉知中樞府事兼五衛將 臣<index num="0852034_0" ref="M_0060096" sort="K" type="이름">韓㞳</index>。</paragraph>
+      <paragraph align="center">編修官:</paragraph>
+      <paragraph align="center">通訓大夫弘文館直提學知製敎兼經筵侍講官 臣<index num="0852035_0" ref="M_0003264" sort="K" type="이름">沈通源</index>。</paragraph>
+      <paragraph align="center">中訓大夫守弘文館直提學知製敎兼經筵侍講官 臣<index num="0852036_0" ref="M_0005829" sort="K" type="이름">鄭彦慤</index>。</paragraph>
+      <paragraph align="center">通訓大夫弘文館直提學知製敎兼經筵侍講官 臣<index num="0852037_0" ref="M_0003553" sort="K" type="이름">元繼儉</index>。</paragraph>
+      <paragraph align="center">通訓大夫弘文館直提學知製敎兼經筵侍講官 臣<index num="0852038_0" ref="M_0004566" sort="K" type="이름">李世璋</index>。</paragraph>
+      <paragraph align="center">通訓大夫弘文館直提學知製敎兼經筵侍講官 臣<index num="0852039_0" ref="M_0000066" sort="K" type="이름">慶渾</index>。</paragraph>
+      <paragraph align="center">通訓大夫弘文館直提學知製敎兼經筵侍講官承文院參校 臣<index num="0852040_0" ref="M_0005860" sort="K" type="이름">鄭惟吉</index>。</paragraph>
+      <paragraph align="center">通訓大夫弘文館直提學知製敎兼經筵侍講官承文院參校校書館校理 臣<index num="0852041_0" ref="M_0060825" sort="K" type="이름">洪曇</index>。</paragraph>
+      <paragraph align="center">通訓大夫通禮院左通禮知製敎 臣<index num="0852042_0" ref="M_0002639" sort="K" type="이름">朴忠元</index>。</paragraph>
+      <paragraph align="center">通訓大夫通禮院左通禮 臣<index num="0852043_0" ref="M_0049912" sort="K" type="이름">安瑋</index>。</paragraph>
+      <paragraph align="center">通訓大夫通禮院右通禮兼校書館判校 臣<index num="0852044_0" ref="M_0002233" sort="K" type="이름">盧漢文</index>。</paragraph>
+      <paragraph align="center">通訓大夫軍器寺正知製敎 臣<index num="0852045_0" ref="M_0004847" sort="K" type="이름">李元孫</index>。</paragraph>
+      <paragraph align="center">通訓大夫軍器寺正知製敎 臣<index num="0852046_0" ref="M_0046312" sort="K" type="이름">閔箕</index>。</paragraph>
+      <paragraph align="center">通訓大夫司宰監正 臣<index num="0852047_0" ref="M_0014658" sort="K" type="이름">金忠烈</index>。</paragraph>
+      <paragraph align="center">通訓大夫禮賓寺正知製敎 臣<index num="0852048_0" sort="K" type="이름">張玉</index>。</paragraph>
+      <paragraph align="center">通訓大夫司僕寺正 臣<index num="0852049_0" ref="M_0001530" sort="K" type="이름">金半千</index>。</paragraph>
+      <paragraph align="center">通訓大夫掌樂院正知製敎 臣<index num="0852050_0" ref="M_0000406" sort="K" type="이름">尹鉉</index>。</paragraph>
+      <paragraph align="center">通訓大夫司僕寺正知製敎 臣<index num="0852051_0" ref="M_0004791" sort="K" type="이름">李英賢</index>。</paragraph>
+      <paragraph align="center">通訓大夫司䆃寺正 臣<index num="0852052_0" ref="M_0002890" sort="K" type="이름">成世章</index>。</paragraph>
+      <paragraph align="center">通訓大(司夫)〔夫司〕僕寺正兼校書館校理 臣<index num="0852053_0" ref="M_0002406" sort="K" type="이름">朴公亮</index>。</paragraph>
+      <paragraph align="center">通訓大夫繕工監正 臣<index num="0852054_0" ref="M_0000230" sort="K" type="이름">金鎧</index>。</paragraph>
+      <paragraph align="center">通訓大夫濟用監正 臣<index num="0852055_0" ref="M_0035526" sort="K" type="이름">金擴</index>。</paragraph>
+      <paragraph align="center">通訓大夫禮賓寺正知製敎兼承文院參校 臣<index num="0852056_0" ref="M_0002163" sort="K" type="이름">南應龍</index>。</paragraph>
+      <paragraph align="center">通訓大夫司宰監正 臣<index num="0852057_0" ref="M_0014842" sort="K" type="이름">趙光玉</index>。</paragraph>
+      <paragraph align="center">通訓大夫禮賓寺正 臣<index num="0852058_0" ref="M_0052029" sort="K" type="이름">兪絳</index>。</paragraph>
+      <paragraph align="center">中直大夫守司僕寺正 臣<index num="0852059_0" ref="M_0001962" sort="K" type="이름">金天宇</index>。</paragraph>
+      <paragraph align="center">中直大夫守內資寺正 臣<index num="0852060_0" ref="M_0002734" sort="K" type="이름">白仁英</index>。</paragraph>
+      <paragraph align="center">中直大夫守禮賓寺正 臣<index num="0852061_0" ref="M_0000378" sort="K" type="이름">尹雨</index>。</paragraph>
+      <paragraph align="center">通訓大夫行弘文館典翰知製敎兼經筵侍講官 臣<index num="0852062_0" ref="M_0046566" sort="K" type="이름">閔荃</index>。</paragraph>
+      <paragraph align="center">通訓大夫行軍器寺副正兼承文院參校 臣<index num="0852063_0" ref="M_0000757" sort="K" type="이름">李澤</index>。</paragraph>
+      <paragraph align="center">通訓大夫行成均館司成兼承文院參校 臣<index num="0852064_0" ref="M_0002164" sort="K" type="이름">南應雲</index>。</paragraph>
+      <paragraph align="center">通訓大夫行司僕寺副正 臣<index num="0852065_0" ref="M_0004333" sort="K" type="이름">李無彊</index>。</paragraph>
+      <paragraph align="center">中直大夫司僕寺副正兼承文院參校 臣<index num="0852066_0" ref="M_0048355" sort="K" type="이름">宋賛</index>。</paragraph>
+      <paragraph align="center">奉正大夫守弘文館典翰知製敎兼經筵侍講官 臣<index num="0852067_0" ref="M_0000377" sort="K" type="이름">尹玉</index>。</paragraph>
+      <paragraph align="center">通訓大夫行議政府舍人 臣<index num="0852068_0" ref="M_0000360" sort="K" type="이름">尹釜</index>。</paragraph>
+      <paragraph align="center">通訓大夫行議政府舍人 臣<index num="0852069_0" ref="M_0054436" sort="K" type="이름">鄭裕</index>。</paragraph>
+      <paragraph align="center">通訓大夫行弘文館應敎知製敎兼經筵侍講官承文院校勘 臣<index num="0852070_0" sort="K" type="이름">禹鏛</index>。</paragraph>
+      <paragraph align="center">奉列大夫成均館司藝 臣<index num="0852071_0" ref="M_0003290" sort="K" type="이름">安方慶</index>。</paragraph>
+      <paragraph align="center">中訓大夫行弘文館副應敎知製敎兼經筵侍講官承文院校勘校書館校理 臣<index num="0852072_0" ref="M_0020121" sort="K" type="이름">金澍</index>。</paragraph>
+      <paragraph align="center">奉列大〔夫〕弘文館副應敎知製敎兼經筵侍講官 臣<index num="0852073_0" ref="M_0004450" sort="K" type="이름">李士弼</index>。</paragraph>
+      <paragraph align="center">通訓大夫行禮賓寺僉正兼承文院校勘 臣<index num="0852074_0" ref="M_0000026" sort="K" type="이름">姜偉</index>。</paragraph>
+      <paragraph align="center">通訓大夫行掌樂院僉正 臣<index num="0852075_0" ref="M_0014808" sort="K" type="이름">洪春年</index>。</paragraph>
+      <paragraph align="center">通訓大夫行內贍寺僉正 臣<index num="0852076_0" ref="M_0002112" sort="K" type="이름">南慶春</index>。</paragraph>
+      <paragraph align="center">通訓大夫行宗簿寺僉正 臣<index num="0852077_0" ref="M_0002209" sort="K" type="이름">盧慶麟</index>。</paragraph>
+      <paragraph align="center">中直大夫行掌樂院僉正 臣<index num="0852078_0" ref="M_0000435" sort="K" type="이름">李楗</index>。</paragraph>
+      <paragraph align="center">奉正大夫行軍器寺僉正知製敎 臣<index num="0852079_0" ref="M_0000743" sort="K" type="이름">李樞</index>。</paragraph>
+      <paragraph align="center">記注官:</paragraph>
+      <paragraph align="center">通訓大夫行弘文館校理知製敎兼經筵侍讀官 臣<index num="0852080_0" ref="M_0038770" sort="K" type="이름">柳潜</index>。</paragraph>
+      <paragraph align="center">通訓大夫行禮曹正郞 臣<index num="0852081_0" ref="M_0005554" sort="K" type="이름">任鼐臣</index>。</paragraph>
+      <paragraph align="center">中訓大夫行兵曹正郞 臣<index num="0852082_0" ref="M_0000602" sort="K" type="이름">李瑛</index>。</paragraph>
+      <paragraph align="center">奉列大夫行禮曹正郞 臣<index num="0852083_0" ref="M_0001056" sort="K" type="이름">高孟英</index>。</paragraph>
+      <paragraph align="center">朝散大夫行吏曹正郞 臣<index num="0852084_0" ref="M_0054700" sort="K" type="이름">鄭浚</index>。</paragraph>
+      <paragraph align="center">朝散大夫行禮曹正郞 臣<index num="0852085_0" ref="M_0005899" sort="K" type="이름">鄭宗榮</index>。</paragraph>
+      <paragraph align="center">奉正大夫行吏曹正郞 臣<index num="0852086_0" ref="M_0002562" sort="K" type="이름">朴永俊</index>。</paragraph>
+      <paragraph align="center">朝散大夫行兵曹正郞 臣<index num="0852087_0" ref="M_0002444" sort="K" type="이름">朴大立</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行禮曹正郞知製敎 臣<index num="0852088_0" ref="M_0000127" sort="K" type="이름">權擘</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行禮曹正郞兼承文院校理 臣<index num="0852089_0" ref="M_0000425" sort="K" type="이름">李戡</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行禮曹正郞 臣<index num="0852090_0" ref="M_0015039" sort="K" type="이름">李壽鐵</index>。</paragraph>
+      <paragraph align="center">通德郞禮曹正郞 臣<index num="0852091_0" ref="M_0060165" sort="K" type="이름">咸軒</index>。</paragraph>
+      <paragraph align="center">通善郞吏曹正郞 臣<index num="0852092_0" ref="M_0000752" sort="K" type="이름">李鐸</index>。</paragraph>
+      <paragraph align="center">奉直郞守工曹正郞 臣<index num="0852093_0" ref="M_0015040" sort="K" type="이름">姜億</index>。</paragraph>
+      <paragraph align="center">中訓大夫行弘文館副校理知製敎兼經筵侍讀官 臣<index num="0852094_0" ref="M_0015041" sort="K" type="이름">元虎變</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行弘文館副校理知製敎兼經筵侍讀官 臣<index num="0852095_0" ref="M_0003946" sort="K" type="이름">(尹春耳)〔尹春年〕</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行弘文館副校理知製敎兼經筵侍讀官 臣<index num="0852096_0" ref="M_0000161" sort="K" type="이름">權容</index>。</paragraph>
+      <paragraph align="center">記事官:</paragraph>
+      <paragraph align="center">通訓大夫行禮曹佐郞 臣<index num="0852097_0" ref="M_0011309" sort="K" type="이름">鄭純祐</index>。</paragraph>
+      <paragraph align="center">奉正大夫行弘文館修撰知製敎兼經筵檢討官 臣<index num="0852098_0" ref="M_0002124" sort="K" type="이름">南宮忱</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行成均館典籍 臣<index num="0852099_0" ref="M_0004741" sort="K" type="이름">李億祥</index>。</paragraph>
+      <paragraph align="center">通德郞行禮曹佐郞 臣<index num="0852100_0" ref="M_0015042" sort="K" type="이름">申汝悰</index>。</paragraph>
+      <paragraph align="center">通德郞行成均館典籍 臣<index num="0852101_0" ref="M_0005202" sort="K" type="이름">李之信</index>。</paragraph>
+      <paragraph align="center">通善郞行吏曹佐郞 臣<index num="0852102_0" ref="M_0006489" sort="K" type="이름">韓智源</index>。</paragraph>
+      <paragraph align="center">通善郞行吏曹佐郞 臣<index num="0852103_0" ref="M_0003223" sort="K" type="이름">沈守慶</index>。</paragraph>
+      <paragraph align="center">通善郞行吏曹佐郞知製敎 臣<index num="0852104_0" ref="M_0060372" sort="K" type="이름">許曄</index>。</paragraph>
+      <paragraph align="center">通善郞行戶曹佐郞 臣<index num="0852105_0" ref="M_0006753" sort="K" type="이름">黃俊良</index>。</paragraph>
+      <paragraph align="center">奉直〔郞〕行工曹佐郞 臣<index num="0852106_0" ref="M_0000021" sort="K" type="이름">姜昱</index>。</paragraph>
+      <paragraph align="center">奉直郞行兵曹佐郞 臣<index num="0852107_0" ref="M_0015043" sort="K" type="이름">任呂</index>。</paragraph>
+      <paragraph align="center">奉直郞行工曹佐郞 臣<index num="0852108_0" ref="M_0034723" sort="K" type="이름">金適</index>。</paragraph>
+      <paragraph align="center">承議郞弘文館修撰知製敎兼經筵檢討官 臣<index num="0852109_0" ref="M_0004815" sort="K" type="이름">李友閔</index>。</paragraph>
+      <paragraph align="center">承議郞兵曹佐郞 臣<index num="0852110_0" ref="M_0004754" sort="K" type="이름">李彦忠</index>。</paragraph>
+      <paragraph align="center">承議郞兵曹佐郞 臣<index num="0852111_0" ref="M_0005169" sort="K" type="이름">李重慶</index>。</paragraph>
+      <paragraph align="center">承議郞成均館典籍 臣<index num="0852112_0" ref="M_0004111" sort="K" type="이름">李光軫</index>。</paragraph>
+      <paragraph align="center">承議郞工曹佐郞 臣<index num="0852113_0" ref="M_0001050" sort="K" type="이름">高景虛</index>。</paragraph>
+      <paragraph align="center">承議郞成均館典籍 臣<index num="0852114_0" ref="M_0001273" sort="K" type="이름">奇大恒</index>。</paragraph>
+      <paragraph align="center">宣敎郞守兵曹佐郞 臣<index num="0852115_0" ref="M_0000245" sort="K" type="이름">金虬</index>。</paragraph>
+      <paragraph align="center">宣敎郞守成均館典籍 臣<index num="0852116_0" ref="M_0062006" sort="K" type="이름">黃祜</index>。</paragraph>
+      <paragraph align="center">奉正大夫行藝文館奉敎 臣<index num="0852117_0" ref="M_0015044" sort="K" type="이름">崔彦粹</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行藝文館奉敎 臣<index num="0852118_0" ref="M_0046605" sort="K" type="이름">閔篪</index>。</paragraph>
+      <paragraph align="center">朝奉大夫行藝文館奉敎 臣<index num="0852119_0" ref="M_0004648" sort="K" type="이름">李純孝</index>。</paragraph>
+      <paragraph align="center">承訓郞行藝文館奉敎 臣<index num="0852120_0" ref="M_0000308" sort="K" type="이름">金瀷</index>。</paragraph>
+      <paragraph align="center">宣敎郞行藝文館奉敎 臣<index num="0852121_0" ref="M_0004342" sort="K" type="이름">李文馨</index>。</paragraph>
+      <paragraph align="center">宣務郞行藝文館奉敎 臣<index num="0852122_0" ref="M_0015045" sort="K" type="이름">鄭思亮</index>。</paragraph>
+      <paragraph align="center">宣敎郞行藝文館奉敎 臣<index num="0852123_0" ref="M_0001943" sort="K" type="이름">金質忠</index>。</paragraph>
+      <paragraph align="center">務功郞藝文館奉敎 臣<index num="0852124_0" ref="M_0045915" sort="K" type="이름">睦詹</index>。</paragraph>
+      <paragraph align="center">務功郞藝文館奉敎 臣<index num="0852125_0" ref="M_0000933" sort="K" type="이름">姜士安</index>。</paragraph>
+      <paragraph align="center">務功郞藝文館奉敎 臣<index num="0852126_0" ref="M_0015034" sort="K" type="이름">李之行</index>。</paragraph>
+      <paragraph align="center">務功郞藝文館奉敎 臣<index num="0852127_0" ref="M_0000014" sort="K" type="이름">姜暹</index>。</paragraph>
+      <paragraph align="center">宣敎郞行弘文館著作兼經筵說經 臣<index num="0852128_0" ref="M_0038471" sort="K" type="이름">柳順善</index>。</paragraph>
+      <paragraph align="center">啓功郞行藝文館待敎 臣<index num="0852129_0" ref="M_0000506" sort="K" type="이름">李銘</index>。</paragraph>
+      <paragraph align="center">通仕郞藝文館待敎 臣<index num="0852130_0" ref="M_0001385" sort="K" type="이름">金貴榮</index>。</paragraph>
+      <paragraph align="center">奉訓〔郞〕行藝文館檢閱 臣<index num="0852131_0" ref="M_0038515" sort="K" type="이름">柳信</index>。</paragraph>
+      <paragraph align="center">承議郞行藝文館檢閱 臣<index num="0852132_0" ref="M_0015046" sort="K" type="이름">李瓘</index>。</paragraph>
+      <paragraph align="center">承仕郞藝文館檢閱 臣<index num="0852133_0" ref="M_0015047" sort="K" type="이름">李希伯</index>。</paragraph>
+    </content>
+  </text>
+</level2>

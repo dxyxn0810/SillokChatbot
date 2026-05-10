@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wla">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>仁宗實錄</mainTitle>
+        <alternative> 仁宗榮靖獻文懿武章肅欽孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wla_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">仁宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">仁宗實錄 19책</mainTitle>
+          <page begin="179면"/>
+        </source>
+        <subjectClass>왕실(王室)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">王諱<index num="0852134_0" ref="M_0000819" sort="K" type="이름">峼</index>, <index num="0852135_0" ref="M_0057021" sort="K" type="이름">中宗大王</index>長子, 母妃, <index num="0852136_0" ref="M_0014010" sort="K" type="이름">章敬王后</index>
+          <index num="0852137_0" ref="M_0014010" sort="K" type="이름">尹氏</index>。 生而岐嶷, 三歲能解書義, 六歲封爲世子。 性沈靜寡欲, 仁恭孝友, 勤於學問, 踐履篤實, 在東宮二十五年, 賢德著聞。 及其嗣服, 中外想望至治, 而執喪過哀, 遽至不諱, 且無嗣子, 惜哉! 在位一年, 壽三十一。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

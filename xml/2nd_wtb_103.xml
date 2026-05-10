@@ -1,0 +1,3305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wtb_103">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>景宗修正實錄 三年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1723" type="서기"/>
+        <dateOccured type="간지">癸卯</dateOccured>
+        <dateOccured type="재위연도">경종 [수정실록] 3</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 332</dateOccured>
+        <dateOccured type="중국연호">청 옹정(雍正) 1</dateOccured>
+        <dateOccured type="단기">4056</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">청 옹정(雍正) 1</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 三年(1723)<annotation type="원주">
+          <noteContent>【<index num="1589242_0" sort="K" type="지명">淸</index>
+            <index num="1589243_0" type="연호">雍正</index>元年】</noteContent>
+        </annotation>
+      </paragraph>
+    </content>
+  </text>
+  <level3 id="wtb_103010">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 正月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 正月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10301003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-03L0" type="서기"/>
+            <dateOccured type="간지">癸未</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 3일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 3일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 3일</dateOccured>
+            <dateOccured type="단기">4056년 1월 3일</dateOccured>
+            <dateOccured type="일본연호">년 1월 3일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>환관과 사관을 추문하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸未/召對經筵官。 上曰: "宦官不過黃衣廩食, 守門灑掃而已。 內官<index num="1589244_0" ref="M_0058359" sort="K" type="이름">崔泓</index>, 排軋君父, 極爲無狀。 拿問嚴斷。" 同副承旨<index num="1589245_0" ref="M_0005236" sort="K" type="이름">李眞儒</index>曰: "前後以內官事嚴敎, 拿治不止一再, 而畢竟勘罪, 每歸無實, 恐非懲勵之道。 <index num="1589246_0" ref="M_0058359" sort="K" type="이름">崔泓</index>所犯, 未知輕重之如何, 而至以排軋君父爲罪, 則似涉重大, 宜加商量, 務歸的當。" 上無發落。 上又以史官<index num="1589247_0" ref="M_0003169" sort="K" type="이름">申致雲</index>行步緩緩, 頗有倨傲之狀, 初命罷職, 復命拿推。 <index num="1589248_0" ref="M_0005236" sort="K" type="이름">眞儒</index>請收還, 上不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301007">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 7日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-07L0" type="서기"/>
+            <dateOccured type="간지">丁亥</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 7일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 7일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 7일</dateOccured>
+            <dateOccured type="단기">4056년 1월 7일</dateOccured>
+            <dateOccured type="일본연호">년 1월 7일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 7일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301007_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이희조를 영암군에 안치하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-07L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁亥/竄<index num="1589249_0" ref="M_0005536" sort="K" type="이름">李喜朝</index>於<index num="1589250_0" sort="K" type="지명">靈巖郡</index>。 <index num="1589251_0" ref="M_0005236" sort="K" type="이름">李眞儒</index>請之也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301010">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-10L0" type="서기"/>
+            <dateOccured type="간지">庚寅</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 10일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 10일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 10일</dateOccured>
+            <dateOccured type="단기">4056년 1월 10일</dateOccured>
+            <dateOccured type="일본연호">년 1월 10일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김조택·김복택 등을 남해현·거제부 등지에 유배시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+            <subjectClass>가족(家族)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚寅/流<index num="1589252_0" ref="M_0001881" sort="K" type="이름">金祖澤</index>
+              <index num="1589253_0" sort="K" type="지명">南海縣</index>, <index num="1589254_0" ref="M_0001563" sort="K" type="이름">金福澤</index>
+              <index num="1589255_0" sort="K" type="지명">巨濟府</index>, <index num="1589256_0" ref="M_0021757" sort="K" type="이름">金廷澤</index>
+              <index num="1589257_0" sort="K" type="지명">珍島郡</index>, <index num="1589258_0" ref="M_0021760" sort="K" type="이름">金延澤</index>
+              <index num="1589259_0" sort="K" type="지명">智島</index>, <index num="1589260_0" ref="M_0021761" sort="K" type="이름">金德材</index>
+              <index num="1589261_0" sort="K" type="지명">濟州牧</index>, <index num="1589262_0" ref="M_0021762" sort="K" type="이름">金善材</index>
+              <index num="1589263_0" sort="K" type="지명">旌義縣</index>, <index num="1589264_0" ref="M_0021763" sort="K" type="이름">金俊材</index>
+              <index num="1589265_0" sort="K" type="지명">黑山島</index>, <index num="1589266_0" ref="M_0035627" sort="K" type="이름">金厚材</index>
+              <index num="1589267_0" sort="K" type="지명">金甲島</index>, <index num="1589268_0" ref="M_0021764" sort="K" type="이름">金偉材</index>
+              <index num="1589269_0" sort="K" type="지명">薪智島</index>, <index num="1589270_0" ref="M_0021765" sort="K" type="이름">金養材</index>
+              <index num="1589271_0" sort="K" type="지명">扶安縣</index>, <index num="1589272_0" ref="M_0021766" sort="K" type="이름">金聖材</index>
+              <index num="1589273_0" sort="K" type="지명">珍島郡</index>, <index num="1589274_0" ref="M_0021767" sort="K" type="이름">金用材</index>
+              <index num="1589275_0" sort="K" type="지명">扶安縣</index>, <index num="1589276_0" ref="M_0021768" sort="K" type="이름">金騏孫</index>
+              <index num="1589277_0" sort="K" type="지명">楸子島</index>, <index num="1589278_0" ref="M_0021769" sort="K" type="이름">金海得</index>
+              <index num="1589279_0" sort="K" type="지명">古今島</index>, 皆<index num="1589280_0" ref="M_0001969" sort="K" type="이름">金春澤</index>之諸弟、子、姪。 從<index num="1589281_0" ref="M_0005236" sort="K" type="이름">李眞儒</index>之請也。 逆獄緣坐, 二三歲兒, 有勿爲定配之受敎, 今乃一倂流配於絶島, 母子分離, 呼哭干和, 非王政之所宜有。 其時史官, 亦以此剌評者, 猶有一段未泯之公議, 而凶黨用法之慘, 亦可見矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301014">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 14日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-14L0" type="서기"/>
+            <dateOccured type="간지">甲午</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 14일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 14일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 14일</dateOccured>
+            <dateOccured type="단기">4056년 1월 14일</dateOccured>
+            <dateOccured type="일본연호">년 1월 14일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 14일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301014_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>박징빈을 이성 현감에 보임시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-14L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲午/出補<index num="1589282_0" ref="M_0002633" sort="K" type="이름">朴徵賓</index>爲<index num="1589283_0" sort="K" type="지명">利城</index>縣監。 徵賓受<index num="1589284_0" ref="M_0001827" sort="K" type="이름">一鏡</index>指嗾, 論劾<index num="1589285_0" ref="M_0000369" sort="K" type="이름">尹淳</index>, 朝議轉益乖張, 故銓曹斥補<index num="1589286_0" ref="M_0002633" sort="K" type="이름">徵賓</index>, 蓋欲調停之也。 是日承旨<index num="1589287_0" ref="M_0005236" sort="K" type="이름">李眞儒</index>奏曰: "大司憲<index num="1589288_0" ref="M_0001827" sort="K" type="이름">金一鏡</index>, 因<index num="1589289_0" ref="M_0001483" sort="K" type="이름">金東弼</index>疏批未下, 一向縮伏。 <index num="1589290_0" ref="M_0001827" sort="K" type="이름">一鏡</index>雖有病痛, 然其爲國一死之心, 乃其素蓄積也。 <index num="1589291_0" ref="M_0001483" sort="K" type="이름">東弼</index>若以私書一款, 論其不能遠嫌, 則此實<index num="1589292_0" ref="M_0001827" sort="K" type="이름">一鏡</index>做錯之失, 固無不可, 而今乃擧其平生而句斷, 目之以貪濁, 又抉摘文字而詆之, <index num="1589293_0" ref="M_0001483" sort="K" type="이름">東弼</index>之疏, 誠無狀。 旣以此譴罷, 則其疏不必賜答。 請自上還爲出給, 而<index num="1589294_0" ref="M_0001827" sort="K" type="이름">一鏡</index>疏, 亦卽下批勉出。" 上許之。 又言: "<index num="1589295_0" ref="M_0000369" sort="K" type="이름">尹淳</index>, 當辛丑冬, <index num="1589296_0" ref="M_0001827" sort="K" type="이름">金一鏡</index>陳疏之時, 適有省墓之行, 非出於故爲規避。 其後言議之間, 亦不無招謗之端, 而多是情外。 <index num="1589297_0" ref="M_0002633" sort="K" type="이름">朴徵賓</index>乃擧其平生而劾之, 至加以宵小之目, 殊甚不韙。 顧今改紀之初, 朝著宜務和協, 而浮薄喜事之輩, 忽地起鬧, 誠可寒心。 <index num="1589298_0" ref="M_0000369" sort="K" type="이름">淳</index>之文翰、才望, 超出流輩, 公議旣以臺啓爲非, 則不可一向廢棄。 特爲收敍宜矣。" 上允之。 時, 上不豫, 倦於酬答, 諸臣章奏, 率皆留中, 或經數月不報。 <index num="1589299_0" ref="M_0001483" sort="K" type="이름">金東弼</index>疏論<index num="1589300_0" ref="M_0001827" sort="K" type="이름">金一鏡</index>敎文事, 亦未及賜答。 議者猶惜其不能明白痛斥, 而<index num="1589301_0" ref="M_0005236" sort="K" type="이름">眞儒</index>急於救解, 反謂之其疏無狀, 直請勿賜批而還給, 其護黨無嚴之習, 可勝誅哉? 此乃其時史臣之論, 而賊<index num="1589302_0" ref="M_0001827" sort="K" type="이름">鏡</index>之鴟張, <index num="1589303_0" ref="M_0005236" sort="K" type="이름">眞儒</index>之縱恣, 蓋可見矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-17L0" type="서기"/>
+            <dateOccured type="간지">丁酉</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 17일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 17일</dateOccured>
+            <dateOccured type="단기">4056년 1월 17일</dateOccured>
+            <dateOccured type="일본연호">년 1월 17일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>헌납 권익관이 김재로·전 도승지 신사철 등을 변방에 안치할 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁酉/獻納<index num="1589304_0" ref="M_0001233" sort="K" type="이름">權益寬</index>啓曰: "<index num="1589305_0" ref="M_0021422" sort="A" type="이름">頤</index>、<index num="1589306_0" ref="M_0000317" sort="K" type="이름">集</index>諸賊, 久竊國柄, 專以籠絡醜類, 排張黨與爲事。 及其伏法之後, 其腹心、血黨, 失其仰望, 潛懷怨懟, 樂禍思亂, 爲計益深。 門黜罪人<index num="1589307_0" ref="M_0001842" sort="K" type="이름">金在魯</index>、前都承旨<index num="1589308_0" ref="M_0003109" sort="K" type="이름">申思喆</index>、前大將<index num="1589309_0" ref="M_0005658" sort="K" type="이름">張鵬翼</index>、前府使<index num="1589310_0" ref="M_0001973" sort="K" type="이름">金取魯</index>、前司諫<index num="1589311_0" ref="M_0000234" sort="K" type="이름">金槹</index>、前縣監<index num="1589312_0" ref="M_0020880" sort="K" type="이름">金令行</index>、前經歷<index num="1589313_0" ref="M_0002078" sort="K" type="이름">金希魯</index>ㆍ<index num="1589314_0" ref="M_0000023" sort="K" type="이름">姜頊</index>、氷庫別提<index num="1589315_0" ref="M_0001138" sort="K" type="이름">具鼎勳</index>等, 或全家下鄕, 身伏京第, 或乘轎匿跡, 往來綢繆, 或富室而不吝於用財, 或衰服而潛與於密席, 昏夜聚會, 情跡陰秘, 輿情疑懼, 固已久矣。 憑藉北咨之來, 做出無根之言, 轉相傳播, 煽動中外。 近來洛下騷屑, 皆從此出。 蓋以怨國幸亂之心, 先欲動撓民情, 此誠有不可測者。 不見其形, 願察其影。 此輩論其處地, 則自是諸賊之血黨, 語其行跡, 則實爲十手之所指, 豈待察其影而知之哉? 請竝極邊竄配, 卽日押送, 以絶其禍根。" 從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301019">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 19日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-19L0" type="서기"/>
+            <dateOccured type="간지">己亥</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 19일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 19일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 19일</dateOccured>
+            <dateOccured type="단기">4056년 1월 19일</dateOccured>
+            <dateOccured type="일본연호">년 1월 19일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 19일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301019_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김재로·신사철 등을 이산군·장기현 등지에 유배시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-19L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己亥/竄<index num="1589316_0" ref="M_0001842" sort="K" type="이름">金在魯</index>於<index num="1589317_0" sort="K" type="지명">理山郡</index>, <index num="1589318_0" ref="M_0003109" sort="K" type="이름">申思喆</index>於<index num="1589319_0" sort="K" type="지명">長鬐縣</index>, <index num="1589320_0" ref="M_0005658" sort="K" type="이름">張鵬翼</index>於<index num="1589321_0" sort="K" type="지명">鍾城府</index>, <index num="1589322_0" ref="M_0001973" sort="K" type="이름">金取魯</index>於<index num="1589323_0" sort="K" type="지명">蔚山府</index>, <index num="1589324_0" ref="M_0000234" sort="K" type="이름">金槹</index>於<index num="1589325_0" sort="K" type="지명">鏡城府</index>, <index num="1589326_0" ref="M_0020880" sort="K" type="이름">金令行</index>於<index num="1589327_0" sort="K" type="지명">機張縣</index>, <index num="1589328_0" ref="M_0002078" sort="K" type="이름">金希魯</index>於<index num="1589329_0" sort="K" type="지명">渭原郡</index>, <index num="1589330_0" ref="M_0000023" sort="K" type="이름">姜頊</index>於<index num="1589331_0" sort="K" type="지명">三水府</index>, <index num="1589332_0" ref="M_0001138" sort="K" type="이름">具鼎勳</index>於<index num="1589333_0" sort="K" type="지명">東萊府</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-21L0" type="서기"/>
+            <dateOccured type="간지">辛丑</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 21일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 21일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 21일</dateOccured>
+            <dateOccured type="단기">4056년 1월 21일</dateOccured>
+            <dateOccured type="일본연호">년 1월 21일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라 사신을 맞이하고 환궁하여 칙서를 받다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛丑/<index num="1589334_0" sort="K" type="지명">淸</index>使<index num="1589335_0" sort="M" type="이름">額和納</index>、<index num="1589336_0" sort="M" type="이름">廣福</index>入京。 上迎勑于西郊, 還宮受勑。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301022">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 22日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-22L0" type="서기"/>
+            <dateOccured type="간지">壬寅</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 22일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 22일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 22일</dateOccured>
+            <dateOccured type="단기">4056년 1월 22일</dateOccured>
+            <dateOccured type="일본연호">년 1월 22일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 22일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301022_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라에서 내린 조서 때문에 하례하고 교서를 내려 사면령을 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>외교(外交)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬寅/以<index num="1589337_0" sort="K" type="지명">淸</index>詔, 陳賀頒敎、赦, 加百官資。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10301025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 1月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-01-25L0" type="서기"/>
+            <dateOccured type="간지">乙巳</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 1월 25일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 1월 25일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 1월 25일</dateOccured>
+            <dateOccured type="단기">4056년 1월 25일</dateOccured>
+            <dateOccured type="일본연호">년 1월 25일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 1월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10301025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>우의정 최석항 등이 역모의 공신을 논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-01-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙巳/右議政<index num="1589338_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>啓曰: "今番逆獄, 雖是無前大獄, 初無詗察摘發告變者, 又無夤緣上達之事, 實未有主張指使之人。 至於兩捕將, 誠有可紀之勞。 蓋劍貨是大段贓物, 而<index num="1589339_0" ref="M_0000544" sort="K" type="이름">李森</index>設機搜得, <index num="1589340_0" ref="M_0003151" sort="K" type="이름">申翊夏</index>亦同參其事。 且三手凶謀, 幾盡覈出, 而行藥一款, 未及摘發矣。 <index num="1589341_0" ref="M_0003151" sort="K" type="이름">翊夏</index>譏捕<index num="1589342_0" ref="M_0006608" sort="K" type="이름">舜澤</index>之奴<index num="1589343_0" ref="M_0050619" sort="K" type="이름">業奉</index>者, 不待刑訊, 直言彼中賣藥人姓名及藥之形色, 故<index num="1589344_0" ref="M_0006608" sort="K" type="이름">舜澤</index>亦不敢全諱, 只曰: ‘一死之外, 更無所達。’ 此是半承服。 因此而藥之根柢, 畢露無餘, 其功誠不細。 此二人似當錄勳矣。" 領議政<index num="1589345_0" ref="M_0006208" sort="K" type="이름">趙泰耉</index>曰: "因<index num="1589346_0" ref="M_0002267" sort="K" type="이름">睦虎龍</index>告變, 根覈逆節, <index num="1589347_0" ref="M_0002267" sort="K" type="이름">虎龍</index>不可不錄, 而諸議皆以單錄爲不可, 又言至尊不可只與<index num="1589348_0" ref="M_0002267" sort="K" type="이름">虎龍</index>對盟, 其說亦然。 依右相所達, 以兩人勘勳, 似無妨矣。" <index num="1589349_0" ref="M_0006317" sort="K" type="이름">錫恒</index>曰: "若論次第, <index num="1589350_0" sort="K" type="이름">森當</index>居一等, <index num="1589351_0" ref="M_0003151" sort="K" type="이름">翊夏</index>爲二等, <index num="1589352_0" ref="M_0002267" sort="K" type="이름">虎龍</index>爲三等矣。" 上從之。 判義禁<index num="1589353_0" ref="M_0058574" sort="K" type="이름">沈檀</index>曰: "搢紳之間, 諸議以爲, 炳幾衛社之功, 自有所歸。 當四凶聯箚之日, 宗社危如一髮, 而大臣抗義請對, 再安天位。 微大臣, 寧望保有今日乎? 宜以炳幾衛社爲勳號, 而竝入錄功之中。 今若只以兩捕將, 草草錄勳, 則殊非重其事之道。 臣謂大臣, 不可不錄也。" <index num="1589354_0" ref="M_0006208" sort="K" type="이름">泰耉</index>斥其猥屑而請推, 上允之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10301025_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>권규와 이잠에게 직을 더하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-01-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="390면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○贈<index num="1589355_0" ref="M_0000106" sort="K" type="이름">權珪</index>、<index num="1589356_0" ref="M_0063329" sort="K" type="이름">李潜</index>職。 工曹判書<index num="1589357_0" ref="M_0006212" sort="K" type="이름">趙泰億</index>啓曰: "辛丑冬, 諸臣之奮忠抗言者, 固可尙, 而其時故參判<index num="1589358_0" ref="M_0000106" sort="K" type="이름">權珪</index>, 輿疾抗疏, 至遭嚴刑鞫問之啓。 改紀之初, 連有除命, 皆以病辭, 遽爾身沒。 同時陳疏人, 俱被顯擢, 而<index num="1589359_0" ref="M_0000106" sort="K" type="이름">珪</index>獨先逝。 樹立如此之人. 宜追加褒贈。" <index num="1589360_0" ref="M_0006208" sort="K" type="이름">泰耉</index>、<index num="1589361_0" ref="M_0006317" sort="K" type="이름">錫恒</index>繼陳如<index num="1589362_0" ref="M_0006212" sort="K" type="이름">泰億</index>言, 請超資贈職, 上從之。 行副司直<index num="1589363_0" ref="M_0058574" sort="K" type="이름">沈檀</index>曰: "<index num="1589364_0" ref="M_0063329" sort="K" type="이름">李潜</index>, 故參判<index num="1589365_0" ref="M_0005336" sort="K" type="이름">夏鎭</index>之子也。 平生忼慨有氣節, 曾在先朝, 疏陳群凶, 謀害殿下之狀, 至有左右前後莫不向刃之語。 及<index num="1589366_0" ref="M_0065420" sort="K" type="이름">白望</index>之劍出, 而<index num="1589367_0" ref="M_0063329" sort="K" type="이름">潜</index>言如含符契。 其先見之明, 固非凡人所可及, 而至於不顧死生, 挺身抗言之節, 雖古之<index num="1589368_0" ref="M_0033821" sort="A" sort2="송" type="이름">陳東</index>、<index num="1589369_0" ref="M_0018639" sort="A" type="이름">歐陽澈</index>, 亦無以過之。 令政院, 謄進疏本, 一經睿覽, 則可以想見忠節, 而褒贈之典, 在所不己。" 上從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10301025_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이헌영·이헌장 등을 복과시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1723-01-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○復<index num="1589370_0" ref="M_0005379" sort="K" type="이름">李獻英</index>、<index num="1589371_0" ref="M_0005382" sort="K" type="이름">李獻章</index>、<index num="1589372_0" ref="M_0005227" sort="K" type="이름">李眞伋</index>、<index num="1589373_0" ref="M_0003472" sort="K" type="이름">吳遂元</index>科。 右議政<index num="1589374_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>曰: "吏曹判書<index num="1589375_0" ref="M_0004106" sort="K" type="이름">李光佐</index>, 以<index num="1589376_0" ref="M_0005379" sort="K" type="이름">李獻英</index>、<index num="1589377_0" ref="M_0005382" sort="K" type="이름">李獻章</index>、<index num="1589378_0" ref="M_0005227" sort="K" type="이름">李眞伋</index>復科事, 不詢廟堂爲未安, 陳疏格之, 然朝廷旣知冤狀, 則不可仍置削科之中。 竝宜復科。" 上曰: "唯。" 領議政<index num="1589379_0" ref="M_0006208" sort="K" type="이름">趙泰耉</index>曰: "<index num="1589380_0" ref="M_0003472" sort="K" type="이름">吳遂元</index>一體復科宜矣。" 上從之。 <index num="1589381_0" ref="M_0005379" sort="K" type="이름">獻英</index>、<index num="1589382_0" ref="M_0005382" sort="K" type="이름">獻章</index>, <index num="1589383_0" ref="M_0004440" sort="K" type="이름">師尙</index>之子也, 眞伋, <index num="1589384_0" ref="M_0005236" sort="K" type="이름">眞儒</index>之弟也, <index num="1589385_0" ref="M_0003472" sort="K" type="이름">吳遂元</index>, <index num="1589386_0" ref="M_0003456" sort="K" type="이름">道一</index>之子也, 皆壬辰科罷榜者也。 <index num="1589387_0" ref="M_0005236" sort="K" type="이름">眞儒</index>、<index num="1589388_0" ref="M_0004440" sort="K" type="이름">師尙</index>, 方主論用事, 氣勢張甚, 故不有先王處分之至嚴, 惟意更改, 有如此矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10301025_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이삼·신익하·목호룡을 각등 공신으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1723-01-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○以<index num="1589389_0" ref="M_0000544" sort="K" type="이름">李森</index>爲扶社一等功臣, <index num="1589390_0" ref="M_0003151" sort="K" type="이름">申翊夏</index>爲二等功臣, <index num="1589391_0" ref="M_0002267" sort="K" type="이름">睦虎龍</index>爲三等功臣。 先是, 以國舅<index num="1589392_0" ref="M_0003397" sort="K" type="이름">魚有龜</index>爲元勳, <index num="1589393_0" ref="M_0003397" sort="K" type="이름">有龜</index>固辭, 更以<index num="1589394_0" sort="K" type="이름">森</index>、<index num="1589395_0" ref="M_0003151" sort="K" type="이름">翊夏</index>、<index num="1589396_0" ref="M_0002267" sort="K" type="이름">虎龍</index>, 定爲三等。 <index num="1589397_0" sort="K" type="이름">森</index>、<index num="1589398_0" ref="M_0003151" sort="K" type="이름">翊夏</index>又上疏辭, 臺官<index num="1589399_0" ref="M_0001918" sort="K" type="이름">金重熙</index>、承旨<index num="1589400_0" ref="M_0003463" sort="K" type="이름">吳命恒</index>, 亦引舊例, 言其不可, 上從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103020">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10302004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 2月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-02-04L0" type="서기"/>
+            <dateOccured type="간지">甲寅</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 2월 4일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 2월 4일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 2월 4일</dateOccured>
+            <dateOccured type="단기">4056년 2월 4일</dateOccured>
+            <dateOccured type="일본연호">년 2월 4일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 2월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10302004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>헌납 권익관 등이 독약으로 역모를 꾀한 김씨 성의 궁인을 잡아다가 추문할 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-02-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲寅/獻納<index num="1589401_0" ref="M_0001233" sort="K" type="이름">權益寬</index>、正言<index num="1589402_0" ref="M_0001918" sort="K" type="이름">金重熙</index>啓曰: "<index num="1589403_0" sort="K" type="이름">金姓</index>宮人之和應凶賊, 錯毒御饌, <index num="1589404_0" ref="M_0021593" sort="K" type="이름">盛節</index>之所直招也。 曾因筵奏臺啓, 輒下査出之批, 臣僚顒俟, 今幾日月, 而尙無出付之擧, 致令禁闥肘腋之間, 凶賊假息, 杯觴飮啜之頃, 禍根莫除, 宗社之憂, 神人之憤, 可勝道哉? 宮禁事秘, 固非外臣之所敢知, 而<index num="1589405_0" ref="M_0021593" sort="K" type="이름">盛節</index>所謂進藥吐出之說, 與黃水吐出下藥院之事相符, 而行藥日月可考也。 <index num="1589406_0" sort="K" type="이름">金姓</index>宮人, 雖非一二, 而庖廚之任, 與他有別, 女官之號, 亦當各殊, 職任、官號可攷也。 如或互相推諉, 猝難摘發, 則亦宜悉付有司, 明示査究。 其在嚴懲討防後患之道, 豈可一任延拖, 爲長寇養虎之歸耶? 禍根迄未除去, 舊焰必當復煽。 此賊終未覈得, 則臣恐宗社安危, 有未可定。 請<index num="1589407_0" sort="K" type="이름">金姓</index>宮人疑似者, 出付鞫廳, 覈得正犯, 速正王法。" 不從。 嗚呼! 其時鞫獄, 搆捏虛無, 固無紀極。 至於<index num="1589408_0" sort="K" type="이름">金姓</index>宮人, 前後批旨, 以本無其人爲敎, 而猶且力請出付, 至<index num="1589409_0" ref="M_0050728" sort="K" type="이름">英宗</index>卽位之後, 靳靳不已, 抑何所指歟?</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10302008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 2月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-02-08L0" type="서기"/>
+            <dateOccured type="간지">戊午</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 2월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 2월 8일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 2월 8일</dateOccured>
+            <dateOccured type="단기">4056년 2월 8일</dateOccured>
+            <dateOccured type="일본연호">년 2월 8일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 2월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10302008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>장령 정계장이 임창을 벌할 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-02-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊午/掌令<index num="1589410_0" ref="M_0021123" sort="K" type="이름">鄭啓章</index>啓曰: "<index num="1589411_0" ref="M_0000844" sort="K" type="이름">任敞</index>之罪, 可勝誅哉? 昔年一疏, 雖曰未徹, 疏中不忍聞不忍言之說, 世皆傳播, 在人耳目, 凶肚逆腸, 昭不可掩, 而且以其改呈疏語見之, 犯分悖義之說, 無所不至。 其叔<index num="1589412_0" ref="M_0005638" sort="K" type="이름">弘望</index>, 雖以至親私情, 猶不敢掩惡, 恐其禍延, 陳疏自明, 則其言之不敬不道, 此亦可見。 若論其罪, 則實有浮於賊<index num="1589413_0" ref="M_0003932" sort="K" type="이름">述</index>, 而今乃罪止竄配, 尙令偃息於覆載之間, 獨不爲賊<index num="1589414_0" ref="M_0003932" sort="K" type="이름">述</index>之冤耶? 噫! 向來賊黨, 謀危殿下, 厥惟久矣。 <index num="1589415_0" ref="M_0001969" sort="K" type="이름">春澤</index>陰主之, <index num="1589416_0" ref="M_0000844" sort="K" type="이름">敞</index>、<index num="1589417_0" ref="M_0006290" sort="K" type="이름">奎瑞</index>顯言之, 百計經營, 必欲甘心。 爲今日臣子者, 孰不欲食肉寢皮, 而不幸<index num="1589418_0" ref="M_0001969" sort="K" type="이름">春澤</index>、<index num="1589419_0" ref="M_0006290" sort="K" type="이름">奎瑞</index>, 皆死牖下, 不得致法, 而卽今可以少洩輿憤者, 惟在於賊<index num="1589420_0" ref="M_0000844" sort="K" type="이름">敞</index>之正刑。 當此懲討方嚴之日, 如<index num="1589421_0" ref="M_0000844" sort="K" type="이름">敞</index>惡逆之輩, 決不可一日容貸, 以致失刑之譏。 請凶賊<index num="1589422_0" ref="M_0000844" sort="K" type="이름">任敞</index>亟正邦刑。" 不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10302008_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동평위 정재륜의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-02-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1589423_0" ref="M_0005889" sort="K" type="이름">東平尉</index>
+              <index num="1589424_0" ref="M_0005889" sort="K" type="이름">鄭載崙</index>卒。 <index num="1589425_0" ref="M_0005889" sort="K" type="이름">載崙</index>故相<index num="1589426_0" ref="M_0005933" sort="K" type="이름">太和</index>之子, <index num="1589427_0" ref="M_0062086" sort="K" type="이름">孝廟</index>駙馬也。 爲人俊偉, 有計慮, 治身儉約, 其出門, 必簡騶從, 禁呵辟人, 不知其爲貴戚也。 凡四朝御賜珍玩, 竝封識, 以致其敬, 一不近身。 博識國朝故實, 人多質問。 至是卒, 年七十六。 訃聞, 上震悼賜柩材。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10302010">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 2月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-02-10L0" type="서기"/>
+            <dateOccured type="간지">庚申</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 2월 10일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 2월 10일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 2월 10일</dateOccured>
+            <dateOccured type="단기">4056년 2월 10일</dateOccured>
+            <dateOccured type="일본연호">년 2월 10일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 2월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10302010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이조·이광좌에게 이조 판서·병조 판서를 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-02-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚申/以<index num="1589428_0" ref="M_0000694" sort="K" type="이름">李肇</index>爲吏曹判書, <index num="1589429_0" ref="M_0004106" sort="K" type="이름">李光佐</index>爲兵曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10302018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 2月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-02-18L0" type="서기"/>
+            <dateOccured type="간지">戊辰</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 2월 18일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 2월 18일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 2월 18일</dateOccured>
+            <dateOccured type="단기">4056년 2월 18일</dateOccured>
+            <dateOccured type="일본연호">년 2월 18일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 2월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10302018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조태구를 논척하는 정언 유수원의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-02-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊辰/正言<index num="1589430_0" ref="M_0063104" sort="K" type="이름">柳壽垣</index>上疏, 斥<index num="1589431_0" ref="M_0006208" sort="K" type="이름">趙泰耉</index>。 其略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>辛丑之臘, 卽殿下一初, 而初筵對揚, 已拂輿情, 只見其動於浮議, 未嘗致嚴乎國是。 及其受命按獄, 首尾引疾, 末梢收殺, 尤近塞責, 人情拂鬱, 物議沸騰, 而旣不能受人勤攻, 又不能休休其量, 乃於台鉉之位, 遲暮之境, 反不嫌其偏私指目之歸。 乖離之勢, 無意調娛, 汲引之際, 顯示左右, 地部首擬, 太費屈曲, 銓官問差, 永靳商量, 遂致淸議不張, 正氣消沮。 惟以籠罩鶻突爲主, 虛相假借, 姑息富貴, 曲意承奉, 極口贊詡, 以爲之護送者有之, 使一世敢怒而不敢言。 大官如此, 小官可知, 廟議如此, 銓衡何責? 至若<index num="1589432_0" ref="M_0005808" sort="K" type="이름">鄭壽期</index>之初玷瀛選, 已極不似, 東壁中書, 尤出人望之外。 近來榮進, 有若酬勞者何哉? <index num="1589433_0" ref="M_0005094" sort="K" type="이름">李廷濟</index>之憸邪足恭, 絶無士夫樣子, 半生巧宦, 術不出於惟利是趨, 畢竟羽化, 都出權門。 濫竽史局, 繼叨雄藩, 固已見駭於物情, 而及夫<index num="1589434_0" ref="M_0006214" sort="K" type="이름">泰采</index>之伏法也, 乃敢千里專人, 滿駄送賻。 渠若有一分人心, 安忍爲此? 似此汚卑巧侫不識分義之徒, 決不可廁之朝籍, 亟施削版之典, 斷不可已也。</quotation>
+            </paragraph>
+            <paragraph align="center">答曰: "<index num="1589435_0" ref="M_0005808" sort="K" type="이름">鄭壽期</index>瀛館不合之斥, 已極過當矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10302020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 2月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-02-20L0" type="서기"/>
+            <dateOccured type="간지">庚午</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 2월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 2월 20일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 2월 20일</dateOccured>
+            <dateOccured type="단기">4056년 2월 20일</dateOccured>
+            <dateOccured type="일본연호">년 2월 20일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 2월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10302020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이조 판서 이조를 파면하고 유봉휘를 이조 판서로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-02-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚午/吏曹判書<index num="1589436_0" ref="M_0000694" sort="K" type="이름">李肇</index>免, 以<index num="1589437_0" ref="M_0003626" sort="K" type="이름">柳鳳輝</index>爲吏曹判書, <index num="1589438_0" ref="M_0005236" sort="K" type="이름">李眞儒</index>爲吏曹參議。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10302023">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 2月 23日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-02-23L0" type="서기"/>
+            <dateOccured type="간지">癸酉</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 2월 23일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 2월 23일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 2월 23일</dateOccured>
+            <dateOccured type="단기">4056년 2월 23일</dateOccured>
+            <dateOccured type="일본연호">년 2월 23일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 2월 23일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10302023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>목호룡을 공신 동성군으로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-02-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸酉/以<index num="1589439_0" ref="M_0002267" sort="K" type="이름">睦虎龍</index>爲輸忠奮義竭誠効力扶社功臣<index num="1589440_0" ref="M_0002267" sort="K" type="이름">東城君</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10302023_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>순릉에 불이 나다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-02-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>군사(軍事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1589441_0" sort="K" type="지명">純陵</index>火。 上避正殿, 變服減膳, 撤樂三日。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10302023_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>원임 대사간 김동필과 원임 정언 유수원을 외직에 보임시켜 내치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1723-02-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命斥補原任大司諫<index num="1589442_0" ref="M_0001483" sort="K" type="이름">金東弼</index>、原任正言<index num="1589443_0" ref="M_0063104" sort="K" type="이름">柳壽垣</index>於州縣官。 吏曹參議<index num="1589444_0" ref="M_0005236" sort="K" type="이름">李眞儒</index>啓曰: "<index num="1589445_0" ref="M_0001483" sort="K" type="이름">金東弼</index>互相排擯, 生事於無事之中, 日昨正言<index num="1589446_0" ref="M_0063104" sort="K" type="이름">柳壽垣</index>疏, 又復橫生, 甘心分裂。 若不裁抑, 則燎原之火, 實難救得。 <index num="1589447_0" ref="M_0001483" sort="K" type="이름">東弼</index>、<index num="1589448_0" ref="M_0063104" sort="K" type="이름">壽垣</index>一倂補外, 以懲其喜事之習。" 上從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103030">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 三月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 三月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10303004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-04L0" type="서기"/>
+            <dateOccured type="간지">癸未</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 4일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 4일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 4일</dateOccured>
+            <dateOccured type="단기">4056년 3월 4일</dateOccured>
+            <dateOccured type="일본연호">년 3월 4일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>영중추부사 김우항의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸未/領中樞府事<index num="1589449_0" ref="M_0020344" sort="K" type="이름">金宇杭</index>卒。 <index num="1589450_0" ref="M_0020344" sort="K" type="이름">宇杭</index>字<index num="1589451_0" ref="M_0020344" sort="K" type="이름">濟仲</index>。 辛酉以明經, 中乙科。 謹飭無他才, 受<index num="1589452_0" ref="M_0032646" sort="K" type="이름">肅宗</index>知, 至拜端揆。 上之辛丑, <index num="1589453_0" ref="M_0002494" sort="K" type="이름">尙儉</index>事覺, 上疏論誅討之不嚴。 至是卒, 年七十五。 訃聞, 上御<index num="1589454_0" sort="K" type="지명">熙政堂</index>, 爲位發哀, 輟朝三日。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10303004_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>증광 전시를 실시하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-03-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○設增廣殿試, 文取<index num="1589455_0" ref="M_0002483" sort="K" type="이름">朴師洙</index>等四十一人, 武取<index num="1589456_0" ref="M_0043701" sort="K" type="이름">李震龍</index>等一百三十六人。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303010">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-10L0" type="서기"/>
+            <dateOccured type="간지">己丑</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 10일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 10일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 10일</dateOccured>
+            <dateOccured type="단기">4056년 3월 10일</dateOccured>
+            <dateOccured type="일본연호">년 3월 10일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>옥사를 다스린 제신들을 녹훈할 것·맹제를 연기할 것에 대한 지평 이보욱의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="391면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己丑/持平<index num="1589457_0" ref="M_0004401" sort="K" type="이름">李普昱</index>疏論錄勳事。 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>今此策勳, 何等重大, 而始推國舅, 旣循其固讓, 又歸兩將, 復允其臺啓。 乍定旋罷, 徒傷事體, 指東推西, 終未止泊, 末乃以單勳勘定, 盟祭將迫。 國朝三百年來逆獄, 非止一二, 而曾未有告者元勳之例。 單錄之不可, 此已可見, 而勳之一字, 避之如浼, 不顧事體之苟且, 必欲草草彌縫, 臣實慨然。 大臣因<index num="1589458_0" ref="M_0002228" sort="K" type="이름">盧永孫</index>爲例, 而獄事大小, 彼此旣殊, 且其所錄, 多至四十餘人, 而年久之後, 始因臺啓削勳, 只存<index num="1589459_0" ref="M_0002228" sort="K" type="이름">永孫</index>, 則此豈可爲單勳之可據者耶? 大抵<index num="1589460_0" ref="M_0002267" sort="K" type="이름">虎龍</index>, 上變之外, 更無先幾詗察之功, 則按訊諸賊, 畢究凶節, 使國家有磐泰之安者, 豈非今日可錄之勳乎? <index num="1589461_0" ref="M_0047647" sort="K" type="이름">宣廟</index>朝己丑獄時, 委官以下, 皆相臣, <index num="1589462_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>等諸人, 無非一代名臣, 而身忝錄勳, 不敢辭避者, 蓋以錄勳爲國家重事, 而不可以上變人, 苟然單錄, 與君父同盟故耳。 今之議者, 雖以己丑後防塞獄官之錄勳爲言, 而此則有不然者。 亟令二品以上、三司諸臣, 會于朝堂, 以按獄諸臣, 錄勳一款, 詢問可否, 卽速勘定。</quotation>
+            </paragraph>
+            <paragraph align="center">疏入累日, 上不報, 而盟祭肄儀已迫。 同副承旨<index num="1589463_0" ref="M_0006689" sort="K" type="이름">洪重禹</index>, 疏請從<index num="1589464_0" ref="M_0004401" sort="K" type="이름">普昱</index>之言, 仍令禮官, 涓吉稍退, 上於是, 竝下批曰: "盟祭日期已迫, 勿爲差退焉。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-11L0" type="서기"/>
+            <dateOccured type="간지">庚寅</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 11일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 11일</dateOccured>
+            <dateOccured type="단기">4056년 3월 11일</dateOccured>
+            <dateOccured type="일본연호">년 3월 11일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대사간 남취명이 녹훈을 거절한 신하들을 논핵하고 맹제를 연기할 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="5장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="392면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚寅/上將幸會盟壇, 大司諫<index num="1589465_0" ref="M_0002188" sort="K" type="이름">南就明</index>請對白上曰: "討逆會盟, 何等重大之擧? 朝議不一, 甲乙未定, 而卒乃勘以單勳, 草草彌縫。 夫<index num="1589466_0" ref="M_0002267" sort="K" type="이름">虎龍</index>, 本一賤隷, 投入逆黨, 及夫凶謀敗露, 則始乃上變, 得以不死, 俾廁勳末, 亦云幸矣。 今日國舅、大臣, 至於將臣, 徒持讓功之心, 罔念辱國之恥, 至以衛社討賊之功, 推歸於一賤竪, 忍使我殿下, 對歃盟血於祭天之壇, 此豈臣子之所敢爲也? 臺臣收議之請, 亦出愼重之意, 而大臣以下, 惟以汲汲成禮爲事。 若使今日臣子, 少有忠憤之心, 必思斷鞅汚輪之義, 而喉司之臣, 義不出此, 直請肄儀, 又請齋宿, 當該承旨, 宜加警責。 仍命差退會盟日期, 而令二品以上, 收議改勘焉。" 都承旨<index num="1589467_0" ref="M_0004576" sort="K" type="이름">李世最</index>曰: "單勳雖似苟簡, 而若有明白應錄之人, 則初何以屢定屢改乎? 盟壇祭天, 事體至重, 肄儀已成, 法駕將發, 何可中止乎?" 兩人爭難不已, 上曰: "吾意亦無可錄者矣。" <index num="1589468_0" ref="M_0002188" sort="K" type="이름">就明</index>以承旨與臺臣爭論, 前所未有, 請推<index num="1589469_0" ref="M_0004576" sort="K" type="이름">世最</index>, <index num="1589470_0" ref="M_0004576" sort="K" type="이름">世最</index>趨出。 <index num="1589471_0" ref="M_0002188" sort="K" type="이름">就明</index>復申前說, 上終不從。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303012">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 12日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-12L0" type="서기"/>
+            <dateOccured type="간지">辛卯</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 12일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 12일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 12일</dateOccured>
+            <dateOccured type="단기">4056년 3월 12일</dateOccured>
+            <dateOccured type="일본연호">년 3월 12일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 12일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303012_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>목호룡의 훈호 중 ’갈성 효력’이라는 네 글자를 삭감하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="392면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛卯/錄功都監啓: "<index num="1589472_0" ref="M_0002267" sort="K" type="이름">睦虎龍</index>單錄三等, 勳號中, 竭誠效力四字, 請減去。" 上從之。 親行會盟祭。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-13L0" type="서기"/>
+            <dateOccured type="간지">壬辰</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 13일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 13일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 13일</dateOccured>
+            <dateOccured type="단기">4056년 3월 13일</dateOccured>
+            <dateOccured type="일본연호">년 3월 13일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>녹훈에 대한 교문</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="5장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="392면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬辰/上御<index num="1589473_0" sort="K" type="지명">仁政殿</index>, 頒錄勳敎文:</paragraph>
+            <paragraph align="center">
+              <quotation>王若曰, 誅討亂逆, 王法莫嚴; 酬報功勞, 邦典所重。 玆申帶礪之誓, 式敷綸綍之音。 永念眇躬, 叨承丕緖。 闇廬思道, 式遵無改之聖謨; 廊廟責成, 亦體求舊之經訓。 豈意亂臣賊子, 乃出巨族大家? 奧予在儲之時, 已逞搖撼之計; 逮夫嗣服之後, 愈懷反側之心。 始畏寧考之至明, 禍心莫售; 終欺寡昧之孤立, 陰謀益深。 凡所密地之經營, 莫非淫天之惡逆。 掌上書字, 推戴潛屬於凶魁; 闕內陳兵, 指授專出於老賊。 聲勢相依而濟惡, 厲氣鍾於同堂; 驕淫旣溢而啓邪, 密計合於聯席。 終然四箚之繼上, 實祟三手之暗排。 爪牙附麗之寔繁, 首尾布置之已就。 金帛夜走, 宦官、宮妾之交通; 鬼蜮晝行, 妖人、死士之締結。 黃丸遠市, 是可忍於萠心; 白刃潛藏, 將欲試於何地? 殆哉! 計毒而意憯, 念之骨驚而心寒。 久擅作福作威之權, 恣行不道; 此豈一朝一夕之故? 馴致難圖。 剝床切膚, 事機已迫於肘腋; 積薪厝火, 禍亂垂及於宗祊。 幸賴急書之上聞, 乃見罪人之斯得。 爰辭齊款, 望風而吐露無餘; 元惡駢殲, 不日而危疑底定。 妖腰亂領, 膏齊斧而無辭; 殘孽餘支, 觸天網而俱碎。 惟玆廓淸之慶, 悉由發告之功。 摘隱鉤深, 諸賊之情形罔漏; 輸忠向義, 一介之誠悃可嘉。 噫其醞釀者卅年, 夬得掃盪於一日。 除兇弭禍, 國勢占磐石之安, 賞功敍勳, 名數稽茅土之典。 頒鐵券而紀績等第, 蓋用舊規; 卽雲臺而模形丹靑, 擬垂永世。 涓日而潔心將事, 告天而歃血申盟。 備擧縟儀, 悉遵常憲。 於戲! 予所貴終始之永保, 爾無忘洗拂之殊私。 寵命維新, 率忠順而祗服; 崇報無替, 指苖裔而爲期。 故玆敎示, 想宜知悉。</quotation>
+            </paragraph>
+            <paragraph align="center">又宣功臣<index num="1589474_0" ref="M_0002267" sort="K" type="이름">睦虎龍</index>敎書。 至<index num="1589475_0" ref="M_0050728" sort="K" type="이름">英宗</index>卽位, <index num="1589476_0" ref="M_0002267" sort="K" type="이름">虎龍</index>旣伏誅, 乙巳削其勳。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10303013_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>송시열을 조광조를 모신 도봉 서원에서 배향하지 못하게 할 것을 청하는 관학 유생 김범갑의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-03-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="6장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="392면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○館學儒生<index num="1589477_0" ref="M_0001538" sort="K" type="이름">金范甲</index>上疏曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1589478_0" sort="K" type="지명">道峰書院</index>, 卽先正臣<index num="1589479_0" ref="M_0005993" sort="K" type="이름">趙光祖</index>妥靈之所, 而曾於丙子歲, 以<index num="1589480_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>竝享焉。 豈不爲有識之所駭嘆, 士林之所拂鬱者哉? 噫! <index num="1589481_0" type="서명">《春秋》</index>大義, 卽<index num="1589482_0" ref="M_0003011" sort="K" type="이름">時烈</index>欺世欛柄也。 <index num="1589483_0" ref="M_0062086" sort="K" type="이름">孝廟</index>則求之以實效, 而<index num="1589484_0" ref="M_0003011" sort="K" type="이름">時烈</index>則應之以虛聲, <index num="1589485_0" ref="M_0062086" sort="K" type="이름">孝廟</index>則待之以誠意, 而<index num="1589486_0" ref="M_0003011" sort="K" type="이름">時烈</index>則濟之以詐僞。 平生伎倆, 只在於欺誣一世, 而至於實地上事業, 了無尺寸之稱斯。 故先正臣<index num="1589487_0" ref="M_0003849" sort="K" type="이름">尹宣擧</index>貽書深斥空言之無實, 則其心地之回譎, 大義之虛假, 莫逃於識者之公眼者, 槪可見矣。 且當<index num="1589488_0" ref="M_0034250" sort="K" type="이름">顯廟</index>嗣位之初, 以不受<index num="1589489_0" sort="K" type="지명">永安</index>之詔, 托爲難進之端, 及至庚申再起之日, 更無一言半辭, 及於大義, 何其前後相反, 一至於此? 況其撰故相臣<index num="1589490_0" ref="M_0016683" sort="K" type="이름">金瑬</index>之墓銘也, 以其主和一節, 許之以宗社計。 至此而平生所執之大義, 竝與其虛聲而弁髦焉, 假眞售僞之態, 可謂隨處綻露矣。 噫! 摸擬<index num="1589491_0" ref="M_0033766" sort="A" type="이름">朱子</index>, 卽<index num="1589492_0" ref="M_0003011" sort="K" type="이름">時烈</index>一生技癢也。 卽其文集而觀之, 則一言之發, 而必以<index num="1589493_0" ref="M_0033766" sort="A" type="이름">朱子</index>自處, 一事之作, 而必以<index num="1589494_0" ref="M_0033766" sort="A" type="이름">朱子</index>自比。 噫! <index num="1589495_0" ref="M_0033766" sort="A" type="이름">朱子</index>之於<index num="1589496_0" ref="M_0003011" sort="K" type="이름">時烈</index>, 賢邪、義理之分, 不翅若天壤之懸絶, 而必乃憑藉而假托之, 此與<index num="1589497_0" ref="M_0033035" sort="A" sort2="전한" type="이름">王莽</index>動法<index num="1589498_0" ref="M_0033690" sort="A" type="이름">周公</index>, 一何相似也? 彼<index num="1589499_0" ref="M_0003011" sort="K" type="이름">時烈</index>者, 盜名索價, 乍來乍去, 末乃挺身於局面飜覆之際, 異己者擠之陷之, 附己者引之進之。 貪權樂勢, 惟意所欲, 固結勳戚, 同惡相濟, 扶護誣告之奸賊, 觝排士類之淸議, 使世道漸至於壞喪, 人心日就於陷溺, 馴致辛丑之禍變。 凶逆鴟張, 宗社幾危者, 亦莫非<index num="1589500_0" ref="M_0003011" sort="K" type="이름">時烈</index>之所使然也。 噫! <index num="1589501_0" ref="M_0003011" sort="K" type="이름">時烈</index>之肚裏所橫着者, 惟一段忮心而已, 毒正手段, 尤著於<index num="1589502_0" type="서명">《瑣錄》</index>之篇。 抉摘文字, 勒成罪案, 而傳法於<index num="1589503_0" ref="M_0000317" sort="K" type="이름">集</index>、<index num="1589504_0" ref="M_0067787" sort="K" type="이름">球</index>諸賊, 釀成丙申之禍。 曾謂以儒爲名, 而亦有此宵小輩陷人之習耶? 噫! <index num="1589505_0" ref="M_0003011" sort="K" type="이름">時烈</index>, 以醜辱人爲能事。 <index num="1589506_0" ref="M_0003849" sort="K" type="이름">尹宣擧</index>, 卽<index num="1589507_0" ref="M_0003011" sort="K" type="이름">時烈</index>之畏友也。 頹波砥柱之褒, 兩儀日星之稱, 其所敬服者, 可謂至矣, 而自夫先正臣<index num="1589508_0" ref="M_0000392" sort="K" type="이름">尹拯</index>疑其本源之後, 始生恚心, 公肆醜辱。 況怒人非己, 反詈人之父母, 雖閭巷童孺, 亦不爲之。 故相臣<index num="1589509_0" ref="M_0001685" sort="K" type="이름">金壽恒</index>, 卽<index num="1589510_0" ref="M_0003011" sort="K" type="이름">時烈</index>同朝相好之間, 而或有一二事違拂於心者, 則輒以醜辱相加。 至於<index num="1589511_0" ref="M_0000417" sort="K" type="이름">尹鑴</index>, 固一奸臣, 則斥之以壬侫可也, 排之以凶孽可也, 而<index num="1589512_0" ref="M_0003011" sort="K" type="이름">時烈</index>則取其所居洞名之爲<index num="1589513_0" sort="K" type="지명">介谷</index>, 謂<index num="1589514_0" ref="M_0000417" sort="K" type="이름">鑴</index>曰狗, 或謂之犬。 似此醜悖之說, 雖使屠市間惡少年爲之, 亦將汗顔而知所差矣。 殿下試取其文集而觀之, 可知臣言之非誣矣。 凶譎如<index num="1589515_0" ref="M_0003011" sort="K" type="이름">時烈</index>, 險詖如<index num="1589516_0" ref="M_0003011" sort="K" type="이름">時烈</index>而竝享於<index num="1589517_0" sort="K" type="지명">道峰</index>, 其貽辱先賢, 莫此之甚。 黜享之擧, 豈非一日爲急者乎? 況<index num="1589518_0" ref="M_0003011" sort="K" type="이름">時烈</index>之入享也, 故相臣<index num="1589519_0" ref="M_0003931" sort="K" type="이름">尹趾善</index>陳疏爭之, 還寢成命。 以此觀之, 當初合享, 實非先王之本意也。 乞命該曹, 撤去<index num="1589520_0" ref="M_0003011" sort="K" type="이름">時烈</index>院享。</quotation>
+            </paragraph>
+            <paragraph align="center">疏入久不報。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10303013_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>사도의 유생 최탁 등이 송시열을 비난하는 상소를 올리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1723-03-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="7장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="393면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○四道儒生<index num="1589521_0" ref="M_0058254" sort="K" type="이름">崔鐸</index>等, 又上疏, 語尤深慘, 至曰:</paragraph>
+            <paragraph align="center">
+              <quotation>昔在戊辰之歲, 將行冊禮, 則<index num="1589522_0" ref="M_0003011" sort="K" type="이름">時烈</index>乃敢陳籲而爭之。 其時, 先王特下備忘, 以顯有不足之意, 嚴辭峻斥, 而一種不逞之徒, 率多尊信。 <index num="1589523_0" ref="M_0000844" sort="K" type="이름">敞</index>、<index num="1589524_0" sort="K" type="이름">奎</index>
+                <annotation type="원주">
+                  <noteContent>【<index num="1589525_0" ref="M_0000844" sort="K" type="이름">任敞</index>、<index num="1589526_0" ref="M_0002417" sort="K" type="이름">朴奎瑞</index>。】</noteContent>
+                </annotation>之輩, 倡之於前, <index num="1589527_0" ref="M_0021422" sort="A" type="이름">頤</index>、<index num="1589528_0" ref="M_0000317" sort="K" type="이름">集</index>之黨, 繼之於後, 凶黨鴟張, 宗社幾危, 而究厥情節, 只是萠孽於不滿不足之心, 則<index num="1589529_0" ref="M_0003011" sort="K" type="이름">時烈</index>雖非惡逆, 惡逆之出, 未必不由於<index num="1589530_0" ref="M_0003011" sort="K" type="이름">時烈</index>矣。 <index num="1589531_0" ref="M_0003011" sort="K" type="이름">時烈</index>之栫棘<index num="1589532_0" sort="K" type="지명">長鬐</index>也, 有詩曰: "一千里外亦蠻土, 四五年來號太平。 歌管嘲轟明月夜, 舊臣還詠<index num="1589533_0" type="서명">《永貞行》</index>。" 此雖與<index num="1589534_0" ref="M_0062032" sort="K" type="이름">喜</index>賊<index num="1589535_0" type="서명">《永貞行》</index>之張皇辭說, 有異, 其所以譏訕輕蔑, 亦安得不爲亂賊嚆矢乎?</quotation>
+            </paragraph>
+            <paragraph align="center">上亦不報。 成均館啓稟, 以批旨未下, 許多儒生, 將不得赴科試, 宜賜處分。 承旨亦屢以爲言, 上始則答, 令該曹稟處。 禮曹判書<index num="1589536_0" ref="M_0000694" sort="K" type="이름">李肇</index>陳白於筵中曰: "<index num="1589537_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>竝享時, 已有物論, 先大王本意, 可以仰認, 而因循至今。 多士之公議已發, 不可仍置。 請詢大臣而處之。" 右議政<index num="1589538_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>, 亦言其不當仍存, 上從之。 <index num="1589539_0" sort="K" type="지명">道峰</index>竝享, 非出公共之論, 則不悅者之竊議, 固也。 <index num="1589540_0" ref="M_0001538" sort="K" type="이름">金范甲</index>等乘時詬詆, 至以馴致辛丑之禍爲言, 是果爲眞是非乎? 祀享重典, 已經先朝處分, 而一禮官容易陳請, 一朝撤罷, 顚倒甚矣。 臣謹按凶黨, 不滿於<index num="1589541_0" ref="M_0032646" sort="K" type="이름">肅廟</index>丙申處分, 必欲甘心於<index num="1589542_0" ref="M_0003011" sort="K" type="이름">宋文正</index>, 至於<index num="1589543_0" sort="K" type="지명">道峰</index>黜享而極矣。 <index num="1589544_0" ref="M_0001538" sort="K" type="이름">范甲</index>及<index num="1589545_0" sort="K" type="이름">鐸</index>疏, 無非誣捏凶悖之語, 而該曹及廟堂, 一辭贊成, 故其時史官, 謂之詬詆顚倒, 其亦出於外示公議之意歟!</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-16L0" type="서기"/>
+            <dateOccured type="간지">乙未</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 16일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 16일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 16일</dateOccured>
+            <dateOccured type="단기">4056년 3월 16일</dateOccured>
+            <dateOccured type="일본연호">년 3월 16일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정시를 시행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="7장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="393면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙未/設庭試, 文取<index num="1589546_0" ref="M_0021669" sort="K" type="이름">朴師游</index>等十三人, 武取<index num="1589547_0" ref="M_0038113" sort="K" type="이름">柳德徵</index>等四百七十八人。 是科, 卽以僞獄稱慶設取者也。 至<index num="1589548_0" ref="M_0050728" sort="K" type="이름">英宗</index>朝罷, 而又復改其名曰別科。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303023">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 23日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-23L0" type="서기"/>
+            <dateOccured type="간지">壬寅</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 23일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 23일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 23일</dateOccured>
+            <dateOccured type="단기">4056년 3월 23일</dateOccured>
+            <dateOccured type="일본연호">년 3월 23일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 23일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>송시열을 도봉 서원에서 출향시키지 말 것을 청하는 진사 곽진위 등의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="7장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="393면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사상(思想)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬寅/進士<index num="1589549_0" ref="M_0001118" sort="K" type="이름">郭鎭緯</index>等, 以請寢故相臣<index num="1589550_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>
+              <index num="1589551_0" sort="K" type="지명">道峰書院</index>黜享事, 陳疏, 到政院, 政院却之。 <index num="1589552_0" ref="M_0001118" sort="K" type="이름">鎭緯</index>等, 復疏斥政院, 始稟達入啓。 其疏略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>先正臣<index num="1589553_0" ref="M_0005993" sort="K" type="이름">趙光祖</index>、<index num="1589554_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>遭逢聖代, 期贊至治, 而不幸爲群壬所誣, 竝罹讒鋒, 飮恨泉下。 道學之純正、時命之窮阨, 前後一揆, 故士林之必以<index num="1589555_0" ref="M_0003011" sort="K" type="이름">時烈</index>, 同堂而齊腏者, 其意有在。 先大王之特允所請, 亦以此也。 一自丙子合享之後, 至于今凡幾年所, 而不敢以院享一事, 擧之於唇吻之間者, 無他, 畏公議也, 畏先王也。 今乃乘時闖發, 肆然無忌, 敢爲前日之所不敢爲, 其亦痛矣。 <index num="1589556_0" ref="M_0062086" sort="K" type="이름">孝廟</index>嘗曰: "明天理正人心, 予責也, 與我共此者, 捨卿其誰?" 所謂實地上事業, 無以加此, 而況其囊封幄對, 治法政謨, 鑿鑿有可據之實, 則君臣上下, 血誠圖灑, 而只緣天心不佑, 大業未就, 故一種不悅之徒, 潛懷瑕摘之心, 乃曰假冒也, 曰虛聲也。 噫嘻! 此非渠之言也, 乃<index num="1589557_0" ref="M_0000392" sort="K" type="이름">尹拯</index>之言也, 非<index num="1589558_0" ref="M_0000392" sort="K" type="이름">拯</index>之言, 乃<index num="1589559_0" ref="M_0003849" sort="K" type="이름">宣擧</index>之言也。 <index num="1589560_0" ref="M_0003849" sort="K" type="이름">宣擧</index>一自江都狼狽之後, 謀欲自占便宜道理, 便以不死爲十分是當, 而乃敢自附於實地之工, 而責先正以虛僞, 欲使一世之人, 說不得大義二字, 故先正答書, 極其嚴截, 有借<index num="1589561_0" sort="K" type="이름">孔</index>、<index num="1589562_0" sort="K" type="이름">朱</index>, 禍仁義之說, <index num="1589563_0" ref="M_0003849" sort="K" type="이름">宣擧</index>心術, 適足破綻, 則何足爲先正之病也? <index num="1589564_0" ref="M_0033766" sort="A" type="이름">朱子</index>, <index num="1589565_0" sort="K" type="이름">孔</index>、<index num="1589566_0" sort="K" type="이름">孟</index>後一人耳。 <index num="1589567_0" ref="M_0003011" sort="K" type="이름">時烈</index>平生心事, 不過法<index num="1589568_0" ref="M_0033766" sort="A" type="이름">朱子</index>而已, 今<index num="1589569_0" ref="M_0001538" sort="K" type="이름">范甲</index>輩, 反謂之憑藉<index num="1589570_0" ref="M_0033766" sort="A" type="이름">朱子</index>。 然則尊信<index num="1589571_0" sort="K" type="이름">孔</index>、<index num="1589572_0" sort="K" type="이름">孟</index>, 無如<index num="1589573_0" sort="K" type="이름">程</index>、<index num="1589574_0" sort="K" type="이름">朱</index>之諸賢, <index num="1589575_0" sort="K" type="이름">程</index>、<index num="1589576_0" sort="K" type="이름">朱</index>亦不免於憑藉<index num="1589577_0" sort="K" type="이름">孔</index>、<index num="1589578_0" sort="K" type="이름">孟</index>耶? <index num="1589579_0" ref="M_0034250" sort="K" type="이름">顯廟</index>嗣服之初, <index num="1589580_0" ref="M_0006623" sort="K" type="이름">汝河</index>, 首進排軋之疏, 俄而議禮之訟作矣。 先正之跡, 轉益畸危, 纔畢山陵, 蒼黃去朝。 其所謂不受<index num="1589581_0" sort="K" type="지명">永安</index>之詔云云, 無非杜撰之語, 則顧何足多辨哉? 先正之歸自<index num="1589582_0" sort="K" type="지명">長鬐</index>也, 黽勉造朝, 而辛酉進修之箚, 癸亥世室之疏, 丁卯論事之章, 無非此義。 若<index num="1589583_0" ref="M_0016683" sort="K" type="이름">金瑬</index>之碑, 果是先正之所撰, 而宗社計云者, 實非先正之言, 乃<index num="1589584_0" ref="M_0016683" sort="K" type="이름">金瑬</index>筵對之語, 而亦非專拾主和之事, 則今欲以此捏合, 而又翻以爲先正之言者, 不幾於詩禮發塚乎? 自古小人之陷害忠賢者, 未有不以勳戚二字, 爲脅持之資者。 昔<index num="1589585_0" ref="M_0055958" sort="A" type="이름">趙汝愚</index>, <index num="1589586_0" sort="K" type="지명">宋</index>之崇勳也, 宗戚也, <index num="1589587_0" ref="M_0033766" sort="A" type="이름">朱夫子</index>未嘗不以勳戚, 而有所自異。 先正當日之所與交者, 皆是戚里中善類, 則又豈可拒絶之也? 況其馴致辛丑之變者, 尤極慘毒。 先正之沒, 今幾四十年矣。 末後之事, 何干於先正, 而彼輩之說, 與向來<index num="1589588_0" ref="M_0021116" sort="K" type="이름">慶濟</index>之疏, 同一肝腸, 吁亦怕矣。 蓋<index num="1589589_0" ref="M_0003849" sort="K" type="이름">宣擧</index>一人之身, 判作兩截, 則當褒而褒, 當貶而貶, 無怪乎其辭之低昻, 而<index num="1589590_0" ref="M_0001685" sort="K" type="이름">金壽恒</index>一生尊信先正, <index num="1589591_0" ref="M_0002101" sort="K" type="이름">良佐</index>則<index num="1589592_0" ref="M_0001685" sort="K" type="이름">壽恒</index>婦弟, 每欲交構兩好, 貽書諸甥, 公然做出無根之語, 欲使背絶先正之門。 至於狗犬之說, <index num="1589593_0" ref="M_0000417" sort="K" type="이름">鑴</index>之家在<index num="1589594_0" sort="K" type="지명">狗洞</index>, 故因其所居而謂之狗<index num="1589595_0" sort="K" type="이름">尹</index>, 不是異事。 假令<index num="1589596_0" ref="M_0000417" sort="K" type="이름">鑴</index>居在<index num="1589597_0" sort="K" type="지명">龍洞</index>, 則亦將稱之以龍<index num="1589598_0" sort="K" type="이름">尹</index>。 然則此輩, 又將以稱詡, 病之耶? 噫! 此輩血脈, 與<index num="1589599_0" ref="M_0000417" sort="K" type="이름">鑴</index>流通, 言議節節符合, 己酉之書, 與<index num="1589600_0" ref="M_0000417" sort="K" type="이름">鑴</index>賊庚子論禮之說, 同意, 辛酉之書, 與凶徒己巳戕賢之計同語, <index num="1589601_0" sort="K" type="이름">鐸</index>等之疏, 又專用<index num="1589602_0" ref="M_0021116" sort="K" type="이름">慶濟</index>舊語。 先正戊辰一疏, 卽老臣慮國之意, 炳炳血忱, 斷無他腸, 而凶徒媒孽, 竟罹慘禍, 士林之慟, 至今未已, 而<index num="1589603_0" ref="M_0021116" sort="K" type="이름">慶濟</index>發之於前, <index num="1589604_0" sort="K" type="이름">鐸</index>等繼之於後, 言<index num="1589605_0" ref="M_0000417" sort="K" type="이름">鑴</index>之言, 行<index num="1589606_0" ref="M_0000417" sort="K" type="이름">鑴</index>之行, 一意紹述, 無異師承, 而猶且目之以一奸臣者, 依俙有似乎倒戈手段, 亦可謂善學其師表矣。 至於<index num="1589607_0" sort="K" type="지명">永貞</index>之詩, 卽<index num="1589608_0" sort="K" type="지명">唐</index>臣<index num="1589609_0" ref="M_0034188" sort="A" type="이름">韓愈</index>, 譏切當時小人之作黨甲乙。 <index num="1589610_0" ref="M_0000417" sort="K" type="이름">鑴</index>黨盤據之時, 先正之吟詠其詩者, 實仁人、君子傷時憫俗之意, 則何可以此, 搆罪於先正哉? 若以此律之以(饑)<annotation type="교감주">
+                  <noteTitle>〔譏〕</noteTitle>
+                </annotation>訕, 則<index num="1589611_0" ref="M_0034188" sort="A" type="이름">韓文公</index>當首被其罪矣。 所可痛者, 爲奴偸生, 得罪名義, 而先朝黜享之<index num="1589612_0" ref="M_0003849" sort="K" type="이름">宣擧</index>, 則晏然復享, 扶正斥邪, 身任大義, 而先朝崇報之先正, 則遽欲撤享, 今日擧措, 一可倒置, 而百世之後, 其將以今日爲何如時耶?</quotation>
+            </paragraph>
+            <paragraph align="center">前承旨<index num="1589613_0" ref="M_0004120" sort="K" type="이름">李喬岳</index>, 又上疏訟辨曰:</paragraph>
+            <paragraph align="center">
+              <quotation>先正平日一言一動, 動法<index num="1589614_0" ref="M_0033766" sort="A" type="이름">朱子</index>, 以明<index num="1589615_0" type="서명">《春秋》</index>大義, 爲第一件事。 淵源、門路, 得之於<index num="1589616_0" ref="M_0005993" sort="K" type="이름">文正公</index>
+                <index num="1589617_0" ref="M_0005993" sort="K" type="이름">趙光祖</index>, 平生慕悅, 至死尊敬, 末梢受禍, 前後一致, 則一祠竝享, 於禮亦宜。 曾在先朝, 特允其請, 邇來三十年間, 朝無異論, 士無異議, 丙申年玉候沈淹之中, 手書<index num="1589618_0" sort="K" type="지명">華陽書院</index>四字, 遣承旨別爲賜祭。 雖有一種不悅之徒, 傳襲<index num="1589619_0" ref="M_0002101" sort="K" type="이름">羅良佐</index>輩圈法, 己巳黨人之餘套, 必欲汚辱先正, 構害先正, 而不敢生意者, 特其心有所畏忌而然耳。 含憾蓄怨, 忍而待日, 及夫仙馭已遠之後, 群起躍然, 乘時跳踉, 構捏之不足, 又從以醜衊之, 醜衊之不足, 又從以粧撰之, 尙忍言哉? 伏願殿下, 體先王予志勿撓之敎, 亟加痛斥, 俾勿肆行。</quotation>
+            </paragraph>
+            <paragraph align="center">竝命還給。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10303023_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>장령 서종하가 곽진위와 이교악을 변방에 유배시킬 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-03-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="394면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>사상(思想)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○掌令<index num="1589620_0" ref="M_0066643" sort="K" type="이름">徐宗廈</index>啓曰: "進士<index num="1589621_0" ref="M_0001118" sort="K" type="이름">郭鎭緯</index>疏語, 醜悖無倫, 全不顧忌。 故相臣<index num="1589622_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>
+              <index num="1589623_0" sort="K" type="지명">道峰</index>配享, 當黜當仍, 自有一世公議, 則有何一毫干涉於先正父子, 而揷入剩語, 公肆侵辱? 至於卞<index num="1589624_0" type="서명">《永貞》</index>之詩, 則以<index num="1589625_0" ref="M_0003011" sort="K" type="이름">時烈</index>比<index num="1589626_0" ref="M_0034188" sort="A" type="이름">韓愈</index>, 雖出於渠輩尊慕<index num="1589627_0" ref="M_0003011" sort="K" type="이름">時烈</index>之意, 而以先朝比<index num="1589628_0" ref="M_0067736" sort="K" type="이름">順宗</index>果何如耶? 使此說肆行, 則<index num="1589629_0" ref="M_0062032" sort="K" type="이름">喜</index>賊續<index num="1589630_0" type="서명">《永貞》</index>之詩, 亦可謂摸倣<index num="1589631_0" ref="M_0034188" sort="A" type="이름">韓愈</index>, 而爲救解之張本耶? 其流之害, 終至於人紀滅絶, 國家亂亡而後已。 請絶島定配。 <index num="1589632_0" ref="M_0004120" sort="K" type="이름">李喬岳</index>托以爲師伸辨, 投進一疏, 强引題外之語, 誣辱先正父子, 罔有紀極, 噫嘻痛矣! 且所謂含憾蓄怨, 仙馭已遠等說, 尤極絶悖。 <index num="1589633_0" ref="M_0004120" sort="K" type="이름">喬岳</index>亦是殿下之臣子, 則何敢以此等語, 萠於心而發諸口耶? 其無倫無嚴之罪, 不可不懲。 請命遠竄。" 上允之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-26L0" type="서기"/>
+            <dateOccured type="간지">乙巳</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 26일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 26일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 26일</dateOccured>
+            <dateOccured type="단기">4056년 3월 26일</dateOccured>
+            <dateOccured type="일본연호">년 3월 26일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이교악을 경산현에 유배시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="394면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>사상(思想)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙巳/竄<index num="1589634_0" ref="M_0004120" sort="K" type="이름">李喬岳</index>於<index num="1589635_0" sort="K" type="지명">慶山縣</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10303027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 3月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-03-27L0" type="서기"/>
+            <dateOccured type="간지">丙午</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 3월 27일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 3월 27일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 3월 27일</dateOccured>
+            <dateOccured type="단기">4056년 3월 27일</dateOccured>
+            <dateOccured type="일본연호">년 3월 27일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 3월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10303027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>곽진위·안윤중을 금갑도·운산군에 유배시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-03-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="394면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>사상(思想)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙午/配<index num="1589636_0" ref="M_0001118" sort="K" type="이름">郭鎭緯</index>於<index num="1589637_0" sort="K" type="지명">金甲島</index>, <index num="1589638_0" ref="M_0049931" sort="K" type="이름">安允仲</index>於<index num="1589639_0" sort="K" type="지명">雲山郡</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103040">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 四月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 四月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10304004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 4月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-04-04L0" type="서기"/>
+            <dateOccured type="간지">癸丑</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 4월 4일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 4월 4일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 4월 4일</dateOccured>
+            <dateOccured type="단기">4056년 4월 4일</dateOccured>
+            <dateOccured type="일본연호">년 4월 4일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 4월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10304004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대사헌 김일경이 사직을 청하는 소장을 올리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-04-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="394면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸丑/賜大司憲<index num="1589640_0" ref="M_0001827" sort="K" type="이름">金一鏡</index>疏批, 令勿辭察職。 先是, 文衡缺, 前大提學<index num="1589641_0" ref="M_0000052" sort="K" type="이름">姜鋧</index>主其薦, 希其旨, 以<index num="1589642_0" ref="M_0001827" sort="K" type="이름">金一鏡</index>爲首, 及圈點也, <index num="1589643_0" ref="M_0004106" sort="K" type="이름">李光佐</index>、<index num="1589644_0" ref="M_0006212" sort="K" type="이름">趙泰億</index>點數, 與<index num="1589645_0" ref="M_0001827" sort="K" type="이름">一鏡</index>等。 其時相臣用職序爲第, 非古例, 而蓋惡<index num="1589646_0" ref="M_0001827" sort="K" type="이름">一鏡</index>之居先也。 <index num="1589647_0" ref="M_0001827" sort="K" type="이름">一鏡</index>以此憾恨。 其後<index num="1589648_0" ref="M_0005808" sort="K" type="이름">鄭壽期</index>劾<index num="1589649_0" ref="M_0000052" sort="K" type="이름">姜鋧</index>, 則<index num="1589650_0" ref="M_0001827" sort="K" type="이름">一鏡</index>答<index num="1589651_0" ref="M_0004440" sort="K" type="이름">李師尙</index>書曰: "<index num="1589652_0" sort="K" type="이름">姜</index>台因文衡薦望之崖異於其意, 兵、刑兩台, 嗾<index num="1589653_0" sort="K" type="이름">鄭</index>而論之。" <index num="1589654_0" sort="K" type="이름">姜</index>台, 指<index num="1589655_0" ref="M_0000052" sort="K" type="이름">鋧</index>也。 兩台, 指<index num="1589656_0" ref="M_0004106" sort="K" type="이름">光佐</index>、<index num="1589657_0" ref="M_0006212" sort="K" type="이름">泰億</index>也。 斯書傳播搢紳間, 當之者皆懷不安。 及<index num="1589658_0" ref="M_0004106" sort="K" type="이름">光佐</index>遞, 而<index num="1589659_0" ref="M_0006212" sort="K" type="이름">泰億</index>代之, 終發其事, <index num="1589660_0" ref="M_0005808" sort="K" type="이름">壽期</index>亦疏辨之。 大司諫<index num="1589661_0" ref="M_0001483" sort="K" type="이름">金東弼</index>疏斥<index num="1589662_0" ref="M_0001827" sort="K" type="이름">一鏡</index>, 而又論其做言排軋之狀, <index num="1589663_0" ref="M_0001827" sort="K" type="이름">一鏡</index>遂對辨曰: "臣之至愚, 不恤身謀, 妄謂君讎必討, 國賊必誅, 秪以扶安宗社爲期, 不以得罪巨室爲慮, 冥行墑埴, 迨周一年, 所以有今日之禍也。 重臣之疏一出, 左右迭攻, 聲罪狼藉。 噫! 敎文撰進, 非臣之任, 適會太學士告病, 藝苑違召, 臣承牌詣闕。 時値昏暮, 半夜賓廳, 倉卒應製, 荒蕪拙澁, 自愧有駭。 句語出處, 字畫傍邊, 蒼茫不記, 儕友在座, 間或指導。 伊日事實, 不過如此。 論臣所謂揷入別語, 引喩乖謬云者, 臣不省何所指摘, 而作者無心寫出, 看者用意抉摘, 則瀜洩之引於母后, 拒諫之用於君父者, 皆將墮於罟穽, 其爲計不亦太甚乎? 一日, <index num="1589664_0" ref="M_0004440" sort="K" type="이름">李師尙</index>以書抵臣曰: ‘<index num="1589665_0" ref="M_0005808" sort="K" type="이름">鄭壽期</index>再疏, 謂<index num="1589666_0" ref="M_0000052" sort="K" type="이름">姜鋧</index>以文衡落薦之人, 何可當文衡薦望? 此何故也?’ 此際適有風傳, 果信筆答之輕信傳聞, 實涉率爾, 安得辭其責乎? <index num="1589667_0" ref="M_0004440" sort="K" type="이름">師尙</index>, 情同兄弟, 赫蹄往復, 偶爾翻傳, 爲臣大案, 登諸章牘, 臣未知事體道理, 果何如, 而究厥所由, 莫非臣罪。 <index num="1589668_0" ref="M_0001483" sort="K" type="이름">東弼</index>又以爲: ‘論議乖張, 搏擊肆行, 職由於臣。’ 臣在憲職, 討逆之外, 無抨彈, 未知搏擊者何人? 豈以年少新進臺閣上言議, 疑臣或有與聞而主張者耶? 至於將任之不稱, 臣亦自知。 興作多端之云, 儘有委折, 而第臣家園之內, 治基營材, 建立數間祠宇。 以此罪臣, 臣何敢辭? <index num="1589669_0" ref="M_0003397" sort="K" type="이름">咸原</index>再疏, 詬臣甚急。 臣之口對、疏陳, 槪擧<index num="1589670_0" ref="M_0031722" sort="K" type="이름">三錫</index>之供辭而已, 惜乎<index num="1589671_0" ref="M_0003397" sort="K" type="이름">咸原</index>, 何不於招問委折之後, 卽爲辨陳, 卒乃移乙於臣, 怒室色市, 豈不厄哉? 伊日其言是矣, 明敎夬示聖衷之所存, <index num="1589672_0" ref="M_0003397" sort="K" type="이름">咸原</index>之謂臣勒定, 抑獨何哉? 況稟白蒙允之事, 書出傳旨, 非今斯今。 國舅曾經政院堂郞, 豈遽忘之, 而斥臣爲罪, 至謂擅行也哉? 乞命鐫削, 退守愚分。" 疏入在前冬, 久不報, 大臣、筵臣, 累以爲言, 今始下答。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10304027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 4月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-04-27L0" type="서기"/>
+            <dateOccured type="간지">丙子</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 4월 27일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 4월 27일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 4월 27일</dateOccured>
+            <dateOccured type="단기">4056년 4월 27일</dateOccured>
+            <dateOccured type="일본연호">년 4월 27일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 4월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10304027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라의 정사·부사가 서울에 들어오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-04-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="394면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">
+              <annotation type="교감주">
+                <noteTitle>
+                  <annotation type="교감주">
+                    <noteTitle>〔○〕</noteTitle>
+                  </annotation>
+                </noteTitle>
+              </annotation>丙子/<index num="1589673_0" sort="K" type="지명">靑</index>使內閣學士禮部侍郞<index num="1589674_0" sort="M" type="이름">常保</index>、副使頭等侍衛伊都<index num="1589675_0" sort="M" type="이름">額眞明</index>入京。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10304028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 4月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-04-28L0" type="서기"/>
+            <dateOccured type="간지">丁丑</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 4월 28일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 4월 28일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 4월 28일</dateOccured>
+            <dateOccured type="단기">4056년 4월 28일</dateOccured>
+            <dateOccured type="일본연호">년 4월 28일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 4월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10304028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>집의 조성복의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-04-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="394면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁丑/執義<index num="1589676_0" ref="M_0006074" sort="K" type="이름">趙聖復</index>死於獄中。 <index num="1589677_0" ref="M_0006074" sort="K" type="이름">聖復</index>, <index num="1589678_0" sort="K" type="지명">楊州</index>
+              <index num="1589679_0" sort="K" type="지명">豐壤</index>人也。 上有疾無嗣, 諸大臣白王大妃, 冊立王世弟, <index num="1589680_0" ref="M_0006074" sort="K" type="이름">聖復</index>上疏, 論爲儲君勉學之道, 仍請引接臣僚, 裁決庶務之時, 輒令世弟, 侍側參聽, 以爲隨事訓迪之地。 疏入四日, 始下批, 有留意之敎。 其夜仍下敎曰: "予有奇疾, 政事多滯, 大小國事, 幷令世弟裁斷。" 旋因諸臣爭執, 遂還寢, 罷<index num="1589681_0" ref="M_0006074" sort="K" type="이름">聖復</index>職, 安置<index num="1589682_0" sort="K" type="지명">珍島郡</index>。 明年春, <index num="1589683_0" ref="M_0002267" sort="K" type="이름">虎龍</index>上變書, 誣逼世弟, 因起大獄, 殺四大臣, 復逮<index num="1589684_0" ref="M_0006074" sort="K" type="이름">聖復</index>於獄, 施以酷刑, <index num="1589685_0" ref="M_0006074" sort="K" type="이름">聖復</index>奮然曰: "使吾之言, 得行於當日, 則<index num="1589686_0" ref="M_0002494" sort="K" type="이름">尙儉</index>之變、<index num="1589687_0" ref="M_0002267" sort="K" type="이름">虎龍</index>之誣, 何由以生? 今而後庶可以知吾言之忠, 而反陷不測之罪, 必欲一殺而後己者, 何也?" 會天大旱, <index num="1589688_0" ref="M_0006317" sort="K" type="이름">錫恒</index>言: "刑訊臺諫, 非美事, 且與逆獄不同, 請命還配。" 上從之。 改竄<index num="1589689_0" sort="K" type="지명">旌義縣</index>, 六月渡海抵配。 凶黨又請鞫, 十月復逮至獄, 累加刑, 遂死于獄。 時年四十三。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103050">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 五月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 五月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10305001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 5月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-05-01L0" type="서기"/>
+            <dateOccured type="간지">己卯</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 5월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 5월 1일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 5월 1일</dateOccured>
+            <dateOccured type="단기">4056년 5월 1일</dateOccured>
+            <dateOccured type="일본연호">년 5월 1일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 5월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10305001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>송시열과 김창협의 직명을 추탈할 것과 성문준을 파산 서원에 추배할 것을 청하는 유학 김홍석의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="394면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사상(思想)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔己卯/<index num="1589690_0" sort="K" type="지명">京畿</index>幼學<index num="1589691_0" ref="M_0021683" sort="K" type="이름">金弘錫</index>等上疏。 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>先正臣<index num="1589692_0" ref="M_0000646" sort="K" type="이름">文成公</index>
+                <index num="1589693_0" ref="M_0000646" sort="K" type="이름">李珥</index>、<index num="1589694_0" ref="M_0062151" sort="K" type="이름">文簡公</index>
+                <index num="1589695_0" ref="M_0062151" sort="K" type="이름">成渾</index>, 生同志死同傳, 眞百世不易之正論, 非幺麿後生所可一揚一抑, 私自高下者也。 <index num="1589696_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>, 貌假學問之名, 口誦<index num="1589697_0" ref="M_0000646" sort="K" type="이름">珥</index>、<index num="1589698_0" ref="M_0062151" sort="K" type="이름">渾</index>之道, 以爲欺世發身之計。 其時大小文字, 多出其手, 其所褒揚<index num="1589699_0" ref="M_0062151" sort="K" type="이름">成渾</index>, 靡不用極, 兩賢臣年譜序, 亦渠之所撰也。 一自與先正臣<index num="1589700_0" ref="M_0003849" sort="K" type="이름">尹宣擧</index>父子釁成之後, 以<index num="1589701_0" ref="M_0062151" sort="K" type="이름">成渾</index>爲<index num="1589702_0" ref="M_0003849" sort="K" type="이름">宣擧</index>之外祖, 公然移怒於<index num="1589703_0" ref="M_0062151" sort="K" type="이름">成渾</index>, 至於簡牘之間, 往往略示微貶之意。 逮夫<index num="1589704_0" ref="M_0062151" sort="K" type="이름">成渾</index>後孫故縣令<index num="1589705_0" ref="M_0067321" sort="K" type="이름">至善</index>, 以<index num="1589706_0" ref="M_0003849" sort="K" type="이름">尹宣擧</index>之高弟, 與其同門故掌令<index num="1589707_0" ref="M_0002101" sort="K" type="이름">羅良佐</index>等, 疏辨師門之誣, 故大加慍怒, 公肆誣辱於答其徒<index num="1589708_0" ref="M_0005536" sort="K" type="이름">李喜朝</index>書。 及其士論齊憤, 辨疏將發, 則渠先投疏, 佯爲自明, 且創出甲午年論奏本事, 勒謂之和議, 而亦托以<index num="1589709_0" ref="M_0001840" sort="K" type="이름">金長生</index>之言而稱之曰: "壬辰以後, 不無可疑", 末乃以渠之言結之曰: "據此則先師, 亦知<index num="1589710_0" sort="K" type="이름">牛溪</index>之出於不得已也。" 臣等請明其奏本之事, 元非和議也。 <index num="1589711_0" ref="M_0016241" sort="K" type="이름">顧養謙</index>時把大權, 惟意高下, 大則變易旌節, 召還<index num="1589712_0" ref="M_0031591" sort="A" type="이름">劉綎</index>, 小則沮遏奏請, 閉關不通, 危機交至, 則抑可與之相抗, 置存亡於度外歟? 抑可不得已而强從其言, 俾解慍怒, 以存垂盡之國命耶? 此所以<index num="1589713_0" ref="M_0047647" sort="K" type="이름">宣廟</index>引接<index num="1589714_0" sort="K" type="이름">(故澤)<annotation type="교감주">
+                    <noteTitle>〔胡澤〕</noteTitle>
+                  </annotation>
+                </index>時, 不得已而許從其請者也。 <index num="1589715_0" ref="M_0062151" sort="K" type="이름">成渾</index>當其俯詢奏本大旨之時, 對曰: "<index num="1589716_0" ref="M_0016241" sort="K" type="이름">顧摠督</index>使我國請<index num="1589717_0" sort="J" type="지명">倭</index>封貢, 此則義不可爲也。 然爲渠脅持, 不免上奏, 則當陳請曰: ‘小邦之於<index num="1589718_0" sort="J" type="지명">倭奴</index>, 有不共戴天之讎, 雖死不忍言和, 而天朝容之爲屬國, 使小邦, 無忘讎釋怨之恥, 得紓朝夕之危, 則亦天朝之賜也,’ 以此爲措辭, 於義似無悖矣" 云。 此其進對之大略也。 <index num="1589719_0" ref="M_0001840" sort="K" type="이름">金長生</index>尊慕<index num="1589720_0" ref="M_0062151" sort="K" type="이름">成渾</index>, 不下於門弟子者, 擧世之所共知也。 苟使有疑於心, 則何不一質疑於<index num="1589721_0" ref="M_0062151" sort="K" type="이름">成渾</index>之生前, 而徒爲議後之言, 密與<index num="1589722_0" ref="M_0003011" sort="K" type="이름">時烈</index>傳授, 以爲藉口誣賢之資哉? 且其子<index num="1589723_0" ref="M_0000317" sort="K" type="이름">集</index>, 撰<index num="1589724_0" ref="M_0062151" sort="K" type="이름">成渾</index>墓表, 略曰: "行止必以其義, 夷險不易, 所守出處之正, 可質神明", 結之曰: "<index num="1589725_0" ref="M_0000317" sort="K" type="이름">集</index>早遊門下, 且因父師, 習聞出處言行。" <index num="1589726_0" ref="M_0001840" sort="K" type="이름">長生</index>若以議奏本事, 謂和議而疵毁之, 則<index num="1589727_0" ref="M_0000317" sort="K" type="이름">集</index>奈何以因父師習聞之說贊揚, 而獨<index num="1589728_0" ref="M_0003011" sort="K" type="이름">時烈</index>得聞疵毁之語耶? 噫! 怒人非己, 誣人之先, 如此之甚, 仍竝與<index num="1589729_0" ref="M_0062151" sort="K" type="이름">成渾</index>之子贈判書<index num="1589730_0" ref="M_0002881" sort="K" type="이름">文濬</index>而誣辱之曰: "<index num="1589731_0" sort="K" type="이름">坡</index>門諸公, 頗附<index num="1589732_0" ref="M_0005885" sort="K" type="이름">仁弘</index>, 專咎<index num="1589733_0" ref="M_0054803" sort="K" type="이름">松江</index>。" <index num="1589734_0" ref="M_0002881" sort="K" type="이름">文濬</index>醇純之性, 出於天賦, 誠敬之學, 得之家庭。 擢之聞名之批, <index num="1589735_0" ref="M_0000817" sort="K" type="이름">仁廟</index>之知臣莫如也, 孝友之稱, <index num="1589736_0" ref="M_0062151" sort="K" type="이름">成渾</index>之知子莫如也。 其賢若此, 附<index num="1589737_0" ref="M_0005885" sort="K" type="이름">仁弘</index>而可爲耶? 己丑逆獄, <index num="1589738_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>爲委官, 而<index num="1589739_0" ref="M_0006329" sort="K" type="이름">崔永慶</index>遽出賊招, 至逮鞫獄, 則<index num="1589740_0" ref="M_0054803" sort="K" type="이름">澈</index>實救解而免之。 及夫再鞫, 則<index num="1589741_0" ref="M_0054803" sort="K" type="이름">澈</index>已遞委官矣。 已遞委官, 則以搆殺<index num="1589742_0" ref="M_0006329" sort="K" type="이름">永慶</index>, 勒成罪案, 搆捏<index num="1589743_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>者, 旣極萬不近似, 而況連在山野之<index num="1589744_0" ref="M_0062151" sort="K" type="이름">成渾</index>乎? 只以友善<index num="1589745_0" ref="M_0054803" sort="K" type="이름">澈</index>之故, <index num="1589746_0" ref="M_0005885" sort="K" type="이름">仁弘</index>嗾其徒, 反以誣<index num="1589747_0" ref="M_0054803" sort="K" type="이름">澈</index>之目, 又誣<index num="1589748_0" ref="M_0062151" sort="K" type="이름">渾</index>, 禍及泉壤, 則<index num="1589749_0" ref="M_0002881" sort="K" type="이름">文濬</index>以<index num="1589750_0" ref="M_0062151" sort="K" type="이름">渾</index>之子, 其冤鬱悲憤之心, 當如何哉? 戊申年<index num="1589751_0" ref="M_0062151" sort="K" type="이름">渾</index>之門人<index num="1589752_0" ref="M_0003140" sort="K" type="이름">申應榘</index>, 爲師伸辨, 兼言<index num="1589753_0" ref="M_0054803" sort="K" type="이름">澈</index>之決爲君子, 訟其被誣, 而略及小失, 如<index num="1589754_0" ref="M_0062151" sort="K" type="이름">渾</index>辨<index num="1589755_0" ref="M_0000646" sort="K" type="이름">珥</index>而不諱。 其率爾處, 一傳再傳, 轉輾失實, <index num="1589756_0" ref="M_0054803" sort="K" type="이름">鄭澈</index>之子, 故參判<index num="1589757_0" ref="M_0005955" sort="K" type="이름">弘溟</index>, 寄故參判<index num="1589758_0" ref="M_0004319" sort="K" type="이름">李命俊</index>書, 不無過疑相咎之話, 而及明知<index num="1589759_0" ref="M_0002881" sort="K" type="이름">文濬</index>之心事, 斷斷無他, 則宿疑全消, 交誼不衰。 是以<index num="1589760_0" ref="M_0005955" sort="K" type="이름">弘溟</index>之姪, 故掌令<index num="1589761_0" sort="K" type="이름">瀁</index>, 裒集其文集, 刪其書而不錄, 誠以其時說話, 率多訛誤故也。 其時故<index num="1589762_0" ref="M_0003793" sort="K" type="이름">海平府院君</index>
+                <index num="1589763_0" ref="M_0003793" sort="K" type="이름">尹根壽</index>, 亦不能不動於浮謗, 以<index num="1589764_0" ref="M_0002881" sort="K" type="이름">文濬</index>不能力止申疏爲非, 傳之者, 又太過, 則<index num="1589765_0" ref="M_0002881" sort="K" type="이름">文濬</index>作書自辨, 極其明白, 昭載文集, 則夫復何疑? 噫! <index num="1589766_0" ref="M_0001955" sort="K" type="이름">金昌協</index>, 卽<index num="1589767_0" ref="M_0001611" sort="K" type="이름">金尙憲</index>之孫也。 忘其祖仰<index num="1589768_0" ref="M_0062151" sort="K" type="이름">成渾</index>之意, 附合<index num="1589769_0" ref="M_0003011" sort="K" type="이름">時烈</index>之餘論, 妄加議論, 任意予奪, 列書<index num="1589770_0" ref="M_0005993" sort="K" type="이름">趙光祖</index>、<index num="1589771_0" ref="M_0000796" sort="K" type="이름">李滉</index>、<index num="1589772_0" ref="M_0000646" sort="K" type="이름">李珥</index>三賢道德, 而贊美之, 獨於<index num="1589773_0" ref="M_0062151" sort="K" type="이름">渾</index>, 不數之, 以示操縱之意。 渠之言, 雖不足爲輕重, 而其用心之猥越且悖者, 有足痛惋。 且其祖<index num="1589774_0" ref="M_0001611" sort="K" type="이름">尙憲</index>, 題其墓曰: "平居收束, 檢制言行, 無不可爲法者" 云云, 而渠敢詆毁若是, 背祖侮賢之罪, 可勝誅哉? <index num="1589775_0" ref="M_0003011" sort="K" type="이름">時烈</index>、<index num="1589776_0" ref="M_0001955" sort="K" type="이름">昌協</index>之文集, 皆已刊行於世。 亟命追奪<index num="1589777_0" ref="M_0003011" sort="K" type="이름">時烈</index>、<index num="1589778_0" ref="M_0001955" sort="K" type="이름">昌協</index>職名, 且請追配<index num="1589779_0" ref="M_0002881" sort="K" type="이름">成文濬</index>於<index num="1589780_0" ref="M_0062151" sort="K" type="이름">成渾</index>
+                <index num="1589781_0" sort="K" type="지명">坡山書院</index>。</quotation>
+            </paragraph>
+            <paragraph align="center">上令該曹稟處。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10305002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 5月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-05-02L0" type="서기"/>
+            <dateOccured type="간지">庚辰</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 5월 2일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 5월 2일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 5월 2일</dateOccured>
+            <dateOccured type="단기">4056년 5월 2일</dateOccured>
+            <dateOccured type="일본연호">년 5월 2일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 5월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10305002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이교악을 동래부에 찬배하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-05-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="12장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="395면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚辰/竄<index num="1589782_0" ref="M_0004120" sort="K" type="이름">李喬岳</index>於<index num="1589783_0" sort="K" type="지명">東萊府</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10305008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 5月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-05-08L0" type="서기"/>
+            <dateOccured type="간지">丙戌</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 5월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 5월 8일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 5월 8일</dateOccured>
+            <dateOccured type="단기">4056년 5월 8일</dateOccured>
+            <dateOccured type="일본연호">년 5월 8일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 5월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10305008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라의 사신이 경성을 출발하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-05-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="12장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="395면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙戌/<index num="1589784_0" sort="K" type="지명">淸</index>使發京城。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 六月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 六月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10306001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 6月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-06-01L0" type="서기"/>
+            <dateOccured type="간지">戊申</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 6월 1일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 6월 1일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 6월 1일</dateOccured>
+            <dateOccured type="단기">4056년 6월 1일</dateOccured>
+            <dateOccured type="일본연호">년 6월 1일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 6월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10306001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>원임 이조 판서 송상기의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-06-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="12장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="395면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔戊申/原任吏曹判書<index num="1589785_0" ref="M_0002992" sort="K" type="이름">宋相琦</index>卒於<index num="1589786_0" sort="K" type="지명">康津</index>。 <index num="1589787_0" ref="M_0002992" sort="K" type="이름">相琦</index>字<index num="1589788_0" ref="M_0002992" sort="K" type="이름">玉汝</index>, <index num="1589789_0" sort="K" type="지명">恩津</index>人。 禮曹判書<index num="1589790_0" ref="M_0002958" sort="K" type="이름">奎濂</index>子也。 當辛丑冬, <index num="1589791_0" ref="M_0006208" sort="K" type="이름">趙泰耉</index>之封還王大妃諺敎也, <index num="1589792_0" ref="M_0002992" sort="K" type="이름">相琦</index>以兵曹判書, 上疏曰:</paragraph>
+            <paragraph align="center">
+              <quotation>臣於罷黜後, 得聞慈敎中, 有締結宮人、宦寺者, 依律處置之敎, 而賓廳啓則曰: "一宮人締結宦寺。" 此大違慈旨也。</quotation>
+            </paragraph>
+            <paragraph align="center">於是, <index num="1589793_0" ref="M_0006208" sort="K" type="이름">泰耉</index>乃上疏謂<index num="1589794_0" ref="M_0002992" sort="K" type="이름">相琦</index>矯誣慈旨, 竄<index num="1589795_0" sort="K" type="지명">康津縣</index>。 至是, 以疾卒, 時年六十七。 <index num="1589796_0" ref="M_0002992" sort="K" type="이름">相琦</index>爲文多立就, 館閣諸公, 皆以爲: "<index num="1589797_0" ref="M_0002992" sort="K" type="이름">玉汝</index>之敏, 不可及也。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10306004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 6月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-06-04L0" type="서기"/>
+            <dateOccured type="간지">辛亥</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 6월 4일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 6월 4일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 6월 4일</dateOccured>
+            <dateOccured type="단기">4056년 6월 4일</dateOccured>
+            <dateOccured type="일본연호">년 6월 4일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 6월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10306004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>판의금 심단이 임창을 정형에 처할 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-06-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="12장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="395면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛亥/判義禁<index num="1589798_0" ref="M_0058574" sort="K" type="이름">沈檀</index>疏請<index num="1589799_0" ref="M_0000844" sort="K" type="이름">任敞</index>, 依<index num="1589800_0" ref="M_0003932" sort="K" type="이름">尹志述</index>例, 直爲正刑。 戶曹判書<index num="1589801_0" ref="M_0005312" sort="K" type="이름">李台佐</index>曰: "罪人之必待結案正刑, 卽三尺常典也。 一時特敎, 不可引例, 宜待結案正法。" 上從之。 <index num="1589802_0" ref="M_0058574" sort="K" type="이름">檀</index>復請對奏曰: "向來凶逆, 醞釀禍機, 凡幾年所, 而凶言逆說, <index num="1589803_0" ref="M_0000844" sort="K" type="이름">敞</index>實爲倡。 初疏有臣子不忍聞之說, 而其後刪改之疏, 亦是不道罔測之言。 貫盈之惡, 比<index num="1589804_0" sort="K" type="이름">健</index>賊, 無輕重。 <index num="1589805_0" sort="K" type="이름">健</index>賊旣不待結案, 則何獨於<index num="1589806_0" ref="M_0000844" sort="K" type="이름">敞</index>賊持疑哉? 先朝, <index num="1589807_0" ref="M_0006055" sort="K" type="이름">趙嗣基</index>直爲正刑, 在近事, 有<index num="1589808_0" ref="M_0003932" sort="K" type="이름">志述</index>。 蓋罪在大辟, 不拘結案, 請直爲正刑。" 上亦從之。 承旨<index num="1589809_0" ref="M_0004966" sort="K" type="이름">李翊漢</index>曰: "<index num="1589810_0" ref="M_0005312" sort="K" type="이름">李台佐</index>請待結案正法, 旣蒙允, 今因<index num="1589811_0" ref="M_0058574" sort="K" type="이름">沈檀</index>之奏, 又命正刑, 不但處分顚倒, 實關後弊, 請議大臣處之。" <index num="1589812_0" ref="M_0058574" sort="K" type="이름">檀</index>又力請直斷, 上曰: "依爲之。" 同義禁<index num="1589813_0" ref="M_0004307" sort="K" type="이름">李明彦</index>, 疏論判義禁<index num="1589814_0" sort="K" type="이름">筵</index>奏得宜, <index num="1589815_0" ref="M_0000844" sort="K" type="이름">任敞</index>乃死。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10306006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 6月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-06-06L0" type="서기"/>
+            <dateOccured type="간지">癸丑</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 6월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 6월 6일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 6월 6일</dateOccured>
+            <dateOccured type="단기">4056년 6월 6일</dateOccured>
+            <dateOccured type="일본연호">년 6월 6일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 6월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10306006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조태구의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-06-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="12장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="395면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸丑/<index num="1589816_0" ref="M_0006208" sort="K" type="이름">趙泰耉</index>死。 始, <index num="1589817_0" ref="M_0050728" sort="K" type="이름">英宗</index>在潛邸, <index num="1589818_0" ref="M_0006208" sort="K" type="이름">泰耉</index>陰懷畏忌, 創爲冒嫌之說, 而危逼之。 儲位已建, 逆臣<index num="1589819_0" ref="M_0003626" sort="K" type="이름">柳鳳輝</index>, 以不臣之心, 投進凶疏, 而肆然箚救, 奬以忠志。 及代理有命, 僭入北門, 必沮遏乃已。 <index num="1589820_0" ref="M_0002267" sort="K" type="이름">虎龍</index>之變, 陳<index num="1589821_0" sort="K" type="이름">梁</index>獄毋究之語, 置世弟於黯昧之地, 鍜鍊誣獄, 無所不至。 若論凶徒之巨魁, 非<index num="1589822_0" ref="M_0006208" sort="K" type="이름">泰耉</index>伊誰? 王章未加, 臥死牖下, 此豈天討有罪之義乎? 至<index num="1589823_0" ref="M_0050728" sort="K" type="이름">英宗</index>朝, 三司請討, 閱歲爭執, 至丙寅始命追奪官爵, 乙亥擧孥籍之典。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10306011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 6月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-06-11L0" type="서기"/>
+            <dateOccured type="간지">戊午</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 6월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 6월 11일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 6월 11일</dateOccured>
+            <dateOccured type="단기">4056년 6월 11일</dateOccured>
+            <dateOccured type="일본연호">년 6월 11일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 6월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10306011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이중환이 공이 있음을 국청에 고한 듯이 말한 목호룡을 추문하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-06-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="12장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="395면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊午/諫院啓論: "<index num="1589824_0" ref="M_0002267" sort="K" type="이름">東城君</index>
+              <index num="1589825_0" ref="M_0002267" sort="K" type="이름">睦虎龍</index>未徹之疏, 伸救<index num="1589826_0" ref="M_0005192" sort="K" type="이름">李重煥</index>借馬之罪, 而盛稱其功存社稷, 至曰: ‘激臣忠義, 敎臣以謀劃, 制群賊遏三手。’ 又以<index num="1589827_0" ref="M_0005192" sort="K" type="이름">重煥</index>之功, 告于鞫廳, 而終不擧論爲言, 有若渠以<index num="1589828_0" ref="M_0005192" sort="K" type="이름">重煥</index>, 宜爲首功之狀, 果已直告於鞫廳, 而勘勳時不爲收錄者然。 請拿問明覈。" 上從之。 先是, <index num="1589829_0" ref="M_0005192" sort="K" type="이름">重煥</index>爲<index num="1589830_0" sort="K" type="지명">金泉</index>察訪時, 以驛馬借<index num="1589831_0" ref="M_0002267" sort="K" type="이름">睦虎龍</index>, 稱以見失, 而其後推得於<index num="1589832_0" ref="M_0005273" sort="K" type="이름">天紀</index>家云。 至是臺臣, 果發啓。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103070">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 七月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 七月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10307006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 7月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-07-06L0" type="서기"/>
+            <dateOccured type="간지">癸未</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 7월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 7월 6일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 7월 6일</dateOccured>
+            <dateOccured type="단기">4056년 7월 6일</dateOccured>
+            <dateOccured type="일본연호">년 7월 6일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 7월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10307006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라의 사신이 서울로 들어오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-07-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸未/<index num="1589833_0" sort="K" type="지명">淸</index>正使通政使<index num="1589834_0" sort="M" type="이름">圖蘭</index>、副使頭等侍衛<index num="1589835_0" sort="M" type="이름">覺羅</index>七十五人, 入城。 王世弟迎勑于<index num="1589836_0" sort="K" type="지명">慕華館</index>。 以上候未寧, 替行也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10307008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 7月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-07-08L0" type="서기"/>
+            <dateOccured type="간지">乙酉</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 7월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 7월 8일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 7월 8일</dateOccured>
+            <dateOccured type="단기">4056년 7월 8일</dateOccured>
+            <dateOccured type="일본연호">년 7월 8일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 7월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10307008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>유수원을 낭천 현감으로 보임시켜 내보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-07-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙酉/出補<index num="1589837_0" ref="M_0063104" sort="K" type="이름">柳壽垣</index>爲<index num="1589838_0" sort="K" type="지명">狼川</index>縣監。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10307011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 7月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-07-11L0" type="서기"/>
+            <dateOccured type="간지">戊子</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 7월 11일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 7월 11일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 7월 11일</dateOccured>
+            <dateOccured type="단기">4056년 7월 11일</dateOccured>
+            <dateOccured type="일본연호">년 7월 11일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 7월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10307011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라 사신이 도성을 떠나다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-07-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊子/<index num="1589839_0" sort="K" type="지명">淸</index>使出城, 王世弟郊送于<index num="1589840_0" sort="K" type="지명">慕華館</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103080">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 八月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 八月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10308004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 8月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-08-04L0" type="서기"/>
+            <dateOccured type="간지">辛亥</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 8월 4일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 8월 4일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 8월 4일</dateOccured>
+            <dateOccured type="단기">4056년 8월 4일</dateOccured>
+            <dateOccured type="일본연호">년 8월 4일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 8월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10308004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>제조 이태좌를 파직시켰다가 명을 환수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-08-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛亥/藥房入診。 上下嚴敎曰: "提調<index num="1589841_0" ref="M_0005312" sort="K" type="이름">李台佐</index>, 縱恣無嚴, 姑先罷職。" 復命拿鞫。 都提調<index num="1589842_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>, 縷縷陳白, 請還收, 上初不從, 良久笑而許之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10308017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 8月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-08-17L0" type="서기"/>
+            <dateOccured type="간지">甲子</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 8월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 8월 17일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 8월 17일</dateOccured>
+            <dateOccured type="단기">4056년 8월 17일</dateOccured>
+            <dateOccured type="일본연호">년 8월 17일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 8월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10308017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>원임 형조 판서 김석연의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-08-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲子/原任刑曹判書<index num="1589843_0" ref="M_0001621" sort="K" type="이름">金錫衍</index>卒。 <index num="1589844_0" ref="M_0001621" sort="K" type="이름">錫衍</index>, <index num="1589845_0" ref="M_0006782" sort="K" type="이름">明聖王后</index>弟也。 少以綺紈子弟, 頗不羈。 及補蔭官, 折節痛<annotation type="교감주">
+                <noteTitle>〔懲〕</noteTitle>
+              </annotation>, 刮磨舊習, 以謹飭名。 位至卿宰, 而未嘗與朝貴過從, 爲子弟干仕, 被服飮食, 務簡儉, 絶無宮樣侈汰之習。 晩受將任二十年, 節惜財用, 軍儲充溢, 國有所賴矣。 <index num="1589846_0" sort="K" type="이름">鄭</index>公<index num="1589847_0" ref="M_0005933" sort="K" type="이름">太和</index>見而異之曰: "保<index num="1589848_0" sort="K" type="이름">金氏</index>門戶者, 必此兒也。" 後果然。 年七十六。 上下隱卒之敎, 祿俸限三年仍給。 左議政<index num="1589849_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>陳白, 贈以一品, 令該曹擧三等禮葬。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10308020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 8月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-08-20L0" type="서기"/>
+            <dateOccured type="간지">丁卯</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 8월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 8월 20일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 8월 20일</dateOccured>
+            <dateOccured type="단기">4056년 8월 20일</dateOccured>
+            <dateOccured type="일본연호">년 8월 20일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 8월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10308020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이광좌·이조에게 우의정과 병조 판서를 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-08-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁卯/以<index num="1589850_0" ref="M_0004106" sort="K" type="이름">李光佐</index>爲右議政, <index num="1589851_0" ref="M_0000694" sort="K" type="이름">李肇</index>爲兵曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103090">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 九月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 九月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10309016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 9月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-09-16L0" type="서기"/>
+            <dateOccured type="간지">壬辰</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 9월 16일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 9월 16일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 9월 16일</dateOccured>
+            <dateOccured type="단기">4056년 9월 16일</dateOccured>
+            <dateOccured type="일본연호">년 9월 16일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 9월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10309016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>구선남극단을 진어하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-09-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬辰/上進癯仙南極丹。 亦用<index num="1589852_0" ref="M_0004073" sort="K" type="이름">李公胤</index>議。 是峻劑, 而變名也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10309017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 9月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-09-17L0" type="서기"/>
+            <dateOccured type="간지">癸巳</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 9월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 9월 17일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 9월 17일</dateOccured>
+            <dateOccured type="단기">4056년 9월 17일</dateOccured>
+            <dateOccured type="일본연호">년 9월 17일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 9월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10309017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>도승지 이진검을 파직시켰다가 명을 환수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-09-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸巳/藥房以上候未寧, 入診。 上下嚴敎, 以政院頻數出納公事, 罷都承旨<index num="1589853_0" ref="M_0005226" sort="K" type="이름">李眞儉</index>職, 仍令速出。 都提調<index num="1589854_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>、右議政<index num="1589855_0" ref="M_0004106" sort="K" type="이름">李光佐</index>, 白其無罪, 請收還, 良久始命推考。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10309017_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김동필의 소장에 변명하는 예조 참판 김일경의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-09-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○禮曹參判<index num="1589856_0" ref="M_0001827" sort="K" type="이름">金一鏡</index>陳疏, 復與<index num="1589857_0" ref="M_0001483" sort="K" type="이름">金東弼</index>對辨, 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1589858_0" ref="M_0001483" sort="K" type="이름">東弼</index>初疏, 但曰敎文引喩乖當, 未有分別指摘, 臣莫曉意在何段, 或有以禍心, 面斥<index num="1589859_0" ref="M_0001483" sort="K" type="이름">東弼</index>者, <index num="1589860_0" ref="M_0001483" sort="K" type="이름">東弼</index>亦以無他意, 到處自明。 今遽以臣自謙之例辭, 裁去首尾, 巧加粧撰, 而又復做出妄發二字, 忽地揷入, 肆然欺天誣人, 自做自倡, 其意逾密。 臣反復思之, 初無引喩之失其當, 文字之可指爲妄發者。 <index num="1589862_0" ref="M_0001483" sort="K" type="이름">東弼</index>明言直斥, 何所不可, 而半吐半呑, 欲發未發? 臣竊痛之。</quotation>
+            </paragraph>
+            <paragraph align="center">時<index num="1589863_0" ref="M_0001483" sort="K" type="이름">東弼</index>再上疏, 復申前說, 而不能直切說去, 又向人語, 稍涉彌縫, 故<index num="1589864_0" ref="M_0001827" sort="K" type="이름">一鏡</index>益肆其氣燄。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10309020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 9月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-09-20L0" type="서기"/>
+            <dateOccured type="간지">丙申</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 9월 20일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 9월 20일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 9월 20일</dateOccured>
+            <dateOccured type="단기">4056년 9월 20일</dateOccured>
+            <dateOccured type="일본연호">년 9월 20일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 9월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10309020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>제 신하들을 파직시켰다가 곧바로 명을 환수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-09-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙申/承旨持公事, 玉堂召對, 同爲入侍。 諸臣纔進伏, 上下嚴敎, 左議政<index num="1589865_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>命拿鞫嚴斷, 又命玉堂<index num="1589866_0" ref="M_0003749" sort="K" type="이름">柳弼垣</index>、<index num="1589867_0" ref="M_0000379" sort="K" type="이름">尹游</index>拿推。 承旨<index num="1589868_0" ref="M_0021238" sort="K" type="이름">梁廷虎</index>欲陳達, 上遽命罷職。 已而上下敎曰: "因一時之火, 遽有過擧。 承、史、玉堂, 更入侍。" 諸臣復入。 上仍使承旨, 稟裁公事。 玉堂講讀, 講訖, <index num="1589869_0" ref="M_0021238" sort="K" type="이름">廷虎</index>等, 交陳左相忠勤狀, 上不答。 右議政<index num="1589870_0" ref="M_0004106" sort="K" type="이름">李光佐</index>請對, 陳請收還, 而言甚懇惓。 都承旨<index num="1589871_0" ref="M_0005226" sort="K" type="이름">李眞儉</index>繼白之, 上又下嚴敎, <index num="1589872_0" ref="M_0006317" sort="K" type="이름">錫恒</index>極邊遠竄, <index num="1589873_0" ref="M_0005226" sort="K" type="이름">眞儉</index>削奪官爵, 門外黜送。 <index num="1589874_0" ref="M_0004106" sort="K" type="이름">光佐</index>苦口力請, 上始命還寢。 <index num="1589875_0" ref="M_0006317" sort="K" type="이름">錫恒</index>待命金吾, 上遣史官, 諭令勿待命。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wtb_10309020_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이태좌·유봉휘에게 이조 판서·호조 판서를 제수하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1723-09-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○吏曹判書<index num="1589876_0" ref="M_0003626" sort="K" type="이름">柳鳳輝</index>免, 以<index num="1589877_0" ref="M_0005312" sort="K" type="이름">李台佐</index>代之。 以<index num="1589878_0" ref="M_0003626" sort="K" type="이름">柳鳳輝</index>爲戶曹判書。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103100">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 十月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 十月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10310014">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 10月 14日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-10-14L0" type="서기"/>
+            <dateOccured type="간지">庚申</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 10월 14일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 10월 14일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 10월 14일</dateOccured>
+            <dateOccured type="단기">4056년 10월 14일</dateOccured>
+            <dateOccured type="일본연호">년 10월 14일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 10월 14일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10310014_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이태좌를 청나라의 사신의 원접사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-10-14L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="13장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚申/<index num="1589879_0" sort="K" type="지명">淸</index>正使散秩大臣宗室<index num="1589880_0" sort="K" type="이름">曾成</index>、副使內閣學士<index num="1589881_0" ref="M_0032728" sort="A" sort2="한" type="이름">鄂托判</index>, 爲頒<index num="1589882_0" ref="M_0033972" sort="A" sort2="청" type="이름">康熙</index>祔廟赦詔及<index num="1589883_0" sort="K" type="이름">仁壽皇太后</index>諡號而來。 <index num="1589884_0" sort="K" type="지명">義州</index>府尹以聞, 以<index num="1589885_0" ref="M_0005312" sort="K" type="이름">李台佐</index>爲遠接使。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103110">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 十一月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 十一月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10311006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 11月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-11-06L0" type="서기"/>
+            <dateOccured type="간지">壬午</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 11월 6일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 11월 6일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 11월 6일</dateOccured>
+            <dateOccured type="단기">4056년 11월 6일</dateOccured>
+            <dateOccured type="일본연호">년 11월 6일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 11월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10311006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라의 사신이 도성으로 들어오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-11-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬午/<index num="1589886_0" sort="K" type="지명">淸</index>使入城。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10311008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 11月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-11-08L0" type="서기"/>
+            <dateOccured type="간지">甲申</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 11월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 11월 8일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 11월 8일</dateOccured>
+            <dateOccured type="단기">4056년 11월 8일</dateOccured>
+            <dateOccured type="일본연호">년 11월 8일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 11월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10311008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>김일경을 반송사로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-11-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+            <subjectClass>인사(人事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲申/擢<index num="1589887_0" ref="M_0001827" sort="K" type="이름">金一鏡</index>爲伴送使。 <index num="1589888_0" ref="M_0004106" sort="K" type="이름">光佐</index>所薦也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10311012">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 11月 12日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-11-12L0" type="서기"/>
+            <dateOccured type="간지">戊子</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 11월 12일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 11월 12일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 11월 12일</dateOccured>
+            <dateOccured type="단기">4056년 11월 12일</dateOccured>
+            <dateOccured type="일본연호">년 11월 12일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 11월 12일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10311012_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>청나라의 사신이 도성을 떠나다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-11-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>외교(外交)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊子/<index num="1589889_0" sort="K" type="지명">淸</index>使發都城。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10311017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 11月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-11-17L0" type="서기"/>
+            <dateOccured type="간지">癸巳</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 11월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 11월 17일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 11월 17일</dateOccured>
+            <dateOccured type="단기">4056년 11월 17일</dateOccured>
+            <dateOccured type="일본연호">년 11월 17일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 11월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10311017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>초복을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-11-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸巳/行初覆。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10311021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 11月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-11-21L0" type="서기"/>
+            <dateOccured type="간지">丁酉</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 11월 21일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 11월 21일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 11월 21일</dateOccured>
+            <dateOccured type="단기">4056년 11월 21일</dateOccured>
+            <dateOccured type="일본연호">년 11월 21일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 11월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10311021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>호남에 찬적된 사람 12인을 제도에 옮겨 유배시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-11-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁酉/移配湖南竄謫人十二人于諸道。 <index num="1589890_0" ref="M_0005536" sort="K" type="이름">李喜朝</index>自<index num="1589891_0" sort="K" type="지명">靈巖</index>移<index num="1589892_0" sort="K" type="지명">鐵山</index>, <index num="1589893_0" ref="M_0003398" sort="K" type="이름">魚有龍</index>自<index num="1589894_0" sort="K" type="지명">靈巖</index>移<index num="1589895_0" sort="K" type="지명">泗川</index>, <index num="1589896_0" ref="M_0000264" sort="K" type="이름">金礪</index>自<index num="1589897_0" sort="K" type="지명">靈巖</index>移<index num="1589898_0" sort="K" type="지명">河東</index>, <index num="1589899_0" ref="M_0005188" sort="K" type="이름">李重協</index>自<index num="1589900_0" sort="K" type="지명">海南</index>移<index num="1589901_0" sort="K" type="지명">慶源</index>, <index num="1589902_0" ref="M_0002484" sort="K" type="이름">朴師益</index>自<index num="1589903_0" sort="K" type="지명">泰仁</index>移<index num="1589904_0" sort="K" type="지명">淸河</index>, <index num="1589905_0" ref="M_0006008" sort="K" type="이름">趙道彬</index>自<index num="1589906_0" sort="K" type="지명">沃溝</index>移<index num="1589907_0" sort="K" type="지명">安陰</index>, <index num="1589908_0" ref="M_0004394" sort="K" type="이름">李秉常</index>自<index num="1589909_0" sort="K" type="지명">扶安</index>移<index num="1589910_0" sort="K" type="지명">咸陽</index>, <index num="1589911_0" ref="M_0000168" sort="K" type="이름">權譍</index>自<index num="1589912_0" sort="K" type="지명">扶安</index>移<index num="1589913_0" sort="K" type="지명">開寧</index>, <index num="1589914_0" ref="M_0042798" sort="K" type="이름">李益命</index>自<index num="1589915_0" sort="K" type="지명">光州</index>移<index num="1589916_0" sort="K" type="지명">吉州</index>, <index num="1589917_0" ref="M_0001945" sort="K" type="이름">金昌道</index>自<index num="1589918_0" sort="K" type="지명">長水</index>移<index num="1589919_0" sort="K" type="지명">聞慶</index>, <index num="1589920_0" ref="M_0061718" sort="K" type="이름">黃璿</index>自<index num="1589921_0" sort="K" type="지명">茂長</index>移<index num="1589922_0" sort="K" type="지명">陽德</index>, <index num="1589923_0" ref="M_0003101" sort="K" type="이름">愼無逸</index>自<index num="1589924_0" sort="K" type="지명">金堤</index>移<index num="1589925_0" sort="K" type="지명">寧遠</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10311023">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 11月 23日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-11-23L0" type="서기"/>
+            <dateOccured type="간지">己亥</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 11월 23일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 11월 23일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 11월 23일</dateOccured>
+            <dateOccured type="단기">4056년 11월 23일</dateOccured>
+            <dateOccured type="일본연호">년 11월 23일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 11월 23일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10311023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>삼복을 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-11-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○己亥/行三覆。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10311027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 11月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-11-27L0" type="서기"/>
+            <dateOccured type="간지">癸卯</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 11월 27일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 11월 27일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 11월 27일</dateOccured>
+            <dateOccured type="단기">4056년 11월 27일</dateOccured>
+            <dateOccured type="일본연호">년 11월 27일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 11월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10311027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>지평 신치운이 고 상신 권상하의 관직을 추탈할 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-11-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸卯/持平<index num="1589926_0" ref="M_0003169" sort="K" type="이름">申致雲</index>啓曰: "向來凶逆之世執國柄, 顓擅威福也, 一種陰邪不逞之類, 假借儒名, 圖攬朝權, 傳神護法, 遞相祖述。 如<index num="1589927_0" ref="M_0001201" sort="K" type="이름">權尙夏</index>、<index num="1589928_0" ref="M_0005536" sort="K" type="이름">李喜朝</index>、<index num="1589929_0" ref="M_0054968" sort="K" type="이름">鄭澔</index>之屬, 寔繁其徒, 至於<index num="1589930_0" ref="M_0001201" sort="K" type="이름">尙夏</index>, 本一庸鄙蔭散, 都無可取, 而特以依倚巨猾, 掇拾僞名, 在朝諸凶, 同聲稱賢。 <index num="1589931_0" ref="M_0005536" sort="K" type="이름">喜朝</index>之邪憸, <index num="1589932_0" ref="M_0054968" sort="K" type="이름">澔</index>之憯毒, 凶德參會, 竝爲孽於斯世, 陰持悖論, 顯助凶威, 卒至義理晦塞, 倫彝斁敗, 惡逆斯行, 宗社幾危, 其欺世禍國之禍, 烈於洪水猛獸。 <index num="1589933_0" ref="M_0054968" sort="K" type="이름">澔</index>及<index num="1589934_0" ref="M_0005536" sort="K" type="이름">喜朝</index>, 旣施屛裔之典, <index num="1589935_0" ref="M_0001201" sort="K" type="이름">尙夏</index>之官秩自如, 士林齊憤, 公議愈激。 不可以其人之旣骨而置之, 請故相臣<index num="1589936_0" ref="M_0001201" sort="K" type="이름">權尙夏</index>追奪官爵。" 上不允。 後數日, 又連啓力請, 上從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wtb_103120">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>景宗修正實錄 三年 十二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 十二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wtb_10312008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 12月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-12-08L0" type="서기"/>
+            <dateOccured type="간지">癸丑</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 12월 8일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 12월 8일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 12월 8일</dateOccured>
+            <dateOccured type="단기">4056년 12월 8일</dateOccured>
+            <dateOccured type="일본연호">년 12월 8일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 12월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10312008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 현감 황하신의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-12-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸丑/前縣監<index num="1589937_0" ref="M_0021707" sort="K" type="이름">黃夏臣</index>死於獄。 先是, 人有僞御批一本, 傳播於湖西。 蓋其語意以爲: "上心悔悟於鞫獄之多濫, 竄謫之太過, 或命沒入文案, 或許宥放諸臣, 且黜逐三宦也。" <index num="1589938_0" ref="M_0021288" sort="K" type="이름">李萬根</index>始因邑子而得見, 臺臣<index num="1589939_0" ref="M_0021519" sort="K" type="이름">李眞淳</index>聞而請先覈<index num="1589940_0" ref="M_0021288" sort="K" type="이름">萬根</index>。 及其設鞫也, <index num="1589941_0" ref="M_0021707" sort="K" type="이름">夏臣</index>供曰: "今年九月, 有一常漢曾所不知者, 因童奴請見, 辭以病, 則直來窓外, 稱以罪配兵曹吏, 持示朝報中謄出批旨, 而字畫胡亂, 故移謄示於弟<index num="1589942_0" ref="M_0061980" sort="K" type="이름">夏民</index>, 而漸覺其殊常, 仍卽付火。 其傳播者, 卽姪<index num="1589943_0" ref="M_0061707" sort="K" type="이름">尙質</index>所謄也。 其人姓名, 全然忘失, 面目則猶髣髴記得。 其時隣人<index num="1589944_0" ref="M_0036195" sort="K" type="이름">南重老</index>適參見。 若身自僞造, 則何以問於<index num="1589945_0" ref="M_0061980" sort="K" type="이름">夏民</index>家, <index num="1589946_0" ref="M_0061707" sort="K" type="이름">尙質</index>亦何爲而又質於<index num="1589947_0" ref="M_0021705" sort="K" type="이름">龍錫</index>乎?" 鞫廳屢盤問, 且拿<index num="1589948_0" ref="M_0061707" sort="K" type="이름">尙質</index>、<index num="1589949_0" ref="M_0036195" sort="K" type="이름">重老</index>, 與<index num="1589950_0" ref="M_0021707" sort="K" type="이름">夏臣</index>招有些牴牾。 遂以<index num="1589951_0" ref="M_0021707" sort="K" type="이름">夏臣</index>不得現出其人姓名, 刑訊一次, 所對如前。 <index num="1589952_0" ref="M_0021519" sort="K" type="이름">李眞淳</index>疏請姑停其刑, 而譏捕來示之人, 未及賜答, 其子擊鼓訟冤, 而<index num="1589953_0" ref="M_0021707" sort="K" type="이름">夏臣</index>己死矣。 時, 湖西多士族, 故凶黨欲爲網打之計, 作僞造備忘, 使人流傳, 仍又摘發, 將鍛錬而大肆屠戮, <index num="1589954_0" ref="M_0021707" sort="K" type="이름">夏臣</index>死而獄竟無實, 人莫不冤之。 至<index num="1589955_0" ref="M_0050728" sort="K" type="이름">英宗</index>初, 追理其事, 而凶黨之所設計者, 始畢露焉。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10312015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 12月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-12-15L0" type="서기"/>
+            <dateOccured type="간지">庚申</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 12월 15일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 12월 15일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 12월 15일</dateOccured>
+            <dateOccured type="단기">4056년 12월 15일</dateOccured>
+            <dateOccured type="일본연호">년 12월 15일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 12월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10312015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>윤헌주를 용천부에 안치하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-12-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚申/配<index num="1589956_0" ref="M_0003963" sort="K" type="이름">尹憲柱</index>於<index num="1589957_0" sort="K" type="지명">龍川府</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10312017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 12月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-12-17L0" type="서기"/>
+            <dateOccured type="간지">壬戌</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 12월 17일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 12월 17일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 12월 17일</dateOccured>
+            <dateOccured type="단기">4056년 12월 17일</dateOccured>
+            <dateOccured type="일본연호">년 12월 17일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 12월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10312017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>장령 윤빈이 조태채의 세 아들을 절도에 유배시킬 것을 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-12-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="14장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="396면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+            <subjectClass>가족(家族)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬戌/掌令<index num="1589958_0" ref="M_0000361" sort="K" type="이름">尹彬</index>啓曰: "四凶罪犯, 均是逆也。 治之宜無異同, 而<index num="1589959_0" ref="M_0006214" sort="K" type="이름">泰采</index>獨免孥戮之典。 <index num="1589960_0" ref="M_0005991" sort="K" type="이름">觀彬</index>之投合<index num="1589961_0" ref="M_0001873" sort="K" type="이름">濟謙</index>, 世所共知, <index num="1589962_0" ref="M_0006214" sort="K" type="이름">泰采</index>陷逆, 蓋亦<index num="1589963_0" ref="M_0005991" sort="K" type="이름">觀彬</index>啓之也。 <index num="1589964_0" sort="K" type="지명">宣仁門</index>一着, 孰不爭頌扶社之盛擧, 而<index num="1589965_0" ref="M_0006214" sort="K" type="이름">泰采</index>諸子, 憤懟此事, 仇視其親, 大臣與之相絶。 且於大臣之喪, 諸親之爲成服者, 擧皆告絶。 怨國讎君, 晝夜揣摩, 而至今偃息, 輿情咸憤。 請<index num="1589966_0" ref="M_0006214" sort="K" type="이름">泰采</index>三子, 分配絶島。" 又啓曰: "故士人<index num="1589967_0" ref="M_0043190" sort="K" type="이름">李廷煐</index>之妻, 卽<index num="1589968_0" ref="M_0006214" sort="K" type="이름">泰采</index>之女也。 以其父陷逆就死, 歸怨於扶社之大臣,<annotation type="원주">
+                <noteContent>【指<index num="1589969_0" ref="M_0006208" sort="K" type="이름">趙泰耉</index>也。】</noteContent>
+              </annotation>常以小車載偶人, 作爲行戮之狀。 又圖畫討逆諸臣之狀, 揭諸壁上, 手自彎弓而射之, 又敎其婢, 締結其夫姊壻<index num="1589970_0" ref="M_0001483" sort="K" type="이름">金東弼</index>家兩婢, 同謀埋凶於<index num="1589971_0" ref="M_0001483" sort="K" type="이름">東弼</index>家, 亦及於其舅<index num="1589972_0" ref="M_0020834" sort="K" type="이름">林原君</index>
+              <index num="1589973_0" ref="M_0020834" sort="K" type="이름">杓</index>及其夫同氣諸家, 情狀畢露, 掘出狼藉。 凶肚逆腸, 自有來歷, 可勝誅哉? 三婢已斃, 成獄無階, 請絶島定配。" 上竝從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10312019">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 12月 19日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-12-19L0" type="서기"/>
+            <dateOccured type="간지">甲子</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 12월 19일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 12월 19일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 12월 19일</dateOccured>
+            <dateOccured type="단기">4056년 12월 19일</dateOccured>
+            <dateOccured type="일본연호">년 12월 19일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 12월 19일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10312019_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조정빈·조관빈 등을 정의현·흥양현에 유배시키다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-12-19L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="15장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="397면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+            <subjectClass>가족(家族)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲子/配<index num="1589974_0" ref="M_0021000" sort="K" type="이름">趙鼎彬</index>於<index num="1589975_0" sort="K" type="지명">旌義縣</index>, <index num="1589976_0" ref="M_0005991" sort="K" type="이름">觀彬</index>於<index num="1589977_0" sort="K" type="지명">興陽縣</index>, <index num="1589978_0" ref="M_0021412" sort="K" type="이름">謙彬</index>於<index num="1589979_0" sort="K" type="지명">巨濟府</index>, <index num="1589980_0" ref="M_0043190" sort="K" type="이름">李廷煐</index>妻於<index num="1589981_0" sort="K" type="지명">黑山島</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10312028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 12月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-12-28L0" type="서기"/>
+            <dateOccured type="간지">癸酉</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 12월 28일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 12월 28일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 12월 28일</dateOccured>
+            <dateOccured type="단기">4056년 12월 28일</dateOccured>
+            <dateOccured type="일본연호">년 12월 28일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 12월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10312028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>선정신·권상하의 관직을 추탈하지 말 것을 청하는 유학 홍우저 등의 상소</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="15장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="397면"/>
+            </source>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>사상(思想)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○癸酉/幼學<index num="1589982_0" ref="M_0061141" sort="K" type="이름">洪禹著</index>等, 上疏伸辨<index num="1589983_0" ref="M_0001201" sort="K" type="이름">權尙夏</index>。 政院初不捧, <index num="1589984_0" ref="M_0061141" sort="K" type="이름">禹著</index>等遂侵辱承旨, 不得已啓稟曰: "<index num="1589985_0" ref="M_0061141" sort="K" type="이름">禹著</index>等疏中, 至稱<index num="1589986_0" ref="M_0001201" sort="K" type="이름">權尙夏</index>以先正, 已極無嚴。 醜辱本院, 罔有已極, 不可一向退却。" 上命捧入。 其疏略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>
+                <index num="1589987_0" ref="M_0000417" sort="K" type="이름">鑴</index>、<index num="1589988_0" sort="K" type="이름">穆</index>襲<index num="1589989_0" ref="M_0035883" sort="K" type="이름">袞</index>、<index num="1589990_0" sort="K" type="이름">貞</index>餘術, 終使先正臣<index num="1589991_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>, 酷被慘禍, 逮今斯文之禍愈烈, <index num="1589992_0" ref="M_0003011" sort="K" type="이름">時烈</index>之祠宇黜焉, 凶<index num="1589993_0" sort="K" type="이름">穆</index>之院宇屹然, 則世道人心, 無復可言。 又有<index num="1589994_0" ref="M_0003169" sort="K" type="이름">致雲</index>者, 以千萬不近似之說, 捏合傅會, 誣辱先正臣<index num="1589995_0" ref="M_0001201" sort="K" type="이름">權尙夏</index>, 而請奪先朝所寵之爵名。 <index num="1589996_0" ref="M_0001201" sort="K" type="이름">尙夏</index>道德精粹, 德行純正, 承先賢之正脈, 爲斯文之宗主。 奧自先朝, 禮遇備至, 召對行殿, 親自握手, 欲載後車, 殿下亦嘗寵以誠禮, 待以元老。 今<index num="1589997_0" ref="M_0003169" sort="K" type="이름">致雲</index>雖以嫌嫉之私, 甘心搆害, 獨不念傷先朝則哲之明, 累聖上好賢之德耶? 所謂依倚巨猾者, 必如賊<index num="1589998_0" ref="M_0048722" sort="K" type="이름">冕</index>
+                <annotation type="원주">
+                  <noteContent>【指<index num="1589999_0" ref="M_0048722" sort="K" type="이름">申冕</index>。】</noteContent>
+                </annotation>之附<index num="1590000_0" ref="M_0001836" sort="K" type="이름">自點</index>, <index num="1590001_0" ref="M_0049254" sort="K" type="이름">宗華</index>之依<index num="1590002_0" ref="M_0060218" sort="K" type="이름">堅</index>賊, 然後可以此等語指目耶, <index num="1590003_0" ref="M_0001201" sort="K" type="이름">尙夏</index>自少, 師事大賢, 則必欲竝中其毒於淵源之所自。 雖以甲寅、己巳毒正戕賢之輩, 猶不敢加以奸惡名, 則<index num="1590004_0" ref="M_0003169" sort="K" type="이름">致雲</index>雖凶悖, 安敢乃爾? <index num="1590005_0" ref="M_0005536" sort="K" type="이름">李喜朝</index>之妙年志學, 親友賢師, <index num="1590006_0" ref="M_0054968" sort="K" type="이름">鄭澔</index>之經術博雅, 忠正剛克, 而<index num="1590007_0" ref="M_0003169" sort="K" type="이름">致雲</index>以邪憸慘毒目之, 以大逆不道之罪惡, 勒加於先正, 無所顧忌。 臣恐羅織之禍, 將復起於聖世也。 至於丁酉事, <index num="1590008_0" ref="M_0001201" sort="K" type="이름">尙夏</index>自辨之疏有曰: "臣居窮僻最後, 始聞日月之更, 不待踰時。 何敢以草莽踈賤之蹤, 追提旣往之事, 而有論列哉?" 告廟收議則以爲: "臣之所叨, 千萬不似, 何以大臣自居, 而有所獻議乎?" 以此觀之, 先正自處之義, 各有所據, 雖欲誣之, 其果成說乎? <index num="1590009_0" ref="M_0003169" sort="K" type="이름">致雲</index>則賊<index num="1590010_0" ref="M_0048722" sort="K" type="이름">冕</index>之曾孫, 而以逆<index num="1590011_0" ref="M_0060218" sort="K" type="이름">堅</index>狎客之<index num="1590012_0" ref="M_0049254" sort="K" type="이름">宗華</index>爲祖, 以奪嫡亂倫之<index num="1590013_0" sort="K" type="이름">輶</index>爲父, 則何敢自比人類, 乃以凶逆不道等語, 肆然橫加於先正耶? 況讎國叛君絶父子七字, 正所謂形容渠三世罪惡, 今<index num="1590014_0" ref="M_0003169" sort="K" type="이름">致雲</index>發此, 乘機醜正。 取媚時議之計者, 固非異事, 而豈謂聖明在上, 乃撓惑其說, 使兩朝禮遇之賢, 受罪泉壤而莫之察耶? 乞寢先正臣<index num="1590015_0" ref="M_0001201" sort="K" type="이름">權尙夏</index>追奪之命, 明正誣賢之罪。</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wtb_10312030">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>景宗修正 3年 12月 30日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1723-12-30L0" type="서기"/>
+            <dateOccured type="간지">乙亥</dateOccured>
+            <dateOccured type="재위연도">경종 [수정실록] 3년 12월 30일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 332년 12월 30일</dateOccured>
+            <dateOccured type="중국연호">청 옹정(雍正) 1년 12월 30일</dateOccured>
+            <dateOccured type="단기">4056년 12월 30일</dateOccured>
+            <dateOccured type="일본연호">년 12월 30일</dateOccured>
+            <dateOccured type="display">청 옹정(雍正)1년 12월 30일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wtb_10312030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조성집을 율법에 의해 교형에 처하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1723-12-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">景宗修正實錄 3책 4권</mainTitle>
+              <page begin="15장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">景宗修正實錄 41책</mainTitle>
+              <page begin="397면"/>
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙亥/從<index num="1590016_0" ref="M_0006075" sort="K" type="이름">趙聖集</index>按律之請。 <index num="1590017_0" ref="M_0006075" sort="K" type="이름">聖集</index>毒殺其弟, 臺臣請覈, 刑曹旣按査得實, 仍請議大臣定律。 左議政<index num="1590018_0" ref="M_0006317" sort="K" type="이름">崔錫恒</index>, 引<index num="1590019_0" type="서명">《大明律》</index>, 言無應死之罪, 上命定配絶島。 臺官爭之, 上初許正法, <index num="1590020_0" ref="M_0006317" sort="K" type="이름">錫恒</index>又白上, 還寢, 臺官復爭之力, 上竟從之。 <index num="1590021_0" ref="M_0006075" sort="K" type="이름">聖集</index>方在配, 遣都事處絞。 <index num="1590022_0" ref="M_0006075" sort="K" type="이름">聖集</index>, <index num="1590023_0" sort="K" type="지명">豐壤</index>人也, 好氣節。 當<index num="1590024_0" ref="M_0006074" sort="K" type="이름">聖復</index>之安置<index num="1590025_0" sort="K" type="지명">㫌義</index>也, 被拷幾殊, 股創甚。 <index num="1590026_0" ref="M_0006075" sort="K" type="이름">聖集</index>涕泣, 吮其膿, 扶護而行, 見者感歎。 是時賊臣知<index num="1590027_0" ref="M_0006074" sort="K" type="이름">聖復</index>終不可屈, 乃直請正刑。 <index num="1590028_0" ref="M_0006074" sort="K" type="이름">聖復</index>輒貽<index num="1590029_0" ref="M_0006075" sort="K" type="이름">聖集</index>書, 問古人自靖之義, <index num="1590030_0" ref="M_0006075" sort="K" type="이름">聖集</index>以<index num="1590031_0" ref="M_0032495" sort="A" sort2="한" type="이름">蕭太傅</index>故事爲對, 遺以毒藥, 藥未入而<index num="1590032_0" ref="M_0006074" sort="K" type="이름">聖復</index>已死矣。 已而, 臺啓搆其罪, 下<index num="1590033_0" ref="M_0006075" sort="K" type="이름">聖集</index>獄, 鉤問之, <index num="1590034_0" ref="M_0006075" sort="K" type="이름">聖集</index>對曰: "吾弟無罪而陷大僇, 吾不忍見其身首不全, 欲令吾弟自盡。 吾亦決一死同 歸, 見父母於地下。" 聞者悲之。</paragraph>
+            <paragraph align="center"/>
+            <paragraph align="center">景宗德文翼武純仁宣孝大王修正實錄卷之四終</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

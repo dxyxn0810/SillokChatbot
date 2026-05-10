@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wla_200">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>附錄</mainTitle>
+      </title>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 仁宗大王實錄 附錄</paragraph>
+    </content>
+  </text>
+  <level3 id="wla_200001">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 인종 대왕 묘지문[誌文] </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">仁宗實錄 2책 2권</mainTitle>
+          <page begin="85장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">仁宗實錄 19책</mainTitle>
+          <page begin="259면"/>
+        </source>
+        <subjectClass>왕실-의식(儀式)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>어문학-문학(文學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○誌文<annotation type="원주">
+            <noteContent>【右參贊<index num="0855048_0" ref="M_0003080" sort="K" type="이름">申光漢</index>製進, 舍人<index num="0855049_0" ref="M_0000251" sort="K" type="이름">金魯</index>書。】</noteContent>
+          </annotation>:</paragraph>
+        <paragraph align="center">
+          <quotation>有明<index num="0855050_0" sort="K" type="지명">朝鮮國</index>
+            <index num="0855051_0" ref="M_0000819" sort="K" type="이름">仁宗獻文懿武章肅欽孝大王</index>
+            <index num="0855052_0" sort="K" type="지명">孝陵</index>誌。 謹稽我<index num="0855053_0" ref="M_0000819" sort="K" type="이름">仁宗大王</index>諱, <index num="0855054_0" ref="M_0057021" sort="K" type="이름">中宗恭僖大王</index>之長子也。 母后<index num="0855055_0" ref="M_0014010" sort="K" type="이름">尹氏</index>, 領敦寧府事<index num="0855056_0" ref="M_0003881" sort="K" type="이름">汝弼</index>之女, 生王七日而薨, 諡曰<index num="0855057_0" ref="M_0014010" sort="K" type="이름">章敬</index>。 后賢有德, 以思齊之美, 誕岐嶷之資。 王乃降於<index num="0855058_0" type="연호">正德</index>乙亥二月癸丑。 三歲能受書解音義, <index num="0855059_0" ref="M_0057021" sort="K" type="이름">中宗</index>愛而奇之, 早置講院, 極選師傅賓僚, 養之以正, 親製箴以誨之, 王常服膺不置, 及長, 手書于屛, 潛心體之。 六歲, <index num="0855060_0" ref="M_0057021" sort="K" type="이름">中宗</index>請封爲世子, 十六年辛巳, <index num="0855061_0" ref="M_0031951" sort="A" sort2="明" type="이름">武宗皇帝</index>遣太監<index num="0855062_0" ref="M_0014228" sort="A" type="이름">金義</index>、<index num="0855063_0" ref="M_0057199" sort="K" type="이름">陳浩</index>, 來錫誥命。 <index num="0855064_0" type="연호">嘉靖</index>紀元之壬午春, 行冠禮, 入學于成均館, 動容周旋, 無不中禮, 性勤于學, 亹亹不厭, 日三進講, 又有夜講。 雖窮寒極熱, 必終日危坐而溫習, 至朝又爲讀一再而出以爲常, 由是緝熙之功, 日就罔覺。 年十三, 令宮僚書<index num="0855065_0" sort="K" type="이름">程子</index>
+            <index num="0855066_0" type="서명">《四箴》</index>、<index num="0855067_0" ref="M_0065652" sort="K" type="이름">范浚</index>
+            <index num="0855068_0" type="서명">《心箴》</index>曁<index num="0855069_0" type="서명">《書》</index>之<index num="0855070_0" type="서명">《無逸》</index>、<index num="0855071_0" type="서명">《詩》</index>之<index num="0855072_0" type="서명">《七月篇》</index>以進, 又手書先聖賢格言賓師訓戒, 列諸左右, 動必遵行。 尤念<index num="0855073_0" type="서명">《大學衍義》</index>、<index num="0855074_0" type="서명">《近思錄》</index>、<index num="0855075_0" type="서명">《自警編》</index>等書, 手未嘗釋, 以至盤盂几杖, 莫不有銘, 蓋其踐履之篤, 根於至性者然也。 嘗曰: "<index num="0855076_0" ref="M_0033589" sort="A" sort2="夏" type="이름">堯</index>、<index num="0855077_0" ref="M_0033585" sort="A" sort2="夏" type="이름">舜</index>之道, 孝悌而已。 父王以此誨我, 其敢墜?" 事<index num="0855078_0" ref="M_0057021" sort="K" type="이름">中宗</index>極其誠敬, 自傷不逮于<index num="0855079_0" ref="M_0014010" sort="K" type="이름">章敬</index>, 事大王大妃, 益致其孝。 王嘗於問安視膳之外, 唯知講學存省, 沈靜寡言, 恭儉無欲。 嘗見侍女有麗服者, 卽令出之, 宮庭之內, 不嚴而肅如也。 又篤於友愛, 母姊<index num="0855080_0" ref="M_0062091" sort="K" type="이름">孝惠公主</index>早卒, 爲痛惜之, 幾於成疾。 幼時庶兄<index num="0855081_0" ref="M_0013851" sort="K" type="이름">嵋</index>之母<index num="0855082_0" ref="M_0006777" sort="K" type="이름">朴嬪</index>驕僭得罪, 母子俱竄殛, 王長始知之, 手製疏極陳而釋之, <index num="0855083_0" ref="M_0057021" sort="K" type="이름">中宗</index>感念, 命復其爵如故。 外人未嘗知有是疏, 久乃得見, 其因心之實, 發於疏辭, 讀之者無不出涕。 王之孝友, 出於至性, 而能含晦章美, 不見於外。 聞人譽己, 必恧然而惡之, 故尋常間雲章寶墨之絶人者, 下莫得而觀之。 如遇賓師之卒, 必爲之素膳致祭, 其禮下之誠又如此。 甲辰秋, <index num="0855084_0" ref="M_0057021" sort="K" type="이름">中宗</index>以憂勤之久, 比比有疾, 王藥必先嘗, 寢不能安。 及至彌留, 衣未嘗解, 食爲之廢, 羸形瘠容, 見者飮泣。 病且革, 分遣朝臣, 遍禱宗社、山川, 方在冬日, 沐浴焚香, 露立祝天, 自昏達曙。 及薨, 全廢漿飮者六日, 哭不絶聲者五月, 唯歠飦粥, 不進鹽醬。 旣葬, 常在喪次, 屛絶宮人, 所侍者唯小宦數人而已。 雖世異亮陰, 不能無命戒, 而軍國之務, 一委大臣以任之, 言則乃雍。 王自初喪, 羸毁已極, 病以日進, 大臣將禮文, 請從病則食肉之制, 不聽, 率百官請之者累日, 亦不聽。 母妃親自勸之, 王不得已, 若將進御而竟未也。 時皇帝遣太監<index num="0855085_0" ref="M_0015068" sort="A" type="이름">郭<newChar href="KC02515"/>
+            </index>、行人<index num="0855086_0" ref="M_0007141" sort="A" type="이름">張承憲</index>, 賜祭若賻諡于<index num="0855087_0" ref="M_0057021" sort="K" type="이름">中宗</index>, 諡曰<index num="0855088_0" ref="M_0057021" sort="K" type="이름">恭僖</index>。 又遣太監<index num="0855089_0" ref="M_0011379" sort="A" type="이름">張奉</index>、<index num="0855090_0" ref="M_0051070" sort="A" type="이름">吳猷</index>, 錫誥命于王及后, 后姓<index num="0855091_0" ref="M_0006804" sort="K" type="이름">朴氏</index>, 贈右議政<index num="0855092_0" ref="M_0047604" sort="K" type="이름">墉</index>之女也。 王欽帝命, 重詔使, 雖在疾病, 郊迎館待, 靡不盡禮。 使者<index num="0855093_0" ref="M_0007141" sort="A" type="이름">張行人</index>, 正士也, 嘆王之誠, 服王之孝, 言必稱賢王, 至越江, 猶貽書謝王, 以示無斁之意。 使還未幾, 王力疾, 將親祭于魂殿, 仍起居。 母妃、大臣深憂而固止, 王不聽曰: "近因詔使, 身且有疾, 虧闕子職, 予甚痛焉。" 自是病遂彌重, 以至大漸。 時, 雷震<index num="0855094_0" sort="K" type="지명">慶會樓</index>柱, 左右慰王之驚, 王曰: "予則無驚。 其亟問安于母妃。" 大臣入問疾, 王必整冠服而見。 <index num="0855095_0" type="연호">嘉靖</index>乙巳六月二十九日, 召大臣<index num="0855096_0" ref="M_0003908" sort="K" type="이름">尹仁鏡</index>等入敎曰: "予遘厲疾, 殆不興悟, 傳位于<index num="0855097_0" ref="M_0045847" sort="K" type="이름">慶原大君</index>
+            <index num="0855098_0" ref="M_0045847" sort="K" type="이름">峘</index>, 卿等其尙勵翼, 以副予懷。" 翼日辛酉朔, 薨于<index num="0855099_0" sort="K" type="지명">景福宮</index>之正寢, 享壽三十一。 都中士庶, 奔走號哭, 塡咽街巷, 太學諸生會哭于闕外, 畿內之儒來哭者相繼, 至於遐荒僻陬, 靡不號慕。 德之流行者未久, 而人之感化者至此, 三代以下, 未之聞也。 嗚呼! 天與王以大德, 旣得位得祿, 宜若必得其壽, 將大有爲於時, 而難諶匪常之痛, 乃如是耶? 王在東宮二十餘年, 雖於燕閑, 左右未嘗一見其惰容。 其篤信聖學, 純亦不已之效, 見于未周歲之間者, 無得以名言, 其著於命令, 則不改父臣之語, 發於論遞之際, 必得賢輔之敎, 見於卜相之日。 天災示異, 則省躬而求言, 民力告癉, 則約供而減租。 褒淸白、擧遺逸之命纔下, 而士思激(昴)〔昻〕; 修庠序、理冤枉之旨屢諭, 而人知恥格。 循是以往, 其治效可勝旣耶? 纔試期月之可, 未見三年之成, 豈非天也歟? 王妃<index num="0855100_0" ref="M_0006804" sort="K" type="이름">朴氏</index>無後, 支庶亦無子女, 臨薨, 把筆欲書而未能, 嘆曰: "孤之有懷, 非文字莫可諭諸群臣, 今乃至斯, 雖欲審訓, 亦將奈何?" 尋又敎曰: "纔經父王之喪, 重遭華使之來, 民未堪命, 予又至于此, 不克終孝, 予死必葬于父母陵側, 凡予襄事, 無踰禮文, 懋從朴素, 以卒予志, 以紓民力。" 是年十月十五曰甲辰, 安厝于<index num="0855101_0" sort="K" type="지명">高陽郡</index>治南<index num="0855102_0" sort="K" type="지명">靖陵</index>之傍艮坐坤向之原, 遺命也。 陵曰<index num="0855103_0" sort="K" type="지명">孝陵</index>, 殿曰<index num="0855104_0" sort="K" type="지명">永慕</index>, 諡曰<index num="0855105_0" ref="M_0000819" sort="K" type="이름">獻文懿武章肅欽孝</index>, 廟號曰<index num="0855106_0" ref="M_0000819" sort="K" type="이름">仁宗</index>。 嗟乎! 諡者, 天下之公, 臣子所不得以私, 旣號曰仁, 則更千億萬年見諡, 亦足以知其德矣。 <index num="0855107_0" type="연호">嘉靖</index>二十四年十月日謹誌。</quotation>
+        </paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wla_200002">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 인종 대왕 애책문(哀冊文) </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">仁宗實錄 2책 2권</mainTitle>
+          <page begin="88장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">仁宗實錄 19책</mainTitle>
+          <page begin="261면"/>
+        </source>
+        <subjectClass>왕실-의식(儀式)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>어문학-문학(文學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○哀冊文<annotation type="원주">
+            <noteContent>【禮曹正郞<index num="0855108_0" ref="M_0005442" sort="K" type="이름">李洪男</index>製, 弘文館典翰<index num="0855109_0" ref="M_0000796" sort="K" type="이름">李滉</index>書。】</noteContent>
+          </annotation>
+        </paragraph>
+        <paragraph align="center">
+          <quotation>維<index num="0855110_0" type="연호">嘉靖</index>二十四年歲次乙巳七月朔日辛酉, <index num="0855111_0" ref="M_0000819" sort="K" type="이름">仁宗獻文懿武章肅欽孝大王</index>, 薨于<index num="0855112_0" sort="K" type="지명">景福宮</index>正寢, 粤十月十五日甲辰, 遷于<index num="0855113_0" sort="K" type="지명">孝陵</index>, 禮也。 簡辰奄屆, 遣車再廞。 仙仗移簇, 羽衛成林。 百靈欻歙而奔走, 兆姓號咷而摧隕。 望珠丘兮漸邇, 聆玉漏兮易盡。 主上殿下, 重憂斯棘, 百罹仍酷。 慟龍髯之莫攀, 仰雲馭兮何及。 顧徽音之在世, 藹聖功其可傳。 俾揄揚以彤管, 爰布昭於瑤鐫。 其辭曰: 宜無間然, 烝哉<index num="0855114_0" ref="M_0000819" sort="K" type="이름">仁宗</index>。 惟天爲大, 曷得形容? 敎自胎正, 德由誠明。 典念唯學, 緝熙彌精。 久位靑宮, 化隨身行。 戒存屋漏, 效著燕間。 四勿箴屛, 一德銘盤。 三朝率禮, 百行源孝。 蓋出天性, 非假音貌。 因心則友, 求救原隰。 洪惟其順, 實由旣翕。 禮遇賓僚, 告戒必書。 踐履愈密, 至德純如。 天故生之, 若將保佑。 云胡不弔? 禍延煢疚。 喪嫌<index num="0855115_0" sort="K" type="지명">漢</index>短, 哭踰<index num="0855116_0" ref="M_0031301" sort="A" type="이름">滕</index>哀。 却鹽歠粥, 秉心難回。 雖迫輿情, 勉承大寶。 諒陰恭默, 斬焉在草。 凝思賢輔, 夢與天通。 不改父臣, 言則乃雍。 爲治慕古, 俗論莫撓。 庶福我民, 以壽以飽。 方大明之初昇, 遽潛曜於虞淵。 嗚呼哀哉! 三代以降, 聖學罕傳。 士或有得, 人主蓋闕。 卓百王而獨契, 摠萬善以渙發。 旣眞知而力行, 備高明而精微。 始以聖而希天, 終浩浩兮同歸。 丕責克盡其君師, 王政竚隆於皇極。 嗟大德之雖敦, 奈偏邦之無祿。 嗚呼哀哉! 天心靡悔, 邦禍荐集。 何多難之未堪, 而大喪之又執。 悶孝誠之不終, 斯致厪於末命。 人間雖切於永慕, 天上獲侍於列聖。 嗚呼哀哉! 天作壽原, 孔邇先寢。 聖意所嚮, 允協龜諗。 去<index num="0855117_0" ref="M_0033589" sort="A" sort2="夏" type="이름">堯</index>階兮已遠, 向<index num="0855118_0" ref="M_0034126" sort="A" sort2="夏" type="이름">禹</index>穴兮將封, 卽長夜兮萬古, 錮玄泉兮三重。 遺衣冠兮永秘, 種松檜兮未拱。 吉仗空還兮猶掩翳, 舊臣共辭兮徒號踊。 嗚呼哀哉! 數故不齊, 理或難諶, 九齡未效於<index num="0855119_0" sort="K" type="지명">周</index>夢, 百代空傳乎<index num="0855120_0" ref="M_0033589" sort="A" sort2="夏" type="이름">堯</index>欽, 深仁雖待於必世, 神化亦行於期月。 惟聖德至善之不能忘兮, 永有浹於心骨。 竝天地而長存, 樹宗社於不拔。 嗚呼哀哉!</quotation>
+        </paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wla_200003">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 인종 대왕 시책문(諡冊文) </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">仁宗實錄 2책 2권</mainTitle>
+          <page begin="88장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">仁宗實錄 19책</mainTitle>
+          <page begin="261면"/>
+        </source>
+        <subjectClass>왕실-의식(儀式)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>어문학-문학(文學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○諡冊文<annotation type="원주">
+            <noteContent>【承政院都承旨<index num="0855121_0" ref="M_0057780" sort="K" type="이름">崔演</index>製, 承政院左副承旨<index num="0855122_0" ref="M_0004337" sort="K" type="이름">李文楗</index>書。】</noteContent>
+          </annotation>
+        </paragraph>
+        <paragraph align="center">
+          <quotation>維<index num="0855123_0" type="연호">嘉靖</index>二十四年歲次乙巳九月辛酉朔十二日壬申, 孤弟嗣王臣, 謹再拜稽首上言。 竊以孝莫大於繼序, 方切永慕之懷。 禮尤重於易名, 爰擧追崇之典。 斯迺古今之彝法, 固非臣子之私情。 恭惟皇兄大王, <index num="0855124_0" ref="M_0033589" sort="A" sort2="夏" type="이름">堯</index>欽<index num="0855125_0" ref="M_0033585" sort="A" sort2="夏" type="이름">舜</index>文, <index num="0855126_0" ref="M_0034126" sort="A" sort2="夏" type="이름">禹</index>勤<index num="0855127_0" ref="M_0032358" sort="A" sort2="商" type="이름">湯</index>敬。 久正儲貳之位, 德允協於元良, 恒加精一之功, 聖亦造於天縱。 肆克紹夫前烈, 乃丕承乎洪圖。 惟知儉以愼厥身, 寔能孝以仁若考。 先收謹獨於屋漏, 效旣著乎修齊。 未有命戒於亮陰, 道固具乎恭默。 試以存神過化之妙, 敷此博施濟衆之仁。 五百年興王之符, 將復見於昭代。 三十二喪予之慟, 奈又減乎夢齡? 何天意之難諶? 憫蒼生之無祿。 豈料煢疚之漸進, 而致几席之重仍? 審訓纔及於元臣, 末命俄遺於眇幼。 恩無所怙, 義無所從。 徒銜恤於飭終, 願揚休於節惠。 摹天地畫日月, 雖聖德難於形容。 垂竹帛勒瑤珉, 庶徽稱傳諸悠久。 諏吉辰以獻號, 陳寶冊而備儀。 謹上諡曰<index num="0855128_0" ref="M_0000819" sort="K" type="이름">獻文懿武章肅欽孝大王</index>, 廟號曰<index num="0855129_0" ref="M_0000819" sort="K" type="이름">仁宗</index>。 伏冀明靈, 俯鑑殷禮。 不顯亦世, 默贊燕翼於苞桑。 無疆惟休, 益鞏鴻基於盤石。 謹言。</quotation>
+        </paragraph>
+        <paragraph align="center"/>
+        <paragraph align="center">仁宗榮靖獻文懿武章肅欽孝大王實錄卷之二</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wla_200004">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle> 편수관 명단 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">仁宗實錄 2책 2권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">仁宗實錄 19책</mainTitle>
+          <page begin="262면"/>
+        </source>
+        <subjectClass>역사(歷史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0855130_0" type="연호">嘉靖</index>二十九年九月日春秋館奉敎撰前後官幷錄</paragraph>
+        <paragraph align="center">監事:</paragraph>
+        <paragraph align="center">推誠定難衛社功臣大匡輔國崇祿大夫議政府左議政兼領經筵事<index num="0855131_0" ref="M_0003233" sort="K" type="이름">靑川府院君</index> 臣<index num="0855132_0" ref="M_0003233" sort="K" type="이름">沈連源</index>。</paragraph>
+        <paragraph align="center">知事:</paragraph>
+        <paragraph align="center">推誠定難衛社功臣崇祿大夫行禮曹判書兼判義禁府事<index num="0855133_0" ref="M_0000338" sort="K" type="이름">鈴平君</index> 臣<index num="0855134_0" ref="M_0000338" sort="K" type="이름">尹漑</index>。</paragraph>
+        <paragraph align="center">崇政大夫行吏曹判書兼判義禁府事知經筵事 臣<index num="0855135_0" ref="M_0066220" sort="K" type="이름">尙震</index>。</paragraph>
+        <paragraph align="center">推誠定難衛社功臣崇政大夫議政府左贊成兼知經筵成均館事弘文館大提學藝文館大提學<index num="0855136_0" ref="M_0003080" sort="K" type="이름">靈城君</index> 臣<index num="0855137_0" ref="M_0003080" sort="K" type="이름">申光漢</index>。</paragraph>
+        <paragraph align="center">推誠協翼定難衛社功臣崇政大夫議政府右贊成兼知經筵事<index num="0855138_0" ref="M_0014240" sort="K" type="이름">上洛君</index> 臣<index num="0855139_0" ref="M_0014240" sort="K" type="이름">金光準</index>。</paragraph>
+        <paragraph align="center">正憲大夫議政府左參贊兼同知經筵事 臣<index num="0855140_0" ref="M_0000822" sort="K" type="이름">任權</index>。</paragraph>
+        <paragraph align="center">同知事:</paragraph>
+        <paragraph align="center">資憲大夫議政府右參贊兼知經筵義禁府五衛都摠府都摠管 臣<index num="0855141_0" ref="M_0002526" sort="K" type="이름">朴守良</index>。</paragraph>
+        <paragraph align="center">推誠定難衛社功臣資憲大夫戶曹判書兼知義禁府事<index num="0855142_0" ref="M_0003004" sort="K" type="이름">壺山君</index> 臣<index num="0855143_0" ref="M_0003004" sort="K" type="이름">宋世珩</index>。</paragraph>
+        <paragraph align="center">嘉善大夫戶曹參判 臣<index num="0855144_0" ref="M_0002141" sort="K" type="이름">南世健</index>。</paragraph>
+        <paragraph align="center">嘉善大夫禮曹參判 臣<index num="0855145_0" ref="M_0001368" sort="K" type="이름">金光轍</index>。</paragraph>
+        <paragraph align="center">嘉善大夫工曹參判 臣<index num="0855146_0" ref="M_0014854" sort="K" type="이름">柳辰仝</index>。</paragraph>
+        <paragraph align="center">嘉善大夫工曹參判 臣<index num="0855147_0" ref="M_0014775" sort="K" type="이름">權纘</index>。</paragraph>
+        <paragraph align="center">嘉善大夫吏曹參判兼同知義禁府成均館事 臣<index num="0855148_0" ref="M_0006057" sort="K" type="이름">趙士秀</index>。</paragraph>
+        <paragraph align="center">嘉善大夫吏曹參判兼同知義禁府事 臣<index num="0855149_0" ref="M_0003189" sort="K" type="이름">沈光彦</index>。</paragraph>
+        <paragraph align="center">嘉善大夫同知中樞府事兼同知成均館事 臣<index num="0855150_0" ref="M_0000505" sort="K" type="이름">李蓂</index>。</paragraph>
+        <paragraph align="center">嘉善大夫行僉知中樞府事兼五衛將 臣<index num="0855151_0" ref="M_0060096" sort="K" type="이름">韓㞳</index>。</paragraph>
+        <paragraph align="center">編修官:</paragraph>
+        <paragraph align="center">通訓大夫弘文館直提學知製敎兼經筵侍講官承文院參校校書館校理 臣<index num="0855152_0" ref="M_0060825" sort="K" type="이름">洪曇</index>。</paragraph>
+        <paragraph align="center">通訓大夫通禮院左通禮知製敎 臣<index num="0855153_0" ref="M_0002639" sort="K" type="이름">朴忠元</index>。</paragraph>
+        <paragraph align="center">通訓大夫司宰監正 臣<index num="0855154_0" ref="M_0014658" sort="K" type="이름">金忠烈</index>。</paragraph>
+        <paragraph align="center">通訓大夫司僕寺正 臣<index num="0855155_0" ref="M_0001530" sort="K" type="이름">金半千</index>。</paragraph>
+        <paragraph align="center">通訓大夫司䆃寺正 臣<index num="0855156_0" ref="M_0002890" sort="K" type="이름">成世章</index>。</paragraph>
+        <paragraph align="center">通訓大夫司僕寺正兼校書館校理 臣<index num="0855157_0" ref="M_0002406" sort="K" type="이름">朴公亮</index>。</paragraph>
+        <paragraph align="center">通訓大夫繕工監正 臣<index num="0855158_0" ref="M_0000230" sort="K" type="이름">金鎧</index>。</paragraph>
+        <paragraph align="center">通訓大夫禮賓寺正 臣<index num="0855159_0" ref="M_0052029" sort="K" type="이름">兪絳</index>。</paragraph>
+        <paragraph align="center">通訓大夫行司僕寺副正 臣<index num="0855160_0" ref="M_0004333" sort="K" type="이름">李無彊</index>。</paragraph>
+        <paragraph align="center">奉正大夫守弘文館典翰知製敎兼經筵侍講官 臣<index num="0855161_0" ref="M_0000377" sort="K" type="이름">尹玉</index>。</paragraph>
+        <paragraph align="center">通訓大夫行議政府舍人 臣<index num="0855162_0" ref="M_0000360" sort="K" type="이름">尹釜</index>。</paragraph>
+        <paragraph align="center">通訓大夫行議政府舍人 臣<index num="0855163_0" ref="M_0054436" sort="K" type="이름">鄭裕</index>。</paragraph>
+        <paragraph align="center">奉列大夫弘文館副應敎知製敎兼經筵侍講官 臣<index num="0855164_0" ref="M_0004450" sort="K" type="이름">李士弼</index>。</paragraph>
+        <paragraph align="center">通訓大夫行宗簿寺僉正 臣<index num="0855165_0" ref="M_0002209" sort="K" type="이름">盧慶麟</index>。</paragraph>
+        <paragraph align="center">記注官:</paragraph>
+        <paragraph align="center">奉正大夫行吏曹正郞 臣<index num="0855166_0" ref="M_0002562" sort="K" type="이름">朴永俊</index>。</paragraph>
+        <paragraph align="center">朝散大夫行兵曹正郞 臣<index num="0855167_0" ref="M_0002444" sort="K" type="이름">朴大立</index>。</paragraph>
+        <paragraph align="center">朝奉大夫行禮曹正郞知製敎 臣<index num="0855168_0" ref="M_0000127" sort="K" type="이름">權擘</index>。</paragraph>
+        <paragraph align="center">記事官:</paragraph>
+        <paragraph align="center">朝奉大夫行成均館典籍 臣<index num="0855169_0" ref="M_0004741" sort="K" type="이름">李億祥</index>。</paragraph>
+        <paragraph align="center">通德郞行禮曹佐郞 臣<index num="0855170_0" ref="M_0015042" sort="K" type="이름">申汝悰</index>。</paragraph>
+        <paragraph align="center">通善郞行吏曹佐郞 臣<index num="0855171_0" ref="M_0003223" sort="K" type="이름">沈守慶</index>。</paragraph>
+        <paragraph align="center">通善郞行吏曹佐郞知製敎 臣<index num="0855172_0" ref="M_0060372" sort="K" type="이름">許曄</index>。</paragraph>
+        <paragraph align="center">通善郞行戶曹佐郞 臣<index num="0855173_0" ref="M_0006753" sort="K" type="이름">黃俊良</index>。</paragraph>
+        <paragraph align="center">奉直郞行兵曹佐郞 臣<index num="0855174_0" ref="M_0015043" sort="K" type="이름">任呂</index>。</paragraph>
+        <paragraph align="center">奉直郞行工曹佐郞 臣<index num="0855175_0" ref="M_0034723" sort="K" type="이름">金適</index>。</paragraph>
+        <paragraph align="center">承議郞行兵曹佐郞 臣<index num="0855176_0" ref="M_0004754" sort="K" type="이름">李彦忠</index>。</paragraph>
+        <paragraph align="center">承議郞兵曹佐郞 臣<index num="0855177_0" ref="M_0005169" sort="K" type="이름">李重慶</index>。</paragraph>
+        <paragraph align="center">承議郞成均館典籍 臣<index num="0855178_0" ref="M_0004111" sort="K" type="이름">李光軫</index>。</paragraph>
+        <paragraph align="center">承議郞工曹佐郞 臣<index num="0855179_0" ref="M_0001050" sort="K" type="이름">高景虛</index>。</paragraph>
+        <paragraph align="center">承議郞成均館典籍 臣<index num="0855180_0" ref="M_0001273" sort="K" type="이름">奇大恒</index>。</paragraph>
+        <paragraph align="center">宣敎郞守兵曹佐郞 臣<index num="0855181_0" ref="M_0000245" sort="K" type="이름">金虬</index>。</paragraph>
+        <paragraph align="center">宣敎郞守成均館典籍 臣<index num="0855182_0" ref="M_0061800" sort="K" type="이름">黃祜</index>。</paragraph>
+        <paragraph align="center">宣敎郞行藝文館奉敎 臣<index num="0855183_0" ref="M_0001943" sort="K" type="이름">金質忠</index>。</paragraph>
+        <paragraph align="center">務功郞藝文館奉敎 臣<index num="0855184_0" ref="M_0045915" sort="K" type="이름">睦詹</index>。</paragraph>
+        <paragraph align="center">務功郞藝文館奉敎 臣<index num="0855185_0" ref="M_0015034" sort="K" type="이름">李之行</index>。</paragraph>
+        <paragraph align="center">通仕郞藝文館奉敎 臣<index num="0855186_0" ref="M_0000014" sort="K" type="이름">姜暹</index>。</paragraph>
+        <paragraph align="center">啓功郞行藝文館待敎 臣<index num="0855187_0" ref="M_0000506" sort="K" type="이름">李銘</index>。</paragraph>
+      </content>
+    </text>
+  </level3>
+</level2>

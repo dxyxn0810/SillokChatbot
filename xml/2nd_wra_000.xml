@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wra">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>顯宗實錄</mainTitle>
+        <alternative> 顯宗純文肅武敬仁彰孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wra_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">顯宗實錄 1책 1권</mainTitle>
+          <page begin="7장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">顯宗實錄 36책</mainTitle>
+          <page begin="205면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○王諱<index num="1308802_0" ref="M_0034250" sort="K" type="이름">棩</index>字<index num="1308803_0" ref="M_0034250" sort="K" type="이름">景直</index>, <index num="1308804_0" ref="M_0062086" sort="K" type="이름">孝宗顯仁大王</index>之適嗣, <index num="1308805_0" ref="M_0000817" sort="K" type="이름">仁祖明肅大王</index>之孫, 母妃<index num="1308806_0" ref="M_0006803" sort="K" type="이름">孝肅敬烈明獻仁宣王后</index>
+          <index num="1308807_0" sort="K" type="이름">張氏</index>,<annotation type="원주">
+            <noteContent>【右議政<index num="1308808_0" ref="M_0000864" sort="K" type="이름">新豊府院君</index>
+              <index num="1308809_0" ref="M_0000864" sort="K" type="이름">維</index>之女。】</noteContent>
+          </annotation>以皇<index num="1308810_0" sort="K" type="지명">明</index>
+          <index num="1308811_0" type="연호">崇禎</index>十四年辛巳二月初四日<annotation type="원주">
+            <noteContent>【己酉。】</noteContent>
+          </annotation>丑時。 誕王于<index num="1308812_0" sort="K" type="지명">瀋陽</index>質館。 甲申。 始東還至國, 乙酉。 <index num="1308813_0" ref="M_0044865" sort="K" type="이름">昭顯世子</index>卒, <index num="1308814_0" ref="M_0062086" sort="K" type="이름">孝廟</index>以次嫡, 冊封爲王世子, 王亦進號元孫, 己丑行冊王世孫禮。 是夏<index num="1308815_0" ref="M_0000817" sort="K" type="이름">仁祖</index>昇遐, <index num="1308816_0" ref="M_0062086" sort="K" type="이름">孝廟</index>嗣位, 王亦進號王世子, 辛卯行冠禮, 仍行冊王世子禮。 冬, 冊世子翊衛司洗馬<index num="1308817_0" ref="M_0018982" sort="K" type="이름">金佑明</index>女, 爲王世子嬪。<annotation type="원주">
+            <noteContent>【領議政<index num="1308818_0" sort="K" type="이름">堉</index>之孫。】</noteContent>
+          </annotation>至己亥五月, <index num="1308819_0" ref="M_0062086" sort="K" type="이름">孝廟</index>昇遐, 王嗣位。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

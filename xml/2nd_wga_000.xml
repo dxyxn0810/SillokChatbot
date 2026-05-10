@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wga_000">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>總序</mainTitle>
+      </title>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 世祖實錄 總序</paragraph>
+    </content>
+  </text>
+  <level3 id="wga_000001">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조의 성품과 재능에 대해 평하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">
+          <index num="0283832_0" ref="M_0047665" sort="K" type="이름">世祖惠莊承天體道烈文英武至德隆功聖神明睿欽肅仁孝大王</index>, 諱<index num="0283833_0" ref="M_0047665" sort="K" type="이름">瑈</index>, 字<index num="0283834_0" ref="M_0047665" sort="K" type="이름">粹之</index>, <index num="0283835_0" ref="M_0032471" sort="K" type="이름">世宗莊憲大王</index>第二子, 母<index num="0283836_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>
+          <index num="0283837_0" ref="M_0006786" sort="K" type="이름">沈氏</index>, 以<index num="0283838_0" type="연호">永樂</index>丁酉誕于本宮。 <index num="0283839_0" type="연호">宣德</index>戊申六月丁酉, 初封<index num="0283840_0" ref="M_0047665" sort="K" type="이름">晋平大君</index>, 後改封<index num="0283841_0" ref="M_0047665" sort="K" type="이름">咸平</index>, 又改<index num="0283842_0" ref="M_0047665" sort="K" type="이름">晋陽</index>, 又改<index num="0283843_0" ref="M_0047665" sort="K" type="이름">首陽</index>。 娶贈領議政府事<index num="0283844_0" ref="M_0000358" sort="K" type="이름">尹璠</index>之女, 卽<index num="0283845_0" ref="M_0006819" sort="K" type="이름">慈聖欽仁景德宣烈明順元淑徽愼惠懿大王大妃</index>。 <index num="0283846_0" ref="M_0047665" sort="K" type="이름">世祖</index>幼時養于民間, 艱難情僞, 備嘗知之, 器度夙成, 五歲誦<index num="0283847_0" type="서명">《孝經》</index>。 聞人說弓馬之事, 心好之, 常以弓矢自隨。 性又好飛, 得一羽, 則手不置。 天資恭儉有禮, 忠孝友愛。 好仁力義, 遠小人而不惡, 親君子而不私。 文學、射御超絶古今, 至於曆算、音律、醫卜、技藝之事, 皆盡其妙。 然常自晦, 不欲上人, <index num="0283848_0" ref="M_0032471" sort="K" type="이름">世宗</index>奇愛之, 待遇異於諸子, 凡軍國大事, 必委以參決。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000002">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 평강에서 강무할 때 세조가 사슴의 목을 명중시키다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○己酉二月, <index num="0283849_0" ref="M_0032471" sort="K" type="이름">世宗</index>講武于<index num="0283850_0" sort="K" type="지명">平康</index>, <index num="0283851_0" ref="M_0047665" sort="K" type="이름">世祖</index>射鹿, 七發皆貫其項。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000003">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조가 악기를 연주함에 모두들 감탄하고 세종이 칭찬하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실(王室)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>예술-음악(音樂)</subjectClass>
+        <subjectClass>역사-고사(故事)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○九月, <index num="0283852_0" ref="M_0032471" sort="K" type="이름">世宗</index>命<index num="0283853_0" ref="M_0047665" sort="K" type="이름">世祖</index>, 與<index num="0283854_0" ref="M_0042246" sort="K" type="이름">安平大君</index>
+          <index num="0283855_0" ref="M_0042246" sort="K" type="이름">瑢</index>、<index num="0283856_0" ref="M_0045206" sort="K" type="이름">臨瀛大君</index>
+          <index num="0283857_0" ref="M_0045206" sort="K" type="이름">璆</index>學樂。 <index num="0283858_0" ref="M_0042246" sort="K" type="이름">瑢</index>性好華麗, <index num="0283859_0" ref="M_0045206" sort="K" type="이름">璆</index>素曉音律, 故皆樂學焉。 <index num="0283860_0" ref="M_0047665" sort="K" type="이름">世祖</index>方志弓馬, 日與武人輩角力, 無能及者, <index num="0283861_0" ref="M_0046153" sort="K" type="이름">文宗</index>稱爲英健。 及聞<index num="0283862_0" ref="M_0032471" sort="K" type="이름">世宗</index>彈琴大悅, 乃始學。 一日<index num="0283863_0" ref="M_0032471" sort="K" type="이름">世宗</index>命與<index num="0283864_0" ref="M_0042246" sort="K" type="이름">瑢</index>、<index num="0283865_0" ref="M_0045206" sort="K" type="이름">璆</index>皷鄕琴, <index num="0283866_0" ref="M_0047665" sort="K" type="이름">世祖</index>不學, 而<index num="0283867_0" ref="M_0042246" sort="K" type="이름">瑢</index>不能及, <index num="0283868_0" ref="M_0032471" sort="K" type="이름">世宗</index>與<index num="0283869_0" ref="M_0046153" sort="K" type="이름">文宗</index>大笑。 又<index num="0283870_0" ref="M_0047665" sort="K" type="이름">世祖</index>嘗鼓伽倻琴, <index num="0283871_0" ref="M_0032471" sort="K" type="이름">世宗</index>歎曰: "<index num="0283872_0" ref="M_0047665" sort="K" type="이름">晋平</index>之氣象也, 何事不能成哉?" 又曰: "<index num="0283873_0" ref="M_0047665" sort="K" type="이름">晋平</index>若鼓琵琶, 則能令衰氣更興。" <index num="0283874_0" ref="M_0047665" sort="K" type="이름">世祖</index>又嘗吹笛, 在座諸宗親莫不感焉, 有鶴來舞庭中, <index num="0283875_0" ref="M_0008617" sort="K" type="이름">錦城大君</index>
+          <index num="0283876_0" ref="M_0008617" sort="K" type="이름">瑜</index>年方幼, 見之忽起對舞。 嘗於月夜, <index num="0283877_0" ref="M_0047665" sort="K" type="이름">世祖</index>敎伶人<index num="0283878_0" ref="M_0060378" sort="K" type="이름">許吾</index>笛界面調, <annotation type="원주">
+            <noteContent>【羽調俗謂之界面調。】</noteContent>
+          </annotation> 聞者莫不哀傷。 <index num="0283880_0" ref="M_0042246" sort="K" type="이름">瑢</index>謂<index num="0283881_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "夫樂者, 貴哀而不傷, 兄何用界面調也?" <index num="0283882_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "昔<index num="0283883_0" sort="K" type="지명">陳</index>後主以<index num="0283884_0" type="서명">《玉樹後庭花》</index>亡, 然<index num="0283885_0" sort="K" type="지명">唐</index>
+          <index num="0283886_0" ref="M_0031160" sort="A" sort2="唐" type="이름">太宗</index>亦聽之。 且子其能止杜鵑聲乎?" <index num="0283887_0" ref="M_0032471" sort="K" type="이름">世宗</index>又謂<index num="0283888_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "知樂者, 我國中獨<index num="0283889_0" ref="M_0047665" sort="K" type="이름">晋平</index>耳, 前後所未有者也。" 或問<index num="0283890_0" ref="M_0047665" sort="K" type="이름">世祖</index>樂之極功, <index num="0283891_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "靜能引、弱勝强、卑莫犯、保太極、蘊至道、運造化, 樂之功也。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000004">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조가 여러 종친들과 함께 활쏘기를 하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="1장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>교육-기술교육(技術敎育)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○壬子六月, <index num="0283892_0" ref="M_0047665" sort="K" type="이름">世祖</index>與<index num="0283893_0" ref="M_0008617" sort="K" type="이름">瑜</index>等諸宗親會射, <index num="0283894_0" ref="M_0047665" sort="K" type="이름">世祖</index>百發百中, 武人<index num="0283895_0" ref="M_0050389" sort="K" type="이름">楊春武</index>旁歎曰: "國一手也。" <index num="0283896_0" ref="M_0047665" sort="K" type="이름">世祖</index>又嘗設小的於<index num="0283897_0" sort="K" type="지명">慶會樓</index>池南, 距水不能以尺, 終日射之, 無一矢墮水。 <index num="0283898_0" ref="M_0047665" sort="K" type="이름">世祖</index>嘗作射侯詩曰: "確强固不弛, 神功在力難。 不違帶斜陽, 英雄意自閑。" 又曰: "穿葉非神力, 牛毛亦可拂? 蓋言經史暇, 彈丸帶斜日。" <index num="0283899_0" ref="M_0046153" sort="K" type="이름">文宗</index>嘗賜<index num="0283900_0" ref="M_0047665" sort="K" type="이름">世祖</index>弓, 題其弓曰: "鐵石其弓, 霹靂其矢, 吾見其張, 未見其弛。" 又曰: "冬日烈烈, 飄風發發, 强人步園, <index num="0283901_0" sort="M" type="지명">胡</index>蹄遠滅。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000005">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 교외에서 사냥 구경할 때 세조가 품이 넓은 옷을 입고 나오다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○八月, <index num="0283902_0" ref="M_0032471" sort="K" type="이름">世宗</index>觀獵于郊外, 見<index num="0283903_0" ref="M_0047665" sort="K" type="이름">世祖</index>馳馬出射場, <index num="0283904_0" ref="M_0032471" sort="K" type="이름">世宗</index>顧<index num="0283905_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "<index num="0283906_0" ref="M_0047665" sort="K" type="이름">晋平</index>固驍勇人也。" <index num="0283907_0" ref="M_0047665" sort="K" type="이름">世祖</index>常服寬衣, 宮人笑之, <index num="0283908_0" ref="M_0032471" sort="K" type="이름">世宗</index>曰: "若爾驍勇人, 寬服可也。" 韋弦之義也。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000006">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 풍양에서 강무할 때 세조가 굴러 떨어지는 말에서 무사히 빠져나오다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사(歷史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○九月, <index num="0283909_0" ref="M_0032471" sort="K" type="이름">世宗</index>講武于<index num="0283910_0" sort="K" type="지명">豐壤</index>, <index num="0283911_0" ref="M_0047665" sort="K" type="이름">世祖</index>乘駿馬馳下峻坂, 勢難止, 馬墮於數丈岸, <index num="0283912_0" ref="M_0047665" sort="K" type="이름">世祖</index>躍身離馬, 立於岸上, 鞍馬俱碎, 人皆驚歎。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000007">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 평강에서 강무할 때 추운 날씨에도 세조가 홑옷에 팔뚝을 걷다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○甲寅二月, <index num="0283913_0" ref="M_0032471" sort="K" type="이름">世宗</index>講武于<index num="0283914_0" sort="K" type="지명">平康</index>, 時天寒, 雨後大風, 人皆三襦衣襲裘, 掩耳蒙氈, 猶寒顫, <index num="0283915_0" ref="M_0047665" sort="K" type="이름">世祖</index>獨一裌衣攘臂, 而手暖如火, 見者異之。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000008">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 평강에서 강무할 때 세조가 화살 16발로 사슴 16마리를 잡다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○乙卯二月, <index num="0283916_0" ref="M_0032471" sort="K" type="이름">世宗</index>又講武于<index num="0283917_0" sort="K" type="지명">平康</index>, <index num="0283918_0" ref="M_0047665" sort="K" type="이름">世祖</index>十六發而殪十六鹿, 風拂羽血, 衣爲之赤。 老武人<index num="0283919_0" ref="M_0042376" sort="K" type="이름">李元奇</index>、<index num="0283920_0" ref="M_0062369" sort="K" type="이름">金敢</index>等泣曰: "復見<index num="0283921_0" ref="M_0000889" sort="K" type="이름">太祖</index>。" <index num="0283922_0" ref="M_0032471" sort="K" type="이름">世宗</index>與<index num="0283923_0" ref="M_0046153" sort="K" type="이름">文宗</index>亦每稱之。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000009">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 세조에게 《자치통감》을 내려주다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>사상-유학(儒學)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○丙辰二月, <index num="0283924_0" ref="M_0032471" sort="K" type="이름">世宗</index>以<index num="0283925_0" ref="M_0047665" sort="K" type="이름">世祖</index>好文學, 親授<index num="0283926_0" type="서명">《資治通鑑》</index>。 時<index num="0283927_0" ref="M_0047665" sort="K" type="이름">世祖</index>盡覽古今書史, 尤精於性理之學, 每曰: "不盡讀天下之書, 則吾不復執弓。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000010">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조가 북원을 경작함에 세종이 《농서》를 내려주다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>농업-농업기술(農業技術)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○初<index num="0283928_0" ref="M_0047665" sort="K" type="이름">世祖</index>有意於農事, 請<index num="0283929_0" ref="M_0032471" sort="K" type="이름">世宗</index>塡後園池爲田, 至是<index num="0283930_0" ref="M_0032471" sort="K" type="이름">世宗</index>欲盡耕北園, 人皆曰難, <index num="0283931_0" ref="M_0047665" sort="K" type="이름">世祖</index>獨贊成之, 親執耒耜, 二日盡耕, <index num="0283932_0" ref="M_0032471" sort="K" type="이름">世宗</index>授<index num="0283933_0" ref="M_0047665" sort="K" type="이름">世祖</index>農書。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000011">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 평강에서 강무할 때 세조가 한번의 채찍질로 여러 마리 사슴을 잡다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○己未閏二月, <index num="0283934_0" ref="M_0032471" sort="K" type="이름">世宗</index>講武于<index num="0283935_0" sort="K" type="지명">平康</index>, 九鹿竝走, <index num="0283936_0" ref="M_0047665" sort="K" type="이름">世祖</index>殪其六, 又五鹿俱下, 殪其四, <index num="0283937_0" ref="M_0032471" sort="K" type="이름">世宗</index>與<index num="0283938_0" ref="M_0046153" sort="K" type="이름">文宗</index>稱其能。 是日<index num="0283939_0" ref="M_0047665" sort="K" type="이름">世祖</index>一鞭六殪者再, 五殪者數四。 又有逸鹿超踰馬上, <index num="0283940_0" ref="M_0047665" sort="K" type="이름">世祖</index>仰射透之, 如是者再。 翌日馬邊者啓曰: "昨日<index num="0283941_0" ref="M_0047665" sort="K" type="이름">晋陽</index>所射大槪六十八, 而未及算者, 又未知其幾。" 是行<index num="0283942_0" ref="M_0047665" sort="K" type="이름">世祖</index>欲示勇, 故乘駑馬逐獐, 馬數十蹶, 而輒離馬躍立。 驅軍將<index num="0283943_0" ref="M_0002872" sort="K" type="이름">成達生</index>見之曰: "<index num="0283944_0" ref="M_0008673" sort="K" type="이름">郭承祐</index>能投蓋者也, 而不能躍立於馬蹶, <index num="0283945_0" ref="M_0047665" sort="K" type="이름">晋陽</index>輒立, 何其奇也?"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000012">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 세조를 종부시 제조로 삼다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="2장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="55면"/>
+        </source>
+        <subjectClass>왕실-종친(宗親)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>인사-임면(任免)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○七月, <index num="0283946_0" ref="M_0032471" sort="K" type="이름">世宗</index>議宗簿提調曰: "<index num="0283947_0" ref="M_0006770" sort="K" type="이름">孝寧</index>疾弱不能領宗簿, 欲以<index num="0283948_0" ref="M_0047665" sort="K" type="이름">晋陽</index>代之。 但本意將以位尊有德望者爲之, 以表率宗親, 今旣無人, <index num="0283949_0" ref="M_0047665" sort="K" type="이름">晋陽</index>雖少, 亦知守身之法。" 遂以爲提調曰: "自古防衛宗室甚急務。 今放縱泰弛, 宗親之僕從, 因緣侵民者多矣。 用汝爲提調者, 亦欲汝從事於吏, 以學國法。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000013">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종의 명으로 세조와 안평 대군이 규표를 가지고 보현봉에 올라가다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="3장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>과학-천기(天氣)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○庚申十月, <index num="0283950_0" ref="M_0032471" sort="K" type="이름">世宗</index>親制圭表, 命<index num="0283951_0" ref="M_0047665" sort="K" type="이름">世祖</index>與<index num="0283952_0" ref="M_0042246" sort="K" type="이름">瑢</index>登<index num="0283953_0" sort="K" type="지명">普賢峰</index>觀日入處。 峯高萬仞, 石磴巉巖, 馬不得上, 人皆捨馬而徒, <index num="0283954_0" ref="M_0047665" sort="K" type="이름">世祖</index>獨御弓矢而上, 疾如旋風, 人無及者, 降白雲谷, 人皆迷眩顚倒, <index num="0283955_0" ref="M_0047665" sort="K" type="이름">世祖</index>走下如坦路。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000014">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조가 밤에 퉁소 소리를 듣고 귀신이 부는 ‘음려’ 곡조임을 알아 맞추다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="3장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>예술-음악(音樂)</subjectClass>
+        <subjectClass>왕실(王室)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○辛酉十月, <index num="0283956_0" ref="M_0046153" sort="K" type="이름">文宗</index>與<index num="0283957_0" ref="M_0047665" sort="K" type="이름">世祖</index>及諸弟夜坐, 有嘯聲風颯然再吹。 <index num="0283958_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "夾鍾淸調。" <index num="0283959_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "誰也?" <index num="0283960_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "鬼也。" <index num="0283961_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "何以知之?" <index num="0283962_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "我天下之極嘯也, 而不敢越蕤賓淸, 此則夾鍾淸調, 而上二又裕, <annotation type="원주">
+            <noteContent>【<index num="0283963_0" ref="M_0032471" sort="K" type="이름">世宗</index>新定樂譜, 每調各有上下五等, 如上一上二上三上四上五是也。 有上一其聲漸淸, 至五而極, 自下一漸濁, 至五而極。】</noteContent>
+          </annotation> 是則林鍾淸也。 且其聲不困而振不舒、風不容而志不平, 殆來事之鬼也。" <index num="0283964_0" ref="M_0009805" sort="K" type="이름">廣平大君</index>
+          <index num="0283965_0" ref="M_0009805" sort="K" type="이름">璵</index>曰: "然則鬼豈得干正大乎?" <index num="0283966_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "妖鬼或依人而行。 昔甲寅夏上祭于<index num="0283967_0" sort="K" type="지명">獻陵</index>, 鬼火見于栗丘, 非不畏三軍之威、聖德之明, 然見之者, 愛之也。 是日甘露降, 其月<index num="0283968_0" ref="M_0009859" sort="K" type="이름">永膺大君</index>
+          <index num="0283969_0" ref="M_0009859" sort="K" type="이름">琰</index>生, 蓋盛兆也。 以知鬼神之情狀, 故不敢亂也。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000015">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 평강에서 강무할 때 세조가 흰 사슴을 쏘다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="3장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>왕실-행행(行幸)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>외교-야(野)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○壬戌三月, <index num="0283970_0" ref="M_0032471" sort="K" type="이름">世宗</index>講武于<index num="0283971_0" sort="K" type="지명">平康</index>, 有一白鹿見群鹿之中, 宗親軍士皆望之, 莫不欲得之。 <index num="0283972_0" ref="M_0047665" sort="K" type="이름">世祖</index>謂司僕官等曰: "雖百人欲之, 必死吾手, 汝等第觀之。" 及群鹿走下, <index num="0283973_0" ref="M_0047665" sort="K" type="이름">世祖</index>射殪之。 是日<index num="0283974_0" ref="M_0032471" sort="K" type="이름">世宗</index>議於兵曹、三軍將帥曰: "<index num="0283975_0" ref="M_0047665" sort="K" type="이름">晋陽</index>一鞭十殪, <index num="0283976_0" ref="M_0009850" sort="K" type="이름">平原</index>、<index num="0283977_0" ref="M_0008617" sort="K" type="이름">錦城</index>亦五六殪, 圍內之獸, 盡斃三人手下, 有乖軍士講武之意, 欲使軍士射之, 何如?" 僉曰: "軍士跋涉山川, 金鼓聚散, 乃是講武也。 又有猛獸逸鹿, 何患乎不講武乎?" 是行, <index num="0283978_0" sort="M" type="지명">野人</index>
+          <index num="0283979_0" sort="M" type="이름">童羅松介</index>, 見<index num="0283980_0" ref="M_0047665" sort="K" type="이름">世祖</index>神武跪曰: "眞我那衍。<annotation type="원주">
+            <noteContent>【俗稱主將曰那衍。】</noteContent>
+          </annotation> 在吾地, 則眞拔都也。" <index num="0283981_0" ref="M_0047665" sort="K" type="이름">世祖</index>笑曰: "汝曾知我乎?" <index num="0283982_0" sort="M" type="이름">羅松介</index>曰: "吾地之人, 孰不知之?" 時北方<index num="0283983_0" sort="M" type="지명">野人</index>稱<index num="0283984_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "<index num="0283985_0" ref="M_0047665" sort="K" type="이름">晋陽</index>大虎也。" 又<index num="0283986_0" sort="M" type="이름">羅松介</index>潛取<index num="0283987_0" ref="M_0047665" sort="K" type="이름">世祖</index>弓挽之, 不得大服, 及還京見人, 則必曰: "一人而已。" 常稱拔都。 <index num="0283988_0" ref="M_0032471" sort="K" type="이름">世宗</index>嘗賜<index num="0283989_0" ref="M_0047665" sort="K" type="이름">世祖</index>二强弓, 乃武人<index num="0283990_0" ref="M_0063647" sort="K" type="이름">朴成良</index>所獨挽者也, 故名曰 ‘無用大角’, <index num="0283991_0" ref="M_0047665" sort="K" type="이름">世祖</index>常於馬上用之。 一日<index num="0283992_0" ref="M_0047665" sort="K" type="이름">世祖</index>偶用弱弓射之, <index num="0283993_0" ref="M_0009805" sort="K" type="이름">廣平大君</index>
+          <index num="0283994_0" ref="M_0009805" sort="K" type="이름">璵</index>見之, 歎曰: "弓則不良, 而矢何疾若是?" <index num="0283995_0" ref="M_0047665" sort="K" type="이름">世祖</index>笑曰: "善書者不擇筆, 善吹者不擇笛, 善敎者不擇人, 君子行仁, 不擇地, 志士行義, 不擇時。" <index num="0283996_0" ref="M_0009805" sort="K" type="이름">廣平</index>曰: "善哉"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000016">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조의 꿈에 노인이 나타나 경계하고 격려하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="4장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>어문학-문학(文學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○癸亥六月, 二十一日<index num="0283997_0" ref="M_0047665" sort="K" type="이름">世祖</index>夢有老人言: "人生苦樂, 莫不由己, 賢者貪其業而氣喪, 愚者縱其欲而身亡, 同歸於苦耳。 故至人貪其業而節其氣, 棄小欲而成大欲。 子無乃有愧於至人乎? 一杯之酌, 無損於江河, 浮雲之蔽, 何虧於太陽? <index num="0283998_0" sort="K" type="지명">泰山</index>之大, 微塵之聚也, 聖人之德, 小善之積也, 吾子勉之。" <index num="0283999_0" ref="M_0047665" sort="K" type="이름">世祖</index>驚悟, 則松風颯然, 窓隙見星, 從者皆寢。 乃作詩曰:</paragraph>
+        <paragraph align="center">
+          <quotation>夜中聞松風, 穿窓見天星。 歎我駑劣才, 服業安能成? 窮靜知薄命, 誰能慰此情? 我懷古之人, 所用無不誠。 誠以履道方, 業故用彌精。 大原旣克定, 百才享多榮。</quotation>
+        </paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000017">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 세조를 전제소 제조로 삼다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="4장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>재정-전세(田稅)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○十一月, <index num="0284000_0" ref="M_0032471" sort="K" type="이름">世宗</index>方銳意貢法, 難其人, 議諸大臣, 將以<index num="0284001_0" ref="M_0047665" sort="K" type="이름">世祖</index>爲田制所提調, 謂<index num="0284002_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "予欲以<index num="0284003_0" ref="M_0047665" sort="K" type="이름">晋陽</index>爲田制所提調。" 遂命<index num="0284004_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "此大事, 汝可主之。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000018">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조가 나무 메고 오는 역부들을 보고 문종에게 백성을 사랑할 것을 말하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="4장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○甲子七月, <index num="0284005_0" ref="M_0047665" sort="K" type="이름">世祖</index>與<index num="0284006_0" ref="M_0046153" sort="K" type="이름">文宗</index>偶見役夫擔木而來, <index num="0284007_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "治心者治人, 治力者治於人, 不治心治力而坐食者, 亦何用哉?" <index num="0284008_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "是。" <index num="0284009_0" ref="M_0047665" sort="K" type="이름">世祖</index>又曰: "如保赤子, 心誠求之, 雖不中不遠, 愛民之心, 或有甚於赤子者也。" <index num="0284010_0" ref="M_0046153" sort="K" type="이름">文宗</index>愀然曰: "是矣。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000019">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 문종과 세조에게 유교를 내리다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="4장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0284011_0" ref="M_0032471" sort="K" type="이름">世宗</index>命<index num="0284012_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "國家之安危, 在汝一身。" 又謂<index num="0284013_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "國家多厄之時, 汝等共扶持之。 汝非諸子例也, 安危所係。" 世祖感泣。 是時<index num="0284014_0" ref="M_0032471" sort="K" type="이름">世宗</index>移御<index num="0284015_0" ref="M_0008617" sort="K" type="이름">瑜</index>第, 召<index num="0284016_0" ref="M_0046153" sort="K" type="이름">文宗</index>、<index num="0284017_0" ref="M_0047665" sort="K" type="이름">世祖</index>傳遺敎, 因命<index num="0284018_0" ref="M_0047665" sort="K" type="이름">世祖</index>書之, 其敎曰: "待兄弟以愛爲主, 而亦必嚴法以敎之, 一也。 謹齋祀, 先儒所以不(刀)〔力〕言者, 以嫌<index num="0284019_0" sort="K" type="지명">漢</index>
+          <index num="0284020_0" ref="M_0015153" sort="A" sort2="漢" type="이름">武</index>數君故也。 然幽明感應甚分明, 不可忽, 二也。 後宮當生入死出, 見男子, 則必於廣廳, 三也。 若後宮有大罪, 必不免於先王者, 亦據先王遺敎論之, 四也。 用兵, 須愼愼, 五也。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000020">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 청주 초수궁에 거둥하며 세조에게 궁궐을 지키도록 하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="4장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="56면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○閏七月, <index num="0284021_0" ref="M_0032471" sort="K" type="이름">世宗</index>幸<index num="0284022_0" sort="K" type="지명">淸州</index>
+          <index num="0284023_0" sort="K" type="지명">椒水宮</index>, 命<index num="0284024_0" ref="M_0047665" sort="K" type="이름">世祖</index>守宮, 謂<index num="0284025_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>曰: "我子之中, 獨<index num="0284026_0" sort="K" type="지명">晋陽</index>耳, 孝而才正且質, 眞異人也。 若負才而逸, 則誰有數者? 有才而不逸, 所以爲賢也。" <index num="0284027_0" ref="M_0047665" sort="K" type="이름">世祖</index>守宮, 寄書<index num="0284028_0" ref="M_0045206" sort="K" type="이름">臨瀛</index>、<index num="0284029_0" ref="M_0008617" sort="K" type="이름">錦城</index>曰: "聞子等與<index num="0284030_0" ref="M_0009859" sort="K" type="이름">永膺</index>數鷹, 愼勿馳馬。 顚躓折傷, 後悔何及? 行父母之遺體, 敢不敬歟? 父母之遺體與蕞爾一獸孰重? 子雖馳騁傾險一鞭而射三獐, 有何補乎? 只取一日之快耳。 吾見子等徒紛紛於末技, 而棄大德之弘謨也。 <index num="0284031_0" type="서명">《易》</index>曰, ‘天道, 虧盈而益謙, 地道, 變盈而流謙, 人道, 惡盈而好謙。’ 推謙恭遜順, 不越乎人, 祗有忠孝, 則自有萬萬無窮之樂矣。 豈但三獐一日之快哉?"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000021">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조가 함길도 사람 최유와 이종번 등의 사사로운 청을 거절하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="5장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="57면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>왕실-종친(宗親)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>군사-중앙군(中央軍)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○乙丑二月, <index num="0284032_0" sort="K" type="지명">咸吉道</index>人<index num="0284033_0" ref="M_0057897" sort="K" type="이름">崔濡</index>言於<index num="0284034_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "<index num="0284035_0" ref="M_0042376" sort="K" type="이름">李元奇</index>之子, 欲留侍衛, 請圖之。" <index num="0284036_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "用人, 人君之事, 非吾所啓也。" 時人有請<index num="0284037_0" ref="M_0047665" sort="K" type="이름">世祖</index>書行請托必曰: "此人所共爲之事。" <index num="0284038_0" ref="M_0047665" sort="K" type="이름">世祖</index>笑曰: "我不爲人之所爲, 必爲人之所不爲者也。" 又<index num="0284039_0" ref="M_0009609" sort="K" type="이름">李宗蕃</index>者將使於北方, 適於宗親宴會來謁欲圖免, 諸宗親皆曰: "諾。" <index num="0284040_0" ref="M_0047665" sort="K" type="이름">世祖</index>獨曰: "大丈夫常有四方之志, 每恨立功無因, 臣而苟免, 吾所未聞。" <index num="0284041_0" ref="M_0000567" sort="K" type="이름">諴寧君</index>
+          <index num="0284042_0" ref="M_0000567" sort="K" type="이름">䄄</index>歎曰: "至哉言乎?"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000022">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 세조에게 《율려신서》를 보도록 명하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="5장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="57면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사(歷史)</subjectClass>
+        <subjectClass>출판-서책(書冊)</subjectClass>
+        <subjectClass>과학-역법(曆法)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○三月, <index num="0284043_0" ref="M_0032471" sort="K" type="이름">世宗</index>命<index num="0284044_0" ref="M_0047665" sort="K" type="이름">世祖</index>覽<index num="0284045_0" type="서명">《律呂新書》</index>曰: "此大事, 汝可力之。" <index num="0284046_0" ref="M_0047665" sort="K" type="이름">世祖</index>讀之, 惟日不足, 謂人曰: "學問須於難處見功焉。" 又曰: "律曆之理, 其深無內, 其大無外, 聖賢之最能事也。" <index num="0284047_0" ref="M_0032471" sort="K" type="이름">世宗</index>又與<index num="0284048_0" ref="M_0046153" sort="K" type="이름">文宗</index>論曆法曰: "曆法甚有味, <index num="0284049_0" ref="M_0047665" sort="K" type="이름">首陽</index>任之, 則能知之。 <index num="0284050_0" ref="M_0047665" sort="K" type="이름">首陽</index>甚精學者也。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000023">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>문종이 세조와 부국 강병에 대해 논하고 향화 야인에 대한 대책을 의논하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="5장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="57면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>군사-병법(兵法)</subjectClass>
+        <subjectClass>외교-야(野)</subjectClass>
+        <subjectClass>어문학(語文學)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0284051_0" ref="M_0046153" sort="K" type="이름">文宗</index>與<index num="0284052_0" ref="M_0047665" sort="K" type="이름">世祖</index>議國事。 <index num="0284053_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "富國强兵之術, 非吾所可言也。 然其道則國未擧百一也。" <index num="0284054_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "何不可言也?" <index num="0284055_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "未可以聽之雜, 而問之忽也。 非得人任之久而勿疑, 莫可致也。 久則知, 勿疑則展其才焉。 夫一治一亂, 理之常也, 今太平旣久, 以天道推之, 當一亂之期也。 以吾觀之, 國無人矣, 唯小節是察, 亦非硯留塵也。<annotation type="원주">
+            <noteContent>【<index num="0284056_0" ref="M_0046153" sort="K" type="이름">文宗</index>嘗內宴詠詩曰, "三公案上硯留塵, 御史尊前花映杯。" 言太平無事也。】</noteContent>
+          </annotation> 法曰, ‘毋恃其不來, 恃吾有以待之。’ 今日之勢, 燕雀處堂之勢也。 一朝緩急, 誰能禦侮? 國家久不講武, 武事之弛, 此時爲甚。" <index num="0284057_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "大閱何如?" <index num="0284058_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "大閱未見益也。 聚之難而習之之制甚草草, 惡乎用?" <index num="0284059_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "正是。 今之人, 正猶幻戲。 中年以後, 莫不營財保身爲子孫計。 非獨今之人, 自古而然。 假如<index num="0284060_0" ref="M_0047665" sort="K" type="이름">首陽</index>者爲兵曹判書, 則何憂哉? <index num="0284061_0" ref="M_0012756" sort="A" sort2="전국·趨" type="이름">孟子</index>曰, ‘及是時明其政刑, 吾將啓而擧之矣," 時國論以向化<index num="0284062_0" sort="M" type="지명">野人</index>多在京師, 無事而食俸祿, 請抄還其鄕。 <index num="0284063_0" ref="M_0047665" sort="K" type="이름">世祖</index>言於<index num="0284064_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "此沮向化之心, 非遠謀也。 御夷之道, 使之勞、處之安, 何患乎無事而食俸祿? 使之勞, 御其氣也, 處之安, 御其心也。" <index num="0284065_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "然。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000024">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>소헌 왕후가 여색과 사치를 경계하고, 세조와 자성 왕후 윤씨를 칭찬하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="6장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="57면"/>
+        </source>
+        <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○丙寅正月, <index num="0284066_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>敎諸子曰: "待妾不可與正嫡比, 衣服不可奢侈也。" 因稱<index num="0284067_0" ref="M_0047665" sort="K" type="이름">世祖</index>之儉曰: "且無失德於色。" 時<index num="0284068_0" ref="M_0044768" sort="K" type="이름">義昌君</index>
+          <index num="0284069_0" ref="M_0044768" sort="K" type="이름">玒</index>私妓, <index num="0284070_0" ref="M_0032471" sort="K" type="이름">世宗</index>命杖從者曰, "今<index num="0284071_0" ref="M_0047665" sort="K" type="이름">首陽</index>多率伶妓, <index num="0284072_0" ref="M_0047665" sort="K" type="이름">首陽</index>故多率, 其賢可恃也。" 又謂<index num="0284073_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "汝弟之中, 獨<index num="0284074_0" ref="M_0047665" sort="K" type="이름">首陽</index>正大人也。" <index num="0284075_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>曰: "上之嘉汝若是, 人亦謂汝爲聖人, 益自勉之。" <index num="0284076_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>躬行儉德, 御澣布, 親繅繭, 訓諸子婦常戒驕奢, 而<index num="0284077_0" ref="M_0042246" sort="K" type="이름">瑢</index>妻不離紵線, 佩玩傾裝, 與公主爭寵, 諸婦莫敢與言, 皆親於大王大妃, <index num="0284078_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>謂大妃曰: "皆依於汝, 汝可撫憐之。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000025">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>소헌 왕후가 세상을 떠남에 세조가 슬퍼함이 도를 넘다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="6장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="57면"/>
+        </source>
+        <subjectClass>왕실-의식(儀式)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○三月, <index num="0284079_0" ref="M_0006786" sort="K" type="이름">昭憲王后</index>薨, <index num="0284080_0" ref="M_0047665" sort="K" type="이름">世祖</index>哀毁過禮。 <index num="0284081_0" ref="M_0046153" sort="K" type="이름">文宗</index>以書諭之曰:</paragraph>
+        <paragraph align="center">
+          <quotation>居喪, 若以徑情直行爲法, 則<index num="0284082_0" ref="M_0033788" sort="A" sort2="춘추·魯" type="이름">曾子</index>必不勝喪。 今<index num="0284083_0" ref="M_0047665" sort="K" type="이름">首陽</index>多病, 我實如失左右手, 聖上萬福, 何至於是。 食少則必病, <index num="0284084_0" ref="M_0033576" sort="A" type="이름">諸葛亮</index>是也。 且膏梁之腹, 曠日少食, 加以過傷, 自不知病之深, 一朝病作, 則醫無能爲也。 我言非虛, <index num="0284085_0" ref="M_0047665" sort="K" type="이름">首陽</index>其省之。 今我兄弟遺者幾人, 而其不自愛乎? <index num="0284086_0" ref="M_0047665" sort="K" type="이름">首陽</index>其省之。</quotation>
+        </paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000026">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 문종과 세조에게 꿈 속에 지은 태평 시대의 시를 들려주다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="6장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="57면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>어문학-문학(文學)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○九月, <index num="0284087_0" ref="M_0032471" sort="K" type="이름">世宗</index>語<index num="0284088_0" ref="M_0046153" sort="K" type="이름">文宗</index>、<index num="0284089_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "昨夢予作詩曰, ‘雨饒郊野民心樂, 日映京都喜氣新。 多慶雖云由積累, 只爲吾君愼厥身。’ 此詩義理好, 汝等觀之必有益。" <index num="0284090_0" ref="M_0046153" sort="K" type="이름">文宗</index>與<index num="0284091_0" ref="M_0047665" sort="K" type="이름">世祖</index>相慶而出, <index num="0284092_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "上心如湛水, 吉兆先彰。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000027">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세종이 문종과 세조에게 유교를 전하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="6장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="57면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○庚午正月, <index num="0284093_0" ref="M_0032471" sort="K" type="이름">世宗</index>召<index num="0284094_0" ref="M_0046153" sort="K" type="이름">文宗</index>、<index num="0284095_0" ref="M_0047665" sort="K" type="이름">世祖</index>傳遺敎曰:</paragraph>
+        <paragraph align="center">
+          <quotation>有國者不諱亡, 有生者不諱死。 予今語汝二人, 大抵臣下, 君死之日, 卽攻兄弟之過。 予死之日, 言兄弟之過者必多, 汝須不忘予言, 常以親愛之心爲主, 則外物莫能間。 不得已而雖罪之, 思之再三, 熟計情理, 心焉如割乃可。 予初卽位, 攻<index num="0284096_0" ref="M_0006770" sort="K" type="이름">孝寧</index>等者多, 非予莫能保之矣。 <index num="0284097_0" ref="M_0009859" sort="K" type="이름">永膺</index>常食於予側, 所重在飮啖耳。</quotation>
+        </paragraph>
+        <paragraph align="center">時<index num="0284098_0" ref="M_0032471" sort="K" type="이름">世宗</index>疾彌留, 每事必命<index num="0284099_0" ref="M_0047665" sort="K" type="이름">世祖</index>, 常在於內, <index num="0284100_0" ref="M_0047665" sort="K" type="이름">世祖</index>五日不食, 及<index num="0284101_0" ref="M_0032471" sort="K" type="이름">世宗</index>安而乃食。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000028">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>문종이 세조에게 《병요》와 《무경》에 주해를 내고 《음양서》를 바로 잡도록 명하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="6장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="58면"/>
+        </source>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>군사-병법(兵法)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+        <subjectClass>출판-서책(書冊)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○六月, <index num="0284102_0" ref="M_0046153" sort="K" type="이름">文宗</index>命<index num="0284103_0" ref="M_0047665" sort="K" type="이름">世祖</index>註<index num="0284104_0" type="서명">《兵要》</index>曰: "用<index num="0284105_0" ref="M_0047665" sort="K" type="이름">首陽</index>之筆, 則必甚善。" <index num="0284106_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "臣之職也。 敢不盡力? 臣與集賢殿諸儒力之, 則可辦。" <index num="0284107_0" ref="M_0042246" sort="K" type="이름">瑢</index>曰: "<index num="0284108_0" ref="M_0047665" sort="K" type="이름">首陽</index>能文, 故可善成之。" <index num="0284109_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "非但能文, 有所能者也。" 又命<index num="0284110_0" ref="M_0047665" sort="K" type="이름">世祖</index>註<index num="0284111_0" type="서명">《武經》</index>, 定陰陽書曰: "我國之內, 任此事者, <index num="0284112_0" ref="M_0047665" sort="K" type="이름">首陽</index>一人而已。" 凡軍國大事, 必與<index num="0284113_0" ref="M_0047665" sort="K" type="이름">世祖</index>議之。</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000029">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조가 문종의 명으로 진법을 제정하니 권남·김담 등이 감탄하다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="7장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="58면"/>
+        </source>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+        <subjectClass>어문학-문학(文學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○辛未正月, <index num="0284114_0" ref="M_0046153" sort="K" type="이름">文宗</index>命<index num="0284115_0" ref="M_0047665" sort="K" type="이름">世祖</index>定陣法。 <index num="0284116_0" ref="M_0047665" sort="K" type="이름">世祖</index>徧考古書, 乃以己意定之, 文士<index id="p16_000094_00" num="0284117_0" ref="M_0000119" sort="K" type="이름">權擥</index>、<index id="p16_000066_00" num="0284118_0" ref="M_0000254" sort="K" type="이름">金淡</index>等稱歎曰: "非所及也。" <index num="0284119_0" ref="M_0046153" sort="K" type="이름">文宗</index>覽之, 謂<index num="0284120_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "予以陣法爲不可曉也, 今觀其法, 庶可爲也。" <index num="0284121_0" ref="M_0047665" sort="K" type="이름">世祖</index>對曰: "臣是故略引而不發, 以竢聖斷。" 於是<index num="0284122_0" ref="M_0046153" sort="K" type="이름">文宗</index>與<index num="0284123_0" ref="M_0047665" sort="K" type="이름">世祖</index>多有所論。 <index num="0284124_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "<index num="0284125_0" ref="M_0008796" sort="A" type="이름">李靖</index>無加<index num="0284126_0" ref="M_0047665" sort="K" type="이름">首陽</index>, 我則蓋差於<index num="0284127_0" ref="M_0033576" sort="A" type="이름">諸葛亮</index>也。" <index num="0284128_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "<index num="0284129_0" ref="M_0033576" sort="A" type="이름">諸葛亮</index>將才不足, 上何比論?" <index num="0284130_0" ref="M_0046153" sort="K" type="이름">文宗</index>覽陣法序, 謂<index num="0284131_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "汝善述矣。" <index num="0284132_0" ref="M_0005882" sort="K" type="이름">鄭麟趾</index>於經筵啓曰: "古文無連陣、合陣之法, 今專用連陣、合陣, 似爲未可。" <index num="0284133_0" ref="M_0046153" sort="K" type="이름">文宗</index>以語<index num="0284134_0" ref="M_0047665" sort="K" type="이름">世祖</index>, <index num="0284135_0" ref="M_0047665" sort="K" type="이름">世祖</index>對曰: "<index num="0284136_0" ref="M_0033576" sort="A" type="이름">諸葛亮</index>八陣, 則連陣法也, <index num="0284137_0" ref="M_0008796" sort="A" type="이름">李靖</index>有合隊之法, 卽合陣法也。 耕當問奴, 織當問婢。 此事當斷之於聖心, 若欲待衆議之必同然後行之, 則何時可成?" <index num="0284138_0" ref="M_0046153" sort="K" type="이름">文宗</index>曰: "然。"</paragraph>
+      </content>
+    </text>
+  </level3>
+  <level3 id="wga_000030">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>세조 잠저의 가마솥이 스스로 울다. 세조가 매일 기록한 글을 간추리다 </mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">世祖實錄 1책 1권</mainTitle>
+          <page begin="7장 B면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+          <page begin="58면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>인물(人物)</subjectClass>
+        <subjectClass>역사-편사(編史)</subjectClass>
+        <subjectClass>어문학-문학(文學)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○八月, <index num="0284139_0" ref="M_0047665" sort="K" type="이름">世祖</index>邸釜自鳴, 邸人惑之。 <index num="0284140_0" ref="M_0047665" sort="K" type="이름">世祖</index>曰: "古文有之, 享宴之兆也。" 有巫號<index num="0284141_0" sort="K" type="이름">琵琶</index>者奔來, 請見大王大妃曰: "是大君三十九歲登極之兆也。" 大妃驚欲問之, 巫不告而去。 <index num="0284142_0" ref="M_0047665" sort="K" type="이름">世祖</index>或自省、或警人、或因人問難, 凡有論說, 皆逐日手書, 今記其略。 <index num="0284143_0" ref="M_0047665" sort="K" type="이름">世祖</index>嘗曰: "深於文者氣衰, 流於樂者心弱, 多才藝者無實, 極聰明者無樂。" 又曰: "苟有善, 雖小必勉, 苟於孝, 身之何顧? 君子强於爲善, 非求名也, 殺身成仁, 非逼勢也, 忠義激也。" 又曰: "人之生斯世也, 才不出衆恥也, 德不比賢恥也, 有其才無其功恥也。 故曰不恥不若人, 何若人有? 如恥之, 莫如爲仁, 仁者無一毫人欲之私也。" 又曰: "心欲靜而氣欲張。 是以君子之處己, 資忠履信, 以進德焉, 修辭立誠, 以居業也。" 又曰: "立志惟一, 爲學惟精。 夫如是源淸則流淸, 賢者務其本也。" 又曰: "正(氣)〔己〕而正人者上也, 正己而不正人者中也, 不正己而正人與不正己不正人, 斯爲下矣。 上事君忠者也, 中自守善者也, 下貪天禍者也。" 又曰: "吾誨人, 必曰在謙。 夫水盈則溢, 火熾則滅, 日中則移, 月滿則虧。 寒往則暑來, 日往則月來, 累至則危, 物久則破, 息出則入, 臥寢則起, 笑極則其笑絶, 樂極則其樂衰, 此天地之定理也, 亦無不極而後反。 故曰人常約以處窮則福延, 快以適樂則禍至, 我欲勝人, 則人亦欲勝我矣。 故曰卑以自牧, 聖人之深敎也。"又曰: "人以惡加我, 甘受之, 謙保之道也, 苟干忠孝, 死生獨步, 固所畜也。" 或問治氣之道曰: ‘先治其心, 則氣自治矣。 治心之道, 正而已, 正則不妄動, 人之夭壽在其中。’" 又曰: "處官以不欺君爲上, 嚴溫勤邁, 平正確固, 不遺細物, 不畏强禦, 謙恭而不自有, 日所而篤忠孝。" 又曰: "人之勝人, 求於旣爭之後, 我之勝人, 定於未爭之前, 百物交紛錯, 惟守心乃捷逕。" 又曰: "江海不以一盞而損, 太山不爲一塊而減。 固其原者, 末不能動矣, 定其志者, 物不能間矣。 故曰固而不弛。" 又曰: "慮思不先, 是謂貽悔, 當務不急, 是謂自削。" 又曰: "好仁之弊, 其弊也欺君, 好義之弊, 其弊也(勃逆)<annotation type="교감주">
+            <noteTitle>〔悖逆〕</noteTitle>
+          </annotation>。 無不弊之事, 至人惟能處之。" 又曰: "有其業故能大, 存其心故能久。" 又曰: "功崇惟志, 業廣惟勤者, 學問之切言也, 吾常念而不忘。 然行之之道, 在處乎困窮也。 人能不忘困窮之至, 聖功豈難? 故曰, 不處困窮, 無以成功。" 又曰: "我無大過人者。 但受任之事, 或有小闕, 則心不能忘, 又雖當大欲, 必顧諸義理, 知其非則決然絶之。 身勞則心安, 身逸則心病。" 又曰: "事無不反, 我善於人, 人亦善於我。" 又曰: "吾無甚過於人者。 但幼志不變, 蔑視金玉, 不好酒色, 與人忠信耳。" 又曰: "吉凶之來, 必先見, 至人雖見而益强, 轉禍爲福之道也。" 又曰: "人有譽己, 必求諸諂, 人有毁己, 必求諸直。 好之者不阿, 惡之者屈之, 行<index num="0284144_0" sort="K" type="지명">蠻貊</index>之道也。" 又曰: "事皆勢而勢亦天, 然人事重。 愚者推之於天, 智者審之於人。" 又曰: "君子得志, 則善其人, 小人得志, 則敗其身。" 又曰: "不正其心, 則夢兆多辟。" 又曰: "果行心所知者, 爲聖之捷(洛)〔路〕也。 君子之道, 平易而不險, 言易行近事而已, 不可他求於異常之效也。" 又曰: "人但自功而已, 不可多於人。 欲多於人者, 身之災也。 苟不大節, 受辱可也。 德莫善於不忘, 怨莫善於不有。 正心修德, 天必佑之, 而況於人乎? 正心不難, 思君父耳, 修德不難, 思困窮耳。" 又曰: "我無過人者。 凡事之來, 必先見可而後行之, 見不可則決不爲矣。 惟義是從, 莫或利動。" 又曰: "德莫大於拔人之善, 才莫盛於制人之惡。" 又曰: "柔謙之德, 可以享乎衆忌, 可以處乎衆譽, 保身之謂忠孝。"</paragraph>
+      </content>
+    </text>
+  </level3>
+</level2>

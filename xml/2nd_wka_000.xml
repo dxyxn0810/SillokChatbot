@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wka">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>中宗實錄</mainTitle>
+        <alternative> 中宗恭僖微文昭武欽仁誠孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wka_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">中宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">中宗實錄 14책</mainTitle>
+          <page begin="71면"/>
+        </source>
+        <subjectClass>왕실-의식(儀式)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>왕실-궁관(宮官)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○王諱<index num="0646452_0" sort="K" type="이름">懌</index>字<index num="0646453_0" sort="K" type="이름">樂天</index>。 <index num="0646454_0" ref="M_0000328" sort="K" type="이름">成宗大王</index>第二子, 母妃<index num="0646455_0" ref="M_0006818" sort="K" type="이름">貞顯王后</index>
+          <index num="0646456_0" sort="K" type="이름">尹氏</index>。 <index num="0646457_0" ref="M_0003442" sort="K" type="이름">燕山</index>昏虐, 宗社將危, 衆議推戴。 性仁孝勤儉, 善於聽斷。 謹祀、恤民, 恭以接下, 優納諫諍。 誠心事大, 終始不替, 不崇信異端, 不好遊畋、聲色, 玩戲奢靡之事, 亦不留心。 中年好學、樂善, 銳意古治而, 專任新進, 事多過激, 志未克就。 厥後雖屢爲姦人所誤, 能復開悟, 賴有學力也。 在位三十九, 年壽五十七。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

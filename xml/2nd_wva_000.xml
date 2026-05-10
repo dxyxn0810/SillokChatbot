@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wva">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>正祖實錄</mainTitle>
+        <alternative> 正宗文成武烈聖仁莊孝大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wva_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">正祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">正祖實錄 44책</mainTitle>
+          <page begin="561면"/>
+        </source>
+        <subjectClass>왕실(王室)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○大王諱<index num="1766578_0" ref="M_0054657" sort="K" type="이름">祘</index>, 字<index num="1766579_0" sort="K" type="이름">亨運</index>。 <index num="1766580_0" ref="M_0050728" sort="K" type="이름">英宗大王</index>之孫、<index num="1766581_0" sort="K" type="이름">莊獻世子</index>之子, 母<index num="1766582_0" sort="K" type="이름">惠嬪</index>
+          <index num="1766583_0" sort="K" type="이름">洪氏</index>。<annotation type="원주">
+            <noteContent>【籍<index num="1766584_0" sort="K" type="지명">豐山</index>領議政<index num="1766585_0" ref="M_0006588" sort="K" type="이름">鳳漢</index>女。】</noteContent>
+          </annotation>以<index num="1766586_0" sort="K" type="이름">英宗</index>命爲<index num="1766587_0" ref="M_0033900" sort="K" type="이름">眞宗大王</index>之子, 母妃<index num="1766588_0" ref="M_0006823" sort="K" type="이름">孝純王后</index>
+          <index num="1766589_0" sort="K" type="이름">趙氏</index>。<annotation type="원주">
+            <noteContent>【籍<index num="1766590_0" sort="K" type="지명">豐壤</index>左議政<index num="1766591_0" ref="M_0006030" sort="K" type="이름">豐陵府院君</index>
+              <index num="1766592_0" ref="M_0006030" sort="K" type="이름">文命</index>女。】</noteContent>
+          </annotation>
+        </paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

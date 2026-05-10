@@ -30,6 +30,15 @@ KING_MAP = {
     "kza": "고종", "kzb": "순종", "kzc": "순종"
 }
 
+KING_START_YEAR = {
+    "태조": 1391, "정종": 1398, "태종": 1400, "세종": 1418, "문종": 1450,
+    "단종": 1452, "세조": 1454, "예종": 1468, "성종": 1469, "연산군": 1494,
+    "중종": 1505, "인종": 1544, "명종": 1545, "선조": 1567, "광해군": 1608,
+    "인조": 1622, "효종": 1649, "현종": 1659, "숙종": 1674, "경종": 1720,
+    "영조": 1724, "정조": 1776, "순조": 1800, "헌종": 1834, "철종": 1849,
+    "고종": 1863, "순종": 1907
+}
+
 # -----------------------------------------------
 # 브라우저처럼 보이기 위한 헤더 설정
 # -----------------------------------------------
@@ -258,7 +267,8 @@ def extract_category_from_text(raw_text):
 
 def create_sillok_documents(url, raw_text):
     """
-    URL과 raw_text를 받아 메타데이터를 추출하고 LangChain Document 객체 리스트를 생성합니다.
+    URL과 raw_text를 받아 메타데이터(solar_year 포함)를 추출하고 
+    LangChain Document 객체 리스트를 생성합니다.
     """
     
     # [Step 1] URL에서 메타데이터 파싱
@@ -266,20 +276,33 @@ def create_sillok_documents(url, raw_text):
     # 정규표현식: 왕코드_1/년2/월2/일2_인덱스3 (예: kaa_10612001_001)
     match = re.search(r'([a-z]{3})_(\d)(\d{2})(\d{2})(\d)(\d{2})_(\d{3})', article_id)
 
+    if not match:
+        return []
+
     k_code, _, y, m, lunar, d, idx = match.groups()
-    king = KING_MAP[k_code]
-    year = f"{int(y)}년"
+    
+    # 왕 이름 추출
+    king = KING_MAP.get(k_code, "알 수 없음")
+    
+    # --- [추가 로직: 서기 연도(solar_year) 계산] ---
+    # KING_START_YEAR에서 기준년도를 가져와 재위 년수(y_int)를 더함
+    y_int = int(y)
+    start_year = KING_START_YEAR.get(king, 0)
+    solar_year = start_year + y_int
+    # ----------------------------------------------
+
+    year_label = f"{y_int}년"
     month_prefix = "윤" if lunar == '1' else ""
     month = f"{month_prefix}{int(m)}월"
     day = f"{int(d)}일"
     article_idx = int(idx)
 
-    # [Step 2] 기존 정의된 함수들로 데이터 추출
+    # [Step 2] 데이터 추출
     title = extract_title_from_text(raw_text)
     content = extract_content_from_text(raw_text)
     categories = extract_category_from_text(raw_text)
 
-    # [Step 3] 텍스트 스플리터 설정 (RAG 최적화)
+    # [Step 3] 텍스트 스플리터 설정
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=800,
         chunk_overlap=100,
@@ -293,17 +316,17 @@ def create_sillok_documents(url, raw_text):
     docs = []
     for i, chunk in enumerate(chunks):
         doc = Document(
-            # 검색 성능 향상을 위해 제목과 본문을 합쳐서 content로 설정
             page_content=f"기사 제목: {title}\n카테고리: {', '.join(categories)}\n본문 내용: {chunk}",
             metadata={
                 "king": king,
-                "year": year,
+                "year": year_label,
+                "solar_year": solar_year,  # 계산된 서기 연도 추가
                 "month": month,
                 "day": day,
                 "idx": article_idx,
                 "title": title,
                 "article_id": article_id,
-                "category": categories,  # 리스트 형태 그대로 저장
+                "category": categories,
                 "chunk_id": i
             }
         )
@@ -424,5 +447,5 @@ def save_docs_to_jsonl(docs, filename):
     print(f"💾 {len(docs)}개의 문서가 {filename}에 저장되었습니다.")
 
 # 테스트 코드
-docs = collect_sillok_custom("세종", 7, 7, 1, 2)
-save_docs_to_jsonl(docs, "data.jsonl")
+# docs = collect_sillok_custom("세종", 7, 7, 1, 2)
+# save_docs_to_jsonl(docs, "data.jsonl")

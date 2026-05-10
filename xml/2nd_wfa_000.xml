@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wfa">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>端宗實錄</mainTitle>
+        <alternative> 魯山君日記</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wfa_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">端宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">端宗實錄 6책</mainTitle>
+          <page begin="499면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0262537_0" ref="M_0036364" sort="K" type="이름">魯山君</index>諱<index num="0262538_0" ref="M_0036364" sort="K" type="이름">弘暐</index>, <index num="0262539_0" ref="M_0046153" sort="K" type="이름">文宗恭順王</index>一子, 母<index num="0262540_0" ref="M_0006821" sort="K" type="이름">權氏</index>。 <index num="0262541_0" type="연호">正統</index>六年辛酉七月丁巳生, 戊辰四月戊午<index num="0262542_0" ref="M_0032471" sort="K" type="이름">世宗</index>封王世孫, <index num="0262543_0" type="연호">景泰</index>元年庚午八月, <index num="0262544_0" ref="M_0046153" sort="K" type="이름">文宗</index>遣領議政<index num="0262545_0" ref="M_0006730" sort="K" type="이름">皇甫仁</index>, 請爲國儲, 辛未正月, 皇帝勑封爲王世子。 三年壬申五月丙午, <index num="0262546_0" ref="M_0046153" sort="K" type="이름">文宗</index>薨于<index num="0262547_0" sort="K" type="지명">景福宮</index>
+          <index num="0262548_0" sort="K" type="지명">千秋殿</index>。 議政府奉<index num="0262549_0" ref="M_0036364" sort="K" type="이름">魯山君</index>, 入處<index num="0262550_0" sort="K" type="지명">含元殿</index>。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

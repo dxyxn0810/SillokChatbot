@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wna">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>宣祖實錄</mainTitle>
+        <alternative> 宣宗昭敬大王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wna_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">宣祖實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">宣祖實錄 21책</mainTitle>
+          <page begin="172면"/>
+        </source>
+        <subjectClass>왕실-종사(宗社)</subjectClass>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+        <subjectClass>왕실-종친(宗親)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0921758_0" ref="M_0047647" sort="K" type="이름">宣宗昭敬正倫立極盛德洪烈至誠大義格天熙運顯文毅武聖睿達孝大王</index>諱<index num="0921759_0" ref="M_0047647" sort="K" type="이름">昖</index>, <index num="0921760_0" ref="M_0057021" sort="K" type="이름">中宗恭僖大王</index>之孫 <index num="0921761_0" ref="M_0043933" sort="K" type="이름">德興大院君</index>
+          <index num="0921762_0" ref="M_0043933" sort="K" type="이름">岹</index>之第三子也。 母<index num="0921763_0" ref="M_0005807" sort="K" type="이름">河東府夫人</index>
+          <index num="0921764_0" ref="M_0005807" sort="K" type="이름">鄭氏</index> 贈領議政<index num="0921765_0" ref="M_0005807" sort="K" type="이름">世虎</index>之女。 <index num="0921766_0" type="연호">嘉靖</index>三十一年壬子十一月十一日己丑, 誕王于<index num="0921767_0" sort="K" type="지명">仁達坊</index>之私第。 天資岐嶷 氣度英毅 人皆異之。 初封<index num="0921768_0" ref="M_0047647" sort="K" type="이름">河城君</index>。 丁卯六月二十八日辛亥, <index num="0921769_0" ref="M_0045847" sort="K" type="이름">明宗大王</index>疾大漸, 是日夜半, 宣召大臣, 領議政<index num="0921770_0" ref="M_0005159" sort="K" type="이름">李浚慶</index>在都堂, 冠帶以竢, 承召以入, 升御床, 執上手, 上已不能言。 <index num="0921771_0" ref="M_0005159" sort="K" type="이름">浚慶</index>泣請中殿<annotation type="원주">
+            <noteContent>【<index num="0921772_0" ref="M_0006805" sort="K" type="이름">仁順王后</index>】</noteContent>
+          </annotation>定大計, 中殿敎曰: "欲依乙丑年所定。"<annotation type="원주">
+            <noteContent>【先是, 乙丑, <index num="0921773_0" ref="M_0045847" sort="K" type="이름">明宗大王</index>有疾, 世子<index num="0921774_0" ref="M_0044722" sort="K" type="이름">暊</index>旣卒, 儲嗣未定, 大臣建議請預選於諸臣中, 上遂令<index num="0921775_0" ref="M_0047647" sort="K" type="이름">河城君</index>入侍醫藥, 因命別擇儒士爲師傅, 敎導之。 眷受特厚, 國內人心咸屬焉, 故有是敎。】</noteContent>
+          </annotation>
+          <index num="0921776_0" ref="M_0005159" sort="K" type="이름">浚慶</index>曰: "國事大定, 更無可啓之言, 兩司長官, 竝命人參聽何如。" 高聲啓于上曰: "臣等退去矣。"</paragraph>
+        <paragraph align="center">上欲言而不得, 左右不覺失聲。 已而上薨, 大臣以王妃所奉遺命, 令侍衛諸官, 具世子儀物, 迎<index num="0921777_0" ref="M_0005947" sort="K" type="이름">河成君</index>于私第, <index num="0921778_0" ref="M_0047647" sort="K" type="이름">河城君</index>方服母喪, 涕泣固讓, 群臣擁戴, 迫而後乃行, 遂入翼室宅卹<annotation type="원주">
+            <noteContent>【年始十六】</noteContent>
+          </annotation> 時, 僥倖之輩, 坌集從駕, 書名成軸, 或以錄功爲言,。<index num="0921779_0" ref="M_0005159" sort="K" type="이름">李浚慶</index>曰: "事出預定, 臣下何功。" 促令焚之。 遣陪臣, 告訃于天朝, 且承襲。 翌年春, 皇帝遣太監<index num="0921780_0" ref="M_0033178" sort="A" type="이름">姚臣</index>、<index num="0921781_0" ref="M_0015616" sort="K" type="이름">李慶</index>, 賫詔, 封爲<index num="0921782_0" sort="K" type="지명">朝鮮國</index>王, 欽賜誥命冕服。 在位四十一年, 壽五十七。</paragraph>
+        <paragraph align="center">王薨之九年丙辰, 今上以辨明宗系中興大業, 追上尊號曰<index num="0921783_0" ref="M_0047647" sort="K" type="이름">啓統光憲凝道隆祚</index>, 廟號曰<index num="0921784_0" ref="M_0047647" sort="K" type="이름">宣祖</index>
+          <annotation type="원주">
+            <noteContent>【王嗣服之初, 勵精圖治尊賢重道, 東方之民爲見至治, 而不華遭壬辰之亂, 二十六年之間宏謨美政簡冊所紀, 盡歸灰燼, 無復存老。 今因諸臣家藏日記, 雖收拾若干事績, 僅成編秩, 而什無八九, 誠可痛惜。 若其王之始終梗槪, 具載誌文、行狀等著述, 竝附于卷末。】</noteContent>
+          </annotation>
+        </paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wsb_117">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>肅宗實錄補闕正誤 十七年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1691" type="서기"/>
+        <dateOccured type="간지">辛未</dateOccured>
+        <dateOccured type="재위연도">숙종 [보궐정오실록] 17</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 300</dateOccured>
+        <dateOccured type="중국연호">청 강희(康熙) 30</dateOccured>
+        <dateOccured type="단기">4024</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">청 강희(康熙) 30</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 十七年(1691) 【<index num="1562645_0" sort="K" type="지명">淸</index>
+        <index num="1562646_0" type="연호">康熙</index>三十年】</paragraph>
+    </content>
+  </text>
+  <level3 id="wsb_117010">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 十七年 正月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十七年 正月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_11701028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 17年 1月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1691-01-28L0" type="서기"/>
+            <dateOccured type="간지">甲寅</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 17년 1월 28일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 300년 1월 28일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 30년 1월 28일</dateOccured>
+            <dateOccured type="단기">4024년 1월 28일</dateOccured>
+            <dateOccured type="일본연호">년 1월 28일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)30년 1월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_11701028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>시폐 6조와 별궁의 늠료에 대해 상소한 진선 정시한을 삭출하라고 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1691-01-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 25책 23권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 39책</mainTitle>
+              <page begin="258면"/>
+            </source>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>정론-정론(政論)</subjectClass>
+            <subjectClass>재정-상공(上供)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲寅/進善<index num="1562647_0" ref="M_0005820" sort="K" type="이름">丁時翰</index>在鄕上疏, 論時弊六條, 且陳別宮廩料之議。 上嚴批切責, 命削黜。<annotation type="원주">
+                <noteContent>【原疏批旨見上。】</noteContent>
+              </annotation>
+              <index num="1562648_0" ref="M_0005820" sort="K" type="이름">時翰</index>隱居行義, 事親至孝, 問學雖非其長, 而行業甚高, 時輩以其色目之相似, 薦引徵辟。 而<index num="1562649_0" ref="M_0005820" sort="K" type="이름">時翰</index>不屑也。 至是上此疏, 縷縷所論, 固皆世所諱言。 而切時病關大體, 又復眷眷於倫常之重, 戒少恩而勉惻怛, 觸冒禁令, 不恤禍福。 識者韙之, 以爲凶黨中, 亦有人焉。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wsb_117020">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 十七年 二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 十七年 二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_11702029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 17年 2月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1691-02-29L0" type="서기"/>
+            <dateOccured type="간지">乙酉</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 17년 2월 29일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 300년 2월 29일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 30년 2월 29일</dateOccured>
+            <dateOccured type="단기">4024년 2월 29일</dateOccured>
+            <dateOccured type="일본연호">년 2월 29일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)30년 2월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_11702029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>호조 참판 이의징의 청에 따라, 김정열 등의 정상을 금부로 하여금 다스리게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1691-02-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 25책 23권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 39책</mainTitle>
+              <page begin="258면"/>
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙酉/引見時戶曹參判<index num="1562650_0" ref="M_0020127" sort="K" type="이름">李義徵</index>, 白上以<index num="1562651_0" ref="M_0020498" sort="K" type="이름">金廷說</index>等可疑之狀, 請令禁府急治之。 大臣多是其言。 上許之。<annotation type="원주">
+                <noteContent>【詳見上。】</noteContent>
+              </annotation>
+              <index num="1562652_0" ref="M_0020498" sort="K" type="이름">廷說</index>卽故國舅<index num="1562653_0" ref="M_0046530" sort="K" type="이름">閔維重</index>軍官也。 時輩欲羅織, 以危諸<index num="1562654_0" sort="K" type="이름">閔</index>, 仍及瑤華, 故有此請。 至甲戌, 事果發。</paragraph>
+            <paragraph align="center">肅宗顯義光倫睿聖英烈章文憲武敬明元孝大王實錄補闕正誤卷之二十三終</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

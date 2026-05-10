@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wsb_103">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>肅宗實錄補闕正誤 三年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1677" type="서기"/>
+        <dateOccured type="간지">丁巳</dateOccured>
+        <dateOccured type="재위연도">숙종 [보궐정오실록] 3</dateOccured>
+        <dateOccured type="개국연호">조선 개국(開國) 286</dateOccured>
+        <dateOccured type="중국연호">청 강희(康熙) 16</dateOccured>
+        <dateOccured type="단기">4010</dateOccured>
+        <dateOccured type="일본연호"/>
+        <dateOccured type="display">청 강희(康熙) 16</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center"> 三年(1677) 【<index num="1559975_0" sort="K" type="지명">淸</index>
+        <index num="1559976_0" type="연호">康熙</index>十六年】</paragraph>
+    </content>
+  </text>
+  <level3 id="wsb_103060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>肅宗實錄補闕正誤 三年 六月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 三年 六月</paragraph>
+      </content>
+    </text>
+    <level4 id="wsb_10306003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 3年 6月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1677-06-03L0" type="서기"/>
+            <dateOccured type="간지">戊申</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 3년 6월 3일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 286년 6월 3일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 16년 6월 3일</dateOccured>
+            <dateOccured type="단기">4010년 6월 3일</dateOccured>
+            <dateOccured type="일본연호">년 6월 3일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)16년 6월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_10306003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>병조 판서 김석주가 사직하기를 청했으나 윤허하지 않다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1677-06-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 5책 6권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 38책</mainTitle>
+              <page begin="378면"/>
+            </source>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊申/兵曹判書<index num="1559977_0" ref="M_0001625" sort="K" type="이름">金錫冑</index>以<index num="1559978_0" ref="M_0000417" sort="K" type="이름">鑴</index>、<index num="1559979_0" sort="K" type="이름">穆</index>疏語, 陳章辭職, 略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>傷財病國, 是或臣罪, 盛兵重權, 此何人言? 乞解諸務, 退守先人丘墓。</quotation>
+            </paragraph>
+            <paragraph align="center">上批命安心勿辭。</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1559980_0" ref="M_0001625" sort="K" type="이름">錫冑</index>以綺紈年少, 無行能過人, 而特以戚畹之故, 爲大臣者。 欲爲攀聯固寵之計, 驟加陞擢於人望之外, 數月之內, 至長西銓, 兼摠機務, 凡軍國大事, 無不取決。 <index num="1559981_0" ref="M_0001625" sort="K" type="이름">錫冑</index>亦以大臣有寵秉事, 互相締結, 曲意承奉, 迭爲聲援, 以濟其私。 搢紳之間, 嗜利無恥之輩, 又從而趨附之, 再遞請仍, 以阿其指。 <index num="1559982_0" ref="M_0001625" sort="K" type="이름">錫冑</index>驕矜自肆, 無所嚴畏, 廣設屯田, 分置私人, 動興土木, 以疲軍民。 凡所以病國害政之事, 不止一二, 而宰執不敢斥, 臺閣不敢論。 間有一二或及其過失於章奏之間, 則<index num="1559983_0" ref="M_0001625" sort="K" type="이름">錫冑</index>輒懟下要上, 盛費辭氣, 有若藎臣碩輔, 身任安危, 而罹讒畏忌, 不容於朝廷之上者然。 必以保全爲恐動固寵之語, 期得溫旨而後止。 吁亦異哉! 古云無敎猱升木, 此豈<index num="1559984_0" ref="M_0001625" sort="K" type="이름">錫冑</index>之罪也?"】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wsb_10306016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle>肅宗補闕正誤 3年 6月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1677-06-16L0" type="서기"/>
+            <dateOccured type="간지">辛酉</dateOccured>
+            <dateOccured type="재위연도">숙종 [보궐정오실록] 3년 6월 16일</dateOccured>
+            <dateOccured type="개국연호">조선 개국(開國) 286년 6월 16일</dateOccured>
+            <dateOccured type="중국연호">청 강희(康熙) 16년 6월 16일</dateOccured>
+            <dateOccured type="단기">4010년 6월 16일</dateOccured>
+            <dateOccured type="일본연호">년 6월 16일</dateOccured>
+            <dateOccured type="display">청 강희(康熙)16년 6월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wsb_10306016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>고묘의 부당함에 대해 형조 판서 이지익이 상소하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1677-06-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄補闕正誤 5책 6권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄補闕正誤 38책</mainTitle>
+              <page begin="378면"/>
+            </source>
+            <subjectClass>역사-편사(編史)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛酉/刑曹判書<index num="1559985_0" ref="M_0005213" sort="K" type="이름">李之翼</index>疏論告廟之不當, 上批以正合予意爲答。<annotation type="원주">
+                <noteContent>【原疏、批旨見上。】</noteContent>
+              </annotation>
+            </paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1559986_0" ref="M_0005213" sort="K" type="이름">之翼</index>爲人踈放戇樸, 不隨人俯仰。 當兩<index num="1559987_0" sort="K" type="이름">宋</index>秉政之時, 人無不奔趨服事, 而獨未嘗一造其門。 凡其過誤, 顯言斥之, 無所忌諱, 爲其儕流中廢人。 及<index num="1559988_0" ref="M_0003011" sort="K" type="이름">宋時烈</index>敗, 上素聞其名, 首擢用之, 而亦不肯詭隨時議, 時人以此多之。"】</paragraph>
+              </postScript>
+            </paragraph>
+            <paragraph align="center">肅宗顯義光倫睿聖英烈章文憲武敬明元孝大王實錄補闕正誤卷之六終</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

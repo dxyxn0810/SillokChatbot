@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="wba">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>定宗實錄</mainTitle>
+        <alternative> 恭靖王實錄</alternative>
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="wba_000">
+    <front>
+      <biblioData type="T">
+        <title>
+          <mainTitle>總序</mainTitle>
+        </title>
+        <source>
+          <mainTitle type="태백산사고본">定宗實錄 1책 1권</mainTitle>
+          <page begin="1장 A면"/>
+        </source>
+        <source>
+          <mainTitle type="국편영인본">定宗實錄 1책</mainTitle>
+          <page begin="143면"/>
+        </source>
+        <subjectClass>왕실-국왕(國王)</subjectClass>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center">○<index num="0012434_0" ref="M_0054668" sort="K" type="이름">恭靖王</index>, 諱<index num="0012435_0" ref="M_0054668" sort="K" type="이름">芳果</index>, 及卽位, 更名<index num="0012436_0" ref="M_0054668" sort="K" type="이름">曔</index>。 <index num="0012437_0" ref="M_0000889" sort="K" type="이름">太祖</index>之第二子, 母<index num="0012438_0" ref="M_0006766" sort="K" type="이름">神懿王后</index>。 天資溫仁恭謹, 勇略過人。 仕<index num="0012439_0" sort="K" type="지명">高麗</index>, 累官至將相, 常從<index num="0012440_0" ref="M_0000889" sort="K" type="이름">太祖</index>出征立功。 歲戊寅秋八月, <index num="0012441_0" ref="M_0000889" sort="K" type="이름">太祖</index>不豫, 受冊封爲王世子, 九月, 受內禪卽位, 政尙寬仁。 庚辰春二月, 母弟<index num="0012442_0" ref="M_0034056" sort="K" type="이름">靖安公</index>受冊封爲王世子, 以無嗣也。 其年冬, 不豫, 世子受禪卽位, 上號<index num="0012443_0" ref="M_0054668" sort="K" type="이름">仁文恭睿上王</index>。 在位三年, 居閑頤養二十年, 壽六十三。</paragraph>
+      </content>
+    </text>
+  </level2>
+</level1>
