@@ -313,20 +313,19 @@ def create_sillok_documents(url, raw_text):
     chunks = text_splitter.split_text(content)
     
     # [Step 5] Document 객체화
+    # Leaf node document & metadata 생성
     docs = []
     for i, chunk in enumerate(chunks):
         doc = Document(
             page_content=f"기사 제목: {title}\n날짜: {king} {year_label}({solar_year}년) {month} {day}\n카테고리: {', '.join(categories)}\n본문 내용: {chunk}",
             metadata={
+                "title": title,
                 "king": king,
                 "year": year_label,
-                "solar_year": solar_year,  # 계산된 서기 연도 추가
+                "solar_year": solar_year,
                 "month": month,
                 "day": day,
                 "idx": article_idx,
-                "title": title,
-                "article_id": article_id,
-                "category": categories,
                 "chunk_id": i
             }
         )
