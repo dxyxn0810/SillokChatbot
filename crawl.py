@@ -316,7 +316,7 @@ def create_sillok_documents(url, raw_text):
     docs = []
     for i, chunk in enumerate(chunks):
         doc = Document(
-            page_content=f"기사 제목: {title}\n카테고리: {', '.join(categories)}\n본문 내용: {chunk}",
+            page_content=f"기사 제목: {title}\n날짜: {king} {year_label}({solar_year}년) {month} {day}\n카테고리: {', '.join(categories)}\n본문 내용: {chunk}",
             metadata={
                 "king": king,
                 "year": year_label,
@@ -370,70 +370,21 @@ for doc in docs:
 """
 
 
-def collect_sillok_custom(target_king_name, target_year=None, target_month=None, target_lunar=None, target_day=None):
+def collect_sillok_data(url_list):
     """
-    특정 왕의 데이터 중 원하는 시점(연/월/윤달/일)을 지정하여 수집합니다.
-    - target_year: int (0부터 시작 가능)
-    - target_month: int (1~12)
-    - target_lunar: int (0: 평달, 1: 윤달)
-    - target_day: int (1~31)
+    주어진 URL 리스트에서 실록 데이터를 수집합니다.
     """
-    target_codes = [code for code, name in KING_MAP.items() if name == target_king_name]
-    if not target_codes:
-        print(f"❌ '{target_king_name}'에 해당하는 왕 코드를 찾을 수 없습니다.")
-        return []
-
-    all_king_docs = []
-    
-    # 반복 범위 설정 로직 (파라미터가 None이면 전체 범위를 순회)
-    years = [target_year] if target_year is not None else range(0, 101)
-    months = [target_month] if target_month is not None else range(1, 13)
-    lunars = [str(target_lunar)] if target_lunar is not None else ["0", "1"]
-    days = [target_day] if target_day is not None else range(1, 32)
-
-    print(f"🚀 {target_king_name} 수집 시작 (연:{target_year}, 월:{target_month}, 윤달:{target_lunar}, 일:{target_day})")
-
-    for k_code in target_codes:
-        for y_int in years:
-            year_str = f"{y_int:02d}"
-            year_found = False
-            
-            for m_int in months:
-                month_str = f"{m_int:02d}"
-                for lunar_str in lunars:  # 추가된 lunar 루프
-                    for d_int in days:
-                        day_str = f"{d_int:02d}"
-                        
-                        for i_int in range(1, 100):
-                            idx_str = f"{i_int:03d}"
-                            current_url = f"https://sillok.history.go.kr/id/{k_code}_1{year_str}{month_str}{lunar_str}{day_str}_{idx_str}"
-                            
-                            try:
-                                html = crawl_with_requests(current_url)
-                                raw_text = extract_raw_text_from_html(html)
-                                docs = create_sillok_documents(current_url, raw_text)
-                                
-                                if docs:
-                                    all_king_docs.extend(docs)
-                                    year_found = True
-                                    lunar_label = "윤" if lunar_str == "1" else ""
-                                    print(f"✅ [{target_king_name}] {y_int}년 {lunar_label}{m_int}월 {d_int}일 {idx_str} 완료")
-                                
-                            except requests.exceptions.HTTPError as e:
-                                if e.response.status_code == 404:
-                                    break # 해당 인덱스 없음 -> 다음 날짜(day)로
-                                else:
-                                    print(f"⚠️ 에러 ({e.response.status_code}): {current_url}")
-                                    break
-                            except Exception as e:
-                                print(f"❌ 예외: {e}")
-                                break
-                                
-            # 자동 순회 모드(target_year가 None)일 때, 데이터가 안 나오면 재위 종료로 판단
-            if target_year is None and not year_found and y_int > 1:
-                break
-
-    return all_king_docs
+    all_docs = []
+    for url in url_list:
+        print(f"🔗 크롤링 중: {url}")
+        try:
+            html = crawl_with_requests(url)
+            raw_text = extract_raw_text_from_html(html)
+            docs = create_sillok_documents(url, raw_text)
+            all_docs.extend(docs)
+        except Exception as e:
+            print(f"❌ 예외 발생 ({url}): {e}")
+    return all_docs
 
 def save_docs_to_jsonl(docs, filename):
     with open(filename, 'w', encoding='utf-8') as f:
@@ -447,5 +398,10 @@ def save_docs_to_jsonl(docs, filename):
     print(f"💾 {len(docs)}개의 문서가 {filename}에 저장되었습니다.")
 
 # 테스트 코드
-# docs = collect_sillok_custom("세종", 7, 7, 1, 2)
+# url_list = [
+#     "https://sillok.history.go.kr/id/kda_10008011_001",
+#     "https://sillok.history.go.kr/id/kda_10008011_002",
+#     "https://sillok.history.go.kr/id/kda_10008011_003"
+# ]
+# docs = collect_sillok_data(url_list)
 # save_docs_to_jsonl(docs, "data.jsonl")

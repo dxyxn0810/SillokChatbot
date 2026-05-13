@@ -1,202 +1,88 @@
-# 📜 조선왕조실록 가상 인터뷰 챗봇
+# SillokChatbot
 
-조선왕조실록 데이터를 기반으로 역사적 인물과 대화할 수 있는 **GPT-4o 기반 RAG 챗봇**입니다.
+`SillokChatbot`는 조선왕조실록 데이터를 기반으로 가상 인터뷰를 진행하는 Python CLI 챗봇입니다. 사용자 입력에 따라 특정 왕과 연도, 월, 일자에 해당하는 실록 기사를 검색하고, 해당 기사 내용을 바탕으로 임금 페르소나가 답변하도록 구성되어 있습니다.
 
-Wikipedia API로 인물 정보를 조회하고, FAISS 벡터 검색과 실록 사이트 실시간 크롤링을 결합하여 거시적·미시적 질문 모두에 답변합니다.
+## 주요 기능
 
-```
-SillokChatbot: 안녕하세요, 조선 시대 인물 중 인터뷰를 하고 싶은 사람이 있다면 입력해주세요.
-User: 세종대왕
-SillokChatbot: "세종대왕" 페르소나를 불러오는 중입니다…
-SillokChatbot: 인터뷰 준비가 완료되었습니다!
+- 왕 이름, 즉위 연도, 월, 일자 입력을 받음
+- `url/` 폴더에 있는 URL 목록 파일에서 해당 기사 URL만 필터링
+- `crawl.py`의 `collect_sillok_data()`를 통해 기사 내용을 크롤링하고 LangChain `Document`로 변환
+- OpenAI Embeddings로 문서를 벡터화하고 FAISS 인덱스로 저장
+- RAG(검색-지원 생성) 방식으로 `gpt-4o-mini` 기반 인터뷰 답변 생성
+- 동일 데이터에 대한 재사용 가능한 캐시(`jsonl`, `faiss`) 지원
 
-User: 훈민정음은 어떻게 만드시게 되었나요?
-세종: 과인이 글자를 만든 이유는 오직 하나, 백성을 사랑하는 마음 때문이었노라...
-```
+## 파일 설명
 
----
+### `sillok_chatbot.py`
 
-## 🗂️ 프로젝트 구조
+이 프로젝트의 메인 실행 스크립트입니다. 주요 역할은 다음과 같습니다.
 
-```
-.
-├── xml/                      # 조선왕조실록 원본 XML 파일
-│   └── 2nd_{king_code}_{idx}.xml
-├── data/                     # XML → JSON 변환 결과
-│   └── {king_code}_{idx}.json
-├── index/                    # FAISS 벡터 인덱스 (자동 생성)
-│   ├── {king_name}.faiss
-│   └── {king_name}_meta.pkl
-│
-├── crawl.py                  # 조선왕조실록 사이트 크롤러
-├── xml_to_jsonl.py           # XML → JSONL 단일 파일 변환
-├── batch_convert.py          # XML 폴더 일괄 변환 (xml/ → data/)
-├── persona.py                # Wikipedia API 인물 정보 조회
-├── retriever.py              # RAG 검색 엔진 (FAISS + 크롤링)
-├── sillok_chatbot.py         # 메인 챗봇 실행 파일
-└── README.md
-```
+1. 입력 파싱
+   - `parse_king_name()`
+   - `parse_year_number()`
+   - `parse_month()`
+   - `parse_days()`
+2. URL 필터링
+   - `filter_urls()`를 통해 `url/{king}_url.txt`에서 조건에 맞는 기사 URL만 선택
+3. 크롤링과 벡터스토어 생성
+   - `build_vectorstore()`는 FAISS 인덱스가 이미 존재하는지 확인하고 없으면 크롤링 및 임베딩 수행
+   - `find_reusable_jsonl()`으로 기존 JSONL 캐시 재사용 가능 여부 확인
+4. 페르소나 챗봇 생성
+   - `SillokInterviewBot` 클래스는 RAG 기반 질의 응답과 대화 히스토리를 관리
+5. CLI 인터페이스
+   - `interactive_setup()`으로 인터뷰 조건을 입력받고 준비
+   - `chat_loop()`으로 사용자 질문을 받아 모델 답변 출력
 
----
+### `crawl.py`
 
-## ⚙️ 시스템 아키텍처
+- `collect_sillok_data()`
+- `save_docs_to_jsonl()`
+- `KING_MAP`, `KING_START_YEAR`
 
-```
-[인물 입력]
-     │
-     ▼
-[persona.py] ── Wikipedia API ──▶ 생몰년 / 재위기간 / 인물 요약
-     │
-     ▼
-[retriever.py] ── data/*.json ──▶ 왕별 FAISS 인덱스 빌드
-     │
-     ▼
-[사용자 질문]
-     │
-     ├─ 거시적 질문 ("생애", "업적", "전반")
-     │       └──▶ 연도별 대표 기사 + 벡터 유사도 top-k
-     │
-     └─ 미시적 질문 ("28년 9월에", "몇 월 며칠")
-             └──▶ ① 날짜 필터 (year / month / day)
-                  ② 필터 결과 내 벡터 유사도 재정렬
-                  ③ 결과 부족 시 실록 사이트 실시간 크롤링
-                  ④ 전체 벡터 검색 (최후 수단)
-     │
-     ▼
-[GPT-4o]  system: 페르소나 + 인물 배경
-          user:   [실록 참고 기사] + 질문
-     │
-     ▼
-[조선 시대 말투 답변]
+이 파일은 실록 데이터 수집과 문서 생성 로직을 담당하며, `sillok_chatbot.py`에서 직접 재사용합니다.
+
+## 실행 전 준비
+
+1. Python 가상환경 활성화
+2. 필요한 패키지 설치
+
+```powershell
+pip install -r requirements.txt
 ```
 
----
+3. OpenAI API 키 설정
 
-## 🚀 설치 및 실행
+`OPENAI_API_KEY`를 코드 상단 또는 환경 변수에 설정해야 합니다.
 
-### 1. 의존 패키지 설치
+> 현재 `sillok_chatbot.py`는 코드 상단에 `os.environ['OPENAI_API_KEY'] = "sk-proj-..."`가 포함되어 있습니다. 실제 키로 교체하거나 환경 변수로 설정하세요.
 
-```bash
-pip install openai faiss-cpu sentence-transformers requests \
-            beautifulsoup4 langchain langchain-text-splitters selenium
-```
+## 사용 방법
 
-### 2. API 키 설정
+1. `url/` 폴더에 왕별 URL 목록 파일(`세종_url.txt` 등)을 준비
+2. `python sillok_chatbot.py` 실행
+3. 다음 순서대로 입력
+   - 왕 이름
+   - 즉위 몇 년차인지
+   - 몇 월인지
+   - 몇 일인지 또는 `전체`
+4. 질문을 입력하면 해당 왕 페르소나가 답변
 
-```bash
-export OPENAI_API_KEY="sk-..."
-```
+종료하려면 `exit`, `quit`, `종료`를 입력합니다.
 
-### 3. XML 데이터 준비 및 변환
+## 저장 폴더
 
-`xml/` 폴더에 원본 XML 파일을 넣고 일괄 변환합니다.
-파일명은 반드시 `2nd_{king_code}_{idx}.xml` 형식이어야 하며, `idx` 앞자리가 `1`인 파일(즉위 후 재위 연도 기록)만 처리됩니다.
+- `url/` : 기사 URL 목록 파일 저장
+- `jsonl/` : 크롤링된 문서 캐시 저장
+- `faiss/` : 생성된 FAISS 벡터 인덱스 저장
 
-```bash
-python batch_convert.py --xml-dir ./xml --data-dir ./data
-```
+## 주의 사항
 
-### 4. 챗봇 실행
+- Windows 환경에서 FAISS는 한글 경로를 제대로 처리하지 못할 수 있습니다. `faiss/`와 `jsonl/` 경로는 ASCII 문자만 포함되도록 관리하세요.
+- `sillok_chatbot.py`와 `crawl.py`는 같은 디렉터리에 있어야 합니다.
 
-```bash
-python sillok_chatbot.py
-```
+## 확장 포인트
 
-최초 실행 시 FAISS 인덱스가 자동으로 빌드됩니다. 이후 실행부터는 저장된 인덱스를 재사용합니다.
-
----
-
-## 💬 사용법
-
-| 입력 | 동작 |
-|------|------|
-| 인물 이름 | 페르소나 설정 (예: `세종대왕`, `태조`, `정도전`) |
-| 자유 질문 | 해당 인물로서 실록 기반 답변 |
-| `/인물 태종` | 대화 중 인물 교체 |
-| `q` / `quit` | 종료 |
-
-### 질문 예시
-
-```
-# 거시적 질문
-세종대왕의 주요 업적을 알려주세요.
-재위 기간 동안 어떤 일들을 하셨나요?
-
-# 미시적 질문
-세종 28년 9월에 어떤 일이 있었나요?
-1446년에 훈민정음 반포와 관련된 기록이 있나요?
-세종 10년 3월 5일에는 무슨 일을 하셨나요?
-```
-
----
-
-## 🔧 개별 모듈 사용법
-
-### XML → JSON 단일 파일 변환
-
-```bash
-python xml_to_jsonl.py input.xml [output.jsonl]
-```
-
-### 실록 사이트 크롤링 (특정 날짜)
-
-```python
-from crawl import collect_sillok_custom, save_docs_to_jsonl
-
-docs = collect_sillok_custom("세종", target_year=28, target_month=9)
-save_docs_to_jsonl(docs, "sejong_28_09.jsonl")
-```
-
-### Wikipedia 인물 정보 조회
-
-```python
-from persona import get_persona
-
-info = get_persona("세종대왕")
-print(info["summary"])        # 인물 요약
-print(info["active_years"])   # (1418, 1450)
-```
-
----
-
-## 📁 king_code 표
-
-XML 파일명 및 실록 URL에 사용되는 왕 코드입니다.
-
-| king_code | 왕 | king_code | 왕 |
-|-----------|-----|-----------|-----|
-| waa / kaa | 태조 | wna / kna | 선조 |
-| wba / kba | 정종 | woa / koa | 광해군 |
-| wca / kca | 태종 | wpa / kpa | 인조 |
-| wda / kda | 세종 | wqa / kqa | 효종 |
-| wea / kea | 문종 | wra / kra | 현종 |
-| wfa / kfa | 단종 | wsa / ksa | 숙종 |
-| wga / kga | 세조 | wta / kta | 경종 |
-| wha / kha | 예종 | wua / kua | 영조 |
-| wia / kia | 성종 | wva / kva | 정조 |
-| wja / kja | 연산군 | wwa / kwa | 순조 |
-| wka / kka | 중종 | wxa / kxa | 헌종 |
-| wla / kla | 인종 | wya / kya | 철종 |
-| wma / kma | 명종 | wza / kza | 고종 |
-
-> `w`로 시작하는 코드는 XML 파일명용, `k`로 시작하는 코드는 실록 사이트 URL용입니다.
-
----
-
-## 🛠️ 기술 스택
-
-| 구성 요소 | 기술 |
-|-----------|------|
-| LLM | GPT-4o (`gpt-4o`) |
-| 임베딩 | `paraphrase-multilingual-MiniLM-L12-v2` |
-| 벡터 DB | FAISS (`faiss-cpu`) |
-| 인물 정보 | Wikipedia API (한국어) |
-| 크롤링 | `requests` + `BeautifulSoup` + `selenium` |
-| 텍스트 분할 | LangChain `RecursiveCharacterTextSplitter` |
-| 데이터 출처 | [조선왕조실록](https://sillok.history.go.kr) |
-
----
-
-## 📝 데이터 출처 및 저작권
-
-본 프로젝트는 [국사편찬위원회 조선왕조실록](https://sillok.history.go.kr)의 데이터를 연구·교육 목적으로 활용합니다. 국역 본문의 저작권은 세종대왕기념사업회에 있습니다.
+- 더 많은 왕과 연도 지원
+- RAG 문맥 구성 강화
+- 추가적인 입력 오류 처리 및 사용자 경험 개선
+- 다른 LLM 모델이나 임베딩 모델로 대체

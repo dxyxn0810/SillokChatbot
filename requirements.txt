@@ -5,4 +5,5 @@ requests
 beautifulsoup4
 langchain
 langchain-text-splitters
+langchain-openai
 selenium
