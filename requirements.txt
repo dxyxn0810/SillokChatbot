@@ -6,4 +6,5 @@ beautifulsoup4
 langchain
 langchain-text-splitters
 langchain-openai
+langchain_community
 selenium
