@@ -65,8 +65,8 @@ from langchain_core.messages import HumanMessage, AIMessage
 NAME_TO_CODE = {v: k for k, v in KING_MAP.items()}
 
 # 임베딩 / LLM 모델 (필요 시 변경)
-EMBEDDING_MODEL = "text-embedding-3-small"
-CHAT_MODEL = "gpt-4o-mini"
+EMBEDDING_MODEL = "text-embedding-3-large"
+CHAT_MODEL = "gpt-4o"
 
 # URL / 인덱스 / 데이터 저장 폴더
 URL_DIR = Path("url")
