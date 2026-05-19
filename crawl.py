@@ -340,4 +340,4 @@ def crawl_urls_from_file(url_file, output_dir="output", skip_existing=True):
 
 
 if __name__ == "__main__":
-    crawl_urls_from_file("url/문종_url.txt", output_dir="output", skip_existing=True)
+    crawl_urls_from_file("url/문종_url.txt", output_dir="article", skip_existing=True)
