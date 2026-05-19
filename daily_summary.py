@@ -19,7 +19,7 @@ from typing import Dict, List, Tuple
 from openai import OpenAI
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-client = OpenAI(api_key="sk-proj-...")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # --------------------------------------------------------------------------- #
 # 1) 입력 파일 로드 & 날짜·기사별 그룹화

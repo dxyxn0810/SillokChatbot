@@ -35,7 +35,7 @@ import os
 # 🔑 실제 사용 시 아래 값을 본인 API 키로 교체해 주세요.
 # 보안을 위해 코드 공유/저장소 커밋 전에는 반드시 키를 제거하세요.
 # ─────────────────────────────────────────────────────────────
-os.environ["OPENAI_API_KEY"] = "sk-proj-..."
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 import re
 import sys
