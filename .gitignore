@@ -1,1 +1,40 @@
+# 환경변수
 .env
+.env.local
+.env.*.local
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 가상환경
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 빌드 결과
+build/
+dist/
+*.egg-info/
+*.egg
+
+# 로그
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
