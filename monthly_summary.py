@@ -18,7 +18,9 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 from openai import OpenAI
+from dotenv import load_dotenv
 
+load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # --------------------------------------------------------------------------- #
@@ -259,7 +261,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--daily-summary-dir", default="daily_summary", type=Path,
                         help="daily_summary jsonl 파일 폴더")
-    parser.add_argument("--output-file", default="kfa.jsonl", type=Path,
+    parser.add_argument("--output-file", default="kfa_month.jsonl", type=Path,
                         help="합쳐서 저장할 monthly_summary jsonl 파일")
     parser.add_argument("--model", default="gpt-4o-mini",
                         help="요약에 사용할 OpenAI 모델")
