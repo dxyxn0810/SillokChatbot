@@ -261,11 +261,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--daily-summary-dir", default="daily_summary", type=Path,
                         help="daily_summary jsonl 파일 폴더")
-    parser.add_argument("--output-file", default="kfa_month.jsonl", type=Path,
+    parser.add_argument("--output-file", default=Path("monthly_summary") / "kga_month.jsonl", type=Path,
                         help="합쳐서 저장할 monthly_summary jsonl 파일")
     parser.add_argument("--model", default="gpt-4o-mini",
                         help="요약에 사용할 OpenAI 모델")
-    parser.add_argument("--pattern", default="kfa_*_day.jsonl",
+    parser.add_argument("--pattern", default="kga_*_day.jsonl",
                         help="입력 파일 글롭 패턴")
     args = parser.parse_args()
 

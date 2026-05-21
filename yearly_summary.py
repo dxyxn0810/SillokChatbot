@@ -266,9 +266,9 @@ def process_file(in_path: Path, model: str) -> List[dict]:
 # --------------------------------------------------------------------------- #
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input-file", default="kfa_month.jsonl", type=Path,
+    parser.add_argument("--input-file", default="kga_month.jsonl", type=Path,
                         help="monthly_summary jsonl 입력 파일")
-    parser.add_argument("--output-file", default="kfa_year.jsonl", type=Path,
+    parser.add_argument("--output-file", default=Path("yearly_summary") / "kga_year.jsonl", type=Path,
                         help="yearly_summary jsonl 저장 파일")
     parser.add_argument("--model", default="gpt-4o-mini",
                         help="요약에 사용할 OpenAI 모델")

@@ -318,7 +318,7 @@ def main():
                         help="요약에 사용할 OpenAI 모델")
     parser.add_argument("--overwrite", action="store_true",
                         help="이미 존재하는 출력 파일을 덮어쓴다")
-    parser.add_argument("--pattern", default="kfa_*.jsonl",
+    parser.add_argument("--pattern", default="kga_*.jsonl",
                         help="입력 파일 글롭 패턴")
     args = parser.parse_args()
 
@@ -335,7 +335,7 @@ def main():
 
     print(f"총 {len(files)}개 파일 처리 시작")
     for in_path in files:
-        # kfa_100050.jsonl -> kfa_100050_day.jsonl
+        # kea_100050.jsonl -> kea_100050_day.jsonl
         out_name = in_path.stem + "_day.jsonl"
         out_path = args.output_dir / out_name
         print(f"[{in_path.name}] -> {out_path}")

@@ -89,9 +89,9 @@ def build_faiss(
 # --------------------------------------------------------------------------- #
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input-file", default="kfa.jsonl", type=Path,
+    parser.add_argument("--input-file", default="data.jsonl", type=Path,
                         help="합쳐진 입력 jsonl 파일")
-    parser.add_argument("--index-dir", default="faiss_kfa", type=Path,
+    parser.add_argument("--index-dir", default="faiss", type=Path,
                         help="FAISS 인덱스 저장 폴더")
     parser.add_argument("--embedding-model", default="text-embedding-3-small",
                         help="OpenAI 임베딩 모델명")

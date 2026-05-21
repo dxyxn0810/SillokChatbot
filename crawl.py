@@ -340,4 +340,8 @@ def crawl_urls_from_file(url_file, output_dir="output", skip_existing=True):
 
 
 if __name__ == "__main__":
-    crawl_urls_from_file("url/세조_url.txt", output_dir="article", skip_existing=True)
+    # crawl_urls_from_file("url/세조_url.txt", output_dir="article", skip_existing=True)
+    html = crawl_with_requests("https://sillok.history.go.kr/id/kfa_000")
+    raw_text = extract_raw_text_from_html(html)
+    text = extract_content_from_text(raw_text)
+    print(text[:1000])

@@ -1,13 +1,14 @@
 """
-article/kfa_*.jsonl, daily_summary/kfa_*_day.jsonl,
-kfa_month.jsonl, kfa_year.jsonl 을 모두 합쳐 kfa.jsonl 로 저장한다.
+`daily_summary`, `monthly_summary`, `yearly_summary` 폴더의 모든 jsonl 데이터를 모으고,
+마지막에 `kfa.jsonl` 파일 내용을 추가하여 최종 `data.jsonl` 파일로 저장합니다.
 
 사용법:
     python merge.py
     # 또는
-    python merge.py --article-dir ./article --daily-summary-dir ./daily_summary \\
-                    --monthly-file ./kfa_month.jsonl --yearly-file ./kfa_year.jsonl \\
-                    --output-file ./kfa.jsonl
+    python merge.py --daily-summary-dir ./daily_summary \\
+                    --monthly-summary-dir ./monthly_summary \\
+                    --yearly-summary-dir ./yearly_summary \\
+                    --kfa-file ./kfa.jsonl --output-file ./data.jsonl
 """
 
 import argparse
@@ -35,27 +36,37 @@ def iter_jsonl_lines(path: Path):
 def collect_files(
     article_dir: Path,
     daily_dir: Path,
-    monthly_file: Path,
-    yearly_file: Path,
+    monthly_dir: Path,
+    yearly_dir: Path,
+    kfa_file: Path,
 ) -> List[Path]:
-    """합칠 파일들을 article -> daily -> monthly -> yearly 순서로 모은다."""
+    """합칠 파일들을 article -> daily_summary -> monthly_summary -> yearly_summary -> kfa.jsonl 순서로 모은다."""
     files: List[Path] = []
 
     if article_dir.is_dir():
-        files += sorted(article_dir.glob("kfa_*.jsonl"))
+        files += sorted(article_dir.glob("*.jsonl"))
     else:
         print(f"  - article 폴더 없음: {article_dir}")
 
     if daily_dir.is_dir():
-        files += sorted(daily_dir.glob("kfa_*_day.jsonl"))
+        files += sorted(daily_dir.glob("*.jsonl"))
     else:
         print(f"  - daily_summary 폴더 없음: {daily_dir}")
 
-    for f in (monthly_file, yearly_file):
-        if f.exists():
-            files.append(f)
-        else:
-            print(f"  - 파일 없음: {f}")
+    if monthly_dir.is_dir():
+        files += sorted(monthly_dir.glob("*.jsonl"))
+    else:
+        print(f"  - monthly_summary 폴더 없음: {monthly_dir}")
+
+    if yearly_dir.is_dir():
+        files += sorted(yearly_dir.glob("*.jsonl"))
+    else:
+        print(f"  - yearly_summary 폴더 없음: {yearly_dir}")
+
+    if kfa_file.exists():
+        files.append(kfa_file)
+    else:
+        print(f"  - 파일 없음: {kfa_file}")
 
     return files
 
@@ -64,13 +75,18 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--article-dir", default="article", type=Path)
     parser.add_argument("--daily-summary-dir", default="daily_summary", type=Path)
-    parser.add_argument("--monthly-file", default="kfa_month.jsonl", type=Path)
-    parser.add_argument("--yearly-file", default="kfa_year.jsonl", type=Path)
-    parser.add_argument("--output-file", default="kfa.jsonl", type=Path)
+    parser.add_argument("--monthly-summary-dir", default="monthly_summary", type=Path)
+    parser.add_argument("--yearly-summary-dir", default="yearly_summary", type=Path)
+    parser.add_argument("--kfa-file", default="kfa.jsonl", type=Path)
+    parser.add_argument("--output-file", default="data.jsonl", type=Path)
     args = parser.parse_args()
 
     files = collect_files(
-        args.article_dir, args.daily_summary_dir, args.monthly_file, args.yearly_file
+        args.article_dir,
+        args.daily_summary_dir,
+        args.monthly_summary_dir,
+        args.yearly_summary_dir,
+        args.kfa_file,
     )
     if not files:
         print("합칠 파일이 없습니다.")
