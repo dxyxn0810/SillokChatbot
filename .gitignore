@@ -38,3 +38,13 @@ logs/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# index (FAISS)
+faiss/
+faiss_*/
+
+# FAISS index artifacts (large binary files)
+index.faiss
+index.pkl
+index.zip
+*.faiss
