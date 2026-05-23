@@ -4,6 +4,7 @@ import random
 import re
 import json
 import os
+from pathlib import Path
 from collections import defaultdict
 
 from bs4 import BeautifulSoup
@@ -21,6 +22,12 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from sentence_transformers import SentenceTransformer
 import faiss
+
+# 스크립트 위치 기반 프로젝트 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # codes 폴더의 절대 경로
+PROJECT_ROOT = SCRIPT_DIR.parent                   # SillokChatbot 폴더
+DEFAULT_URL_DIR = PROJECT_ROOT / "data" / "url"
+DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "article"
 
 KING_MAP = {
     "kaa": "태조", "kba": "정종", "kca": "태종", "kda": "세종", "kea": "문종",
@@ -309,13 +316,15 @@ def group_urls_by_month(url_list):
     return groups
 
 
-def crawl_urls_from_file(url_file, output_dir="output", skip_existing=True):
+def crawl_urls_from_file(url_file, output_dir=None, skip_existing=True):
     """
     url_file의 모든 URL을 월별로 그룹화하여
     {왕코드}_{YYMMl}.jsonl 형태로 output_dir에 저장합니다.
 
     skip_existing=True이면 이미 존재하는 jsonl 파일은 건너뜁니다.
     """
+    if output_dir is None:
+        output_dir = str(DEFAULT_OUTPUT_DIR)
     os.makedirs(output_dir, exist_ok=True)
 
     with open(url_file, 'r', encoding='utf-8') as f:
@@ -340,8 +349,5 @@ def crawl_urls_from_file(url_file, output_dir="output", skip_existing=True):
 
 
 if __name__ == "__main__":
-    # crawl_urls_from_file("url/세조_url.txt", output_dir="article", skip_existing=True)
-    html = crawl_with_requests("https://sillok.history.go.kr/id/kfa_000")
-    raw_text = extract_raw_text_from_html(html)
-    text = extract_content_from_text(raw_text)
-    print(text[:1000])
+    url_file = DEFAULT_URL_DIR / "세조_url.txt"
+    crawl_urls_from_file(str(url_file), output_dir=str(DEFAULT_OUTPUT_DIR), skip_existing=True)

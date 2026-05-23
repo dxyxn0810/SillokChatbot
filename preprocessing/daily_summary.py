@@ -4,7 +4,10 @@
 
 사용법:
     export OPENAI_API_KEY=...
-    python daily_summary.py --article-dir ./article --output-dir ./daily_summary
+    cd codes
+    python daily_summary.py
+    # 또는 명시적으로 절대 경로 지정:
+    # python daily_summary.py --article-dir D:\\absolute\\path\\article --output-dir D:\\absolute\\path\\output
 """
 
 import argparse
@@ -22,6 +25,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# 스크립트 위치 기반 프로젝트 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # codes 폴더의 절대 경로
+PROJECT_ROOT = SCRIPT_DIR.parent                   # SillokChatbot 폴더
+DEFAULT_ARTICLE_DIR = PROJECT_ROOT / "data" / "article"
+DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "data" / "daily_summary"
 
 # --------------------------------------------------------------------------- #
 # 1) 입력 파일 로드 & 날짜·기사별 그룹화
@@ -310,9 +319,9 @@ def process_file(
 # --------------------------------------------------------------------------- #
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--article-dir", default="article", type=Path,
+    parser.add_argument("--article-dir", default=str(DEFAULT_ARTICLE_DIR), type=Path,
                         help="원본 기사 jsonl 파일 폴더")
-    parser.add_argument("--output-dir", default="daily_summary", type=Path,
+    parser.add_argument("--output-dir", default=str(DEFAULT_OUTPUT_DIR), type=Path,
                         help="요약 jsonl 저장 폴더")
     parser.add_argument("--model", default="gpt-4o-mini",
                         help="요약에 사용할 OpenAI 모델")

@@ -1,11 +1,14 @@
 """
 kfa.jsonl (article + daily/monthly/yearly summary 모두 합쳐진 파일) 을 읽어
 LangChain Document 로 변환하고, OpenAI text-embedding-3-small 로 임베딩하여
-FAISS 벡터스토어를 구축한 뒤 ./faiss_kfa 폴더에 저장한다.
+FAISS 벡터스토어를 구축한 뒤 절대 경로의 faiss 폴더에 저장한다.
 
 사용법:
     export OPENAI_API_KEY=...
-    python build_faiss.py --input-file ./kfa.jsonl --index-dir ./faiss_kfa
+    cd preprocessing
+    python build_faiss.py
+    # 또는 명시적으로 절대 경로 지정:
+    # python build_faiss.py --input-file D:\\path\\to\\data.jsonl --index-dir D:\\path\\to\\faiss
 """
 
 import argparse
@@ -13,6 +16,12 @@ import json
 import os
 from pathlib import Path
 from typing import List
+
+# 스크립트 위치 기반 프로젝트 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # preprocessing 폴더의 절대 경로
+PROJECT_ROOT = SCRIPT_DIR.parent                   # SillokChatbot 폴더
+DEFAULT_INPUT_FILE = PROJECT_ROOT / "data" / "data.jsonl"
+DEFAULT_INDEX_DIR = PROJECT_ROOT / "faiss"
 
 from langchain_core.documents import Document
 from langchain_openai import OpenAIEmbeddings
@@ -89,11 +98,11 @@ def build_faiss(
 # --------------------------------------------------------------------------- #
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input-file", default="data.jsonl", type=Path,
+    parser.add_argument("--input-file", default=str(DEFAULT_INPUT_FILE), type=Path,
                         help="합쳐진 입력 jsonl 파일")
-    parser.add_argument("--index-dir", default="faiss", type=Path,
+    parser.add_argument("--index-dir", default=str(DEFAULT_INDEX_DIR), type=Path,
                         help="FAISS 인덱스 저장 폴더")
-    parser.add_argument("--embedding-model", default="text-embedding-3-small",
+    parser.add_argument("--embedding-model", default="text-embedding-3-large",
                         help="OpenAI 임베딩 모델명")
     parser.add_argument("--batch-size", default=200, type=int,
                         help="임베딩 요청 배치 크기")

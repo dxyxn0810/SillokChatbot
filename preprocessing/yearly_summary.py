@@ -5,7 +5,10 @@ kfa_year.jsonl 한 파일로 저장한다.
 
 사용법:
     export OPENAI_API_KEY=...
-    python yearly_summary.py --input-file ./kfa.jsonl --output-file ./kfa_year.jsonl
+    cd codes
+    python yearly_summary.py
+    # 또는 명시적으로 절대 경로 지정:
+    # python yearly_summary.py --input-file D:\\path\\to\\input.jsonl --output-file D:\\path\\to\\output.jsonl
 """
 
 import argparse
@@ -23,6 +26,11 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+# 스크립트 위치 기반 프로젝트 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # codes 폴더의 절대 경로
+PROJECT_ROOT = SCRIPT_DIR.parent                   # SillokChatbot 폴더
+DEFAULT_INPUT_FILE = PROJECT_ROOT / "data" / "monthly_summary" / "kga_month.jsonl"
+DEFAULT_OUTPUT_FILE = PROJECT_ROOT / "data" / "yearly_summary" / "kga_year.jsonl"
 
 # --------------------------------------------------------------------------- #
 # 1) 입력 파일 로드 & 연도별 그룹화
@@ -266,9 +274,9 @@ def process_file(in_path: Path, model: str) -> List[dict]:
 # --------------------------------------------------------------------------- #
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input-file", default="kga_month.jsonl", type=Path,
+    parser.add_argument("--input-file", default=str(DEFAULT_INPUT_FILE), type=Path,
                         help="monthly_summary jsonl 입력 파일")
-    parser.add_argument("--output-file", default=Path("yearly_summary") / "kga_year.jsonl", type=Path,
+    parser.add_argument("--output-file", default=str(DEFAULT_OUTPUT_FILE), type=Path,
                         help="yearly_summary jsonl 저장 파일")
     parser.add_argument("--model", default="gpt-4o-mini",
                         help="요약에 사용할 OpenAI 모델")

@@ -44,7 +44,7 @@ from pathlib import Path
 
 # crawl.py 의 함수들을 그대로 재사용
 # (crawl.py 와 같은 디렉터리에 있어야 함)
-from crawl import (
+from codes.crawl import (
     KING_MAP,
     KING_START_YEAR,
     collect_sillok_data,
@@ -64,14 +64,17 @@ from langchain_core.messages import HumanMessage, AIMessage
 # 왕 이름 → URL 코드 역매핑 (예: "세종" → "kda")
 NAME_TO_CODE = {v: k for k, v in KING_MAP.items()}
 
+# 스크립트 위치 기반 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # SillokChatbot 루트 폴더
+
 # 임베딩 / LLM 모델 (필요 시 변경)
 EMBEDDING_MODEL = "text-embedding-3-large"
 CHAT_MODEL = "gpt-4o"
 
-# URL / 인덱스 / 데이터 저장 폴더
-URL_DIR = Path("url")
-INDEX_DIR = Path("faiss")
-DATA_DIR = Path("jsonl")
+# URL / 인덱스 / 데이터 저장 폴더 (절대 경로)
+URL_DIR = SCRIPT_DIR / "data" / "url"
+INDEX_DIR = SCRIPT_DIR / "faiss"
+DATA_DIR = SCRIPT_DIR / "data"
 
 
 # ─────────────────────────────────────────────────────────────

@@ -3,18 +3,31 @@
 마지막에 `kfa.jsonl` 파일 내용을 추가하여 최종 `data.jsonl` 파일로 저장합니다.
 
 사용법:
+    cd preprocessing
     python merge.py
-    # 또는
-    python merge.py --daily-summary-dir ./daily_summary \\
-                    --monthly-summary-dir ./monthly_summary \\
-                    --yearly-summary-dir ./yearly_summary \\
-                    --kfa-file ./kfa.jsonl --output-file ./data.jsonl
+    # 또는 명시적으로 절대 경로 지정:
+    # python merge.py --article-dir D:\\path\\to\\article \\
+    #                 --daily-summary-dir D:\\path\\to\\daily_summary \\
+    #                 --monthly-summary-dir D:\\path\\to\\monthly_summary \\
+    #                 --yearly-summary-dir D:\\path\\to\\yearly_summary \\
+    #                 --kfa-file D:\\path\\to\\kga_month.jsonl \\
+    #                 --output-file D:\\path\\to\\data.jsonl
 """
 
 import argparse
 import json
 from pathlib import Path
 from typing import List
+
+# 스크립트 위치 기반 프로젝트 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # preprocessing 폴더의 절대 경로
+PROJECT_ROOT = SCRIPT_DIR.parent                   # SillokChatbot 폴더
+DEFAULT_ARTICLE_DIR = PROJECT_ROOT / "article"
+DEFAULT_DAILY_SUMMARY_DIR = PROJECT_ROOT / "data" / "daily_summary"
+DEFAULT_MONTHLY_SUMMARY_DIR = PROJECT_ROOT / "data" / "monthly_summary"
+DEFAULT_YEARLY_SUMMARY_DIR = PROJECT_ROOT / "data" / "yearly_summary"
+DEFAULT_KFA_FILE = PROJECT_ROOT / "data" / "monthly_summary" / "kga_month.jsonl"
+DEFAULT_OUTPUT_FILE = PROJECT_ROOT / "data" / "data.jsonl"
 
 
 def iter_jsonl_lines(path: Path):
@@ -73,12 +86,12 @@ def collect_files(
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--article-dir", default="article", type=Path)
-    parser.add_argument("--daily-summary-dir", default="daily_summary", type=Path)
-    parser.add_argument("--monthly-summary-dir", default="monthly_summary", type=Path)
-    parser.add_argument("--yearly-summary-dir", default="yearly_summary", type=Path)
-    parser.add_argument("--kfa-file", default="kfa.jsonl", type=Path)
-    parser.add_argument("--output-file", default="data.jsonl", type=Path)
+    parser.add_argument("--article-dir", default=str(DEFAULT_ARTICLE_DIR), type=Path)
+    parser.add_argument("--daily-summary-dir", default=str(DEFAULT_DAILY_SUMMARY_DIR), type=Path)
+    parser.add_argument("--monthly-summary-dir", default=str(DEFAULT_MONTHLY_SUMMARY_DIR), type=Path)
+    parser.add_argument("--yearly-summary-dir", default=str(DEFAULT_YEARLY_SUMMARY_DIR), type=Path)
+    parser.add_argument("--kfa-file", default=str(DEFAULT_KFA_FILE), type=Path)
+    parser.add_argument("--output-file", default=str(DEFAULT_OUTPUT_FILE), type=Path)
     args = parser.parse_args()
 
     files = collect_files(

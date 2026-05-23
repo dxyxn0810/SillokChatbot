@@ -25,6 +25,10 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+# 스크립트 위치 기반 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # SillokChatbot 루트 폴더
+DEFAULT_INDEX_DIR = SCRIPT_DIR / "faiss"
+
 # --------------------------------------------------------------------------- #
 # 0) 단종 관련 Historical Context Database
 # --------------------------------------------------------------------------- #
@@ -838,7 +842,7 @@ def interactive(vs: FAISS, llm_client: OpenAI, model: str, k: int):
 # --------------------------------------------------------------------------- #
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--index-dir", default="faiss", type=Path,
+    parser.add_argument("--index-dir", default=str(DEFAULT_INDEX_DIR), type=Path,
                         help="FAISS 인덱스 폴더")
     parser.add_argument("--embedding-model", default="text-embedding-3-large",
                         help="OpenAI 임베딩 모델 (인덱스 빌드 시와 동일해야 함)")

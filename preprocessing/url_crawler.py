@@ -14,9 +14,9 @@
   - 이미 수집된 결과는 중간 파일에 저장하여 재시작 가능
 
 사용법:
-  python sillok_crawler.py                  # 기본 실행 (output.txt에 저장)
-  python sillok_crawler.py -o links.txt     # 출력 파일 지정
-  python sillok_crawler.py --delay 1.0      # 요청 간 딜레이 1초
+  cd codes
+  python url_crawler.py                  # 기본 실행 (절대 경로로 data/url에 저장)
+  python url_crawler.py --delay 1.0      # 요청 간 딜레이 1초
 """
 
 import urllib.request
@@ -28,7 +28,13 @@ import argparse
 import os
 import sys
 import json
+from pathlib import Path
 from datetime import datetime
+
+# 스크립트 위치 기반 프로젝트 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # codes 폴더의 절대 경로
+PROJECT_ROOT = SCRIPT_DIR.parent                   # SillokChatbot 폴더
+DEFAULT_URL_DIR = PROJECT_ROOT / "data" / "url"
 
 # ===========================================================================
 # 설정
@@ -190,14 +196,15 @@ def get_article_ids_for_month(month_id: str, delay: float) -> list[str]:
 
 def crawl(output_file: str, delay: float):
     """
-    전체 기사 URL을 수집하여 'url' 폴더 내에 왕별로 txt 파일을 생성합니다.
+    전체 기사 URL을 수집하여 절대 경로 'url' 폴더 내에 왕별로 txt 파일을 생성합니다.
     """
     start_time = datetime.now()
     
     # 0. 저장 폴더 준비
-    target_dir = "url"
-    if not os.path.exists(target_dir):
-        os.makedirs(target_dir)
+    target_dir = str(DEFAULT_URL_DIR)
+    target_dir_path = Path(target_dir)
+    if not target_dir_path.exists():
+        target_dir_path.mkdir(parents=True, exist_ok=True)
         print(f"[*] '{target_dir}' 폴더를 생성했습니다.")
 
     print(f"[{start_time:%Y-%m-%d %H:%M:%S}] 크롤링 시작")
@@ -257,7 +264,7 @@ def crawl(output_file: str, delay: float):
     print(f"\n{'='*60}")
     print(f"작업 완료!")
     print(f"총 수집된 기사 URL: {total_articles_count}개")
-    print(f"저장 위치: ./{target_dir}/")
+    print(f"저장 위치: {target_dir}")
     print(f"총 소요 시간: {elapsed}")
     print(f"{'='*60}")
 

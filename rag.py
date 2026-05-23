@@ -1,11 +1,11 @@
 """
-FAISS 인덱스(faiss_kfa) 를 로드하고 사용자의 질문에 답하는 대화형 RAG.
+FAISS 인덱스를 로드하고 사용자의 질문에 답하는 대화형 RAG.
 
 사용법:
     export OPENAI_API_KEY=...
     python rag.py
     # 또는 옵션 지정
-    python rag.py --index-dir ./faiss_kfa --k 5 --model gpt-4o-mini
+    python rag.py --index-dir D:\\absolute\\path\\to\\faiss --k 5 --model gpt-4o-mini
 """
 
 import argparse
@@ -23,6 +23,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# 스크립트 위치 기반 루트 경로 계산
+SCRIPT_DIR = Path(__file__).parent.resolve()      # SillokChatbot 루트 폴더
+DEFAULT_INDEX_DIR = SCRIPT_DIR / "faiss"
 
 # --------------------------------------------------------------------------- #
 # 1) 인덱스 로드
@@ -200,11 +204,11 @@ def interactive(vs: FAISS, llm_client: OpenAI, model: str, k: int):
 # --------------------------------------------------------------------------- #
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--index-dir", default="faiss_kfa", type=Path,
+    parser.add_argument("--index-dir", default=str(DEFAULT_INDEX_DIR), type=Path,
                         help="FAISS 인덱스 폴더")
-    parser.add_argument("--embedding-model", default="text-embedding-3-small",
+    parser.add_argument("--embedding-model", default="text-embedding-3-large",
                         help="OpenAI 임베딩 모델 (인덱스 빌드 시와 동일해야 함)")
-    parser.add_argument("--model", default="gpt-4o-mini",
+    parser.add_argument("--model", default="gpt-4o",
                         help="답변 생성에 사용할 OpenAI 모델")
     parser.add_argument("--k", default=5, type=int,
                         help="기본 top-k 검색 개수")
