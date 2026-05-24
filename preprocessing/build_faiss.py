@@ -128,15 +128,15 @@ def main():
         print(f"    {p.name}  ({p.stat().st_size:,} bytes)")
 
     # 간단한 동작 확인용 샘플 검색 (원하지 않으면 주석 처리 가능)
-    sample_query = "단종 즉위"
-    print(f"\n[샘플 검색] query={sample_query!r}")
-    hits = vs.similarity_search(sample_query, k=3)
-    for i, d in enumerate(hits, start=1):
-        title = d.metadata.get("title", "")
-        typ = d.metadata.get("type", "")
-        period = (f"{d.metadata.get('king','')} {d.metadata.get('year','')} "
-                  f"{d.metadata.get('month','') or ''} {d.metadata.get('day','') or ''}").strip()
-        print(f"  {i}. [{typ}] {title} ({period})")
+    # sample_query = "단종 즉위"
+    # print(f"\n[샘플 검색] query={sample_query!r}")
+    # hits = vs.similarity_search(sample_query, k=3)
+    # for i, d in enumerate(hits, start=1):
+    #     title = d.metadata.get("title", "")
+    #     typ = d.metadata.get("type", "")
+    #     period = (f"{d.metadata.get('king','')} {d.metadata.get('year','')} "
+    #               f"{d.metadata.get('month','') or ''} {d.metadata.get('day','') or ''}").strip()
+    #     print(f"  {i}. [{typ}] {title} ({period})")
 
 
 if __name__ == "__main__":
