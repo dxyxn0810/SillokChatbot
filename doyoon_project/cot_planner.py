@@ -28,7 +28,7 @@ from typing import Dict, Any, List
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage
 
-from wiki_tool import wiki_search_summary, wiki_section_text, extract_lunar_dates
+from wiki_tool import wiki_search_summary, wiki_section_text
 from metadata_utils import (
     norm_year, norm_month, norm_day, solar_from_reign, VALID_TYPES,
     DANJONG_REIGN_TO_SOLAR,
@@ -48,14 +48,24 @@ DATA_CONTEXT = """\
   자료를 놓친다. 이때는 king을 "세조"로 두거나, 아예 비워서(=null) 검색해야 한다.
 - 단종 생애·시대의 주요 사건 시점 (양력연도 / 실록 음력 월):
     문종 승하·단종 즉위: 1452년 5월
+    문종 국장(발인): 1452년 8월 (특히 8월 28일 발인)
+    문종 현릉 안장·장사: 1452년 9월 (9월 1일 재궁을 현궁에 안치)
     계유정난(수양대군이 김종서·황보인 등 제거): 1453년 10월
     단종 양위·세조 즉위: 1455년 윤6월
     사육신 단종복위운동: 1456년 6월
     노산군 강봉·영월 유배·죽음: 1457년 (6월 강봉, 10월 죽음)
   -> 특정 사건을 물으면 위 표를 근거로 solar_year와 month(음력)를 채워라.
+  -> 주의: '승하/붕어'와 '장례(발인·안장·졸곡)'는 시점이 다르다. 국상은 여러 달에 걸쳐
+     치러지므로, 발인·장사·안장 등을 물으면 승하한 달(5월)이 아니라 위 국장 일정의 달
+     (발인 8월, 안장 9월)을 쓰거나, 확실치 않으면 month를 비우고 연도만으로 검색하라.
 - month 값은 음력 기준이며 윤달이 있으면 '윤6월'처럼 표기된다.
 - 문서 type: article(개별 기사), daily_summary(하루 요약),
   monthly_summary(달 요약), yearly_summary(연 요약), base_information(총서).
+- 주요 종친 인물(검색 시 참고): 수양대군(세종 2남, 훗날 세조), 안평대군(세종 3남),
+  금성대군 이유(세종 6남), 화의군 등은 모두 세종의 아들이자 단종의 숙부다.
+  이들 종친이 단종 폐위·복위에 연루된 사건(예: 금성대군의 단종 복위 도모, 1457년 사사)은
+  양위(1455) 이후라면 king="세조"로 분류되니, 이런 질문은 king을 "세조"로 두거나
+  비워서(=null) 검색하라.
 """
 
 
@@ -75,11 +85,16 @@ STEP1_SYSTEM = """\
 
 특정 사건/날짜를 물으면 날짜 메타데이터(solar_year, month, day)가 유용하다.
 정확한 날짜를 모르면 위키백과로 확인하는 것이 좋다.
+또한 인물 사이의 '관계·호칭·다른 이름' 등 외부 사실 확인이 필요한 질문도
+위키백과로 확인하는 것이 좋다(이때는 날짜가 필요 없을 수 있다).
 
 주의:
 - '최후/죽음/사사/말년/유배/강봉/즉위/양위'처럼 생애의 특정 사건은 '넓은 일생 질문'이
   아니라 '특정 시점 사건'이다. 이런 질문은 needs_date_filter=true 로 두고,
   위키백과로 연도(가능하면 월)를 확인하라.
+- '발인/장례/안장/장사/졸곡/우제' 등 국상(國喪) 의식은 '승하'와 시점이 다르다.
+  국상은 승하 후 여러 달에 걸쳐 치러지므로, 승하한 달로 month 를 단정하지 마라.
+  날짜가 불확실하면 month 를 비우고 연도(solar_year)만으로 넓게 검색하는 편이 안전하다.
 - 단종의 양위(1455) 이후 사건(말년·유배·죽음 등)은 실록에서 king="세조"로 분류된다.
   이런 질문이면 tentative.king 을 "세조" 로 두거나, 확실치 않으면 null 로 두어
   king 으로 너무 좁히지 않게 하라.
@@ -88,7 +103,12 @@ STEP1_SYSTEM = """\
   * 구체적 사건/대화/명령 확인: type=["article"]
   * 시대적 흐름/사건 요약: type=["daily_summary", "monthly_summary"]
   * 인물의 생애 총괄/평가: type=["base_information", "yearly_summary"]
-- wiki_queries: 날짜뿐 아니라, 질문에 포함된 사건의 '핵심 인물'이나 '다른 명칭'을 확인하는 용도로도 적극 활용하라.
+- wiki_queries 는 날짜 확인뿐 아니라 '사실 확인' 전반에 쓰인다. 특히:
+  * 특정 사건/날짜를 모르면 그 사건명을 wiki_queries 에 넣어라.
+  * 인물 간 '관계·호칭·다른 이름'(예: "수양대군은 나에게 어떤 사람", "누구의 아들",
+    "그와 어떤 사이")을 묻는 질문이면, needs_date_filter 가 false 라도
+    그 인물명(과 단종)을 반드시 wiki_queries 에 넣어라.
+  * 날짜도 인물 관계도 확인할 필요가 없는 순수한 성격/평가 질문일 때만 [] 로 둔다.
 
 반드시 아래 JSON 형식으로만 답하라(설명 텍스트 금지):
 {
@@ -125,54 +145,43 @@ def plan_step1(query: str) -> Dict[str, Any]:
 # ---------------------------------------------------------------------------
 # 2단계: 위키백과 근거 수집
 # ---------------------------------------------------------------------------
-def gather_wiki_evidence(wiki_queries: List[str], tentative_king: str = None):
+# 왕 이름 -> 한국어 위키백과 문서 제목 매핑
+KING_WIKI_TITLE = {
+    "단종": "단종 (조선)",
+    "세조": "세조 (조선)",
+    "문종": "문종 (조선)",
+}
+
+
+def gather_wiki_evidence(wiki_queries: List[str], tentative_king: str = None) -> str:
     """
-    개선된 근거 수집 함수:
-    1. 검색 결과 중 가장 관련성 높은 페이지 제목들을 먼저 식별.
-    2. 식별된 페이지들에서 핵심 섹션(생애, 사건 등)을 동적으로 추출.
-    3. 중복 정보를 제거하고 음력 날짜를 더 정밀하게 파싱.
+    위키백과에서 근거 텍스트를 수집해 하나의 문자열로 반환한다.
+    1. 다각도 쿼리로 요약 정보를 모은다.
+    2. 질문의 주인공(tentative_king)이 있으면 그 인물 문서의 핵심 섹션을,
+       없으면 단종 문서의 핵심 섹션을 추출한다.
+    (음력 날짜 추출은 STEP3 LLM이 위키 본문을 보고 직접 판단하도록 위임한다.)
     """
     if not wiki_queries:
-        return "", []
+        return ""
 
     collected_context = []
-    raw_texts = []
 
-    # 1. 다각도 쿼리로 요약 정보 수집
-    for q in wiki_queries[:3]:  # 너무 많으면 토큰 낭비이므로 핵심 3개만
-        search_results = wiki_search_summary(q, num_results=2) # 상위 2개씩 확인
-        if search_results:
-            collected_context.append(f"### 검색어: {q}\n{search_results}")
-            raw_texts.append(search_results)
-            # 검색 결과에서 실제 페이지 제목 후보군 추출 (내부 로직에 따라 제목 파싱 필요)
+    # 1. 다각도 쿼리로 본문 정보 수집 (핵심 3개만).
+    #    .text 전체는 길 수 있으므로 쿼리당 1200자로 제한해 실록 자료와 균형을 맞춘다.
+    for q in wiki_queries[:3]:
+        summary = wiki_search_summary(q, max_chars=1200)
+        if summary:
+            collected_context.append(f"### 검색어: {q}\n{summary}")
 
-    # 2. 동적 섹션 추출 (고정된 '단종'이 아니라 질문의 주인공 위주로)
-    # 예: tentative_king이 있으면 해당 왕의 문서를, 없으면 검색 결과 첫 페이지를 타겟팅
-    target_page = tentative_king if tentative_king else "단종 (조선)" 
-    
-    # 주요 섹션 키워드를 확장하여 더 넓은 맥락 확보
-    important_sections = ["생애", "즉위", "재위", "사건", "최후", "가족 관계"]
+    # 2. 질문의 주인공 위주로 핵심 섹션 추출
+    #    tentative_king 이 있으면 그 왕의 위키 문서를, 없으면 단종 문서를 타겟팅.
+    target_page = KING_WIKI_TITLE.get(tentative_king, "단종 (조선)")
+    important_sections = ["생애", "즉위", "재위", "사건", "최후", "가족", "관계"]
     sec_text = wiki_section_text(target_page, section_keywords=important_sections)
-    
     if sec_text:
         collected_context.append(f"### [{target_page}] 상세 섹션 정보\n{sec_text}")
-        raw_texts.append(sec_text)
 
-    # 3. 음력 날짜 추출 및 중복 제거
-    combined_text = "\n".join(raw_texts)
-    lunar_dates = extract_lunar_dates(combined_text)
-    
-    # 날짜 중복 제거 (set 활용)
-    unique_lunar = []
-    seen_date = set()
-    for d in lunar_dates:
-        date_key = f"{d['month']}-{d['day']}"
-        if date_key not in seen_date:
-            unique_lunar.append(d)
-            seen_date.add(date_key)
-
-    evidence_final = "\n\n".join(collected_context)
-    return evidence_final, unique_lunar
+    return "\n\n".join(collected_context)
 
 
 # ---------------------------------------------------------------------------
@@ -292,31 +301,25 @@ def make_plan(query: str, verbose: bool = False) -> Dict[str, Any]:
         print("\n[CoT 1단계 추론]\n", step1.get("reasoning"))
 
     wiki_evidence = ""
-    lunar_dates: List[Dict[str, str]] = []
-    if step1.get("needs_date_filter") and step1.get("wiki_queries"):
+    # 위키 호출 게이트: needs_date_filter 와 무관하게, 1단계가 확인할 거리를
+    # wiki_queries 에 담았으면(날짜든 인물 관계든) 위키를 조회한다.
+    if step1.get("wiki_queries"):
         if verbose:
             print("[위키 검색]", step1.get("wiki_queries"))
-        wiki_evidence, lunar_dates = gather_wiki_evidence(step1.get("wiki_queries", []))
-        if verbose and lunar_dates:
-            print("[위키 추출 음력 날짜]",
-                  ", ".join(f"{d['month']}{d['day']}({d['source']})" for d in lunar_dates))
+        tentative_king = (step1.get("tentative") or {}).get("king")
+        wiki_evidence = gather_wiki_evidence(
+            step1.get("wiki_queries", []), tentative_king=tentative_king
+        )
 
     plan = plan_step3(query, step1, wiki_evidence)
-
-    # 보정: step3가 day를 비웠는데, 위키에서 '음력 명시' 날짜가 추출됐고
-    # 그 month가 plan의 month와 일치하면 day를 채운다. (계유정난 10월 10일 같은 경우)
-    # 단, 일부러 day_range 를 쓴 경우엔 보정하지 않는다.
-    if plan.get("month") and not plan.get("day") and not plan.get("day_range"):
-        for d in lunar_dates:
-            if d["source"] == "음력명시" and norm_month(d["month"]) == plan["month"]:
-                plan["day"] = norm_day(d["day"])
-                if verbose:
-                    print(f"[day 보정] 위키 음력 명시 근거로 day={plan['day']} 적용")
-                break
+    # day 등 날짜 확정은 STEP3 LLM 이 위키 근거(음력 우선 지시)와 배경지식으로 판단한다.
+    # 날짜가 비어도 retriever 가 점진적 완화로 연-월 단위까지 폴백하므로 빈 결과는 나지 않는다.
 
     plan["_step1"] = step1
     plan["_wiki_used"] = bool(wiki_evidence)
-    plan["_lunar_dates"] = lunar_dates
+    # 위키 근거를 plan 에 실어 답변 생성 단계(chatbot)가 보조 근거로 쓸 수 있게 한다.
+    # (실록 기사만으로는 답하기 어려운 인물 관계·호칭 등을 보강하는 용도)
+    plan["wiki_evidence"] = wiki_evidence
     if verbose:
         print("[최종 검색 계획]")
         print("  king         :", plan.get("king"))
