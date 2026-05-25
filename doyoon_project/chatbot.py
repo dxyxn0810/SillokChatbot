@@ -84,10 +84,11 @@ PERSONA_SYSTEM = """\
 
 
 def build_messages(history: List[Dict[str, str]], user_q: str, context: str,
-                   wiki_evidence: str = ""):
+                   wiki_evidence: str = "", history_turns: int = 6):
     msgs = [SystemMessage(content=PERSONA_SYSTEM)]
-    # 직전 대화 맥락(최근 6턴)
-    for turn in history[-6:]:
+    # 직전 대화 맥락(최근 history_turns턴). 0이면 맥락을 넣지 않는다.
+    recent = history[-history_turns:] if history_turns > 0 else []
+    for turn in recent:
         if turn["role"] == "user":
             msgs.append(HumanMessage(content=turn["content"]))
         else:
@@ -121,30 +122,90 @@ def build_messages(history: List[Dict[str, str]], user_q: str, context: str,
     return msgs
 
 
+# --data 레벨별 허용 문서 type. 누적적(prompt ⊂ article ⊂ summary).
+# wikipedia 레벨은 summary 와 같은 문서 type 을 쓰되 위키 근거를 추가로 사용한다.
+DATA_LEVELS = ("prompt", "article", "summary", "wikipedia")
+DOC_TYPES_BY_LEVEL = {
+    "prompt": [],  # 검색 자체를 하지 않음 (페르소나 프롬프트만)
+    "article": ["article"],
+    "summary": ["article", "daily_summary", "monthly_summary", "yearly_summary"],
+    "wikipedia": ["article", "daily_summary", "monthly_summary", "yearly_summary"],
+}
+
+
 class DanjongBot:
-    def __init__(self, faiss_dir=None, k: int = 10, verbose: bool = False):
+    def __init__(self, faiss_dir=None, k: int = 10, verbose: bool = False,
+                 data_level: str = "wikipedia", use_cot: bool = True,
+                 history_turns: int = 6):
         self.vs = load_vectorstore(faiss_dir or DEFAULT_INDEX_DIR)
         self.llm = ChatOpenAI(model=CHAT_MODEL, temperature=0.7)
         self.k = k
         self.verbose = verbose
+        self.data_level = data_level
+        self.use_cot = use_cot
+        self.history_turns = history_turns
+        # 위키는 'wikipedia' 레벨에서만, 그리고 CoT 플래너가 켜져 있을 때만 쓸 수 있다.
+        # (위키 근거 수집은 cot_planner 의 STEP2 에서 이뤄지기 때문)
+        self.use_wiki = (data_level == "wikipedia") and use_cot
+        if data_level == "wikipedia" and not use_cot:
+            print("[경고] --data wikipedia 는 CoT 플래너가 위키 근거를 수집하므로 "
+                  "--CoT 없이 단독으로 동작하지 않습니다. 위키 정보 없이 진행합니다.")
         self.history: List[Dict[str, str]] = []
 
+    def _allowed_types(self) -> List[str]:
+        return DOC_TYPES_BY_LEVEL.get(self.data_level, [])
+
     def ask(self, user_q: str) -> str:
-        # 1) CoT 계획
-        plan = make_plan(user_q, verbose=self.verbose)
-        # 2) 검색
-        docs = retrieve(self.vs, plan, k=self.k)
-        if self.verbose:
-            print(f"[검색 결과] {len(docs)}건")
-            for i, d in enumerate(docs, 1):
-                m = d.metadata
-                date = f"{m.get('solar_year','')} {m.get('month','') or ''} {m.get('day','') or ''}".strip()
-                date = f" ({date})" if date else ""
-                print(f"  Article {i}: '{m.get('title')}'{date} [type:{m.get('type')}]")
+        allowed_types = self._allowed_types()
+        wiki_evidence = ""
+        docs = []
+
+        # 1) 검색 단계 — data_level 이 'prompt' 면 검색을 건너뛴다.
+        if allowed_types:
+            if self.use_cot:
+                # CoT 계획으로 메타데이터 필터를 추론한다.
+                plan = make_plan(user_q, verbose=self.verbose)
+                # data_level 이 허용하는 type 으로 플래너의 doc_types 를 제한한다.
+                planned = plan.get("doc_types") or []
+                intersect = [t for t in planned if t in allowed_types]
+                # 플래너가 고른 type 이 허용 범위 밖이거나 비었으면, 허용 type 전체로 검색
+                plan["doc_types"] = intersect or allowed_types
+                if not self.use_wiki:
+                    plan["wiki_evidence"] = ""  # 위키 미사용 레벨이면 근거를 버린다
+            else:
+                # CoT 비활성: 메타데이터 필터 없이 순수 의미검색만 한다.
+                # primary_type 에 허용 type 의 첫 값을 넣어 두되, 날짜 등 필터는 비운다.
+                plan = {
+                    "search_query": user_q,
+                    "king": None,
+                    "solar_year": None, "solar_year_range": None,
+                    "month": None, "month_range": None,
+                    "day": None, "day_range": None,
+                    "doc_types": allowed_types,
+                    "wiki_evidence": "",
+                }
+                if self.verbose:
+                    print("[CoT 비활성] 메타데이터 필터 없이 순수 의미검색을 수행합니다.")
+
+            # 2) 검색
+            docs = retrieve(self.vs, plan, k=self.k)
+            if self.verbose:
+                print(f"[검색 결과] {len(docs)}건 (data={self.data_level}, "
+                      f"허용 type={allowed_types})")
+                for i, d in enumerate(docs, 1):
+                    m = d.metadata
+                    date = f"{m.get('solar_year','')} {m.get('month','') or ''} {m.get('day','') or ''}".strip()
+                    date = f" ({date})" if date else ""
+                    print(f"  Article {i}: '{m.get('title')}'{date} [type:{m.get('type')}]")
+            wiki_evidence = plan.get("wiki_evidence", "") if self.use_wiki else ""
+        else:
+            if self.verbose:
+                print("[data=prompt] 검색/요약/위키 없이 페르소나 프롬프트만 사용합니다.")
+
         context = format_context(docs)
         # 3) 답변 생성 (위키 근거를 보조 배경지식으로 함께 전달)
-        wiki_evidence = plan.get("wiki_evidence", "")
-        msgs = build_messages(self.history, user_q, context, wiki_evidence)
+        msgs = build_messages(self.history, user_q, context, wiki_evidence,
+                              history_turns=self.history_turns)
         if self.verbose:
             print("\n[LLM 입력 메시지]", f"(총 {len(msgs)}개)")
             for i, m in enumerate(msgs):
@@ -159,9 +220,31 @@ class DanjongBot:
 
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="단종 가상 인터뷰 챗봇 (RAG + CoT)",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    parser.add_argument(
+        "--data", choices=DATA_LEVELS, default="wikipedia",
+        help=("사용할 정보 소스 범위(누적적). "
+              "prompt=페르소나 프롬프트만, "
+              "article=prompt+실록 기사, "
+              "summary=prompt+기사+요약, "
+              "wikipedia=prompt+기사+요약+위키백과"),
+    )
+    parser.add_argument(
+        "--CoT", dest="cot", choices=["on", "off"], default="on",
+        help="CoT 기반 메타데이터 필터링 사용 여부. on=사용, off=순수 의미검색.",
+    )
+    parser.add_argument(
+        "--history", type=int, default=6,
+        help="답변 생성 시 참고할 직전 대화 맥락 턴 수(0이면 맥락 미사용).",
+    )
+    parser.add_argument(
+        "--retrieval", type=int, default=10,
+        help="검색해 올 문서 수(k).",
+    )
     parser.add_argument("--faiss", default=str(DEFAULT_INDEX_DIR), help="FAISS 인덱스 폴더")
-    parser.add_argument("--k", type=int, default=10, help="검색 문서 수")
     parser.add_argument("--verbose", action="store_true", help="CoT/검색 과정 표시")
     parser.add_argument("--once", default=None, help="한 번만 질문하고 종료")
     args = parser.parse_args()
@@ -169,7 +252,19 @@ def main():
     if not os.environ.get("OPENAI_API_KEY"):
         raise SystemExit("환경변수 OPENAI_API_KEY 가 필요합니다.")
 
-    bot = DanjongBot(faiss_dir=args.faiss, k=args.k, verbose=args.verbose)
+    use_cot = (args.cot == "on")
+    bot = DanjongBot(
+        faiss_dir=args.faiss,
+        k=args.retrieval,
+        verbose=args.verbose,
+        data_level=args.data,
+        use_cot=use_cot,
+        history_turns=args.history,
+    )
+
+    if args.verbose:
+        print(f"[설정] data={args.data}, CoT={args.cot}, "
+              f"history={args.history}, retrieval={args.retrieval}")
 
     if args.once:
         print("\n단종:", bot.ask(args.once))
