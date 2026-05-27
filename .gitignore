@@ -36,6 +36,11 @@ dist/
 *.log
 logs/
 
+# evaluation 실행 산출물
+evaluation/runs/
+evaluation/scores/
+evaluation/reports/
+
 # Jupyter
 .ipynb_checkpoints/
 

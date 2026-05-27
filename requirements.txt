@@ -3,9 +3,12 @@ faiss-cpu
 sentence-transformers
 requests
 beautifulsoup4
+python-dotenv
 langchain
 langchain-text-splitters
 langchain-openai
 langchain_community
 selenium
 wikipedia-api
+matplotlib
+tqdm
