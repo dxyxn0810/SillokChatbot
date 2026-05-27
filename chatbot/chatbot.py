@@ -164,7 +164,7 @@ class DanjongBot:
         if allowed_types:
             if self.use_cot:
                 # CoT 계획으로 메타데이터 필터를 추론한다.
-                plan = make_plan(user_q, verbose=self.verbose)
+                plan = make_plan(user_q, verbose=self.verbose, history=self.history)
                 # data_level 이 허용하는 type 으로 플래너의 doc_types 를 제한한다.
                 planned = plan.get("doc_types") or []
                 intersect = [t for t in planned if t in allowed_types]
