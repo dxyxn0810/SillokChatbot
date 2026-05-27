@@ -1,0 +1,291 @@
+{
+  "api_only": {
+    "items": 40,
+    "metrics": {
+      "recall@10": {
+        "count": 0,
+        "na": 40,
+        "sum": 0.0,
+        "mean": null
+      },
+      "ndcg@10": {
+        "count": 0,
+        "na": 40,
+        "sum": 0.0,
+        "mean": null
+      },
+      "mrr@10": {
+        "count": 0,
+        "na": 40,
+        "sum": 0.0,
+        "mean": null
+      },
+      "answer_relevance": {
+        "count": 40,
+        "na": 0,
+        "sum": 61.0,
+        "mean": 1.525
+      },
+      "persona_adherence": {
+        "count": 40,
+        "na": 0,
+        "sum": 140.0,
+        "mean": 3.5
+      },
+      "answer_correctness": {
+        "count": 30,
+        "na": 0,
+        "sum": 34.0,
+        "mean": 1.1333333333333333
+      },
+      "multi_turn_context_utilization": {
+        "count": 10,
+        "na": 0,
+        "sum": 16.0,
+        "mean": 1.6
+      },
+      "negative_rejection": {
+        "count": 10,
+        "na": 0,
+        "sum": 46.0,
+        "mean": 4.6
+      }
+    }
+  },
+  "rag_article": {
+    "items": 40,
+    "metrics": {
+      "recall@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 8.5,
+        "mean": 0.2833333333333333
+      },
+      "ndcg@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 5.936486397959834,
+        "mean": 0.19788287993199447
+      },
+      "mrr@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 5.233333333333333,
+        "mean": 0.17444444444444446
+      },
+      "answer_relevance": {
+        "count": 40,
+        "na": 0,
+        "sum": 128.0,
+        "mean": 3.2
+      },
+      "persona_adherence": {
+        "count": 40,
+        "na": 0,
+        "sum": 107.0,
+        "mean": 2.675
+      },
+      "faithfulness": {
+        "count": 30,
+        "na": 0,
+        "sum": 72.0,
+        "mean": 2.4
+      },
+      "answer_correctness": {
+        "count": 30,
+        "na": 0,
+        "sum": 62.0,
+        "mean": 2.066666666666667
+      },
+      "multi_turn_context_utilization": {
+        "count": 10,
+        "na": 0,
+        "sum": 25.0,
+        "mean": 2.5
+      },
+      "negative_rejection": {
+        "count": 10,
+        "na": 0,
+        "sum": 50.0,
+        "mean": 5.0
+      }
+    }
+  },
+  "rag_rewrite": {
+    "items": 40,
+    "metrics": {
+      "recall@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 14.0,
+        "mean": 0.4666666666666667
+      },
+      "ndcg@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 10.761055064483557,
+        "mean": 0.3587018354827852
+      },
+      "mrr@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 9.851190476190476,
+        "mean": 0.32837301587301587
+      },
+      "answer_relevance": {
+        "count": 40,
+        "na": 0,
+        "sum": 130.0,
+        "mean": 3.25
+      },
+      "persona_adherence": {
+        "count": 40,
+        "na": 0,
+        "sum": 123.0,
+        "mean": 3.075
+      },
+      "faithfulness": {
+        "count": 30,
+        "na": 0,
+        "sum": 84.0,
+        "mean": 2.8
+      },
+      "answer_correctness": {
+        "count": 30,
+        "na": 0,
+        "sum": 68.0,
+        "mean": 2.2666666666666666
+      },
+      "multi_turn_context_utilization": {
+        "count": 10,
+        "na": 0,
+        "sum": 36.0,
+        "mean": 3.6
+      },
+      "negative_rejection": {
+        "count": 10,
+        "na": 0,
+        "sum": 46.0,
+        "mean": 4.6
+      }
+    }
+  },
+  "rag_full": {
+    "items": 40,
+    "metrics": {
+      "recall@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 9.333333333333334,
+        "mean": 0.3111111111111111
+      },
+      "ndcg@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 9.409944731302538,
+        "mean": 0.31366482437675125
+      },
+      "mrr@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 11.25,
+        "mean": 0.375
+      },
+      "answer_relevance": {
+        "count": 40,
+        "na": 0,
+        "sum": 138.0,
+        "mean": 3.45
+      },
+      "persona_adherence": {
+        "count": 40,
+        "na": 0,
+        "sum": 137.0,
+        "mean": 3.425
+      },
+      "faithfulness": {
+        "count": 30,
+        "na": 0,
+        "sum": 85.0,
+        "mean": 2.8333333333333335
+      },
+      "answer_correctness": {
+        "count": 30,
+        "na": 0,
+        "sum": 77.0,
+        "mean": 2.566666666666667
+      },
+      "multi_turn_context_utilization": {
+        "count": 10,
+        "na": 0,
+        "sum": 21.0,
+        "mean": 2.1
+      },
+      "negative_rejection": {
+        "count": 10,
+        "na": 0,
+        "sum": 45.0,
+        "mean": 4.5
+      }
+    }
+  },
+  "rag_full_rewrite": {
+    "items": 40,
+    "metrics": {
+      "recall@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 16.083333333333332,
+        "mean": 0.5361111111111111
+      },
+      "ndcg@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 16.117411481566425,
+        "mean": 0.5372470493855475
+      },
+      "mrr@10": {
+        "count": 30,
+        "na": 10,
+        "sum": 18.142857142857142,
+        "mean": 0.6047619047619047
+      },
+      "answer_relevance": {
+        "count": 40,
+        "na": 0,
+        "sum": 147.0,
+        "mean": 3.675
+      },
+      "persona_adherence": {
+        "count": 40,
+        "na": 0,
+        "sum": 133.0,
+        "mean": 3.325
+      },
+      "faithfulness": {
+        "count": 30,
+        "na": 0,
+        "sum": 106.0,
+        "mean": 3.533333333333333
+      },
+      "answer_correctness": {
+        "count": 30,
+        "na": 0,
+        "sum": 90.0,
+        "mean": 3.0
+      },
+      "multi_turn_context_utilization": {
+        "count": 10,
+        "na": 0,
+        "sum": 38.0,
+        "mean": 3.8
+      },
+      "negative_rejection": {
+        "count": 10,
+        "na": 0,
+        "sum": 49.0,
+        "mean": 4.9
+      }
+    }
+  }
+}
