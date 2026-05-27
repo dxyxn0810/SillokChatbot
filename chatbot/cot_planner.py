@@ -26,7 +26,7 @@ import json
 from typing import Dict, Any, List
 
 from langchain_openai import ChatOpenAI
-from langchain_core.messages import SystemMessage, HumanMessage
+from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 
 from wiki_tool import wiki_search_summary, wiki_section_text
 from metadata_utils import (
@@ -110,6 +110,13 @@ STEP1_SYSTEM = """\
     그 인물명(과 단종)을 반드시 wiki_queries 에 넣어라.
   * 날짜도 인물 관계도 확인할 필요가 없는 순수한 성격/평가 질문일 때만 [] 로 둔다.
 
+[이전 대화 맥락 활용]
+메시지 목록에 '[이전 대화 맥락]' 블록이 제공되면, 현재 질문에 등장하는 지시대명사
+(예: '그 해', '그때', '그 분', '그 사건', '그 당시', '그 전', '당시')를
+맥락을 참고해 구체적인 연도·인물·사건으로 해석하여 tentative 값에 반영하라.
+예: 이전 어시스턴트 답변에 '1452년'이 언급되고 현재 질문이 '그 해 3월'이면
+→ solar_year=1452, month="3월".
+
 반드시 아래 JSON 형식으로만 답하라(설명 텍스트 금지):
 {
   "reasoning": "추론 과정을 한국어로 서술",
@@ -124,12 +131,29 @@ STEP1_SYSTEM = """\
 }"""
 
 
-def plan_step1(query: str) -> Dict[str, Any]:
+def plan_step1(query: str, history: List[Dict[str, str]] = None) -> Dict[str, Any]:
     llm = _llm()
-    msgs = [
+    msgs: List = [
         SystemMessage(content=STEP1_SYSTEM + "\n\n" + DATA_CONTEXT),
-        HumanMessage(content=f"사용자 질문: {query}"),
     ]
+
+    # 최근 대화(최대 3쌍 = 6개 메시지)를 컨텍스트 블록으로 삽입.
+    # '그 해', '그 분' 같은 지시대명사를 LLM이 올바르게 해석하도록 돕는다.
+    if history:
+        recent = history[-6:]  # 최근 3쌍 (user + assistant)
+        lines = []
+        for turn in recent:
+            role = turn.get("role", "")
+            content = (turn.get("content") or "").strip()
+            if role == "user":
+                lines.append(f"사용자: {content}")
+            elif role == "assistant":
+                lines.append(f"어시스턴트: {content}")
+        if lines:
+            msgs.append(HumanMessage(content="[이전 대화 맥락]\n" + "\n".join(lines)))
+            msgs.append(AIMessage(content="이전 대화 맥락을 확인했습니다. 현재 질문을 분석하겠습니다."))
+
+    msgs.append(HumanMessage(content=f"사용자 질문: {query}"))
     resp = llm.invoke(msgs, response_format={"type": "json_object"})
     try:
         return json.loads(resp.content)
@@ -295,8 +319,9 @@ def plan_step3(query: str, step1: Dict[str, Any], wiki_evidence: str) -> Dict[st
 # ---------------------------------------------------------------------------
 # 전체 파이프라인
 # ---------------------------------------------------------------------------
-def make_plan(query: str, verbose: bool = False) -> Dict[str, Any]:
-    step1 = plan_step1(query)
+def make_plan(query: str, verbose: bool = False,
+              history: List[Dict[str, str]] = None) -> Dict[str, Any]:
+    step1 = plan_step1(query, history=history)
     if verbose:
         print("\n[CoT 1단계 추론]\n", step1.get("reasoning"))
 
